@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "categories": [
+    { "id": "animals", "emoji": "🐾", "color": "#FF6B35", "adult": false,
+      "name": { "en": "Animals", "it": "Animali" } },
+    { "id": "movies", "emoji": "🎬", "color": "#7C4DFF", "adult": false,
+      "name": { "en": "Movies", "it": "Film" } },
+    { "id": "spicy", "emoji": "🌶️", "color": "#E91E63", "adult": true,
+      "name": { "en": "Spicy", "it": "Piccante" } }
+  ]
+}

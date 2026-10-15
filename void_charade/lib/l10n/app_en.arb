@@ -1,0 +1,49 @@
+{
+  "@@locale": "en",
+  "appTitle": "Void Charade",
+  "categoriesSubtitle": "{seconds} s · {wordLanguage} words",
+  "@categoriesSubtitle": {
+    "placeholders": {
+      "seconds": {"type": "int"},
+      "wordLanguage": {"type": "String"}
+    }
+  },
+  "randomCategory": "Random category",
+  "mixAll": "Mix all",
+  "adultBadge": "18+",
+  "noCategories": "No categories available",
+  "settingsTitle": "Settings",
+  "settingsGameSection": "Game",
+  "settingsLanguageSection": "Language",
+  "settingsFeedbackSection": "Sound & feel",
+  "settingsContentSection": "Content",
+  "settingsAboutSection": "About",
+  "appLanguage": "App language",
+  "wordLanguage": "Word language",
+  "languageSystem": "System",
+  "languageSameAsApp": "Auto",
+  "languageItalian": "Italiano",
+  "languageEnglish": "English",
+  "roundDuration": "Round duration",
+  "countdownDuration": "Countdown",
+  "secondsValue": "{seconds} s",
+  "@secondsValue": {
+    "placeholders": {
+      "seconds": {"type": "int"}
+    }
+  },
+  "skipPenalty": "Skip costs 1 point",
+  "skipPenaltyHint": "Each skipped word subtracts one point",
+  "sounds": "Sounds",
+  "vibration": "Vibration",
+  "tickSound": "Final-seconds ticking",
+  "swapTilt": "Swap tilt directions",
+  "swapTiltHint": "Default: screen down = correct, screen up = skip",
+  "showAdult": "Show 18+ categories",
+  "version": "Version {version}",
+  "@version": {
+    "placeholders": {
+      "version": {"type": "String"}
+    }
+  }
+}
