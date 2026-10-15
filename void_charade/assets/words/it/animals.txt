@@ -1,0 +1,420 @@
+Cane
+Gatto
+Cucciolo
+Gattino
+Criceto
+Porcellino d'India
+Coniglio
+Pesce rosso
+Pappagallo
+Cocorita
+Canarino
+Tartaruga
+Furetto
+Pony
+Cavallo
+Asino
+Mulo
+Mucca
+Toro
+Bue
+Vitello
+Maiale
+Pecora
+Agnello
+Capra
+Gallina
+Gallo
+Pulcino
+Anatra
+Papera
+Oca
+Tacchino
+Lama
+Alpaca
+Bufalo
+Bufala campana
+Yak
+Montone
+Cinta senese
+Pastore tedesco
+Labrador
+Golden retriever
+Barboncino
+Bulldog
+Chihuahua
+Bassotto
+Beagle
+Carlino
+Husky
+San Bernardo
+Alano
+Dalmata
+Rottweiler
+Dobermann
+Border collie
+Corgi
+Levriero
+Boxer
+Cocker
+Volpino
+Shih tzu
+Bloodhound
+Maltese
+Yorkshire
+Cane corso
+Maremmano
+Pastore bergamasco
+Bracco italiano
+Lagotto romagnolo
+Segugio
+Setter
+Mastino napoletano
+Siamese
+Persiano
+Maine coon
+Sphynx
+Bengala
+Ragdoll
+Certosino
+Cavallo arabo
+Lipizzano
+Mustang
+Stallone
+Giumenta
+Puledro
+Leone
+Tigre
+Leopardo
+Ghepardo
+Giaguaro
+Pantera
+Puma
+Lince
+Gatto selvatico
+Leopardo delle nevi
+Elefante
+Rinoceronte
+Ippopotamo
+Giraffa
+Zebra
+Gazzella
+Antilope
+Gnu
+Bisonte
+Alce
+Renna
+Cervo
+Capriolo
+Daino
+Camoscio
+Stambecco
+Muflone
+Cinghiale
+Facocero
+Orso
+Orso marsicano
+Orso bruno
+Orso polare
+Orso grizzly
+Panda
+Panda rosso
+Koala
+Lupo
+Lupo appenninico
+Volpe
+Volpe artica
+Sciacallo
+Iena
+Dingo
+Licaone
+Procione
+Tasso
+Ghiottone
+Suricato
+Mangusta
+Armadillo
+Formichiere
+Oritteropo
+Pangolino
+Bradipo
+Tapiro
+Capibara
+Porcospino
+Istrice
+Riccio
+Talpa
+Pipistrello
+Pipistrello vampiro
+Scoiattolo
+Scoiattolo volante
+Topo
+Ratto
+Ghiro
+Marmotta
+Lepre
+Nutria
+Castoro
+Martora
+Faina
+Puzzola
+Donnola
+Ermellino
+Lontra
+Lemure
+Ornitorinco
+Canguro
+Wombat
+Diavolo della Tasmania
+Opossum
+Cammello
+Dromedario
+Bue muschiato
+Guanaco
+Lamantino
+Dugongo
+Scimmia
+Gorilla
+Scimpanzé
+Orango
+Bonobo
+Gibbone
+Babbuino
+Mandrillo
+Macaco
+Balena
+Balenottera azzurra
+Megattera
+Capodoglio
+Orca
+Beluga
+Narvalo
+Delfino
+Foca
+Leone marino
+Tricheco
+Lontra marina
+Elefante marino
+Uccello
+Aquila
+Aquila reale
+Gipeto
+Grifone
+Falco
+Falco pellegrino
+Gheppio
+Poiana
+Nibbio
+Avvoltoio
+Condor
+Civetta
+Gufo
+Barbagianni
+Upupa
+Picchio
+Cuculo
+Rondine
+Rondone
+Passero
+Pettirosso
+Merlo
+Storno
+Usignolo
+Cardellino
+Fringuello
+Gazza
+Cornacchia
+Corvo
+Ghiandaia
+Gabbiano
+Cormorano
+Airone
+Cicogna
+Gru
+Fenicottero
+Pellicano
+Folaga
+Gallinella d'acqua
+Martin pescatore
+Allodola
+Tordo
+Cinciallegra
+Scricciolo
+Cigno
+Piccione
+Colomba
+Faraona
+Pavone
+Fagiano
+Quaglia
+Pernice
+Gallo cedrone
+Beccaccia
+Pinguino
+Pinguino imperatore
+Struzzo
+Emù
+Casuario
+Kiwi
+Colibrì
+Tucano
+Ara
+Cacatua
+Pappagallino
+Albatros
+Pulcinella di mare
+Dodo
+Uccello del paradiso
+Uccello lira
+Coccodrillo
+Alligatore
+Caimano
+Drago di Komodo
+Iguana
+Camaleonte
+Geco
+Varano
+Lucertola
+Ramarro
+Biscia
+Serpente
+Cobra
+Pitone
+Boa
+Anaconda
+Serpente a sonagli
+Vipera
+Mamba nero
+Tartaruga marina
+Testuggine
+Tartaruga gigante
+Orbettino
+Basilisco
+Rana
+Rospo
+Raganella
+Salamandra
+Tritone
+Girino
+Axolotl
+Pesce
+Squalo
+Squalo bianco
+Squalo martello
+Squalo balena
+Razza
+Manta
+Anguilla
+Murena
+Salmone
+Trota
+Tonno
+Pesce spada
+Marlin
+Barracuda
+Piranha
+Pesce pagliaccio
+Pesce palla
+Cavalluccio marino
+Luccio
+Carpa
+Koi
+Pesce gatto
+Merluzzo
+Aringa
+Sardina
+Acciuga
+Sgombro
+Storione
+Pesce volante
+Pesce pietra
+Rana pescatrice
+Pesce luna
+Orata
+Branzino
+Sogliola
+Cernia
+Pesce angelo
+Pesce leone
+Polpo
+Calamaro
+Seppia
+Medusa
+Stella marina
+Riccio di mare
+Cetriolo di mare
+Anemone di mare
+Corallo
+Spugna
+Granchio
+Paguro
+Aragosta
+Gambero
+Scampo
+Astice
+Ostrica
+Cozza
+Vongola
+Capasanta
+Lumaca
+Chiocciola
+Formica
+Ape
+Ape regina
+Bombo
+Calabrone
+Vespa
+Mosca
+Zanzara
+Zanzara tigre
+Farfalla
+Falena
+Bruco
+Coccinella
+Scarabeo
+Scarabeo stercorario
+Cervo volante
+Maggiolino
+Lucciola
+Libellula
+Cavalletta
+Grillo
+Cicala
+Locusta
+Mantide religiosa
+Insetto stecco
+Scarafaggio
+Termite
+Pulce
+Zecca
+Baco da seta
+Cimice
+Ragno
+Tarantola
+Vedova nera
+Scorpione
+Centopiedi
+Millepiedi
+Porcellino di terra
+Lombrico
+Sanguisuga
+Verme
+Dinosauro
+Tirannosauro
+Velociraptor
+Triceratopo
+Stegosauro
+Brontosauro
+Diplodoco
+Pterodattilo
+Spinosauro
+Anchilosauro
+Brachiosauro
+Mammut
+Tigre dai denti a sciabola
+Megalodonte
+Plesiosauro
+Trilobite
+Cane lupo
+Cane da pastore
+Pernice bianca

@@ -291,7 +291,7 @@ Target **400** where the topic naturally supports it, **300** where 400 would me
 | 50 | spicy | 🌶️ | Spicy **18+** | Piccante **18+** | 300 |
 
 ### Writing guidelines (applied by me, enforced by the validator where possible)
-- 1–4 words per entry, max 30 characters, so it stays readable from across a room.
+- 1–5 words per entry (most are 1–2), max 30 characters, so it stays readable from across a room. (Changed from 4 to 5 words in M2 so titles like "Il Signore degli Anelli" fit.)
 - Recognisable by an average adult **of that language's culture**. Italian lists use Italian release titles (e.g. "Il Padrino", "Lo squalo") and include Italian celebrities, songs and TV. English lists use international/English-language references.
 - No near-duplicates (singular/plural, with/without article), no entries that contain the category name, no ultra-obscure trivia.
 - Proper capitalisation for proper nouns. Common nouns are capitalised as the first letter only, for consistent display.
@@ -301,7 +301,9 @@ Target **400** where the topic naturally supports it, **300** where 400 would me
 
 ## 7. Content validation script (`tool/validate_words.dart`)
 
-Run with `dart run tool/validate_words.dart`. It also runs as a test (`test/content/content_validation_test.dart`), so `flutter test` fails on broken content.
+Run with `dart run tool/validate_words.dart` (add `--strict` to make missing word files an error, `--seed N` for reproducible spot-check files). It also runs as a test (`test/content/content_validation_test.dart`), so `flutter test` fails on broken content. The logic lives in `tool/content_validator.dart` and shares its word normalisation with the app (`lib/features/categories/word_utils.dart`).
+
+**Pending content:** by default a category without a word file yet is reported as "pending", not an error. The app only shows a category once its word file for the current word language is bundled, so unfinished content never appears as an empty tile. M7 finishes with a `--strict` run.
 
 **Errors** (non-zero exit):
 - `categories.json` is valid JSON, ids are unique and snake_case, `name.en` + `name.it` are present, and colour is valid hex.
@@ -309,8 +311,8 @@ Run with `dart run tool/validate_words.dart`. It also runs as a test (`test/cont
 - Word count ≥ category minimum (300).
 - No empty lines, no leading/trailing/double spaces, valid UTF-8, no BOM.
 - **No duplicates inside a file** after normalisation: lower-case, strip accents, strip leading articles (*il, lo, la, i, gli, le, l', un, uno, una, un', the, a, an*), strip punctuation, collapse spaces.
-- Max 30 characters and max 4 words.
-- Allowed characters: letters (incl. accented), digits, space, `' - . & ! ? , :`.
+- Max 30 characters and max 5 words.
+- Allowed characters: letters (incl. accented), digits, space, `' - . & ! ? , : /`.
 
 **Warnings**:
 - The same normalised word appears in multiple categories of the same language (allowed, but listed).

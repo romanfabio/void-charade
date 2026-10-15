@@ -1,0 +1,428 @@
+Titanic
+Avatar
+Jaws
+Star Wars
+The Empire Strikes Back
+Return of the Jedi
+The Godfather
+Goodfellas
+Scarface
+Casablanca
+Gone with the Wind
+Citizen Kane
+Psycho
+Vertigo
+Rear Window
+North by Northwest
+The Birds
+Rocky
+Rambo
+The Terminator
+Alien
+Predator
+RoboCop
+Die Hard
+Lethal Weapon
+Beverly Hills Cop
+Top Gun
+Mad Max
+Back to the Future
+E.T. the Extra-Terrestrial
+Jurassic Park
+Indiana Jones
+Raiders of the Lost Ark
+The Matrix
+Inception
+Interstellar
+The Dark Knight
+Batman
+Superman
+Spider-Man
+Iron Man
+The Avengers
+Avengers: Endgame
+Black Panther
+Captain America
+Thor
+Guardians of the Galaxy
+Deadpool
+Wonder Woman
+Aquaman
+Joker
+X-Men
+Logan
+Fantastic Four
+The Incredibles
+Doctor Strange
+Ant-Man
+Venom
+Jurassic World
+The Lord of the Rings
+The Hobbit
+Harry Potter
+Twilight
+The Hunger Games
+The Chronicles of Narnia
+Pirates of the Caribbean
+Fast & Furious
+Mission: Impossible
+James Bond
+Skyfall
+Goldfinger
+Casino Royale
+John Wick
+Taken
+Gladiator
+Braveheart
+Troy
+300
+Ben-Hur
+Spartacus
+Lawrence of Arabia
+The Ten Commandments
+Saving Private Ryan
+Schindler's List
+Forrest Gump
+The Shawshank Redemption
+The Green Mile
+Fight Club
+Pulp Fiction
+Kill Bill
+Reservoir Dogs
+Django Unchained
+Inglourious Basterds
+The Silence of the Lambs
+Se7en
+The Sixth Sense
+The Usual Suspects
+Memento
+The Prestige
+Shutter Island
+The Departed
+Taxi Driver
+Raging Bull
+Apocalypse Now
+Full Metal Jacket
+Platoon
+The Deer Hunter
+A Fistful of Dollars
+Unforgiven
+The Magnificent Seven
+Brokeback Mountain
+Dances with Wolves
+The Revenant
+Cast Away
+Toy Story
+Finding Nemo
+Shrek
+The Lion King
+Aladdin
+Beauty and the Beast
+The Little Mermaid
+Frozen
+Moana
+Tangled
+Mulan
+Cinderella
+Snow White
+Sleeping Beauty
+Pinocchio
+Dumbo
+Bambi
+The Jungle Book
+Peter Pan
+Alice in Wonderland
+101 Dalmatians
+Robin Hood
+Tarzan
+Lilo & Stitch
+Monsters, Inc.
+Up
+WALL-E
+Ratatouille
+Cars
+Brave
+Coco
+Inside Out
+Soul
+Encanto
+Zootopia
+Big Hero 6
+Kung Fu Panda
+Madagascar
+Ice Age
+Despicable Me
+Minions
+How to Train Your Dragon
+Happy Feet
+Chicken Run
+Wallace & Gromit
+A Bug's Life
+Spirited Away
+My Neighbor Totoro
+Princess Mononoke
+The Simpsons Movie
+Sing
+The Secret Life of Pets
+Home Alone
+Mrs. Doubtfire
+Ghostbusters
+Gremlins
+The Goonies
+Beetlejuice
+Edward Scissorhands
+Big
+Jumanji
+Elf
+Groundhog Day
+Dumb and Dumber
+The Mask
+Ace Ventura
+Liar Liar
+The Truman Show
+Bruce Almighty
+Meet the Parents
+There's Something About Mary
+Zoolander
+Anchorman
+Superbad
+The Hangover
+Bridesmaids
+Step Brothers
+Borat
+Austin Powers
+Wayne's World
+Airplane!
+The Naked Gun
+Blazing Saddles
+Monty Python
+Some Like It Hot
+The Pink Panther
+Tootsie
+Mean Girls
+Clueless
+Legally Blonde
+The Devil Wears Prada
+Pretty Woman
+Notting Hill
+Love Actually
+Bridget Jones's Diary
+When Harry Met Sally
+Sleepless in Seattle
+You've Got Mail
+Four Weddings and a Funeral
+The Notebook
+Dirty Dancing
+Ghost
+Grease
+Footloose
+Saturday Night Fever
+La La Land
+Moulin Rouge!
+Chicago
+Mamma Mia!
+Les Misérables
+The Sound of Music
+Mary Poppins
+West Side Story
+Singin' in the Rain
+The Wizard of Oz
+My Fair Lady
+Cabaret
+The Greatest Showman
+The Phantom of the Opera
+Rocky Horror Picture Show
+Bohemian Rhapsody
+Rocketman
+Elvis
+Whiplash
+A Star Is Born
+Breakfast at Tiffany's
+Jerry Maguire
+Good Will Hunting
+Dead Poets Society
+Rain Man
+A Beautiful Mind
+Amadeus
+The King's Speech
+The Social Network
+The Imitation Game
+Oppenheimer
+Barbie
+Dunkirk
+Parasite
+Crouching Tiger, Hidden Dragon
+Life Is Beautiful
+Amélie
+Pan's Labyrinth
+Train to Busan
+The Exorcist
+The Shining
+Halloween
+Friday the 13th
+A Nightmare on Elm Street
+Scream
+Texas Chainsaw Massacre
+Saw
+Poltergeist
+The Omen
+Carrie
+It
+Misery
+The Ring
+Paranormal Activity
+The Conjuring
+Get Out
+A Quiet Place
+The Blair Witch Project
+Nosferatu
+Dracula
+Frankenstein
+The Mummy
+King Kong
+Godzilla
+The Fly
+The Thing
+Blade Runner
+2001: A Space Odyssey
+Star Trek
+Planet of the Apes
+Independence Day
+Men in Black
+Armageddon
+Deep Impact
+Twister
+The Day After Tomorrow
+Gravity
+The Martian
+Dune
+Total Recall
+Minority Report
+I, Robot
+Transformers
+Ready Player One
+Edge of Tomorrow
+Willy Wonka
+Matilda
+The Princess Bride
+The NeverEnding Story
+Labyrinth
+Babe
+Marley & Me
+Paddington
+Night at the Museum
+National Treasure
+The Da Vinci Code
+Angels & Demons
+Catch Me If You Can
+The Terminal
+Gone Girl
+Heat
+Casino
+The Irishman
+Ocean's Eleven
+The Italian Job
+The Sting
+Butch Cassidy
+The Great Gatsby
+The Wolf of Wall Street
+Wall Street
+American Beauty
+American Psycho
+Trainspotting
+The Full Monty
+Billy Elliot
+Slumdog Millionaire
+Life of Pi
+Speed
+Point Break
+Face/Off
+The Rock
+Bad Boys
+Rush Hour
+Charlie's Angels
+Knives Out
+Fargo
+The Big Lebowski
+No Country for Old Men
+There Will Be Blood
+Birdman
+The Grand Budapest Hotel
+Little Miss Sunshine
+Lost in Translation
+The Pianist
+The Last Samurai
+Enter the Dragon
+The Karate Kid
+Mortal Kombat
+Tomb Raider
+Resident Evil
+Blade
+Sin City
+Hidden Figures
+Apollo 13
+Million Dollar Baby
+Creed
+Cool Runnings
+Space Jam
+Happy Gilmore
+Chariots of Fire
+Field of Dreams
+A League of Their Own
+Dodgeball
+Wedding Crashers
+Napoleon Dynamite
+School of Rock
+Pitch Perfect
+Crazy Rich Asians
+Maleficent
+Cliffhanger
+Backdraft
+The Perfect Storm
+Into the Wild
+127 Hours
+Philadelphia
+Erin Brockovich
+Hotel Rwanda
+12 Years a Slave
+Moonlight
+Green Book
+Spotlight
+The Artist
+Nomadland
+Commando
+Twins
+Kindergarten Cop
+True Lies
+Conan the Barbarian
+The Expendables
+Tropic Thunder
+Pretty in Pink
+The Breakfast Club
+Ferris Bueller's Day Off
+Stand by Me
+Risky Business
+Dr. Strangelove
+A Clockwork Orange
+The Graduate
+Easy Rider
+Bonnie and Clyde
+Rebel Without a Cause
+On the Waterfront
+A Streetcar Named Desire
+12 Angry Men
+To Kill a Mockingbird
+It's a Wonderful Life
+The Great Escape
+Doctor Zhivago
+Sunset Boulevard
+Double Indemnity
+The Maltese Falcon
+Pearl Harbor
+Black Hawk Down
+The Hurt Locker
+American Sniper
+1917
+The Great Dictator
+Modern Times
+One Flew Over Cuckoo's Nest

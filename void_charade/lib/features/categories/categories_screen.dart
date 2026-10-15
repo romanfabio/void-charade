@@ -1,3 +1,4 @@
+import 'package:flutter/foundation.dart' show kDebugMode;
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
@@ -8,14 +9,41 @@ import '../../l10n/app_localizations.dart';
 import '../settings/settings_controller.dart';
 import 'category.dart';
 import 'category_repository.dart';
+import 'round_setup.dart';
 
 class CategoriesScreen extends ConsumerWidget {
   const CategoriesScreen({super.key});
 
+  Future<void> _start(
+    BuildContext context,
+    WidgetRef ref,
+    RoundSelection selection,
+  ) async {
+    final round = await ref.read(roundSetupServiceProvider).prepare(
+          selection,
+          playable: ref.read(playableCategoriesProvider).value ?? const [],
+          languageCode: ref.read(wordLanguageProvider),
+        );
+    if (!context.mounted) return;
+
+    // Placeholder until M3 navigates to the game screen: debug builds confirm
+    // that the words were loaded and shuffled.
+    if (kDebugMode) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(
+          content: Text(
+            '${round.category?.id ?? 'mix'}: ${round.words.length} words, '
+            'first: ${round.words.take(3).join(', ')}',
+          ),
+        ),
+      );
+    }
+  }
+
   @override
   Widget build(BuildContext context, WidgetRef ref) {
     final l10n = AppLocalizations.of(context);
-    final categories = ref.watch(visibleCategoriesProvider);
+    final categories = ref.watch(playableCategoriesProvider);
     final wordLanguage = ref.watch(wordLanguageProvider);
     final roundSeconds = ref.watch(
       settingsProvider.select((s) => s.roundSeconds),
@@ -73,7 +101,11 @@ class CategoriesScreen extends ConsumerWidget {
                           emoji: '🎲',
                           label: l10n.randomCategory,
                           gradient: AppColors.partyGradient,
-                          onTap: () {},
+                          onTap: () => _start(
+                            context,
+                            ref,
+                            const RandomCategorySelection(),
+                          ),
                         ),
                       ),
                       const SizedBox(width: 12),
@@ -82,7 +114,11 @@ class CategoriesScreen extends ConsumerWidget {
                           emoji: '🌀',
                           label: l10n.mixAll,
                           gradient: AppColors.coolGradient,
-                          onTap: () {},
+                          onTap: () => _start(
+                            context,
+                            ref,
+                            const MixAllSelection(),
+                          ),
                         ),
                       ),
                     ],
@@ -119,7 +155,11 @@ class CategoriesScreen extends ConsumerWidget {
                           category: list[i],
                           languageCode: Localizations.localeOf(context)
                               .languageCode,
-                          onTap: () {},
+                          onTap: () => _start(
+                            context,
+                            ref,
+                            CategorySelection(list[i]),
+                          ),
                         ),
                       ),
                     ),

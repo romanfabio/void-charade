@@ -1,0 +1,425 @@
+Dog
+Cat
+Puppy
+Kitten
+Hamster
+Guinea pig
+Rabbit
+Goldfish
+Parrot
+Budgie
+Canary
+Tortoise
+Ferret
+Chinchilla
+Gerbil
+Pony
+Horse
+Donkey
+Mule
+Cow
+Bull
+Ox
+Calf
+Pig
+Piglet
+Sheep
+Lamb
+Goat
+Chicken
+Rooster
+Hen
+Duck
+Goose
+Turkey
+Llama
+Alpaca
+Buffalo
+Water buffalo
+Yak
+German Shepherd
+Labrador
+Golden Retriever
+Poodle
+Bulldog
+Chihuahua
+Dachshund
+Beagle
+Pug
+Husky
+Saint Bernard
+Great Dane
+Dalmatian
+Rottweiler
+Doberman
+Border Collie
+Corgi
+Greyhound
+Boxer
+Cocker Spaniel
+Pomeranian
+Shih Tzu
+Bloodhound
+Maltese
+Yorkshire Terrier
+Basset Hound
+Afghan Hound
+Chow Chow
+Akita
+Bernese Mountain Dog
+Newfoundland
+Mastiff
+Jack Russell
+Siamese cat
+Persian cat
+Maine Coon
+Sphynx
+Bengal cat
+Ragdoll
+Arabian horse
+Clydesdale
+Shetland pony
+Mustang
+Stallion
+Mare
+Thoroughbred
+Lipizzaner
+Lion
+Tiger
+Leopard
+Cheetah
+Jaguar
+Panther
+Puma
+Cougar
+Lynx
+Bobcat
+Snow leopard
+Ocelot
+Elephant
+Rhinoceros
+Hippopotamus
+Giraffe
+Zebra
+Okapi
+Gazelle
+Antelope
+Impala
+Wildebeest
+Springbok
+Kudu
+Oryx
+Ibex
+Chamois
+Bison
+Moose
+Elk
+Deer
+Reindeer
+Caribou
+Roe deer
+Stag
+Wild boar
+Warthog
+Bear
+Brown bear
+Black bear
+Polar bear
+Grizzly bear
+Panda
+Red panda
+Koala
+Wolf
+Fox
+Arctic fox
+Coyote
+Jackal
+Hyena
+Dingo
+African wild dog
+Raccoon
+Badger
+Honey badger
+Otter
+Beaver
+Skunk
+Weasel
+Wolverine
+Mongoose
+Meerkat
+Armadillo
+Anteater
+Aardvark
+Pangolin
+Sloth
+Tapir
+Capybara
+Porcupine
+Hedgehog
+Mole
+Bat
+Vampire bat
+Squirrel
+Chipmunk
+Mouse
+Rat
+Marmot
+Prairie dog
+Hare
+Lemur
+Platypus
+Echidna
+Kangaroo
+Wallaby
+Wombat
+Tasmanian devil
+Opossum
+Camel
+Dromedary
+Musk ox
+Mountain goat
+Bighorn sheep
+Manatee
+Dugong
+Gorilla
+Chimpanzee
+Orangutan
+Bonobo
+Gibbon
+Baboon
+Mandrill
+Macaque
+Capuchin
+Howler monkey
+Spider monkey
+Monkey
+Ape
+Whale
+Blue whale
+Humpback whale
+Sperm whale
+Killer whale
+Beluga
+Narwhal
+Dolphin
+Porpoise
+Seal
+Sea lion
+Walrus
+Sea otter
+Elephant seal
+Bird
+Eagle
+Bald eagle
+Golden eagle
+Hawk
+Falcon
+Peregrine falcon
+Osprey
+Vulture
+Condor
+Owl
+Barn owl
+Snowy owl
+Buzzard
+Penguin
+Emperor penguin
+Ostrich
+Emu
+Cassowary
+Kiwi
+Flamingo
+Pelican
+Stork
+Crane
+Heron
+Swan
+Peacock
+Pheasant
+Quail
+Partridge
+Dove
+Pigeon
+Crow
+Raven
+Magpie
+Sparrow
+Robin
+Blackbird
+Starling
+Swallow
+Nightingale
+Cuckoo
+Woodpecker
+Kingfisher
+Hummingbird
+Toucan
+Macaw
+Cockatoo
+Parakeet
+Albatross
+Seagull
+Puffin
+Cormorant
+Dodo
+Bird of paradise
+Crocodile
+Alligator
+Caiman
+Komodo dragon
+Iguana
+Chameleon
+Gecko
+Monitor lizard
+Bearded dragon
+Lizard
+Snake
+Cobra
+King cobra
+Python
+Boa constrictor
+Anaconda
+Rattlesnake
+Viper
+Black mamba
+Turtle
+Sea turtle
+Giant tortoise
+Frog
+Toad
+Tree frog
+Poison dart frog
+Bullfrog
+Salamander
+Newt
+Axolotl
+Fish
+Shark
+Great white shark
+Hammerhead shark
+Whale shark
+Tiger shark
+Stingray
+Manta ray
+Electric eel
+Eel
+Salmon
+Trout
+Tuna
+Swordfish
+Marlin
+Barracuda
+Piranha
+Clownfish
+Angelfish
+Pufferfish
+Seahorse
+Pike
+Carp
+Koi
+Catfish
+Cod
+Herring
+Sardine
+Anchovy
+Mackerel
+Sturgeon
+Flying fish
+Lionfish
+Anglerfish
+Sea bass
+Octopus
+Squid
+Giant squid
+Cuttlefish
+Nautilus
+Jellyfish
+Starfish
+Sea urchin
+Sea cucumber
+Sea anemone
+Coral
+Sponge
+Crab
+Hermit crab
+Lobster
+Shrimp
+Crayfish
+Krill
+Barnacle
+Oyster
+Mussel
+Clam
+Scallop
+Snail
+Slug
+Horseshoe crab
+Portuguese man o' war
+Ant
+Bee
+Bumblebee
+Wasp
+Hornet
+Fly
+Mosquito
+Butterfly
+Moth
+Caterpillar
+Ladybug
+Beetle
+Dung beetle
+Stag beetle
+Firefly
+Dragonfly
+Grasshopper
+Cricket
+Locust
+Praying mantis
+Stick insect
+Cockroach
+Termite
+Flea
+Tick
+Cicada
+Aphid
+Earwig
+Silkworm
+Bedbug
+Tarantula
+Spider
+Black widow
+Scorpion
+Centipede
+Millipede
+Woodlouse
+Earthworm
+Leech
+Worm
+Queen bee
+Monarch butterfly
+Daddy longlegs
+Dinosaur
+Tyrannosaurus rex
+Velociraptor
+Triceratops
+Stegosaurus
+Brontosaurus
+Diplodocus
+Pterodactyl
+Spinosaurus
+Ankylosaurus
+Brachiosaurus
+Mammoth
+Woolly mammoth
+Saber-toothed tiger
+Megalodon
+Plesiosaur
+Archaeopteryx
+Mastodon
+Giant sloth
+Trilobite
+Pine marten
+Civet
+Aardwolf
+Zebu
+Highland cow
