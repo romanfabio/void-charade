@@ -45,5 +45,28 @@
     "placeholders": {
       "version": {"type": "String"}
     }
-  }
+  },
+  "noWordsAvailable": "No words available for this category",
+  "gameGetReady": "Put the phone on your forehead!",
+  "gameHoldUpright": "Hold the phone upright",
+  "gameResuming": "Get ready…",
+  "gameCorrect": "CORRECT!",
+  "gameSkip": "SKIP",
+  "gameTimeUp": "TIME'S UP!",
+  "quitTitle": "Quit the round?",
+  "quitMessage": "Your progress in this round will be lost.",
+  "quitConfirm": "Quit",
+  "quitCancel": "Keep playing",
+  "resultsTitle": "Round over",
+  "resultsScore": "{count, plural, =1{1 point} other{{count} points}}",
+  "@resultsScore": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+  "resultsGuessed": "Guessed",
+  "resultsSkipped": "Skipped",
+  "resultsNotPlayed": "Not played",
+  "playAgain": "Play again",
+  "backToCategories": "Categories"
 }

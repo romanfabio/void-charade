@@ -277,6 +277,114 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Version {version}'**
   String version(String version);
+
+  /// No description provided for @noWordsAvailable.
+  ///
+  /// In en, this message translates to:
+  /// **'No words available for this category'**
+  String get noWordsAvailable;
+
+  /// No description provided for @gameGetReady.
+  ///
+  /// In en, this message translates to:
+  /// **'Put the phone on your forehead!'**
+  String get gameGetReady;
+
+  /// No description provided for @gameHoldUpright.
+  ///
+  /// In en, this message translates to:
+  /// **'Hold the phone upright'**
+  String get gameHoldUpright;
+
+  /// No description provided for @gameResuming.
+  ///
+  /// In en, this message translates to:
+  /// **'Get ready…'**
+  String get gameResuming;
+
+  /// No description provided for @gameCorrect.
+  ///
+  /// In en, this message translates to:
+  /// **'CORRECT!'**
+  String get gameCorrect;
+
+  /// No description provided for @gameSkip.
+  ///
+  /// In en, this message translates to:
+  /// **'SKIP'**
+  String get gameSkip;
+
+  /// No description provided for @gameTimeUp.
+  ///
+  /// In en, this message translates to:
+  /// **'TIME\'S UP!'**
+  String get gameTimeUp;
+
+  /// No description provided for @quitTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Quit the round?'**
+  String get quitTitle;
+
+  /// No description provided for @quitMessage.
+  ///
+  /// In en, this message translates to:
+  /// **'Your progress in this round will be lost.'**
+  String get quitMessage;
+
+  /// No description provided for @quitConfirm.
+  ///
+  /// In en, this message translates to:
+  /// **'Quit'**
+  String get quitConfirm;
+
+  /// No description provided for @quitCancel.
+  ///
+  /// In en, this message translates to:
+  /// **'Keep playing'**
+  String get quitCancel;
+
+  /// No description provided for @resultsTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Round over'**
+  String get resultsTitle;
+
+  /// No description provided for @resultsScore.
+  ///
+  /// In en, this message translates to:
+  /// **'{count, plural, =1{1 point} other{{count} points}}'**
+  String resultsScore(int count);
+
+  /// No description provided for @resultsGuessed.
+  ///
+  /// In en, this message translates to:
+  /// **'Guessed'**
+  String get resultsGuessed;
+
+  /// No description provided for @resultsSkipped.
+  ///
+  /// In en, this message translates to:
+  /// **'Skipped'**
+  String get resultsSkipped;
+
+  /// No description provided for @resultsNotPlayed.
+  ///
+  /// In en, this message translates to:
+  /// **'Not played'**
+  String get resultsNotPlayed;
+
+  /// No description provided for @playAgain.
+  ///
+  /// In en, this message translates to:
+  /// **'Play again'**
+  String get playAgain;
+
+  /// No description provided for @backToCategories.
+  ///
+  /// In en, this message translates to:
+  /// **'Categories'**
+  String get backToCategories;
 }
 
 class _AppLocalizationsDelegate

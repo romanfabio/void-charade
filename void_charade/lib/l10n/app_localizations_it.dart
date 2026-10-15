@@ -105,4 +105,67 @@ class AppLocalizationsIt extends AppLocalizations {
   String version(String version) {
     return 'Versione $version';
   }
+
+  @override
+  String get noWordsAvailable =>
+      'Nessuna parola disponibile per questa categoria';
+
+  @override
+  String get gameGetReady => 'Metti il telefono sulla fronte!';
+
+  @override
+  String get gameHoldUpright => 'Tieni il telefono dritto';
+
+  @override
+  String get gameResuming => 'Preparati…';
+
+  @override
+  String get gameCorrect => 'ESATTO!';
+
+  @override
+  String get gameSkip => 'PASSO';
+
+  @override
+  String get gameTimeUp => 'TEMPO SCADUTO!';
+
+  @override
+  String get quitTitle => 'Uscire dal round?';
+
+  @override
+  String get quitMessage => 'I progressi di questo round andranno persi.';
+
+  @override
+  String get quitConfirm => 'Esci';
+
+  @override
+  String get quitCancel => 'Continua a giocare';
+
+  @override
+  String get resultsTitle => 'Round finito';
+
+  @override
+  String resultsScore(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: '$count punti',
+      one: '1 punto',
+    );
+    return '$_temp0';
+  }
+
+  @override
+  String get resultsGuessed => 'Indovinate';
+
+  @override
+  String get resultsSkipped => 'Saltate';
+
+  @override
+  String get resultsNotPlayed => 'Non giocata';
+
+  @override
+  String get playAgain => 'Gioca ancora';
+
+  @override
+  String get backToCategories => 'Categorie';
 }

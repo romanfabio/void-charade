@@ -47,6 +47,10 @@ ThemeData buildAppTheme() {
       elevation: 0,
       shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(24)),
     ),
+    dividerTheme: const DividerThemeData(
+      color: AppColors.surfaceHigh,
+      thickness: 1,
+    ),
     sliderTheme: const SliderThemeData(
       activeTrackColor: AppColors.magenta,
       thumbColor: AppColors.orange,
