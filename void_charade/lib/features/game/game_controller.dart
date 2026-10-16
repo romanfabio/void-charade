@@ -4,6 +4,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:sensors_plus/sensors_plus.dart';
 
 import '../categories/round_setup.dart';
+import '../../services/feedback_service.dart';
 import '../results/round_result.dart';
 import '../settings/settings_controller.dart';
 import 'game_engine.dart';
@@ -86,7 +87,7 @@ class GameController extends Notifier<GameState> {
         swapTilt: settings.swapTilt,
       ),
       words: round.words,
-      onEvent: _events.add,
+      onEvent: _onEvent,
     );
 
     ref.onDispose(() {
@@ -123,6 +124,11 @@ class GameController extends Notifier<GameState> {
   void debugTilt(TiltDirection direction) {
     _engine.onTilt(direction);
     _publish();
+  }
+
+  void _onEvent(GameEvent event) {
+    ref.read(feedbackServiceProvider).handle(event);
+    _events.add(event);
   }
 
   void _onTick() {

@@ -1,8 +1,12 @@
+import 'dart:async';
+
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import '../../core/theme/app_colors.dart';
 import '../../l10n/app_localizations.dart';
+import '../../services/haptics_service.dart';
+import '../../services/sound_service.dart';
 import 'settings.dart';
 import 'settings_controller.dart';
 
@@ -95,8 +99,15 @@ class SettingsScreen extends ConsumerWidget {
                 SwitchListTile(
                   title: Text(l10n.sounds),
                   value: settings.soundEnabled,
-                  onChanged: (v) =>
-                      controller.update((s) => s.copyWith(soundEnabled: v)),
+                  onChanged: (v) {
+                    controller.update((s) => s.copyWith(soundEnabled: v));
+                    // Let the player hear what they just switched on.
+                    if (v) {
+                      unawaited(
+                        ref.read(soundPlayerProvider).play(SoundEffect.correct),
+                      );
+                    }
+                  },
                 ),
                 SwitchListTile(
                   title: Text(l10n.tickSound),
@@ -109,8 +120,14 @@ class SettingsScreen extends ConsumerWidget {
                 SwitchListTile(
                   title: Text(l10n.vibration),
                   value: settings.vibrationEnabled,
-                  onChanged: (v) =>
-                      controller.update((s) => s.copyWith(vibrationEnabled: v)),
+                  onChanged: (v) {
+                    controller.update((s) => s.copyWith(vibrationEnabled: v));
+                    if (v) {
+                      unawaited(
+                        ref.read(hapticsProvider).vibrate(HapticPatterns.correct),
+                      );
+                    }
+                  },
                 ),
               ],
             ),

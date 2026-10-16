@@ -21,6 +21,8 @@ dependencies:
   auto_size_text: ^3.0.0
   sensors_plus: ^7.1.1
   wakelock_plus: ^1.8.1
+  audioplayers: ^6.8.1
+  vibration: ^3.2.1
 
 dev_dependencies:
   flutter_test:
@@ -36,6 +38,7 @@ flutter:
     - assets/categories.json
     - assets/words/en/
     - assets/words/it/
+    - assets/sounds/
 
   fonts:
     - family: LilitaOne

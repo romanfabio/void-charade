@@ -333,7 +333,7 @@ Run with `dart run tool/validate_words.dart` (add `--strict` to make missing wor
 - Accessibility: high contrast, the word text is huge, and colour is never the only signal (results also use icons).
 
 ## 9. Sounds & haptics
-- **Sounds** (CC0): primary source is **Kenney.nl** audio packs (CC0 licence, e.g. "Interface Sounds", "Digital Audio"). I'll ask before downloading anything. Fallback: synthesise simple beeps/chimes with a small script.
+- **Sounds:** synthesised by `tool/generate_sounds.dart` (original, so no licence issue; nothing downloaded). To use other sounds, e.g. CC0 packs from Kenney.nl, drop WAV files with the same names into `assets/sounds/`. One low-latency `audioplayers` player per effect (not an `AudioPool`: its players never return to the pool in low-latency mode).
 - Files: `correct`, `skip`, `tick`, `countdown_beep`, `go`, `time_up`. They are short **WAV** files (lowest latency; OGG isn't supported on iOS).
 - All sounds are pre-loaded into `AudioPool`s at app start, so playback is instant.
 - iOS audio session uses category *playback* + *mixWithOthers*: sounds play **even when the silent switch is on** (a party game where players don't hear feedback is useless) and don't stop the user's music.

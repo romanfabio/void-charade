@@ -11,7 +11,10 @@ import 'package:void_charade/core/system_ui.dart';
 import 'package:void_charade/features/game/game_controller.dart';
 import 'package:void_charade/features/game/tilt_detector.dart';
 import 'package:void_charade/features/settings/settings_controller.dart';
+import 'package:void_charade/services/haptics_service.dart';
+import 'package:void_charade/services/sound_service.dart';
 
+import '../helpers/fakes.dart';
 import '../helpers/file_asset_bundle.dart';
 
 class _NoopSystemUi extends AppSystemUi {
@@ -45,6 +48,8 @@ class _Session {
   final WidgetTester tester;
   final sensor = StreamController<TiltSample>.broadcast(sync: true);
   final clock = _FakeClock();
+  final sounds = FakeSoundPlayer();
+  final haptics = FakeHaptics();
 
   /// Moves time forward in 20 ms steps (50 Hz), with the phone held at [pitch].
   Future<void> advance(int ms, {double pitch = 0}) async {
@@ -75,6 +80,7 @@ class _Session {
       ProviderScope(
         overrides: [
           ...realAssetOverrides(),
+          ...feedbackOverrides(sounds, haptics),
           sharedPreferencesProvider.overrideWithValue(sharedPrefs),
           deviceLocaleProvider.overrideWithValue(const Locale('en')),
           accelerometerStreamProvider.overrideWithValue(sensor.stream),
@@ -168,6 +174,74 @@ void main() {
     await tester.pumpAndSettle();
     expect(find.text('Random category'), findsOneWidget);
     await s.shutDown();
+  });
+
+  group('sound and vibration', () {
+    Future<_Session> playCorrectThenSkip(
+      WidgetTester tester, {
+      Map<String, Object> prefs = const {},
+    }) async {
+      final s = _Session(tester);
+      await s.openApp(prefs: prefs);
+      await s.startAnimals();
+      await s.advance(3200); // countdown 3-2-1, go, first word
+      await s.advance(300, pitch: -70); // correct
+      await s.advance(900);
+      await s.advance(300, pitch: 70); // skip
+      return s;
+    }
+
+    testWidgets('the whole round is audible and felt', (tester) async {
+      final s = await playCorrectThenSkip(tester);
+      expect(s.sounds.played, [
+        SoundEffect.countdownBeep, // 3
+        SoundEffect.countdownBeep, // 2
+        SoundEffect.countdownBeep, // 1
+        SoundEffect.go,
+        SoundEffect.correct,
+        SoundEffect.skip,
+      ]);
+      expect(s.haptics.patterns, [HapticPatterns.correct, HapticPatterns.skip]);
+
+      // The ticking starts with 5 seconds left, then the buzzer.
+      await s.advance(21000);
+      final ticks = s.sounds.played.where((e) => e == SoundEffect.tick).length;
+      expect(ticks, 0);
+      await s.advance(7000); // ~0.3 s left: ticks for 5, 4, 3, 2, 1
+      expect(s.sounds.played.where((e) => e == SoundEffect.tick).length, 5);
+      await s.advance(2000);
+      expect(s.sounds.played.last, SoundEffect.timeUp);
+      expect(s.haptics.patterns.last, HapticPatterns.timeUp);
+      await s.shutDown();
+    });
+
+    testWidgets('sounds off: still vibrates', (tester) async {
+      final s = await playCorrectThenSkip(
+        tester,
+        prefs: {'soundEnabled': false},
+      );
+      expect(s.sounds.played, isEmpty);
+      expect(s.haptics.patterns.length, 2);
+      await s.shutDown();
+    });
+
+    testWidgets('vibration off: still plays sounds', (tester) async {
+      final s = await playCorrectThenSkip(
+        tester,
+        prefs: {'vibrationEnabled': false},
+      );
+      expect(s.haptics.patterns, isEmpty);
+      expect(s.sounds.played, contains(SoundEffect.correct));
+      await s.shutDown();
+    });
+
+    testWidgets('ticking off: no ticks in the last seconds', (tester) async {
+      final s = await playCorrectThenSkip(tester, prefs: {'tickEnabled': false});
+      await s.advance(30000);
+      expect(s.sounds.played, isNot(contains(SoundEffect.tick)));
+      expect(s.sounds.played, contains(SoundEffect.timeUp));
+      await s.shutDown();
+    });
   });
 
   testWidgets('skip penalty makes the score negative', (tester) async {

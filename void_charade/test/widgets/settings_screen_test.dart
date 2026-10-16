@@ -6,11 +6,19 @@ import 'package:shared_preferences/shared_preferences.dart';
 import 'package:void_charade/features/settings/settings_controller.dart';
 import 'package:void_charade/features/settings/settings_screen.dart';
 import 'package:void_charade/l10n/app_localizations.dart';
+import 'package:void_charade/services/haptics_service.dart';
+import 'package:void_charade/services/sound_service.dart';
+
+import '../helpers/fakes.dart';
 
 Future<ProviderContainer> _pump(
   WidgetTester tester, {
   Locale deviceLocale = const Locale('en'),
+  FakeSoundPlayer? sounds,
+  FakeHaptics? haptics,
 }) async {
+  sounds ??= FakeSoundPlayer();
+  haptics ??= FakeHaptics();
   // Tall surface so the whole settings list is laid out and tappable.
   tester.view.physicalSize = const Size(800, 2600);
   tester.view.devicePixelRatio = 1;
@@ -20,6 +28,7 @@ Future<ProviderContainer> _pump(
   final prefs = await SharedPreferences.getInstance();
   final container = ProviderContainer(
     overrides: [
+      ...feedbackOverrides(sounds, haptics),
       sharedPreferencesProvider.overrideWithValue(prefs),
       deviceLocaleProvider.overrideWithValue(deviceLocale),
     ],
@@ -72,6 +81,28 @@ void main() {
 
     expect(find.text('Impostazioni'), findsOneWidget);
     expect(container.read(wordLanguageProvider), 'it');
+  });
+
+  testWidgets('switching sounds or vibration on gives a preview', (tester) async {
+    final sounds = FakeSoundPlayer();
+    final haptics = FakeHaptics();
+    final container = await _pump(tester, sounds: sounds, haptics: haptics);
+
+    // Both start on, so the first tap turns them off: no preview.
+    await tester.tap(find.widgetWithText(SwitchListTile, 'Sounds'));
+    await tester.tap(find.widgetWithText(SwitchListTile, 'Vibration'));
+    await tester.pump();
+    expect(sounds.played, isEmpty);
+    expect(haptics.patterns, isEmpty);
+    expect(container.read(settingsProvider).soundEnabled, isFalse);
+    expect(container.read(settingsProvider).vibrationEnabled, isFalse);
+
+    // Turning them back on plays/vibrates once so the player can hear/feel it.
+    await tester.tap(find.widgetWithText(SwitchListTile, 'Sounds'));
+    await tester.tap(find.widgetWithText(SwitchListTile, 'Vibration'));
+    await tester.pump();
+    expect(sounds.played, [SoundEffect.correct]);
+    expect(haptics.patterns, [HapticPatterns.correct]);
   });
 
   testWidgets('tick toggle is disabled while sounds are off', (tester) async {
