@@ -278,6 +278,18 @@ abstract class AppLocalizations {
   /// **'Default: screen down = correct, screen up = skip'**
   String get swapTiltHint;
 
+  /// No description provided for @touchControls.
+  ///
+  /// In en, this message translates to:
+  /// **'Touch controls'**
+  String get touchControls;
+
+  /// No description provided for @touchControlsHint.
+  ///
+  /// In en, this message translates to:
+  /// **'Tap the right half of the screen for correct, the left half to skip. Tilt is turned off'**
+  String get touchControlsHint;
+
   /// No description provided for @showAdult.
   ///
   /// In en, this message translates to:
@@ -301,6 +313,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Put the phone on your forehead!'**
   String get gameGetReady;
+
+  /// No description provided for @gameGetReadyTouch.
+  ///
+  /// In en, this message translates to:
+  /// **'Get ready!'**
+  String get gameGetReadyTouch;
 
   /// No description provided for @gameHoldUpright.
   ///

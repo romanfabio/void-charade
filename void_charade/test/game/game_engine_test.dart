@@ -22,6 +22,7 @@ class Harness {
     Duration countdown = const Duration(seconds: 3),
     bool skipPenalty = false,
     bool swapTilt = false,
+    bool touchControls = false,
     double startPitch = 0,
   }) : pitch = startPitch {
     engine = GameEngine(
@@ -30,6 +31,7 @@ class Harness {
         countdownDuration: countdown,
         skipPenalty: skipPenalty,
         swapTilt: swapTilt,
+        touchControls: touchControls,
       ),
       words: words ?? [for (var i = 0; i < 100; i++) 'w$i'],
       onEvent: events.add,
@@ -373,6 +375,54 @@ void main() {
 
     test('with the penalty each skip costs one point (can go negative)', () {
       expect(result(penalty: true).score, -1);
+    });
+  });
+
+  group('touch controls', () {
+    test('taps answer words; the phone never has to be upright', () {
+      // Held flat on a table the whole time: tilt mode would wait forever.
+      final h = Harness(touchControls: true, startPitch: _flat);
+      h.advanceMs(3200);
+      expect(h.state.phase, GamePhase.playing);
+      expect(h.state.word, 'w0');
+
+      h.engine.onTouch(correct: true);
+      expect(h.state.phase, GamePhase.feedback);
+      expect(h.kinds.last, GameEventKind.correct);
+      h.advanceMs(700);
+      expect(h.state.word, 'w1');
+
+      h.engine.onTouch(correct: false);
+      expect(h.kinds.last, GameEventKind.skip);
+      h.advanceMs(700);
+
+      expect(h.engine.result.guessed, 1);
+      expect(h.engine.result.skipped, 1);
+    });
+
+    test('tilting does nothing in touch mode', () {
+      final h = Harness(touchControls: true)..playUntilFirstWord();
+      h.advanceMs(300, at: _down);
+      h.advanceMs(300, at: _up);
+      expect(h.state.phase, GamePhase.playing);
+      expect(h.state.word, 'w0');
+      expect(h.engine.result.words, isEmpty);
+    });
+
+    test('taps are ignored in tilt mode, during feedback and outside a round',
+        () {
+      final tilt = Harness()..playUntilFirstWord();
+      tilt.engine.onTouch(correct: true);
+      expect(tilt.state.word, 'w0');
+
+      final touch = Harness(touchControls: true);
+      touch.engine.onTouch(correct: true); // still counting down
+      expect(touch.engine.result.words, isEmpty);
+
+      touch.advanceMs(3200);
+      touch.engine.onTouch(correct: true);
+      touch.engine.onTouch(correct: true); // feedback: second tap is ignored
+      expect(touch.engine.result.words.length, 1);
     });
   });
 }

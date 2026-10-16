@@ -28,6 +28,7 @@ class Settings {
     this.vibrationEnabled = true,
     this.tickEnabled = true,
     this.swapTilt = false,
+    this.touchControls = false,
     this.showAdult = true,
   });
 
@@ -40,6 +41,7 @@ class Settings {
   final bool vibrationEnabled;
   final bool tickEnabled;
   final bool swapTilt;
+  final bool touchControls;
   final bool showAdult;
 
   Settings copyWith({
@@ -52,6 +54,7 @@ class Settings {
     bool? vibrationEnabled,
     bool? tickEnabled,
     bool? swapTilt,
+    bool? touchControls,
     bool? showAdult,
   }) {
     return Settings(
@@ -64,6 +67,7 @@ class Settings {
       vibrationEnabled: vibrationEnabled ?? this.vibrationEnabled,
       tickEnabled: tickEnabled ?? this.tickEnabled,
       swapTilt: swapTilt ?? this.swapTilt,
+      touchControls: touchControls ?? this.touchControls,
       showAdult: showAdult ?? this.showAdult,
     );
   }

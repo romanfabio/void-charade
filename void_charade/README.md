@@ -8,6 +8,8 @@ screen down when you guess it, up to skip. No ads, no tracking, no network.
 - UI in Italian or English (follows the device by default), separate word language
 - Configurable round (30-180 s) and countdown (3-10 s), sounds, vibration and
   final-seconds ticking each with their own toggle, optional "skip = -1"
+- Optional touch controls (setting, off by default): right half of the screen =
+  correct, left half = skip, instead of tilting
 - Results screen with guessed / skipped / not-played words and the score
 
 The full design is in [../IMPLEMENTATION_PLAN.md](../IMPLEMENTATION_PLAN.md).

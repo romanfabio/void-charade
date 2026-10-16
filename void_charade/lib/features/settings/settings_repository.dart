@@ -16,6 +16,7 @@ class SettingsRepository {
   static const _kVibration = 'vibrationEnabled';
   static const _kTick = 'tickEnabled';
   static const _kSwapTilt = 'swapTilt';
+  static const _kTouchControls = 'touchControls';
   static const _kShowAdult = 'showAdult';
 
   Settings load() {
@@ -42,6 +43,8 @@ class SettingsRepository {
       vibrationEnabled: _prefs.getBool(_kVibration) ?? defaults.vibrationEnabled,
       tickEnabled: _prefs.getBool(_kTick) ?? defaults.tickEnabled,
       swapTilt: _prefs.getBool(_kSwapTilt) ?? defaults.swapTilt,
+      touchControls:
+          _prefs.getBool(_kTouchControls) ?? defaults.touchControls,
       showAdult: _prefs.getBool(_kShowAdult) ?? defaults.showAdult,
     );
   }
@@ -57,6 +60,7 @@ class SettingsRepository {
       _prefs.setBool(_kVibration, s.vibrationEnabled),
       _prefs.setBool(_kTick, s.tickEnabled),
       _prefs.setBool(_kSwapTilt, s.swapTilt),
+      _prefs.setBool(_kTouchControls, s.touchControls),
       _prefs.setBool(_kShowAdult, s.showAdult),
     ]);
   }

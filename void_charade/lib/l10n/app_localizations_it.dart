@@ -105,6 +105,13 @@ class AppLocalizationsIt extends AppLocalizations {
       'Predefinito: schermo in basso = indovinata, schermo in alto = salta';
 
   @override
+  String get touchControls => 'Comandi touch';
+
+  @override
+  String get touchControlsHint =>
+      'Tocca la metà destra dello schermo per indovinata, la sinistra per saltare. L\'inclinazione è disattivata';
+
+  @override
   String get showAdult => 'Mostra categorie 18+';
 
   @override
@@ -118,6 +125,9 @@ class AppLocalizationsIt extends AppLocalizations {
 
   @override
   String get gameGetReady => 'Metti il telefono sulla fronte!';
+
+  @override
+  String get gameGetReadyTouch => 'Preparati!';
 
   @override
   String get gameHoldUpright => 'Tieni il telefono dritto';

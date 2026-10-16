@@ -22,6 +22,7 @@ void main() {
       expect(s.vibrationEnabled, isTrue);
       expect(s.tickEnabled, isTrue);
       expect(s.swapTilt, isFalse);
+      expect(s.touchControls, isFalse);
       expect(s.showAdult, isTrue);
     });
 
@@ -37,6 +38,7 @@ void main() {
         vibrationEnabled: false,
         tickEnabled: false,
         swapTilt: true,
+        touchControls: true,
         showAdult: false,
       );
       await repo.save(written);
@@ -50,6 +52,7 @@ void main() {
       expect(read.vibrationEnabled, isFalse);
       expect(read.tickEnabled, isFalse);
       expect(read.swapTilt, isTrue);
+      expect(read.touchControls, isTrue);
       expect(read.showAdult, isFalse);
     });
 

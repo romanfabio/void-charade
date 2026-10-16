@@ -13,6 +13,7 @@ import '../../core/theme/app_colors.dart';
 import '../../core/theme/app_theme.dart';
 import '../../l10n/app_localizations.dart';
 import '../results/round_result.dart';
+import '../settings/settings_controller.dart';
 import 'game_controller.dart';
 import 'game_engine.dart';
 import 'tilt_detector.dart';
@@ -95,6 +96,7 @@ class _GameScreenState extends ConsumerState<GameScreen>
   Widget build(BuildContext context) {
     final state = ref.watch(_provider);
     final simulated = kDebugMode && ref.watch(debugSimulateSensorsProvider);
+    final touch = ref.watch(settingsProvider.select((s) => s.touchControls));
 
     ref.listen(_provider, (previous, next) {
       if (next.phase == GamePhase.finished &&
@@ -118,13 +120,20 @@ class _GameScreenState extends ConsumerState<GameScreen>
           ),
           child: GestureDetector(
             behavior: HitTestBehavior.translucent,
-            onTapUp: simulated
+            // Touch mode: right half = correct, left half = skip. Debug builds
+            // can also fake tilts with the same taps.
+            onTapUp: touch || simulated
                 ? (details) {
-                    final left =
-                        details.globalPosition.dx < MediaQuery.sizeOf(context).width / 2;
-                    ref.read(_provider.notifier).debugTilt(
-                          left ? TiltDirection.screenUp : TiltDirection.screenDown,
-                        );
+                    final left = details.globalPosition.dx <
+                        MediaQuery.sizeOf(context).width / 2;
+                    final controller = ref.read(_provider.notifier);
+                    if (touch) {
+                      controller.touch(correct: !left);
+                    } else {
+                      controller.debugTilt(
+                        left ? TiltDirection.screenUp : TiltDirection.screenDown,
+                      );
+                    }
                   }
                 : null,
             child: Stack(
@@ -135,12 +144,49 @@ class _GameScreenState extends ConsumerState<GameScreen>
                   child: _PhaseView(
                     key: ValueKey((state.phase, state.word)),
                     state: state,
+                    touch: touch,
                   ),
                 ),
+                if (touch && state.phase == GamePhase.playing)
+                  const _TouchHints(),
                 _TopBar(state: state, onClose: _confirmQuit),
                 if (kDebugMode) _DebugOverlay(state: state, simulated: simulated),
               ],
             ),
+          ),
+        ),
+      ),
+    );
+  }
+}
+
+/// Faint labels at the bottom corners reminding which half does what.
+class _TouchHints extends StatelessWidget {
+  const _TouchHints();
+
+  @override
+  Widget build(BuildContext context) {
+    final l10n = AppLocalizations.of(context);
+    final style = _bigStyle(22).copyWith(color: Colors.white54, shadows: null);
+    return IgnorePointer(
+      child: Align(
+        alignment: Alignment.bottomCenter,
+        child: Padding(
+          padding: const EdgeInsets.fromLTRB(24, 0, 24, 20),
+          child: Row(
+            mainAxisAlignment: MainAxisAlignment.spaceBetween,
+            children: [
+              Row(children: [
+                const Icon(Icons.skip_next_rounded, color: Colors.white54),
+                const SizedBox(width: 6),
+                Text(l10n.gameSkip, style: style),
+              ]),
+              Row(children: [
+                Text(l10n.gameCorrect, style: style),
+                const SizedBox(width: 6),
+                const Icon(Icons.check_circle_rounded, color: Colors.white54),
+              ]),
+            ],
           ),
         ),
       ),
@@ -157,9 +203,10 @@ TextStyle _bigStyle(double size) => TextStyle(
     );
 
 class _PhaseView extends StatelessWidget {
-  const _PhaseView({super.key, required this.state});
+  const _PhaseView({super.key, required this.state, required this.touch});
 
   final GameState state;
+  final bool touch;
 
   @override
   Widget build(BuildContext context) {
@@ -172,7 +219,7 @@ class _PhaseView extends StatelessWidget {
           children: [
             Text(
               state.phase == GamePhase.countdown
-                  ? l10n.gameGetReady
+                  ? (touch ? l10n.gameGetReadyTouch : l10n.gameGetReady)
                   : l10n.gameResuming,
               textAlign: TextAlign.center,
               style: _bigStyle(36),

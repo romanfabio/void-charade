@@ -289,6 +289,37 @@ void main() {
     await s.shutDown();
   });
 
+  testWidgets('touch controls: right half = correct, left half = skip',
+      (tester) async {
+    final s = _Session(tester);
+    await s.openApp(prefs: {'touchControls': true});
+    await s.startAnimals();
+
+    expect(find.text('Get ready!'), findsOneWidget);
+    // The phone lies flat (never upright) and tilting does nothing.
+    await s.advance(3200, pitch: 85);
+    expect(find.byType(AutoSizeText), findsOneWidget);
+    final first = s.currentWord;
+    await s.advance(600, pitch: -70);
+    expect(s.currentWord, first);
+
+    final size = tester.view.physicalSize;
+    await tester.tapAt(Offset(size.width * 0.8, size.height / 2));
+    await s.advance(100);
+    expect(find.text('CORRECT!'), findsOneWidget);
+    await s.advance(900);
+
+    await tester.tapAt(Offset(size.width * 0.2, size.height / 2));
+    await s.advance(100);
+    expect(find.text('SKIP'), findsOneWidget);
+    await s.advance(900);
+
+    await s.advance(30000);
+    await s.advance(2000);
+    expect(find.text('1 point'), findsOneWidget);
+    await s.shutDown();
+  });
+
   testWidgets('quit asks for confirmation and returns home', (tester) async {
     final s = _Session(tester);
     await s.openApp();

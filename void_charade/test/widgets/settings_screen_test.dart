@@ -114,6 +114,21 @@ void main() {
     expect(find.text('View licenses'), findsOneWidget);
   });
 
+  testWidgets('touch controls are off by default and turn tilt swap off',
+      (tester) async {
+    final container = await _pump(tester);
+    expect(container.read(settingsProvider).touchControls, isFalse);
+
+    await tester.tap(find.widgetWithText(SwitchListTile, 'Touch controls'));
+    await tester.pumpAndSettle();
+
+    expect(container.read(settingsProvider).touchControls, isTrue);
+    final swap = tester.widget<SwitchListTile>(
+      find.widgetWithText(SwitchListTile, 'Swap tilt directions'),
+    );
+    expect(swap.onChanged, isNull);
+  });
+
   testWidgets('tick toggle is disabled while sounds are off', (tester) async {
     await _pump(tester);
 

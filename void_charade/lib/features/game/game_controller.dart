@@ -85,6 +85,7 @@ class GameController extends Notifier<GameState> {
         countdownDuration: Duration(seconds: settings.countdownSeconds),
         skipPenalty: settings.skipPenalty,
         swapTilt: settings.swapTilt,
+        touchControls: settings.touchControls,
       ),
       words: round.words,
       onEvent: _onEvent,
@@ -120,6 +121,12 @@ class GameController extends Notifier<GameState> {
     _publish();
   }
 
+  /// A tap on the right (correct) or left (skip) half of the screen.
+  void touch({required bool correct}) {
+    _engine.onTouch(correct: correct);
+    _publish();
+  }
+
   /// Debug controls: inject a tilt.
   void debugTilt(TiltDirection direction) {
     _engine.onTilt(direction);
@@ -138,6 +145,8 @@ class GameController extends Notifier<GameState> {
 
   void _listenToSensors({required bool simulated}) {
     _sensorSubscription?.cancel();
+    // Touch mode does not use the accelerometer at all.
+    if (_engine.config.touchControls) return;
     final stream = simulated
         ? Stream<TiltSample>.periodic(
             const Duration(milliseconds: 20),

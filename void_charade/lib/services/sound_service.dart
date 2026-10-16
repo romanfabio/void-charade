@@ -71,8 +71,15 @@ class AudioPlayersSoundPlayer implements SoundPlayer {
   Future<void> play(SoundEffect effect) async {
     await preload();
     if (_failed) return;
+    final player = _players[effect];
+    if (player == null) return;
     try {
-      await _players[effect]?.play(AssetSource(effect.assetPath));
+      // Low-latency (SoundPool) players never report that a sound finished, so
+      // audioplayers still considers it "playing" and silently ignores the next
+      // play/resume of the same effect. stop() resets that state and the old
+      // stream; the source stays loaded, so the replay is instant.
+      await player.stop();
+      await player.resume();
     } catch (_) {
       // Ignore: a missed sound is better than a crashed round.
     }

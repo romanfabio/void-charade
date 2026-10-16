@@ -85,11 +85,21 @@ class SettingsScreen extends ConsumerWidget {
                       controller.update((s) => s.copyWith(skipPenalty: v)),
                 ),
                 SwitchListTile(
+                  title: Text(l10n.touchControls),
+                  subtitle: Text(l10n.touchControlsHint),
+                  value: settings.touchControls,
+                  onChanged: (v) =>
+                      controller.update((s) => s.copyWith(touchControls: v)),
+                ),
+                SwitchListTile(
                   title: Text(l10n.swapTilt),
                   subtitle: Text(l10n.swapTiltHint),
-                  value: settings.swapTilt,
-                  onChanged: (v) =>
-                      controller.update((s) => s.copyWith(swapTilt: v)),
+                  value: settings.swapTilt && !settings.touchControls,
+                  // Tilt directions mean nothing while touch controls are on.
+                  onChanged: settings.touchControls
+                      ? null
+                      : (v) =>
+                          controller.update((s) => s.copyWith(swapTilt: v)),
                 ),
               ],
             ),

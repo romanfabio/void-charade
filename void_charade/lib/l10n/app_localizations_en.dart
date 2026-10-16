@@ -104,6 +104,13 @@ class AppLocalizationsEn extends AppLocalizations {
   String get swapTiltHint => 'Default: screen down = correct, screen up = skip';
 
   @override
+  String get touchControls => 'Touch controls';
+
+  @override
+  String get touchControlsHint =>
+      'Tap the right half of the screen for correct, the left half to skip. Tilt is turned off';
+
+  @override
   String get showAdult => 'Show 18+ categories';
 
   @override
@@ -116,6 +123,9 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get gameGetReady => 'Put the phone on your forehead!';
+
+  @override
+  String get gameGetReadyTouch => 'Get ready!';
 
   @override
   String get gameHoldUpright => 'Hold the phone upright';

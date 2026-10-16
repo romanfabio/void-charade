@@ -41,6 +41,8 @@
   "tickSound": "Final-seconds ticking",
   "swapTilt": "Swap tilt directions",
   "swapTiltHint": "Default: screen down = correct, screen up = skip",
+  "touchControls": "Touch controls",
+  "touchControlsHint": "Tap the right half of the screen for correct, the left half to skip. Tilt is turned off",
   "showAdult": "Show 18+ categories",
   "version": "Version {version}",
   "@version": {
@@ -50,6 +52,7 @@
   },
   "noWordsAvailable": "No words available for this category",
   "gameGetReady": "Put the phone on your forehead!",
+  "gameGetReadyTouch": "Get ready!",
   "gameHoldUpright": "Hold the phone upright",
   "gameResuming": "Get ready…",
   "gameCorrect": "CORRECT!",

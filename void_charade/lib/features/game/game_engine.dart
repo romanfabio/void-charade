@@ -41,6 +41,7 @@ class GameConfig {
     required this.countdownDuration,
     this.skipPenalty = false,
     this.swapTilt = false,
+    this.touchControls = false,
     this.feedbackLockout = const Duration(milliseconds: 600),
     this.timeUpDuration = const Duration(milliseconds: 1500),
     this.resumeCountdown = const Duration(seconds: 3),
@@ -53,6 +54,10 @@ class GameConfig {
 
   /// Default mapping is screen down = guessed, screen up = skipped.
   final bool swapTilt;
+
+  /// Taps (right half = guessed, left half = skipped) replace the tilt: the
+  /// accelerometer is ignored and the phone never has to be upright.
+  final bool touchControls;
 
   /// Minimum time the feedback flash stays on screen.
   final Duration feedbackLockout;
@@ -218,12 +223,12 @@ class GameEngine {
           _updateCountdownValue(_ceilSeconds(left));
         }
       case GamePhase.waitingUpright:
-        if (detector.isUpright) _showNextWord();
+        if (_ready) _showNextWord();
       case GamePhase.playing:
         _checkRoundTime();
       case GamePhase.feedback:
         if (_checkRoundTime()) return;
-        if (now >= _feedbackEndsAt && detector.isUpright) _showNextWord();
+        if (now >= _feedbackEndsAt && _ready) _showNextWord();
       case GamePhase.resuming:
         final left = _resumeEndsAt - now;
         if (left <= Duration.zero) {
@@ -240,21 +245,36 @@ class GameEngine {
 
   /// Feeds an accelerometer sample. Tilts only count while a word is on screen.
   void onSample(TiltSample sample) {
+    if (config.touchControls) return;
     final direction = detector.process(sample);
     if (direction != null) onTilt(direction);
   }
 
   /// A tilt, from the detector or injected by debug controls.
   void onTilt(TiltDirection direction) {
-    if (_suspended || _phase != GamePhase.playing || _word == null) return;
+    if (!_canAnswer) return;
 
     final guessedDirection = config.swapTilt
         ? TiltDirection.screenUp
         : TiltDirection.screenDown;
-    final outcome = direction == guessedDirection
-        ? WordOutcome.guessed
-        : WordOutcome.skipped;
+    _record(
+      direction == guessedDirection
+          ? WordOutcome.guessed
+          : WordOutcome.skipped,
+    );
+  }
 
+  /// A tap on the right ([correct]) or left half of the screen. Only counts in
+  /// touch mode, while a word is on screen.
+  void onTouch({required bool correct}) {
+    if (!config.touchControls || !_canAnswer) return;
+    _record(correct ? WordOutcome.guessed : WordOutcome.skipped);
+  }
+
+  bool get _canAnswer =>
+      !_suspended && _phase == GamePhase.playing && _word != null;
+
+  void _record(WordOutcome outcome) {
     _played.add(PlayedWord(_word!, outcome));
     _word = null;
     _lastOutcome = outcome;
@@ -294,9 +314,13 @@ class GameEngine {
 
   // ---------------------------------------------------------------------------
 
+  /// Tilt mode waits for the phone to be upright before showing a word; touch
+  /// mode never does.
+  bool get _ready => config.touchControls || detector.isUpright;
+
   void _finishCountdown() {
     _emit(GameEventKind.go);
-    if (detector.isUpright) {
+    if (_ready) {
       _showNextWord();
     } else {
       _phase = GamePhase.waitingUpright;
