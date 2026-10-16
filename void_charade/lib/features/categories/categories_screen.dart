@@ -1,6 +1,7 @@
 import 'dart:async';
 import 'dart:math' as math;
 
+import 'package:auto_size_text/auto_size_text.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
@@ -316,21 +317,31 @@ class _CategoryTile extends StatelessWidget {
                     mainAxisAlignment: MainAxisAlignment.center,
                     crossAxisAlignment: CrossAxisAlignment.center,
                     children: [
-                      Text(
-                        category.emoji,
-                        style: const TextStyle(fontSize: 38),
+                      // Names run from "Jobs" to "Monumenti e luoghi famosi":
+                      // both parts shrink to fit instead of overflowing.
+                      Flexible(
+                        child: FittedBox(
+                          fit: BoxFit.scaleDown,
+                          child: Text(
+                            category.emoji,
+                            style: const TextStyle(fontSize: 38),
+                          ),
+                        ),
                       ),
                       const SizedBox(height: 6),
-                      Text(
-                        category.nameFor(languageCode),
-                        textAlign: TextAlign.center,
-                        maxLines: 2,
-                        overflow: TextOverflow.ellipsis,
-                        style:
-                            Theme.of(context).textTheme.titleMedium?.copyWith(
-                                  color: Colors.white,
-                                  fontWeight: FontWeight.w800,
-                                ),
+                      Flexible(
+                        child: AutoSizeText(
+                          category.nameFor(languageCode),
+                          textAlign: TextAlign.center,
+                          maxLines: 2,
+                          minFontSize: 11,
+                          overflow: TextOverflow.ellipsis,
+                          style:
+                              Theme.of(context).textTheme.titleMedium?.copyWith(
+                                    color: Colors.white,
+                                    fontWeight: FontWeight.w800,
+                                  ),
+                        ),
                       ),
                     ],
                   ),

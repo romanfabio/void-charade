@@ -122,6 +122,23 @@ void main() {
     await s.shutDown();
   });
 
+  for (final language in ['en', 'it']) {
+    testWidgets('every category tile fits a narrow phone ($language)',
+        (tester) async {
+      final s = _Session(tester);
+      await s.openApp(prefs: {'appLanguage': language});
+      // 360 dp wide, like a small phone; a layout overflow fails the test.
+      tester.view.physicalSize = const Size(360, 780);
+      await tester.pump(const Duration(seconds: 1));
+      for (var i = 0; i < 40; i++) {
+        await tester.drag(find.byType(Scrollable).first, const Offset(0, -300));
+        await tester.pump(const Duration(milliseconds: 100));
+      }
+      expect(tester.takeException(), isNull);
+      await s.shutDown();
+    });
+  }
+
   testWidgets('18+ categories can be hidden from the settings', (tester) async {
     final s = _Session(tester);
     await s.openApp(prefs: {'showAdult': false});
