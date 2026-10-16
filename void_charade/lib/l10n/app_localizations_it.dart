@@ -105,6 +105,18 @@ class AppLocalizationsIt extends AppLocalizations {
       'Predefinito: schermo in basso = indovinata, schermo in alto = salta';
 
   @override
+  String get tiltSensitivity => 'Sensibilità inclinazione';
+
+  @override
+  String get tiltStrict => 'Precisa';
+
+  @override
+  String get tiltNormal => 'Normale';
+
+  @override
+  String get tiltRelaxed => 'Larga';
+
+  @override
   String get touchControls => 'Comandi touch';
 
   @override

@@ -4,6 +4,23 @@ enum AppLanguageSetting { system, it, en }
 
 enum WordLanguageSetting { sameAsApp, it, en }
 
+/// How far the phone must tilt from upright to count as a guess or a skip.
+/// [neutralDegrees] is how close to upright it must come back before the next
+/// word: always below [triggerDegrees], so one tilt is one event.
+enum TiltSensitivity {
+  strict(triggerDegrees: 60, neutralDegrees: 25),
+  normal(triggerDegrees: 50, neutralDegrees: 25),
+  relaxed(triggerDegrees: 35, neutralDegrees: 20);
+
+  const TiltSensitivity({
+    required this.triggerDegrees,
+    required this.neutralDegrees,
+  });
+
+  final double triggerDegrees;
+  final double neutralDegrees;
+}
+
 /// Bounds for the numeric settings, shared by the UI and the repository.
 abstract final class SettingsLimits {
   static const roundMin = 30;
@@ -28,6 +45,7 @@ class Settings {
     this.vibrationEnabled = true,
     this.tickEnabled = true,
     this.swapTilt = false,
+    this.tiltSensitivity = TiltSensitivity.normal,
     this.touchControls = false,
     this.showAdult = true,
   });
@@ -41,6 +59,7 @@ class Settings {
   final bool vibrationEnabled;
   final bool tickEnabled;
   final bool swapTilt;
+  final TiltSensitivity tiltSensitivity;
   final bool touchControls;
   final bool showAdult;
 
@@ -54,6 +73,7 @@ class Settings {
     bool? vibrationEnabled,
     bool? tickEnabled,
     bool? swapTilt,
+    TiltSensitivity? tiltSensitivity,
     bool? touchControls,
     bool? showAdult,
   }) {
@@ -67,6 +87,7 @@ class Settings {
       vibrationEnabled: vibrationEnabled ?? this.vibrationEnabled,
       tickEnabled: tickEnabled ?? this.tickEnabled,
       swapTilt: swapTilt ?? this.swapTilt,
+      tiltSensitivity: tiltSensitivity ?? this.tiltSensitivity,
       touchControls: touchControls ?? this.touchControls,
       showAdult: showAdult ?? this.showAdult,
     );

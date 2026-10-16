@@ -289,6 +289,27 @@ void main() {
     await s.shutDown();
   });
 
+  for (final (level, counts) in [('normal', false), ('relaxed', true)]) {
+    testWidgets('a 40 degree tilt ${counts ? 'counts' : 'is ignored'} '
+        'on $level sensitivity', (tester) async {
+      final s = _Session(tester);
+      await s.openApp(prefs: {'tiltSensitivity': level});
+      await s.startAnimals();
+      await s.advance(3200);
+      expect(find.byType(AutoSizeText), findsOneWidget);
+      final first = s.currentWord;
+
+      await s.advance(400, pitch: -40);
+      if (counts) {
+        expect(find.text('CORRECT!'), findsOneWidget);
+      } else {
+        expect(find.byType(AutoSizeText), findsOneWidget);
+        expect(s.currentWord, first);
+      }
+      await s.shutDown();
+    });
+  }
+
   testWidgets('touch controls: right half = correct, left half = skip',
       (tester) async {
     final s = _Session(tester);

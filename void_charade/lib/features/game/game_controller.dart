@@ -88,6 +88,10 @@ class GameController extends Notifier<GameState> {
         touchControls: settings.touchControls,
       ),
       words: round.words,
+      detector: TiltDetector(
+        triggerDegrees: settings.tiltSensitivity.triggerDegrees,
+        neutralDegrees: settings.tiltSensitivity.neutralDegrees,
+      ),
       onEvent: _onEvent,
     );
 

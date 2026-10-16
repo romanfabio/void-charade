@@ -278,6 +278,30 @@ abstract class AppLocalizations {
   /// **'Default: screen down = correct, screen up = skip'**
   String get swapTiltHint;
 
+  /// No description provided for @tiltSensitivity.
+  ///
+  /// In en, this message translates to:
+  /// **'Tilt sensitivity'**
+  String get tiltSensitivity;
+
+  /// No description provided for @tiltStrict.
+  ///
+  /// In en, this message translates to:
+  /// **'Strict'**
+  String get tiltStrict;
+
+  /// No description provided for @tiltNormal.
+  ///
+  /// In en, this message translates to:
+  /// **'Normal'**
+  String get tiltNormal;
+
+  /// No description provided for @tiltRelaxed.
+  ///
+  /// In en, this message translates to:
+  /// **'Relaxed'**
+  String get tiltRelaxed;
+
   /// No description provided for @touchControls.
   ///
   /// In en, this message translates to:

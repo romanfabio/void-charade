@@ -104,6 +104,18 @@ class AppLocalizationsEn extends AppLocalizations {
   String get swapTiltHint => 'Default: screen down = correct, screen up = skip';
 
   @override
+  String get tiltSensitivity => 'Tilt sensitivity';
+
+  @override
+  String get tiltStrict => 'Strict';
+
+  @override
+  String get tiltNormal => 'Normal';
+
+  @override
+  String get tiltRelaxed => 'Relaxed';
+
+  @override
   String get touchControls => 'Touch controls';
 
   @override

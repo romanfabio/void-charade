@@ -91,6 +91,19 @@ class SettingsScreen extends ConsumerWidget {
                   onChanged: (v) =>
                       controller.update((s) => s.copyWith(touchControls: v)),
                 ),
+                // Tilt options mean nothing while touch controls are on.
+                if (!settings.touchControls)
+                  _SegmentedTile<TiltSensitivity>(
+                    label: l10n.tiltSensitivity,
+                    value: settings.tiltSensitivity,
+                    options: {
+                      TiltSensitivity.strict: l10n.tiltStrict,
+                      TiltSensitivity.normal: l10n.tiltNormal,
+                      TiltSensitivity.relaxed: l10n.tiltRelaxed,
+                    },
+                    onChanged: (v) => controller
+                        .update((s) => s.copyWith(tiltSensitivity: v)),
+                  ),
                 SwitchListTile(
                   title: Text(l10n.swapTilt),
                   subtitle: Text(l10n.swapTiltHint),

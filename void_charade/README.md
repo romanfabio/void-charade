@@ -123,11 +123,18 @@ are reported as warnings only: "Mix all" removes duplicates before a round.
 
 ## Tuning the tilt
 
-Detection constants are in `lib/features/game/tilt_detector.dart`:
-`triggerDegrees` (default 50: how far the phone must tilt from upright to count)
-and `neutralDegrees` (25: how close to upright it must come back before the next
-word). The next word also needs a 600 ms pause. The pitch overlay in debug builds
-shows the live angle.
+Players choose Strict / Normal / Relaxed in Settings (`TiltSensitivity` in
+`lib/features/settings/settings.dart`). Each level is a pair of angles measured
+from upright (0°, phone on the forehead; 90° = screen flat):
+
+| Level | Trigger (tilt needed) | Back to upright within |
+| --- | --- | --- |
+| Strict | 60° | 25° |
+| Normal (default) | 50° | 25° |
+| Relaxed | 35° | 20° |
+
+The next word also needs a 600 ms pause. The pitch overlay in debug builds shows
+the live angle; the raw detector is `lib/features/game/tilt_detector.dart`.
 
 ## Project layout
 

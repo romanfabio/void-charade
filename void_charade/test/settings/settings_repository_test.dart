@@ -23,6 +23,7 @@ void main() {
       expect(s.tickEnabled, isTrue);
       expect(s.swapTilt, isFalse);
       expect(s.touchControls, isFalse);
+      expect(s.tiltSensitivity, TiltSensitivity.normal);
       expect(s.showAdult, isTrue);
     });
 
@@ -39,6 +40,7 @@ void main() {
         tickEnabled: false,
         swapTilt: true,
         touchControls: true,
+        tiltSensitivity: TiltSensitivity.relaxed,
         showAdult: false,
       );
       await repo.save(written);
@@ -53,6 +55,7 @@ void main() {
       expect(read.tickEnabled, isFalse);
       expect(read.swapTilt, isTrue);
       expect(read.touchControls, isTrue);
+      expect(read.tiltSensitivity, TiltSensitivity.relaxed);
       expect(read.showAdult, isFalse);
     });
 
