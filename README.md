@@ -7,7 +7,21 @@ the word. The group acts it out; the player guesses. Tilt the screen **down** wh
 they get it, **up** to skip, then the next word appears. When the timer runs out you
 get a results screen with every guessed, skipped and unplayed word.
 
-No ads, no analytics, no accounts, no network access. Everything is bundled in the app.
+## Free and open source
+
+Void Charade is **completely free** and **open source** ([MIT licence](LICENSE)). There is
+no catch:
+
+- no ads
+- no subscriptions, no in-app purchases, no paid "premium" categories or unlocks
+- no tracking, no analytics, no crash reporting, no third-party SDKs that phone home
+- no accounts, no sign-in, no personal data collected
+- no network access at all: it works fully offline and everything is bundled in the app
+- no hidden limits: every category, language and setting is available to everyone
+
+You can read the code, build it yourself, change it and share it.
+
+## Features
 
 - 50 categories (6 of them 18+), about **20 000 words per language**, in **Italian and English**
 - UI in Italian or English (follows the device, switchable), plus a separate "word language"
@@ -19,6 +33,16 @@ No ads, no analytics, no accounts, no network access. Everything is bundled in t
 
 > Status: v1.0.0. Single-round mode (no teams or scoreboard yet). Android builds are
 > tested on a real phone. The iOS project is set up but has not been built yet.
+
+## Compatibility
+
+| Platform | Supported versions |
+| --- | --- |
+| Android | **Android 7.0 (API 24) and newer**, up to Android 16 (API 36, the target version). Builds include ARM (64 and 32-bit) and x86-64. Tested on a real phone only. Needs an accelerometer for tilt play; without one, use *Touch controls*. |
+| iOS | iOS 15 or newer is configured, but the iOS app has **not been built or tested yet**. |
+
+The app is locked to portrait on the menus and switches to landscape during a round.
+The only permission it asks for on Android is `VIBRATE`.
 
 ## How to play
 
