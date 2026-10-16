@@ -1,0 +1,558 @@
+Apple
+Samsung
+Google
+Microsoft
+Amazon
+Facebook
+Instagram
+Netflix
+Spotify
+Tesla
+Sony
+Nintendo
+PlayStation
+Xbox
+Intel
+IBM
+HP
+Dell
+Lenovo
+Huawei
+Xiaomi
+LG
+Panasonic
+Philips
+Nokia
+Motorola
+Canon
+Nikon
+GoPro
+Kodak
+Polaroid
+Bose
+JBL
+Garmin
+Logitech
+Adobe
+Uber
+Airbnb
+PayPal
+Visa
+Mastercard
+American Express
+Coca-Cola
+Pepsi
+Sprite
+Fanta
+Red Bull
+Monster Energy
+Gatorade
+Evian
+San Pellegrino
+Sant'Anna
+Ferrarelle
+San Benedetto
+Levissima
+Acqua Panna
+Nestlé
+Nescafé
+Nespresso
+Starbucks
+McDonald's
+Burger King
+KFC
+Subway
+Pizza Hut
+Domino's
+Taco Bell
+Wendy's
+Five Guys
+Autogrill
+Roadhouse
+Old Wild West
+Haagen-Dazs
+Algida
+Magnum
+Cornetto
+Motta
+Sammontana
+Kellogg's
+Cheerios
+Pringles
+Lay's
+Doritos
+Cheetos
+Oreo
+Kit Kat
+Snickers
+Twix
+M&M's
+Skittles
+Haribo
+Toblerone
+Milka
+Lindt
+Ferrero Rocher
+Nutella
+Kinder
+Kinder Bueno
+Kinder Sorpresa
+Tic Tac
+Mentos
+Pocket Coffee
+Baci Perugina
+Bacio Perugina
+Perugina
+Lindor
+Pan di Stelle
+Mulino Bianco
+Barilla
+De Cecco
+Rummo
+Garofalo
+Divella
+Voiello
+Buitoni
+Findus
+Rio Mare
+Mutti
+Cirio
+Bonduelle
+Knorr
+Parmalat
+Granarolo
+Galbani
+Zott
+Müller
+Danone
+Yomo
+Activia
+Philadelphia
+Santal
+Plasmon
+Mellin
+Valsoia
+Saiwa
+Bauli
+Balocco
+Ringo
+Colussi
+Tuc
+Fonzies
+San Carlo
+Rocchetta
+Vitasnella
+Pomì
+Sacla
+Ponti
+Calvé
+Hellmann's
+Heinz
+Tabasco
+Kraft
+Campbell's
+Lipton
+Twinings
+Tropicana
+Capri-Sun
+Estathé
+Crodino
+Aperol
+Campari
+Cynar
+Martini
+Cinzano
+Averna
+Amaro Montenegro
+Fernet-Branca
+Ramazzotti
+Strega
+Disaronno
+Peroni
+Moretti
+Menabrea
+Nastro Azzurro
+Ceres
+Forst
+Dreher
+Heineken
+Budweiser
+Corona
+Guinness
+Jack Daniel's
+Smirnoff
+Absolut Vodka
+Bacardi
+Jägermeister
+Johnnie Walker
+Baileys
+Moët
+Dom Pérignon
+Ferrari Trento
+Bellavista
+Berlucchi
+Illy
+Lavazza
+Segafredo
+Kimbo
+Borbone
+Hausbrandt
+Vergnano
+Bialetti
+Alessi
+Smeg
+De'Longhi
+Ariete
+Candy
+Indesit
+Ariston
+Zanussi
+Electrolux
+Bosch
+Siemens
+Whirlpool
+Beko
+Dyson
+Folletto
+Vorwerk
+Lagostina
+Ballarini
+Guzzini
+Kartell
+Ikea
+Poltrona Frau
+Natuzzi
+Poltronesofà
+Mondo Convenienza
+Leroy Merlin
+Bricocenter
+Esselunga
+Coop
+Conad
+Carrefour
+Lidl
+Eurospin
+Penny Market
+Despar
+Tigotà
+Acqua e Sapone
+Mediaworld
+Unieuro
+Trony
+Euronics
+Feltrinelli
+Mondadori
+IBS
+La Rinascente
+Coin
+OVS
+Upim
+Standa
+Zara
+H&M
+Uniqlo
+Primark
+Mango
+Pull and Bear
+Bershka
+Stradivarius
+Decathlon
+Intersport
+Foot Locker
+Nike
+Adidas
+Puma
+Reebok
+Converse
+Vans
+New Balance
+Under Armour
+Skechers
+Timberland
+Dr. Martens
+Crocs
+Birkenstock
+UGG
+Asics
+Fila
+Kappa
+Lotto
+Diadora
+Superga
+Geox
+Hogan
+Tod's
+Sergio Tacchini
+Lacoste
+Levi's
+Wrangler
+Gucci
+Prada
+Chanel
+Louis Vuitton
+Hermès
+Dior
+Versace
+Armani
+Emporio Armani
+Dolce e Gabbana
+Valentino
+Fendi
+Moschino
+Missoni
+Pucci
+Ferragamo
+Roberto Cavalli
+Max Mara
+Brunello Cucinelli
+Zegna
+Etro
+Trussardi
+Furla
+Bulgari
+Diesel
+Benetton
+Stone Island
+Moncler
+Pinko
+Liu Jo
+Guess
+Replay
+Carpisa
+Piquadro
+Napapijri
+Aeronautica Militare
+Harmont and Blaine
+Gaudì
+Calzedonia
+Intimissimi
+Tezenis
+Yamamay
+Victoria's Secret
+Calvin Klein
+Tommy Hilfiger
+Ralph Lauren
+Hugo Boss
+Burberry
+Rolex
+Cartier
+Tiffany
+Swarovski
+Pandora
+Casio
+Swatch
+Seiko
+Sector
+Breil
+Ray-Ban
+Oakley
+Luxottica
+Safilo
+Persol
+Police
+Zippo
+Gillette
+Colgate
+Mentadent
+Pasta del Capitano
+Oral-B
+Listerine
+Dove
+Nivea
+Felce Azzurra
+Borotalco
+Chicco
+Prénatal
+Pampers
+Huggies
+Dixan
+Svelto
+Chante Clair
+Mastrolindo
+Napisan
+Vanish
+Lysoform
+Ajax
+Calgon
+Finish
+Coccolino
+Lenor
+Pril
+Scottex
+Kleenex
+Vicks
+Aspirina
+Tachipirina
+Moment
+Oki
+Nurofen
+Voltaren
+Maalox
+Buscopan
+Enterogermina
+Fiat
+Alfa Romeo
+Lancia
+Ferrari
+Lamborghini
+Maserati
+Pagani
+Abarth
+Iveco
+Vespa
+Piaggio
+Ape Piaggio
+Ducati
+Aprilia
+Moto Guzzi
+MV Agusta
+Benelli
+Bianchi
+Pinarello
+Colnago
+Campagnolo
+Toyota
+Honda
+Ford
+Chevrolet
+BMW
+Mercedes-Benz
+Audi
+Volkswagen
+Porsche
+Jaguar
+Land Rover
+Rolls-Royce
+Bentley
+Aston Martin
+McLaren
+Volvo
+Bugatti
+Mazda
+Nissan
+Subaru
+Hyundai
+Kia
+Jeep
+Dodge
+Harley-Davidson
+Yamaha
+Kawasaki
+Suzuki
+Boeing
+Airbus
+Alitalia
+ITA Airways
+Ryanair
+easyJet
+Emirates
+Lufthansa
+FedEx
+UPS
+DHL
+Poste Italiane
+Eni
+Agip
+Shell
+Q8
+Tamoil
+Pirelli
+Michelin
+Goodyear
+Bridgestone
+Brembo
+Magneti Marelli
+Autostrade
+Telepass
+Trenitalia
+Italo
+Frecciarossa
+Tim
+Vodafone
+Fastweb
+Iliad
+Enel
+Edison
+Sky
+Mediaset
+Rai
+La7
+Corriere della Sera
+La Repubblica
+La Gazzetta dello Sport
+Il Sole 24 Ore
+Lego
+Barbie
+Hot Wheels
+Playmobil
+Hasbro
+Mattel
+Giochi Preziosi
+Clementoni
+Dal Negro
+Cicciobello
+Furby
+Tamagotchi
+Monopoly
+Scrabble
+Cubo di Rubik
+Disney
+Pixar
+Marvel
+Warner Bros
+Universal
+Paramount
+DreamWorks
+Nickelodeon
+Cartoon Network
+Gardaland
+Mirabilandia
+Cinecittà World
+Leolandia
+Booking.com
+TripAdvisor
+Hilton
+Marriott
+Club Med
+Costa Crociere
+MSC Crociere
+Duracell
+Energizer
+Samsonite
+Tupperware
+Thermos
+Bic
+Sharpie
+Post-it
+Scotch
+Pritt
+Stabilo
+Carioca
+Faber-Castell
+Staedtler
+Moleskine
+Fabriano
+Pelikan
+Smemoranda
+Invicta
+Eastpak
+Hello Kitty
+Peppa Pig
+Pokemon
+Olivetti
+Beretta
+Fiat Panda
+Fiat 500
+Ferrero
+Gianduiotto Pernigotti
+Pernigotti
+Loacker
+Sperlari
+Venchi
+Pavesi
+Galbusera
+Rovagnati
+Fiorucci
+Citterio
+Negroni
+Vismara

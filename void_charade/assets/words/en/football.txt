@@ -1,0 +1,461 @@
+Goal
+Penalty
+Penalty shootout
+Free kick
+Corner kick
+Throw-in
+Offside
+Red card
+Yellow card
+Hat trick
+Own goal
+Header
+Volley
+Bicycle kick
+Scissor kick
+Backheel
+Nutmeg
+Dribble
+Tackle
+Slide tackle
+Cross
+Through ball
+One-two
+Long ball
+Counterattack
+Tiki-taka
+Catenaccio
+Parking the bus
+Clean sheet
+Extra time
+Golden goal
+Injury time
+Half-time
+Full-time
+Stoppage time
+Kick-off
+Referee
+Linesman
+Assistant referee
+VAR
+Goal line technology
+Penalty area
+Penalty spot
+Goal post
+Crossbar
+Corner flag
+Centre circle
+Touchline
+Dugout
+Substitute
+Captain
+Armband
+Goalkeeper
+Defender
+Centre-back
+Full-back
+Wing-back
+Sweeper
+Midfielder
+Winger
+Striker
+Forward
+Number ten
+False nine
+Playmaker
+Manager
+Head coach
+Chairman
+Ultras
+Terrace
+Season ticket
+Stadium
+Floodlights
+Scoreboard
+Matchday
+Derby
+Local derby
+North London derby
+Merseyside derby
+Manchester derby
+El Clásico
+Old Firm
+Der Klassiker
+Superclasico
+Relegation
+Promotion
+Play-offs
+Transfer window
+Transfer fee
+Loan deal
+Free transfer
+Release clause
+Bosman ruling
+Agent
+Scout
+Academy
+Youth team
+Reserve team
+Bench
+Training ground
+Boots
+Studs
+Shin pads
+Goalkeeper gloves
+Replica shirt
+Match ball
+Whistle
+Vuvuzela
+La Ola
+Mexican wave
+Chant
+Anthem
+Trophy
+Golden Boot
+Golden Ball
+Golden Glove
+Ballon d'Or
+Player of the Year
+World Cup
+European Championship
+Euros
+Copa America
+Africa Cup of Nations
+Asian Cup
+Gold Cup
+Nations League
+Confederations Cup
+Champions League
+Europa League
+Conference League
+Super Cup
+Club World Cup
+Premier League
+FA Cup
+League Cup
+Community Shield
+Championship
+La Liga
+Copa del Rey
+Bundesliga
+DFB Pokal
+Serie A
+Coppa Italia
+Ligue 1
+Eredivisie
+Primeira Liga
+Scottish Premiership
+MLS
+Brasileirão
+Copa Libertadores
+Manchester United
+Manchester City
+Liverpool
+Arsenal
+Chelsea
+Tottenham Hotspur
+Everton
+Newcastle United
+West Ham United
+Aston Villa
+Leeds United
+Leicester City
+Nottingham Forest
+Wolverhampton Wanderers
+Southampton
+Brighton
+Crystal Palace
+Fulham
+Brentford
+Sunderland
+Celtic
+Rangers
+Real Madrid
+Barcelona
+Atlético Madrid
+Sevilla
+Valencia
+Villarreal
+Athletic Bilbao
+Real Sociedad
+Real Betis
+Bayern Munich
+Borussia Dortmund
+Bayer Leverkusen
+RB Leipzig
+Schalke 04
+Hamburg
+Juventus
+AC Milan
+Inter Milan
+Napoli
+Roma
+Lazio
+Fiorentina
+Atalanta
+Torino
+Paris Saint-Germain
+Marseille
+Lyon
+Monaco
+Ajax
+PSV Eindhoven
+Feyenoord
+Benfica
+Porto
+Sporting Lisbon
+Galatasaray
+Fenerbahçe
+Beşiktaş
+Olympiacos
+Red Star Belgrade
+Shakhtar Donetsk
+Anderlecht
+Club Brugge
+Boca Juniors
+River Plate
+Flamengo
+Corinthians
+Santos
+Palmeiras
+São Paulo
+LA Galaxy
+Inter Miami
+Al Nassr
+Al Hilal
+Brazil
+Argentina
+Germany
+France
+Italy
+Spain
+England
+Netherlands
+Portugal
+Belgium
+Croatia
+Uruguay
+Mexico
+Japan
+Morocco
+Senegal
+Nigeria
+Cameroon
+Ghana
+Wales
+Scotland
+Republic of Ireland
+Lionel Messi
+Cristiano Ronaldo
+Pelé
+Diego Maradona
+Johan Cruyff
+Franz Beckenbauer
+Zinedine Zidane
+Ronaldinho
+Ronaldo Nazario
+Romário
+Neymar
+Kylian Mbappé
+Erling Haaland
+Harry Kane
+Mohamed Salah
+Kevin De Bruyne
+Luka Modric
+Karim Benzema
+Robert Lewandowski
+Zlatan Ibrahimovic
+Thierry Henry
+Dennis Bergkamp
+Eric Cantona
+David Beckham
+Wayne Rooney
+Steven Gerrard
+Frank Lampard
+Paul Scholes
+Ryan Giggs
+Roy Keane
+Gary Lineker
+Bobby Charlton
+Bobby Moore
+Geoff Hurst
+Gordon Banks
+Michael Owen
+Alan Shearer
+Paul Gascoigne
+Jude Bellingham
+Bukayo Saka
+Phil Foden
+Raheem Sterling
+Marcus Rashford
+Jack Grealish
+Declan Rice
+Virgil van Dijk
+Sadio Mané
+Didier Drogba
+Samuel Eto'o
+George Weah
+Roger Milla
+Jay-Jay Okocha
+Yaya Touré
+Andrés Iniesta
+Xavi
+Sergio Ramos
+Iker Casillas
+Carles Puyol
+Gerard Piqué
+Fernando Torres
+David Villa
+Raúl
+Luís Figo
+Eusébio
+Rui Costa
+Thomas Müller
+Manuel Neuer
+Philipp Lahm
+Miroslav Klose
+Gerd Müller
+Lothar Matthäus
+Oliver Kahn
+Michael Ballack
+Toni Kroos
+Marco Reus
+Antoine Griezmann
+Paul Pogba
+N'Golo Kanté
+Michel Platini
+Eden Hazard
+Thibaut Courtois
+Luis Suárez
+Edinson Cavani
+Diego Forlán
+Gabriel Batistuta
+Juan Román Riquelme
+Sergio Agüero
+Carlos Tévez
+Ángel Di María
+Paolo Maldini
+Gianluigi Buffon
+Francesco Totti
+Alessandro Del Piero
+Andrea Pirlo
+Roberto Baggio
+Fabio Cannavaro
+Roberto Carlos
+Cafu
+Kaká
+Rivaldo
+Zico
+Sócrates
+Garrincha
+Jairzinho
+Alex Ferguson
+Arsène Wenger
+José Mourinho
+Pep Guardiola
+Jürgen Klopp
+Carlo Ancelotti
+Brian Clough
+Bill Shankly
+Matt Busby
+Louis van Gaal
+Rafa Benítez
+Antonio Conte
+Gareth Southgate
+Old Trafford
+Anfield
+Emirates Stadium
+Stamford Bridge
+Etihad Stadium
+Wembley
+Camp Nou
+Santiago Bernabéu
+Allianz Arena
+Signal Iduna Park
+San Siro
+Maracana
+La Bombonera
+Azteca Stadium
+Parc des Princes
+Celtic Park
+Hampden Park
+Goodison Park
+Villa Park
+Hand of God
+Miracle of Istanbul
+Wembley 1966
+Maracanazo
+Battle of Berlin
+Leicester title win
+Invincibles
+The Treble
+Busby Babes
+Galacticos
+Fergie time
+Panenka
+Zidane headbutt
+Rabona
+Cruyff turn
+Stepover
+Elastico
+Mexican hat
+Wonder goal
+Golazo
+Giant killing
+Cup upset
+Shock result
+Soccer
+Ballboy
+Pitch invader
+Streaker
+Tunnel
+Handshake
+Group stage
+Knockout round
+Round of sixteen
+Quarter-final
+Semi-final
+Two-legged tie
+Away goals
+Aggregate score
+League table
+Top of the table
+Bottom of the table
+Mid-table
+Title race
+Unbeaten run
+Winning streak
+Hat-trick hero
+Brace
+Assist
+Man of the match
+Starting eleven
+Formation
+Four-four-two
+Three-five-two
+Back four
+Back three
+Diamond midfield
+Pressing
+High line
+Set piece
+Wall
+Dummy run
+Rebound
+Save
+Penalty save
+Fingertip save
+Goalmouth scramble
+Offside trap
+Late tackle
+Dive
+Simulation
+Dissent
+Time wasting
+Handball
+Foul
+Advantage
+Drop ball
+Sending off
+Booking
+Suspension

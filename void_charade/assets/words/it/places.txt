@@ -1,0 +1,406 @@
+Cucina
+Soggiorno
+Salotto
+Camera da letto
+Cameretta
+Bagno
+Sala da pranzo
+Corridoio
+Ingresso
+Soffitta
+Mansarda
+Cantina
+Garage
+Balcone
+Terrazzo
+Veranda
+Giardino
+Cortile
+Lavanderia
+Cabina armadio
+Studio
+Ripostiglio
+Scala
+Ascensore
+Portineria
+Tetto
+Piscina
+Supermercato
+Alimentari
+Negozio di quartiere
+Mercato
+Mercatino delle pulci
+Mercato rionale
+Centro commerciale
+Grande magazzino
+Libreria
+Biblioteca
+Farmacia
+Macelleria
+Panetteria
+Forno
+Pasticceria
+Gelateria
+Fioraio
+Barbiere
+Parrucchiere
+Centro estetico
+Studio di tatuaggi
+Lavanderia a gettoni
+Tintoria
+Ufficio postale
+Banca
+Bancomat
+Distributore di benzina
+Autolavaggio
+Parcheggio
+Officina
+Ferramenta
+Negozio di animali
+Negozio di giocattoli
+Negozio di dischi
+Gioielleria
+Calzoleria
+Negozio di scarpe
+Negozio di abbigliamento
+Mercatino dell'usato
+Edicola
+Tabaccheria
+Distributore automatico
+Ristorante
+Pizzeria
+Trattoria
+Osteria
+Agriturismo
+Rosticceria
+Paninoteca
+Tavola calda
+Fast food
+Bar
+Bar sotto casa
+Caffetteria
+Enoteca
+Pub
+Discoteca
+Birreria
+Mensa
+Chiosco
+Furgone dei panini
+Ospedale
+Pronto soccorso
+Sala operatoria
+Sala d'attesa
+Studio dentistico
+Ambulatorio
+Studio del medico
+Clinica veterinaria
+Reparto maternità
+Obitorio
+Ambulanza
+Questura
+Commissariato
+Caserma dei carabinieri
+Caserma dei pompieri
+Carcere
+Tribunale
+Municipio
+Comune
+Ambasciata
+Parlamento
+Chiesa
+Duomo
+Cattedrale
+Basilica
+Moschea
+Sinagoga
+Tempio
+Monastero
+Convento
+Cimitero
+Cappella
+Oratorio
+Sagrestia
+Campanile
+Scuola
+Aula
+Cortile della scuola
+Asilo
+Università
+Aula magna
+Palestra
+Segreteria
+Presidenza
+Laboratorio di scienze
+Sala professori
+Spogliatoio
+Biblioteca universitaria
+Collegio
+Ufficio
+Sala riunioni
+Reception
+Open space
+Fabbrica
+Magazzino
+Cantiere
+Azienda agricola
+Fienile
+Stalla
+Pollaio
+Vigneto
+Frutteto
+Uliveto
+Oliveto
+Campo di grano
+Prato
+Bosco
+Foresta
+Giungla
+Deserto
+Montagna
+Vulcano
+Grotta
+Valle
+Canyon
+Cascata
+Fiume
+Lago
+Stagno
+Palude
+Isola
+Spiaggia
+Scogliera
+Barriera corallina
+Ghiacciaio
+Pista da sci
+Rifugio
+Baita
+Sorgente termale
+Terme
+Parco
+Orto botanico
+Zoo
+Acquario
+Parco divertimenti
+Parco acquatico
+Luna park
+Circo
+Montagne russe
+Ruota panoramica
+Casa stregata
+Cinema
+Teatro
+Teatro dell'opera
+Sala concerti
+Stadio
+Palazzetto dello sport
+Campo da calcio
+Campo da tennis
+Campo da basket
+Campo da golf
+Campo da beach volley
+Bocciofila
+Pista da bowling
+Pista di pattinaggio
+Skatepark
+Piscina comunale
+Centro sportivo
+Studio di yoga
+Ring
+Autodromo
+Pista di go kart
+Casinò
+Sala giochi
+Museo
+Galleria d'arte
+Pinacoteca
+Planetario
+Osservatorio
+Castello
+Palazzo
+Reggia
+Fortezza
+Faro
+Mulino a vento
+Piramide
+Colosseo
+Ponte
+Galleria
+Grattacielo
+Torre
+Statua
+Fontana
+Piazza
+Piazza del paese
+Centro storico
+Via principale
+Incrocio
+Rotonda
+Strisce pedonali
+Marciapiede
+Fermata dell'autobus
+Stazione
+Binario
+Biglietteria
+Aeroporto
+Sala partenze
+Dogana
+Pista di atterraggio
+Torre di controllo
+Porto
+Porticciolo
+Molo
+Cantiere navale
+Stazione della metro
+Fermata del tram
+Posteggio dei taxi
+Autostrada
+Autogrill
+Casello
+Area di sosta
+Pista ciclabile
+Campeggio
+Villaggio turistico
+Albergo
+Hotel
+Ostello
+Bed and breakfast
+Pensione
+Suite
+Centro benessere
+Sauna
+Stabilimento balneare
+Lido
+Capanno sulla spiaggia
+Lungomare
+Pontile
+Passeggiata
+Circolo nautico
+Circolo del golf
+Oratorio parrocchiale
+Circolo
+Centro città
+Periferia
+Paese
+Borgo
+Frazione
+Città fantasma
+Sul tetto
+Scala antincendio
+Foyer del cinema
+Camerino
+Dietro le quinte
+Sala di registrazione
+Studio televisivo
+Redazione
+Set cinematografico
+Cabina fotografica
+Laboratorio
+Stazione spaziale
+Luna
+Marte
+Sottomarino
+Astronave
+Piattaforma petrolifera
+Miniera
+Cava
+Centrale elettrica
+Parco eolico
+Diga
+Serbatoio
+Acquedotto
+Fogna
+Discarica
+Isola ecologica
+Autodemolizione
+Deposito degli autobus
+Hangar
+Eliporto
+Base militare
+Bunker
+Trincea
+Caserma
+Rifugio antiaereo
+Igloo
+Tenda
+Baita di montagna
+Villa
+Villetta
+Cascina
+Casolare
+Trullo
+Appartamento
+Attico
+Monolocale
+Casa popolare
+Casa a schiera
+Palazzo condominiale
+Camper
+Casa galleggiante
+Labirinto
+Passaggio segreto
+Prigione sotterranea
+Sala del trono
+Ponte levatoio
+Fossato
+Torretta
+Sala da ballo
+Dispensa
+Cella frigorifera
+Pescheria
+Borgo di pescatori
+Friggitoria
+Ristorante cinese
+Sushi bar
+Kebabbaro
+Hamburgeria
+Bar sulla spiaggia
+Locale notturno
+Cocktail bar
+Salone parrocchiale
+Sala bingo
+Sala scommesse
+Ottico
+Fisioterapista
+Centro sportivo comunale
+Parete da arrampicata
+Parco giochi
+Parco avventura
+Escape room
+Fattoria didattica
+Oasi naturale
+Parco nazionale
+Area picnic
+Gazebo
+Pergolato
+Orto
+Roseto
+Laghetto
+Pozzo
+Cabina telefonica
+Cassetta della posta
+Pensilina
+Sottopassaggio
+Cavalcavia
+Passerella
+Vicolo cieco
+Vicolo
+Uscita di emergenza
+Servizi igienici
+Ufficio oggetti smarriti
+Punto informazioni
+Guardaroba del teatro
+Concessionaria
+Negozio di mobili
+Negozio di souvenir
+Duty free
+Cartoleria
+Negozio di elettronica
+Negozio di telefonia
+Internet point
+Fumetteria
+Negozio di antiquariato
+Casa d'aste
+Fiera
+Mercatino di Natale
+Casa di Babbo Natale
+Parrocchia

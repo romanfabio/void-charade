@@ -1,0 +1,437 @@
+Running
+Jogging
+Sprinting
+Walking
+Marching
+Tiptoeing
+Skipping
+Hopping
+Jumping
+Jumping jacks
+Climbing
+Crawling
+Swimming
+Diving
+Dancing
+Spinning
+Twirling
+Stretching
+Yawning
+Sneezing
+Coughing
+Hiccuping
+Laughing
+Giggling
+Crying
+Sobbing
+Smiling
+Winking
+Blinking
+Frowning
+Whistling
+Humming
+Singing
+Shouting
+Whispering
+Snoring
+Sleeping
+Sleepwalking
+Dreaming
+Waking up
+Getting out of bed
+Making the bed
+Brushing teeth
+Flossing
+Gargling
+Washing your face
+Taking a shower
+Taking a bath
+Drying your hair
+Brushing hair
+Shaving
+Putting on makeup
+Painting nails
+Getting dressed
+Tying shoelaces
+Buttoning a shirt
+Zipping a coat
+Putting on a hat
+Putting on socks
+Trying on shoes
+Ironing a shirt
+Folding laundry
+Hanging washing
+Sweeping the floor
+Mopping the floor
+Vacuuming
+Dusting
+Washing dishes
+Drying dishes
+Taking out the trash
+Watering plants
+Mowing the lawn
+Raking leaves
+Digging a hole
+Planting a tree
+Shovelling snow
+Building a snowman
+Making a snow angel
+Having a snowball fight
+Sledding
+Skiing
+Snowboarding
+Ice skating
+Rollerblading
+Skateboarding
+Cycling
+Riding a horse
+Riding a motorbike
+Driving a car
+Parking a car
+Changing a tyre
+Pumping petrol
+Washing a car
+Rowing a boat
+Paddling a canoe
+Sailing
+Surfing
+Fishing
+Snorkelling
+Scuba diving
+Water skiing
+Sunbathing
+Building a sandcastle
+Skipping stones
+Camping
+Pitching a tent
+Roasting marshmallows
+Hiking
+Rock climbing
+Abseiling
+Bungee jumping
+Skydiving
+Paragliding
+Parkour
+Cartwheel
+Somersault
+Handstand
+Backflip
+Push-ups
+Sit-ups
+Squats
+Lifting weights
+Doing yoga
+Meditating
+Doing the splits
+Playing hopscotch
+Skipping rope
+Hula hooping
+Playing hide and seek
+Playing tag
+Piggyback ride
+Arm wrestling
+Thumb wrestling
+Tug of war
+Playing leapfrog
+Blowing bubbles
+Flying a kite
+Throwing a frisbee
+Throwing a ball
+Catching a ball
+Kicking a ball
+Juggling
+Spinning a plate
+Hitting a piñata
+Blowing out candles
+Blowing up a balloon
+Popping a balloon
+Opening a present
+Wrapping a gift
+Decorating a tree
+Carving a pumpkin
+Trick or treating
+Hugging
+Kissing
+Shaking hands
+High five
+Waving
+Saluting
+Bowing
+Curtsying
+Clapping
+Applauding
+Pointing
+Nodding
+Shrugging
+Facepalm
+Thumbs up
+Fist bump
+Hitchhiking
+Begging
+Praying
+Proposing
+Getting married
+Slow dancing
+Flirting
+Texting
+Taking a selfie
+Taking a photo
+Answering the phone
+Making a phone call
+Typing
+Scrolling a phone
+Playing video games
+Playing guitar
+Playing piano
+Playing drums
+Playing the trumpet
+Playing the violin
+Conducting an orchestra
+Singing karaoke
+Headbanging
+Air guitar
+Moonwalking
+Breakdancing
+Twerking
+Doing the Macarena
+Doing the robot
+Reading a book
+Writing a letter
+Drawing a picture
+Painting a wall
+Painting a portrait
+Sculpting clay
+Knitting
+Sewing a button
+Crocheting
+Doing a puzzle
+Playing chess
+Playing cards
+Shuffling cards
+Rolling dice
+Playing poker
+Playing darts
+Playing pool
+Bowling
+Playing golf
+Putting a golf ball
+Playing tennis
+Serving a tennis ball
+Playing table tennis
+Playing badminton
+Playing basketball
+Slam dunk
+Shooting a penalty
+Scoring a goal
+Heading a ball
+Throwing a javelin
+Throwing the discus
+Pole vault
+Hurdling
+Weightlifting
+Boxing
+Karate chop
+Fencing
+Archery
+Shooting a bow
+Throwing a punch
+Slapping
+Tickling
+Pinching
+Poking
+Pushing
+Pulling
+Lifting a box
+Carrying a heavy bag
+Dragging a suitcase
+Pushing a trolley
+Pushing a pram
+Rocking a baby
+Changing a nappy
+Feeding a baby
+Burping a baby
+Bottle feeding
+Walking the dog
+Feeding the ducks
+Petting a cat
+Milking a cow
+Shearing a sheep
+Riding a camel
+Herding sheep
+Picking apples
+Picking flowers
+Planting seeds
+Digging for treasure
+Panning for gold
+Chopping wood
+Hammering a nail
+Sawing wood
+Drilling a hole
+Screwing a bolt
+Painting a fence
+Climbing a ladder
+Fixing a pipe
+Laying bricks
+Hanging a picture
+Assembling furniture
+Reading a map
+Asking for directions
+Getting lost
+Crossing the road
+Waiting for a bus
+Hailing a taxi
+Catching a train
+Missing the train
+Running for the bus
+Packing a suitcase
+Checking in
+Going through security
+Boarding a plane
+Fastening a seatbelt
+Looking out of a window
+Eating spaghetti
+Eating soup
+Eating an ice cream
+Eating a banana
+Eating corn on the cob
+Drinking through a straw
+Drinking tea
+Drinking coffee
+Chewing gum
+Blowing a bubble
+Licking a lollipop
+Peeling an orange
+Cracking a nut
+Cutting a cake
+Flipping a pancake
+Tasting wine
+Toasting
+Cooking
+Stirring
+Chopping
+Kneading dough
+Rolling pastry
+Baking a cake
+Making a sandwich
+Making a cocktail
+Pouring a drink
+Ordering food
+Paying the bill
+Leaving a tip
+Shopping
+Pushing a shopping cart
+Haggling
+Trying on clothes
+Queueing
+Picking a lock
+Sneaking
+Spying
+Eavesdropping
+Peeking
+Hiding
+Escaping
+Chasing
+Arresting
+Handcuffing
+Interrogating
+Shooting a gun
+Defusing a bomb
+Fighting a dragon
+Swinging a sword
+Casting a spell
+Flying on a broomstick
+Riding a unicorn
+Rowing a pirate ship
+Walking the plank
+Digging a grave
+Scaring someone
+Screaming
+Fainting
+Sweating
+Shivering
+Freezing
+Melting
+Burning
+Exploding
+Falling
+Tripping
+Slipping on a banana peel
+Sliding
+Rolling down a hill
+Bouncing
+Swinging
+Seesawing
+Floating
+Flying
+Gliding
+Hovering
+Levitating
+Shrinking
+Growing
+Blowing a kiss
+Blowing your nose
+Wiping tears
+Cleaning glasses
+Scratching
+Itching
+Stumbling
+Limping
+Waddling
+Sneaking away
+Strolling
+Staggering
+Stomping
+Slamming a door
+Knocking on a door
+Ringing a doorbell
+Opening a window
+Closing the curtains
+Switching off the light
+Turning a key
+Unlocking a door
+Locking up
+Turning on the TV
+Watching television
+Changing channels
+Pressing a button
+Turning a dial
+Winding a clock
+Setting an alarm
+Hitting snooze
+Rushing
+Being late
+Waiting
+Daydreaming
+Thinking
+Wondering
+Remembering
+Forgetting
+Counting
+Measuring
+Weighing
+Stamping a passport
+Signing a document
+Voting
+Giving a speech
+Acting in a play
+Taking a bow
+Auditioning
+Directing a film
+Interviewing
+Presenting the news
+Teaching a class
+Raising a hand
+Passing a note
+Cheating on a test
+Studying
+Sharpening a pencil
+Erasing
+Doodling
+Playing the recorder
+Walking a tightrope
+Doing magic tricks
+Pulling a rabbit out
+Hypnotising
+Doing push ups
+Doing a plank
+Dribbling a ball

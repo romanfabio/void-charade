@@ -1,0 +1,368 @@
+Tom e Jerry
+Gatto Silvestro
+Titti
+Beep Beep
+Willy il Coyote
+Bugs Bunny
+Duffy Duck
+Porky Pig
+Taddeo
+Yosemite Sam
+Speedy Gonzales
+Marvin il Marziano
+Taz
+Pepé Le Pew
+Gli Antenati
+Fred Flintstone
+Barney Rubble
+I Pronipoti
+Orso Yoghi
+Bubu
+Braccio di Ferro
+Olivia
+Bruto
+Poldo
+Pantera Rosa
+Ispettore Clouseau
+Scooby-Doo
+Shaggy
+Velma
+Daphne
+Fred Jones
+Wacky Races
+Dick Dastardly
+Muttley
+Top Cat
+Snagglepuss
+Hong Kong Phooey
+I Puffi
+Grande Puffo
+Puffetta
+Gargamella
+Birba
+Garfield
+Odie
+Calimero
+La Linea
+Il Signor Rossi
+Topo Gigio
+La Pimpa
+Lupo Alberto
+Cattivik
+Rat-Man
+Winx Club
+W.I.T.C.H.
+Monster Allergy
+Huntik
+Gormiti
+Geronimo Stilton
+Masha e Orso
+Peppa Pig
+George Pig
+Bluey
+PJ Masks
+Paw Patrol
+Super Wings
+Pingu
+Bob aggiustatutto
+Thomas e i suoi amici
+Fireman Sam
+Postino Pat
+Il Gatto Felix
+Betty Boop
+Woody Woodpecker
+Casper
+Mighty Mouse
+Mister Magoo
+Droopy
+Roger Rabbit
+Dennis la minaccia
+Snoopy
+Charlie Brown
+Linus
+Woodstock
+Asterix
+Obelix
+Idefix
+Tintin
+Lucky Luke
+Corto Maltese
+Titeuf
+Barbapapà
+L'ape Maia
+Vicky il vikingo
+Heidi
+Remi
+Marco
+Anna dai capelli rossi
+Candy Candy
+Lady Oscar
+Sandy dai mille colori
+Belle e Sebastien
+Nils Holgersson
+Willy Fog
+Dartagnan
+Ulisse 31
+Piccolo Lord
+Georgie
+Creamy
+Magica Magica Emi
+Pollon
+Lamù
+Ranma
+Occhi di gatto
+City Hunter
+Mila e Shiro
+Hello Spank
+Tommy la stella dei Giants
+Rocky Joe
+Slam Dunk
+Holly e Benji
+Captain Tsubasa
+Rossana
+Siamo fatti così
+Goldrake
+Actarus
+Mazinga Z
+Il grande Mazinga
+Jeeg Robot d'acciaio
+Daitarn 3
+Gaiking
+Getter Robot
+Daltanius
+Capitan Harlock
+Space Battleship Yamato
+Conan il ragazzo del futuro
+Lupin III
+Jigen
+Goemon
+Zenigata
+Ken il guerriero
+Kenshiro
+I Cavalieri dello zodiaco
+Seiya
+Sailor Moon
+Tuxedo Mask
+Dragon Ball
+Goku
+Vegeta
+Gohan
+Piccolo
+Freezer
+Bulma
+Muten Roshi
+Naruto
+Sasuke
+Kakashi
+One Piece
+Zoro
+Nami
+Sanji
+Chopper
+Bleach
+Death Note
+Light Yagami
+Ryuk
+L'attacco dei giganti
+Mikasa
+Fullmetal Alchemist
+My Hero Academia
+Deku
+All Might
+Demon Slayer
+Tanjiro
+Nezuko
+Jujutsu Kaisen
+Hunter x Hunter
+One Punch Man
+Saitama
+Cowboy Bebop
+Evangelion
+Gundam
+Pokémon
+Pikachu
+Charizard
+Bulbasaur
+Squirtle
+Jigglypuff
+Meowth
+Mewtwo
+Eevee
+Snorlax
+Psyduck
+Team Rocket
+Digimon
+Yu-Gi-Oh!
+Beyblade
+Doraemon
+Nobita
+Shin Chan
+Detective Conan
+Speed Racer
+Astro Boy
+Devilman
+L'uomo tigre
+Il mio vicino Totoro
+Totoro
+La città incantata
+Principessa Mononoke
+Il castello errante di Howl
+Kiki consegne a domicilio
+Ponyo sulla scogliera
+Il castello nel cielo
+Studio Ghibli
+Senza Volto
+Calcifer
+Chihiro
+Jiji
+Catbus
+I Simpson
+Homer Simpson
+Marge Simpson
+Bart Simpson
+Lisa Simpson
+Maggie Simpson
+Mr. Burns
+Moe
+Ned Flanders
+Krusty il clown
+Apu
+Milhouse
+I Griffin
+Peter Griffin
+Stewie
+Quagmire
+South Park
+Eric Cartman
+Butters
+Futurama
+Fry
+Leela
+Bender
+Zoidberg
+American Dad
+Stan Smith
+King of the Hill
+Hank Hill
+Bob's Burgers
+Rick e Morty
+Beavis e Butt-Head
+Daria
+BoJack Horseman
+Archer
+Aqua Teen Hunger Force
+Space Ghost
+SpongeBob
+Patrick
+Mr. Krab
+Plankton
+Bikini Bottom
+Avatar La leggenda di Aang
+Aang
+Katara
+Sokka
+Toph
+Zuko
+Iroh
+Appa
+Il laboratorio di Dexter
+Dee Dee
+Johnny Bravo
+Mucca e Pollo
+Le Superchicche
+Bolla
+Dolce
+Bellezza
+Mojo Jojo
+Coraggio il cane fifone
+Samurai Jack
+Fantagenitori
+Timmy Turner
+Cosmo e Wanda
+Danny Phantom
+Jimmy Neutron
+Rugrats
+Tommy Pickles
+Hey Arnold
+Ren e Stimpy
+Rocko
+CatDog
+Invader Zim
+Adventure Time
+Principessa Bubblegum
+Re Ghiaccio
+Regular Show
+Steven Universe
+Gumball
+Teen Titans
+Beast Boy
+Starfire
+Ben 10
+Kim Possible
+Phineas e Ferb
+Perry l'ornitorinco
+Dottor Doofenshmirtz
+Gravity Falls
+Dipper
+Alvin Superstar
+Alvin
+Gli Snorky
+Dogtanian
+Le Tartarughe Ninja
+Leonardo
+Donatello
+Raffaello
+Michelangelo
+Splinter
+Shredder
+Transformers
+Optimus Prime
+Megatron
+Bumblebee
+He-Man
+Skeletor
+She-Ra
+Thundercats
+Lion-O
+G.I. Joe
+Care Bears
+My Little Pony
+Rainbow Dash
+Strawberry Shortcake
+Ispettore Gadget
+Dottor Artiglio
+Darkwing Duck
+DuckTales
+Zio Paperone
+Cip e Ciop agenti speciali
+Animaniacs
+Pinky e Brain
+Tiny Toons
+Gargoyles
+Capitan Planet
+Wallace e Gromit
+Shaun
+Galline in fuga
+Shrek
+Ciuchino
+Il gatto con gli stivali
+Madagascar
+Alex il leone
+King Julien
+Kung Fu Panda
+Po
+Cattivissimo me
+Minions
+Gru
+Sing
+Trolls
+Poppy
+Dragon Trainer
+Hiccup
+Sdentato
+Il Grinch
+Il gatto col cappello
+Hotel Transylvania
+Ice Age
+Scrat
+Squiddi

@@ -1,0 +1,433 @@
+Aereo
+Elicottero
+Mongolfiera
+Deltaplano
+Aliante
+Jumbo
+Jet privato
+Idrovolante
+Drone
+Razzo
+Navetta spaziale
+Treno
+Treno ad alta velocità
+Frecciarossa
+Italo
+Locomotiva a vapore
+Metropolitana
+Tram
+Funivia
+Funicolare
+Monorotaia
+Autobus
+Pullman
+Navetta
+Corriera
+Taxi
+Tassista
+Limousine
+Risciò
+Tuk-tuk
+Gondola
+Automobile
+Cabriolet
+Auto sportiva
+Pick-up
+Monovolume
+Camper
+Roulotte
+Camion
+Trattore
+Autopompa dei pompieri
+Ambulanza
+Volante della polizia
+Carro attrezzi
+Camion della spazzatura
+Bicicletta
+Tandem
+Monopattino
+Monopattino elettrico
+Motocicletta
+Motorino
+Scooter
+Skateboard
+Pattini a rotelle
+Carrozza
+Slitta
+Slitta trainata dai cani
+Cammello
+Traghetto
+Nave da crociera
+Barca a vela
+Yacht
+Motoscafo
+Canoa
+Kayak
+Barca a remi
+Gommone
+Sottomarino
+Hovercraft
+Moto d'acqua
+Scialuppa di salvataggio
+Rimorchiatore
+Nave cargo
+Petroliera
+Rompighiaccio
+Aeroporto
+Pista di atterraggio
+Torre di controllo
+Gate d'imbarco
+Carta d'imbarco
+Passaporto
+Visto
+Dogana
+Controllo passaporti
+Controllo di sicurezza
+Metal detector
+Scanner a raggi X
+Ritiro bagagli
+Carrello portabagagli
+Bagaglio a mano
+Valigia
+Zaino
+Borsone
+Marsupio
+Cuscino da viaggio
+Etichetta del bagaglio
+Bagaglio smarrito
+Bagaglio in eccesso
+Banco del check-in
+Duty free
+Programma fedeltà
+Prima classe
+Classe business
+Classe economica
+Posto vicino al finestrino
+Posto corridoio
+Posto centrale
+Uscita di emergenza
+Cintura di sicurezza
+Giubbotto di salvataggio
+Maschera dell'ossigeno
+Assistente di volo
+Hostess
+Steward
+Pilota
+Copilota
+Cabina di pilotaggio
+Scatola nera
+Turbolenza
+Decollo
+Atterraggio
+Scalo
+Jet lag
+Volo in ritardo
+Volo cancellato
+Coincidenza persa
+Volo notturno
+Overbooking
+Pasto in aereo
+Film di bordo
+Oblò
+Tavolino ribaltabile
+Cappelliera
+Sacchetto per il mal d'aria
+Dirottamento
+Paracadute
+Paracadutismo
+Bungee jumping
+Parapendio
+Biglietto
+Biglietto di andata e ritorno
+Biglietto di sola andata
+Biglietto del treno
+Abbonamento
+Orario dei treni
+Binario
+Stazione ferroviaria
+Fermata dell'autobus
+Autostazione
+Obliteratrice
+Biglietteria automatica
+Controllore
+Capotreno
+Macchinista
+Vagone letto
+Carrozza ristorante
+Binari
+Passaggio a livello
+Capostazione
+Treno regionale
+Intercity
+Interregionale
+Treno dei pendolari
+Orient Express
+Tunnel della Manica
+Canale di Panama
+Canale di Suez
+Ponte sullo Stretto di Messina
+Ponte Golden Gate
+Ponte di Brooklyn
+Autostrada
+Casello
+Pedaggio
+Telepass
+Rotonda
+Semaforo
+Strisce pedonali
+Segnale di stop
+Limite di velocità
+Autovelox
+Multa per eccesso di velocità
+Multa per divieto di sosta
+Parchimetro
+Parcheggio
+Box auto
+Distributore di benzina
+Stazione di servizio
+Colonnina di ricarica
+Autolavaggio
+Autonoleggio
+Patente
+Foglio rosa
+Esame di guida
+Istruttore di guida
+Autoscuola
+Viaggio in macchina
+Ingorgo
+Ora di punta
+Deviazione
+Strada chiusa
+Lavori in corso
+Buca
+Gomma bucata
+Ruota di scorta
+Cavi per la batteria
+Guasto
+Soccorso stradale
+Autostop
+Car sharing
+Autista designato
+Drive-in
+Colpo di clacson
+Tergicristalli
+Specchietto retrovisore
+Volante
+Cambio
+Vano portaoggetti
+Cruscotto
+Tachimetro
+Contachilometri
+Indicatore del carburante
+Luci di emergenza
+Cintura
+Airbag
+Bagagliaio
+Portapacchi
+Targa
+Navigatore
+Mappa stradale
+Bussola
+Atlante
+Mappamondo
+Guida turistica
+Frasario
+Agenzia di viaggi
+Assicurazione di viaggio
+Adattatore da viaggio
+Cambio valuta
+Souvenir
+Negozio di souvenir
+Cartolina
+Globo di neve
+Calamita da frigo
+Album di fotografie
+Bastone per selfie
+Visita guidata
+Giro turistico
+Bus turistico
+Tour a piedi
+Viaggio organizzato
+Viaggio zaino in spalla
+Ostello
+Albergo
+Motel
+Bed and breakfast
+Agriturismo
+Camping
+Hall dell'albergo
+Receptionist
+Facchino
+Concierge
+Servizio in camera
+Minibar
+Tessera della camera
+Non disturbare
+Piscina dell'hotel
+Colazione a buffet
+Check-in
+Check-out
+Prenotazione
+Camera doppia
+Suite
+Suite nuziale
+Safari
+Spedizione
+Pellegrinaggio
+Traversata
+Odissea
+Viaggio
+Avventura
+Esploratore
+Nave pirata
+Mappa del tesoro
+Messaggio in bottiglia
+Faro
+Porto
+Porticciolo
+Molo
+Ancora
+Timone
+Capitano
+Marinaio
+Mozzo
+Oblò della nave
+Passerella
+Salvagente
+Coffa
+Albero maestro
+Vela
+Pagaia
+Remo
+Mal di mare
+Buon viaggio
+Titanic
+Mayflower
+Santa Maria
+Apollo 11
+Fratelli Wright
+Amelia Earhart
+Charles Lindbergh
+Concorde
+Boeing 747
+Airbus A380
+Air Force One
+Route 66
+Via della Seta
+Transiberiana
+Muraglia cinese
+Fiumicino
+Malpensa
+Linate
+Ciampino
+Stazione Termini
+Stazione Centrale
+Metro di Roma
+Metro di Milano
+Passante ferroviario
+Circumvesuviana
+Vaporetto
+Traghetto per la Sardegna
+Traghetto per la Sicilia
+Alitalia
+Ryanair
+Trenitalia
+Freccia Rossa
+Tangenziale
+Raccordo anulare
+Autogrill
+Area di servizio
+Salerno-Reggio Calabria
+Strada statale
+Cantiere in autostrada
+Esodo estivo
+Controesodo
+Bollino nero
+Tamponamento
+Incidente stradale
+Constatazione amichevole
+Targa straniera
+Zona a traffico limitato
+Strisce blu
+Passo carrabile
+Divieto di sosta
+Senso unico
+Contromano
+Sorpasso
+Freccia
+Retromarcia
+Marmitta
+Frizione
+Acceleratore
+Freno a mano
+Pneumatici invernali
+Catene da neve
+Scala mobile
+Ascensore
+Tapis roulant
+Porta girevole
+Tornello
+Oggetti smarriti
+Ufficio informazioni
+Tabellone delle partenze
+Sala arrivi
+Sala d'attesa
+Distributore automatico
+Deposito bagagli
+Portabagagli
+Navetta aeroportuale
+Parcheggio scambiatore
+Pista ciclabile
+Marciapiede
+Cavalcavia
+Sottopassaggio
+Galleria
+Ponte
+Ponte levatoio
+Terminal dei traghetti
+Porto crocieristico
+Escursione a terra
+Cabina
+Sdraio
+Tavolo del capitano
+Esercitazione di salvataggio
+Stazione spaziale
+Allunaggio
+Astronauta
+Rover su Marte
+Macchina del tempo
+Tappeto volante
+Scopa volante
+Slittino
+Skilift
+Seggiovia
+Motoslitta
+Cavallo
+Diligenza
+Carro coperto
+Pony Express
+Biga
+Portantina
+Dirigibile
+Pallone aerostatico
+Parasailing
+Tuta alare
+Vespa
+Ape
+Fiat Panda
+Fiat Uno
+Fiat 500
+Topolino
+Lambretta
+Cinquecento
+Treno di notte
+Cuccetta
+Auto elettrica
+Auto a noleggio
+Bici elettrica
+Bicicletta da corsa
+Casco
+Sellino
+Campanello
+Freni a disco
+Cambio di velocità

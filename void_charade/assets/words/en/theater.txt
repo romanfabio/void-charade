@@ -1,0 +1,447 @@
+Hamlet
+Macbeth
+Romeo and Juliet
+Othello
+King Lear
+A Midsummer Night's Dream
+The Tempest
+Twelfth Night
+Much Ado About Nothing
+The Taming of the Shrew
+Julius Caesar
+Richard III
+Henry V
+The Merchant of Venice
+As You Like It
+Waiting for Godot
+Death of a Salesman
+A Streetcar Named Desire
+Our Town
+The Crucible
+Long Day's Journey Into Night
+A Doll's House
+Pygmalion
+An Inspector Calls
+The Mousetrap
+Oedipus Rex
+Antigone
+Medea
+Faust
+Cyrano de Bergerac
+Tartuffe
+The Glass Menagerie
+The Birthday Party
+Rosencrantz and Guildenstern
+Noises Off
+Arsenic and Old Lace
+Blithe Spirit
+Peter Pan
+Pantomime
+Cinderella pantomime
+Aladdin pantomime
+Oh yes he is!
+Behind you!
+The Phantom of the Opera
+Les Miserables
+Cats
+Evita
+Jesus Christ Superstar
+Starlight Express
+Sunset Boulevard
+Miss Saigon
+Mamma Mia!
+We Will Rock You
+Matilda
+Wicked
+The Lion King
+Hamilton
+Rent
+Chicago
+Cabaret
+Grease
+Hairspray
+Oklahoma!
+Carousel
+South Pacific
+The King and I
+The Sound of Music
+My Fair Lady
+West Side Story
+Fiddler on the Roof
+Oliver!
+Annie
+Guys and Dolls
+Singin' in the Rain
+Hello Dolly!
+Funny Girl
+Gypsy
+Kiss Me Kate
+Anything Goes
+42nd Street
+A Chorus Line
+Dreamgirls
+Jersey Boys
+The Book of Mormon
+Avenue Q
+Spamalot
+The Producers
+Spring Awakening
+Dear Evan Hansen
+Come From Away
+Six the Musical
+Little Shop of Horrors
+Rocky Horror Show
+Sweeney Todd
+Into the Woods
+Company
+Follies
+Beauty and the Beast musical
+Mary Poppins
+Billy Elliot
+School of Rock
+Newsies
+Chitty Chitty Bang Bang
+Bugsy Malone
+Shrek the Musical
+Waitress
+Kinky Boots
+Once
+Pippin
+Godspell
+Hair
+Tommy
+La Traviata
+Carmen
+La Boheme
+Madama Butterfly
+Tosca
+Aida
+Rigoletto
+Il Trovatore
+Otello
+Falstaff
+Nabucco
+Turandot
+Don Giovanni
+The Marriage of Figaro
+The Magic Flute
+Cosi fan tutte
+The Barber of Seville
+Lucia di Lammermoor
+Norma
+Don Carlos
+The Ring Cycle
+Tristan and Isolde
+Lohengrin
+Parsifal
+The Flying Dutchman
+Fidelio
+Salome
+Die Fledermaus
+Porgy and Bess
+Eugene Onegin
+Boris Godunov
+Orfeo
+Dido and Aeneas
+Opera
+Operetta
+Aria
+Soprano
+Tenor
+Baritone
+Diva
+Libretto
+Overture
+Chorus
+Opera house
+La Scala
+Metropolitan Opera
+Sydney Opera House
+Royal Opera House
+Swan Lake
+The Nutcracker
+Sleeping Beauty
+Giselle
+Romeo and Juliet ballet
+Don Quixote ballet
+La Sylphide
+Coppelia
+Cinderella ballet
+The Firebird
+The Rite of Spring
+Bolero
+Prima ballerina
+Ballet shoes
+Pirouette
+Pointe shoes
+Tutu
+Plie
+Grand jete
+Arabesque
+Pas de deux
+Corps de ballet
+Choreography
+Choreographer
+Contemporary dance
+Modern dance
+Tap dance
+Jazz dance
+Flamenco
+Irish dance
+Riverdance
+Ballroom
+Tango show
+Can-can
+Burlesque
+Cabaret show
+Vaudeville
+Music hall
+Variety show
+Talent show
+Open mic
+Stand-up comedy
+Comedian
+Comedy club
+Improv comedy
+Sketch comedy
+Punchline
+Heckler
+Opening act
+Headliner
+Crowd work
+One-man show
+One-woman show
+Monologue
+Soliloquy
+Aside
+Cue
+Cue card
+Script
+Screenplay
+Playwright
+Director
+Stage manager
+Producer
+Understudy
+Leading man
+Leading lady
+Supporting actor
+Cast
+Ensemble
+Casting call
+Audition
+Callback
+Rehearsal
+Dress rehearsal
+Tech rehearsal
+Stage fright
+Opening night
+Closing night
+Matinee
+Premiere
+Encore
+Curtain call
+Standing ovation
+Applause
+Bravo!
+Break a leg
+The Scottish Play
+Backstage
+Wings
+Offstage
+Onstage
+Center stage
+Downstage
+Upstage
+Stage left
+Stage right
+Proscenium
+Orchestra pit
+Balcony
+Gallery
+Box seats
+Front row
+Stalls
+Dress circle
+Ticket booth
+Box office
+Playbill
+Usher
+Intermission
+Interval
+Curtain
+Red curtain
+Spotlight
+Footlights
+Limelight
+Stage lights
+Follow spot
+Lighting rig
+Sound check
+Microphone
+Headset mic
+Prop
+Props table
+Set design
+Set piece
+Backdrop
+Scenery
+Trapdoor
+Revolving stage
+Fly system
+Rigging
+Stagehand
+Costume
+Costume designer
+Wardrobe
+Makeup artist
+Wig
+Greasepaint
+Mask
+Greek mask
+Commedia dell'arte
+Harlequin
+Pierrot
+Punch and Judy
+Puppet show
+Shadow puppets
+Marionettes
+Ventriloquist
+Mime
+Clown
+Pantomime horse
+Greek tragedy
+Greek chorus
+Comedy
+Tragedy
+Drama
+Farce
+Melodrama
+Musical
+Revue
+Satire
+Black comedy
+Absurdist theater
+Shakespeare
+Globe Theatre
+West End
+Broadway
+Off-Broadway
+Fringe festival
+Edinburgh Fringe
+Tony Awards
+Olivier Awards
+Circus
+Big top
+Ringmaster
+Trapeze
+Trapeze artist
+Tightrope walker
+Acrobat
+Contortionist
+Juggler
+Fire eater
+Sword swallower
+Strongman
+Bearded lady
+Human cannonball
+Clown car
+Unicyclist
+Lion tamer
+Cirque du Soleil
+Barnum & Bailey
+Sideshow
+Carnival act
+Magician
+Magic show
+Magic wand
+Top hat
+Rabbit out of a hat
+Sawing a woman in half
+Card trick
+Sleight of hand
+Disappearing act
+Escape artist
+Houdini
+David Copperfield
+David Blaine
+Penn & Teller
+Illusionist
+Mind reader
+Hypnotist
+Levitation
+Vanishing trick
+Magic trick
+Abracadabra
+Ta-da!
+Puppeteer
+Pageant
+Nativity play
+School play
+Christmas pageant
+Passion play
+Mystery play
+Street theater
+Flash mob
+Busker
+Street performer
+Living statue
+Drag show
+Drag queen
+Lip sync battle
+Rock opera
+Orchestra
+Conductor
+Baton
+Symphony
+Concerto
+Recital
+Chamber music
+Red carpet
+Slapstick
+Pie in the face
+Banana peel
+Sold out
+Sing-along
+Cabaret singer
+Torch singer
+Crooner
+Showgirl
+Can-can dancers
+Rockettes
+Moulin Rouge
+Folies Bergere
+Las Vegas show
+Showtime
+All the world's a stage
+Alas poor Yorick
+Wherefore art thou Romeo
+Et tu Brute
+Double double toil and trouble
+Exit pursued by a bear
+Lights camera action
+Fourth wall
+Breaking the fourth wall
+Method acting
+Dramatic pause
+Stage whisper
+Overacting
+Ham actor
+Scene stealer
+Typecast
+Stage name
+Triple threat
+Child star
+Stage mom
+Bit part
+Walk-on part
+Cameo
+Prompter
+Cue the music
+Blackout
+Curtain up
+Places everyone
+Half hour call
+Opera glasses
+Opera singer
+Ballerina

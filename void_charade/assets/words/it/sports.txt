@@ -1,0 +1,344 @@
+Pallacanestro
+Basket
+Tennis
+Golf
+Nuoto
+Pugilato
+Boxe
+Pallavolo
+Baseball
+Rugby
+Cricket
+Hockey su ghiaccio
+Hockey su prato
+Tennis tavolo
+Ping pong
+Badminton
+Squash
+Pallamano
+Pallanuoto
+Tiro con l'arco
+Scherma
+Judo
+Karate
+Taekwondo
+Lotta libera
+Lotta greco-romana
+Sollevamento pesi
+Ginnastica artistica
+Ginnastica ritmica
+Tuffi
+Nuoto sincronizzato
+Canottaggio
+Canoa
+Kayak
+Vela
+Windsurf
+Kitesurf
+Surf
+Sci nautico
+Wakeboard
+Immersioni
+Apnea
+Pesca subacquea
+Snorkeling
+Sci alpino
+Sci di fondo
+Salto con gli sci
+Snowboard
+Slalom gigante
+Slalom speciale
+Discesa libera
+SuperG
+Biathlon
+Bob
+Slittino
+Curling
+Pattinaggio artistico
+Pattinaggio di velocità
+Pattinaggio sul ghiaccio
+Pattinaggio a rotelle
+Skateboard
+Monopattino
+Ciclismo
+Mountain bike
+Ciclismo su pista
+Ciclocross
+Triathlon
+Maratona
+Mezza maratona
+Corsa campestre
+Corsa in montagna
+Staffetta
+Corsa a ostacoli
+Corsa con le siepi
+Cento metri
+Salto in alto
+Salto in lungo
+Salto triplo
+Salto con l'asta
+Lancio del peso
+Lancio del disco
+Lancio del giavellotto
+Lancio del martello
+Decathlon
+Eptathlon
+Marcia
+Pentathlon moderno
+Parkour
+Arrampicata
+Arrampicata libera
+Alpinismo
+Speleologia
+Bungee jumping
+Paracadutismo
+Parapendio
+Deltaplano
+Rafting
+Canyoning
+Equitazione
+Salto ostacoli
+Dressage
+Palio di Siena
+Corse dei cavalli
+Ippica
+Trotto
+Galoppo
+Motociclismo
+Motocross
+Formula 1
+Rally
+Kart
+Superbike
+MotoGP
+Bocce
+Freccette
+Biliardo
+Stecca
+Boccette
+Calciobalilla
+Bowling
+Frisbee
+Palla prigioniera
+Softball
+Lacrosse
+Football americano
+Beach volley
+Calcetto
+Calcio a cinque
+Padel
+Pickleball
+Pelota basca
+Tamburello
+Hockey in line
+Kickboxing
+Muay Thai
+Jujitsu
+Aikido
+Kung fu
+Capoeira
+Krav Maga
+Tai chi
+Yoga
+Pilates
+Aerobica
+Zumba
+Spinning
+Crossfit
+Culturismo
+Powerlifting
+Braccio di ferro
+Tiro alla fune
+Corsa nei sacchi
+Corsa con le uova
+Corsa a tre gambe
+Cheerleading
+Pole dance
+Danza sportiva
+Orientamento
+Pesca sportiva
+Tiro a volo
+Tiro a segno
+Tiro al piattello
+Tiro al bersaglio
+Sci freestyle
+Sci alpinismo
+Racchette da neve
+Motoslitta
+Mongolfiera
+Aliante
+Canestro
+Schiacciata
+Tiro libero
+Tripla
+Tiro da tre punti
+Meta
+Mischia
+Touche
+Placcaggio
+Touchdown
+Home run
+Eliminazione
+Match point
+Dritto
+Rovescio
+Smorzata
+Tie-break
+Buca in uno
+Birdie
+Bogey
+Colpo di partenza
+Caddie
+Knock out
+Montante
+Gancio
+Diretto
+Sottomissione
+Atterramento
+Podio
+Medaglia d'oro
+Medaglia d'argento
+Medaglia di bronzo
+Traguardo
+Blocchi di partenza
+Pistola dello starter
+Cronometro
+Fotofinish
+Record del mondo
+Record personale
+Riscaldamento
+Stretching
+Flessioni
+Addominali
+Trazioni
+Burpee
+Squat
+Plank
+Affondi
+Tapis roulant
+Manubri
+Bilanciere
+Kettlebell
+Sacco da boxe
+Guantoni
+Ring
+Racchetta
+Campo da tennis
+Mazza da golf
+Pallina da golf
+Mazza da baseball
+Guantone da baseball
+Disco da hockey
+Volano
+Canestro da basket
+Rete da pallavolo
+Paradenti
+Occhialini
+Trampolino
+Salvagente
+Tavola da surf
+Rampa da skateboard
+Bastoncini da sci
+Skilift
+Maschera da sci
+Pattini
+Imbracatura
+Corda da arrampicata
+Moschettone
+Casco da ciclista
+Giavellotto
+Parallele
+Cavallo con maniglie
+Olimpiadi
+Olimpiadi invernali
+Paralimpiadi
+Tour de France
+Giro d'Italia
+Wimbledon
+US Open
+Roland Garros
+Australian Open
+Internazionali d'Italia
+Coppa Davis
+Super Bowl
+Stanley Cup
+Ryder Cup
+Gran Premio di Monaco
+Gran Premio d'Italia
+Monza
+Mille Miglia
+Dakar
+Sei Nazioni
+Coppa America
+Palio
+Maratona di New York
+Ironman
+Milano-Sanremo
+Giro di Lombardia
+Usain Bolt
+Michael Phelps
+Federica Pellegrini
+Gregorio Paltrinieri
+Tania Cagnotto
+Valentina Vezzali
+Jury Chechi
+Alberto Tomba
+Deborah Compagnoni
+Sofia Goggia
+Marcell Jacobs
+Gianmarco Tamberi
+Pietro Mennea
+Livio Berruti
+Stefano Baldini
+Alex Zanardi
+Bebe Vio
+Valentino Rossi
+Francesco Bagnaia
+Marco Pantani
+Fausto Coppi
+Gino Bartali
+Francesco Moser
+Vincenzo Nibali
+Mario Cipollini
+Filippo Ganna
+Jannik Sinner
+Adriano Panatta
+Flavia Pennetta
+Roberta Vinci
+Camila Giorgi
+Roger Federer
+Rafael Nadal
+Novak Djokovic
+Serena Williams
+Michael Jordan
+LeBron James
+Muhammad Ali
+Tiger Woods
+Simone Biles
+Nadia Comaneci
+Lewis Hamilton
+Michael Schumacher
+Ayrton Senna
+Niki Lauda
+Enzo Ferrari
+Giacomo Agostini
+Tazio Nuvolari
+Nino Benvenuti
+Patrizio Oliva
+Dino Meneghin
+Carlton Myers
+Kobe Bryant
+Shaquille O'Neal
+Andy Murray
+Floyd Mayweather
+Mike Tyson
+Carl Lewis
+Jesse Owens
+Eliud Kipchoge
+Lindsey Vonn
+Tony Hawk
+Sara Simeoni
+Gelindo Bordin
+Ivan Zaytsev
+Julio Velasco
+Paolo Bettini

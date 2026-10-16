@@ -1,0 +1,472 @@
+Maglietta
+Maglione
+Cardigan
+Dolcevita
+Polo
+Canottiera
+Top corto
+Camicia
+Camicetta
+Camicia a quadri
+Camicia hawaiana
+Felpa
+Felpa con cappuccio
+Tuta
+Pantaloni della tuta
+Leggings
+Pantaloncini
+Bermuda
+Pantaloni cargo
+Jeans
+Jeans strappati
+Jeans a zampa
+Pantaloni di velluto
+Salopette
+Tuta intera
+Pagliaccetto
+Minigonna
+Gonna a tubino
+Gonna a pieghe
+Gonna a ruota
+Tutù
+Abito da sera
+Abito da sposa
+Abito da cocktail
+Prendisole
+Tubino nero
+Abito lungo
+Vestito a fiori
+Kimono
+Sari
+Kilt
+Poncho
+Mantella
+Mantello
+Trench
+Impermeabile
+Piumino
+Giaccone
+Parka
+Bomber
+Giubbotto di jeans
+Giacca di pelle
+Chiodo
+Blazer
+Smoking
+Tight
+Completo
+Gilet
+Giacca
+Giacca a vento
+Pile
+Montgomery
+Cappotto
+Cappotto di lana
+Pelliccia
+Camice
+Accappatoio
+Vestaglia
+Pigiama
+Camicia da notte
+Tutina
+Intimo
+Mutande
+Boxer
+Slip
+Reggiseno
+Perizoma
+Calzini
+Calzini corti
+Calzettoni
+Collant
+Calze
+Calze a rete
+Reggicalze
+Corsetto
+Body
+Costume da bagno
+Bikini
+Muta
+Slip da bagno
+Burkini
+Scarpe da ginnastica
+Sneakers
+Scarpe da corsa
+Tacchi a spillo
+Tacco dodici
+Zeppe
+Scarpe con plateau
+Ballerine
+Mocassini
+Stringate
+Scarpe da barca
+Sandali
+Infradito
+Ciabatte
+Espadrillas
+Zoccoli
+Pantofole
+Stivali da cowboy
+Anfibi
+Stivaletti
+Stivali di gomma
+Scarponi
+Scarponi da sci
+Stivali di pelle
+Stivali al ginocchio
+Stivali alti
+Tacchetti
+Pattini a rotelle
+Pattini da ghiaccio
+Cappellino da baseball
+Berretto
+Berretto di lana
+Cappello da pescatore
+Cappello a cilindro
+Bombetta
+Cappello di paglia
+Cappello da cowboy
+Borsalino
+Basco
+Coppola
+Visiera
+Fez
+Turbante
+Sombrero
+Cappello da strega
+Corona
+Diadema
+Velo
+Fascia per capelli
+Bandana
+Hijab
+Passamontagna
+Paraorecchie
+Casco da cantiere
+Casco
+Sciarpa
+Scialle
+Guanti
+Muffole
+Presine
+Cintura
+Bretelle
+Papillon
+Cravatta
+Foulard
+Gemelli
+Fermacravatte
+Pochette da taschino
+Fazzoletto
+Occhiali da sole
+Occhiali da aviatore
+Monocolo
+Occhiali da vista
+Lenti a contatto
+Orecchini
+Collana
+Ciondolo
+Girocollo
+Bracciale
+Cavigliera
+Anello
+Anello di fidanzamento
+Fede nuziale
+Spilla
+Collana di perle
+Anello con diamante
+Orologio
+Orologio da polso
+Smartwatch
+Fermacapelli
+Elastico per capelli
+Parrucca
+Toupet
+Borsa
+Pochette
+Borsa a mano
+Zaino
+Marsupio
+Tracolla
+Valigetta
+Valigia
+Borsone
+Cartella
+Borsetta
+Portafoglio
+Ombrello
+Parasole
+Bastone da passeggio
+Ventaglio
+Grembiule
+Divisa
+Grembiule scolastico
+Camice da medico
+Camice d'ospedale
+Costume alla marinara
+Giacca da safari
+Tuta da sci
+Muta da sub
+Tuta spaziale
+Maglia da calcio
+Canotta da basket
+Body da danza
+Costume di carnevale
+Costume da pirata
+Costume da Zorro
+Costume da supereroe
+Ali d'angelo
+Costume da clown
+Costume da orso
+Tuta protettiva
+Giubbotto antiproiettile
+Giubbotto di salvataggio
+Giubbotto catarifrangente
+Cappello da chef
+Toga
+Tocco
+Toga da giudice
+Tonaca
+Abito da suora
+Armatura
+Armatura da cavaliere
+Elmo vichingo
+Sandali da gladiatore
+Abito lungo da gala
+Abito da cerimonia
+Streetwear
+Abbigliamento vintage
+Abiti usati
+Mercatino dell'usato
+Sfilata
+Passerella
+Settimana della moda
+Modella
+Top model
+Stilista
+Sarta
+Sarto
+Macchina da cucire
+Ago e filo
+Metro da sarta
+Manichino
+Camerino
+Cabina armadio
+Armadio
+Appendiabiti
+Stampella
+Ferro da stiro
+Asse da stiro
+Lavanderia
+Bucato
+Lavatrice
+Rullo adesivo
+Cerniera
+Velcro
+Bottone
+Asola
+Spilla da balia
+Spalline
+Manica
+Colletto
+Polsino
+Orlo
+Tasca
+Cappuccio
+Coulisse
+Lacci
+Suola
+Soletta
+Tacco
+Denim
+Pelle
+Seta
+Lana
+Cashmere
+Cotone
+Lino
+Velluto
+Raso
+Pizzo
+Paillettes
+Tweed
+Tartan
+Pied-de-poule
+Pois
+Righe
+Mimetico
+Leopardato
+Fantasia floreale
+Gucci
+Prada
+Versace
+Armani
+Dolce e Gabbana
+Valentino
+Fendi
+Moschino
+Missoni
+Pucci
+Salvatore Ferragamo
+Roberto Cavalli
+Max Mara
+Brunello Cucinelli
+Ermenegildo Zegna
+Etro
+Trussardi
+Furla
+Bulgari
+Diesel
+Benetton
+Superga
+Geox
+Hogan
+Tod's
+Stone Island
+Moncler
+Fila
+Kappa
+Lotto
+Sergio Tacchini
+Gianni Versace
+Giorgio Armani
+Donatella Versace
+Miuccia Prada
+Valentino Garavani
+Elsa Schiaparelli
+Coco Chanel
+Karl Lagerfeld
+Christian Dior
+Yves Saint Laurent
+Louis Vuitton
+Chanel
+Dior
+Hermès
+Burberry
+Ralph Lauren
+Calvin Klein
+Lacoste
+Levi's
+Converse
+Birkenstock
+Crocs
+Dr. Martens
+Louboutin
+Ray-Ban
+Rolex
+Maglione natalizio
+Pantaloni a vita alta
+Pantaloni a sigaretta
+Pantaloni palazzo
+Pantaloni alla zuava
+Pantaloni da sci
+Pantaloni da jogging
+Jeans skinny
+Jeans a vita bassa
+Pantaloncini di jeans
+Culotte
+Gonna pantalone
+Gonna di jeans
+Gonna lunga
+Gonna scozzese
+Sottogonna
+Sottoveste
+Guêpière
+Perizoma da mare
+Pareo
+Copricostume
+Tunica
+Camicione
+Casacca
+Bolero
+Coprispalle
+Mantellina
+Poncho di lana
+Giacca da caccia
+Giacca da sera
+Giacca a doppiopetto
+Giacca sportiva
+Giacca da equitazione
+Giacca da smoking
+Blusa
+Maglia a coste
+Maglia a righe
+Maglia di lana
+Pullover
+Gilet imbottito
+Corpetto
+Canotta
+Top a fascia
+Top all'americana
+Bustino
+Lingerie
+Camiciola
+Vestaglietta
+Cuffia da notte
+Mascherina per dormire
+Cuffia da doccia
+Cuffia da piscina
+Occhialini
+Maschera da snorkeling
+Pinne
+Braccioli
+Salvagente
+Fiocco
+Nastro per capelli
+Forcina
+Cerchietto
+Fascinator
+Cappello a tuba
+Coppolone
+Cappello alpino
+Cappello da bersagliere
+Berretto da babbo Natale
+Passamontagna da sci
+Scaldacollo
+Stola
+Boa di piume
+Tuta da ginnastica
+Calzamaglia
+Scaldamuscoli
+Paradenti
+Parastinchi
+Scarpe col tacco
+Scarpe da tennis
+Scarpe da calcio
+Scarpe da trekking
+Scarpe da tango
+Scarpette da danza
+Punte da ballerina
+Pantofole di pelo
+Calze di lana
+Calzini antiscivolo
+Tuta da meccanico
+Tuta da astronauta
+Divisa da cuoco
+Divisa da infermiera
+Divisa da poliziotto
+Divisa da pompiere
+Divisa da pilota
+Frac
+Marsina
+Cilindro
+Sciarpa del tifoso
+Maglia della nazionale
+Maglia rosa
+Saio
+Zucchetto
+Kippah
+Cheongsam
+Hanbok
+Caftano
+Sarong
+Dashiki
+Lederhosen
+Dirndl
+Costume tradizionale
+Costume sardo
+Costume da arlecchino
+Costume da Pulcinella
+Abito anni Venti
+Abito charleston
+Gonna a ruota anni Cinquanta

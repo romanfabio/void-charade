@@ -1,0 +1,427 @@
+Tom and Jerry
+Looney Tunes
+Bugs Bunny
+Daffy Duck
+Porky Pig
+Elmer Fudd
+Tweety
+Sylvester
+Speedy Gonzales
+Wile E. Coyote
+Road Runner
+Foghorn Leghorn
+Pepe Le Pew
+Yosemite Sam
+Marvin the Martian
+Lola Bunny
+Scooby-Doo
+Shaggy
+Velma
+Daphne
+Scrappy-Doo
+The Flintstones
+Fred Flintstone
+Wilma Flintstone
+Barney Rubble
+Betty Rubble
+Pebbles
+Bamm-Bamm
+The Jetsons
+George Jetson
+Astro
+Rosie the Robot
+Yogi Bear
+Boo-Boo
+Huckleberry Hound
+Top Cat
+Quick Draw McGraw
+Snagglepuss
+Wacky Races
+Dick Dastardly
+Muttley
+Captain Caveman
+Hong Kong Phooey
+Johnny Quest
+The Smurfs
+Papa Smurf
+Smurfette
+Gargamel
+Azrael
+Garfield
+Odie
+Jon Arbuckle
+Nermal
+Heathcliff
+The Pink Panther
+Inspector Clouseau
+Popeye
+Olive Oyl
+Bluto
+Wimpy
+Betty Boop
+Felix the Cat
+Woody Woodpecker
+Casper the Friendly Ghost
+Mighty Mouse
+Underdog
+Rocky and Bullwinkle
+Dudley Do-Right
+Roger Rabbit
+Droopy
+Spike and Tyke
+Mr. Magoo
+Ren and Stimpy
+Rugrats
+Tommy Pickles
+Angelica Pickles
+Chuckie Finster
+Hey Arnold
+The Wild Thornberrys
+Rocko's Modern Life
+CatDog
+Aaahh!!! Real Monsters
+Invader Zim
+Ed Edd n Eddy
+The Fairly OddParents
+Timmy Turner
+Cosmo and Wanda
+Danny Phantom
+Jimmy Neutron
+SpongeBob SquarePants
+Patrick Star
+Squidward Tentacles
+Mr. Krabs
+Sandy Cheeks
+Plankton
+Krusty Krab
+Bikini Bottom
+Avatar The Last Airbender
+Aang
+Katara
+Sokka
+Toph
+Zuko
+Uncle Iroh
+The Legend of Korra
+Dexter's Laboratory
+Dee Dee
+Johnny Bravo
+Cow and Chicken
+I Am Weasel
+The Powerpuff Girls
+Blossom
+Bubbles
+Buttercup
+Mojo Jojo
+Courage the Cowardly Dog
+Samurai Jack
+Codename Kids Next Door
+Billy and Mandy
+Camp Lazlo
+Adventure Time
+Finn the Human
+Jake the Dog
+Princess Bubblegum
+Ice King
+Marceline
+BMO
+Regular Show
+Steven Universe
+Gumball
+The Amazing World of Gumball
+Teen Titans
+Teen Titans Go!
+Beast Boy
+Starfire
+Ben 10
+Generator Rex
+Kim Possible
+Phineas and Ferb
+Perry the Platypus
+Doofenshmirtz
+Candace
+Gravity Falls
+Dipper Pines
+Mabel Pines
+Bill Cipher
+Over the Garden Wall
+Rick and Morty
+Pickle Rick
+Morty Smith
+Summer Smith
+The Simpsons
+Homer Simpson
+Marge Simpson
+Bart Simpson
+Lisa Simpson
+Maggie Simpson
+Mr. Burns
+Moe Szyslak
+Ned Flanders
+Krusty the Clown
+Apu
+Milhouse
+Family Guy
+Peter Griffin
+Stewie Griffin
+Brian Griffin
+Lois Griffin
+Meg Griffin
+Quagmire
+South Park
+Eric Cartman
+Kenny McCormick
+Stan Marsh
+Kyle Broflovski
+Butters
+Mr. Garrison
+Futurama
+Leela
+Bender
+Professor Farnsworth
+Zoidberg
+American Dad
+Stan Smith
+Roger the Alien
+King of the Hill
+Hank Hill
+Bobby Hill
+Boomhauer
+Bob's Burgers
+Bob Belcher
+Tina Belcher
+Louise Belcher
+Beavis and Butt-Head
+Daria
+BoJack Horseman
+Archer
+The Boondocks
+Aqua Teen Hunger Force
+Frylock
+Master Shake
+Meatwad
+Harvey Birdman
+Space Ghost
+Ben and Holly
+Peppa Pig
+George Pig
+Bluey
+Bingo Heeler
+Paw Patrol
+Peter Rabbit
+Paddington
+Thomas the Tank Engine
+Fireman Sam
+Postman Pat
+Bob the Builder
+Wallace and Gromit
+Shaun the Sheep
+Chicken Run
+Pingu
+Noddy
+Rupert Bear
+The Magic Roundabout
+Danger Mouse
+Count Duckula
+SuperTed
+Bagpuss
+The Clangers
+Mr. Benn
+Captain Pugwash
+Dogtanian
+Willy Fog
+Maya the Bee
+Heidi
+Barbapapa
+The Moomins
+Tintin
+Asterix
+Obelix
+Dogmatix
+Lucky Luke
+The Adventures of Tintin
+Spirou
+The Mask
+Calvin and Hobbes
+Charlie Brown
+Snoopy
+Woodstock
+Linus
+Lucy van Pelt
+Peanuts
+Dragon Ball
+Goku
+Vegeta
+Gohan
+Piccolo
+Frieza
+Master Roshi
+Bulma
+Naruto
+Sasuke
+Sakura Haruno
+Kakashi
+Itachi
+One Piece
+Monkey D. Luffy
+Zoro
+Nami
+Sanji
+Chopper
+Bleach
+Ichigo Kurosaki
+Death Note
+Light Yagami
+Ryuk
+Attack on Titan
+Eren Yeager
+Mikasa
+Levi Ackerman
+Fullmetal Alchemist
+Edward Elric
+Alphonse Elric
+My Hero Academia
+Deku
+All Might
+Demon Slayer
+Tanjiro
+Nezuko
+Jujutsu Kaisen
+Gojo Satoru
+Yuji Itadori
+Hunter x Hunter
+Gon Freecss
+Killua
+One-Punch Man
+Saitama
+Fairy Tail
+Black Clover
+Sword Art Online
+Tokyo Ghoul
+Cowboy Bebop
+Spike Spiegel
+Neon Genesis Evangelion
+Evangelion
+Gundam
+Mobile Suit Gundam
+Sailor Moon
+Tuxedo Mask
+Pokemon
+Pikachu
+Ash Ketchum
+Charizard
+Bulbasaur
+Squirtle
+Jigglypuff
+Meowth
+Mewtwo
+Eevee
+Snorlax
+Psyduck
+Team Rocket
+Digimon
+Yu-Gi-Oh!
+Beyblade
+Doraemon
+Nobita
+Shin-chan
+Detective Conan
+Case Closed
+Lupin the Third
+Astro Boy
+Speed Racer
+Voltron
+Transformers
+Optimus Prime
+Megatron
+Bumblebee
+Starscream
+He-Man
+Skeletor
+She-Ra
+Thundercats
+Lion-O
+G.I. Joe
+Masters of the Universe
+Teenage Mutant Ninja Turtles
+Leonardo
+Donatello
+Raphael
+Michelangelo
+Splinter
+Shredder
+April O'Neil
+Care Bears
+My Little Pony
+Rainbow Dash
+Twilight Sparkle
+Pinkie Pie
+Strawberry Shortcake
+Rainbow Brite
+Jem and the Holograms
+Inspector Gadget
+Dr. Claw
+Darkwing Duck
+DuckTales
+Scrooge McDuck
+Chip n Dale Rescue Rangers
+Gummi Bears
+TaleSpin
+Captain Planet
+Animaniacs
+Pinky and the Brain
+Yakko Wakko and Dot
+Tiny Toon Adventures
+Freakazoid
+Batman The Animated Series
+Superman The Animated Series
+Gargoyles
+Magilla Gorilla
+Secret Squirrel
+Atom Ant
+Banana Splits
+Josie and the Pussycats
+Hair Bear Bunch
+Alvin and the Chipmunks
+Fat Albert
+Ice Age
+Shrek
+Donkey
+Puss in Boots
+Madagascar
+Alex the Lion
+Marty the Zebra
+King Julien
+Kung Fu Panda
+Po
+Master Shifu
+Tigress
+Despicable Me
+Minions
+Gru
+Kevin the Minion
+Bob the Minion
+Stuart the Minion
+How to Train Your Dragon
+Hiccup
+Toothless
+The Lorax
+Horton Hears a Who
+The Grinch
+The Cat in the Hat
+Hotel Transylvania
+Spirited Away
+My Neighbor Totoro
+Totoro
+Princess Mononoke
+Howl's Moving Castle
+Kiki's Delivery Service
+Ponyo
+Castle in the Sky
+Studio Ghibli
+No-Face
+Catbus
+Jiji
+Calcifer
+Sophie Hatter
+Chihiro

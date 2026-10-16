@@ -1,0 +1,404 @@
+Vasco Rossi
+Ligabue
+Jovanotti
+Laura Pausini
+Eros Ramazzotti
+Andrea Bocelli
+Tiziano Ferro
+Zucchero
+Giorgia
+Elisa
+Mina
+Ornella Vanoni
+Patty Pravo
+Gianna Nannini
+Gianni Morandi
+Adriano Celentano
+Renato Zero
+Claudio Baglioni
+Antonello Venditti
+Francesco De Gregori
+Lucio Dalla
+Lucio Battisti
+Fabrizio De André
+Franco Battiato
+Pino Daniele
+Edoardo Bennato
+Paolo Conte
+Gino Paoli
+Luigi Tenco
+Domenico Modugno
+Rita Pavone
+Caterina Caselli
+Milva
+Iva Zanicchi
+Orietta Berti
+Mia Martini
+Loredana Bertè
+Fiorella Mannoia
+Alice
+Carmen Consoli
+Malika Ayane
+Arisa
+Noemi
+Elodie
+Annalisa
+Emma
+Alessandra Amoroso
+Marco Mengoni
+Giusy Ferreri
+Francesca Michielin
+Levante
+Angelina Mango
+Mango
+Fedez
+J-Ax
+Max Pezzali
+883
+Articolo 31
+Club Dogo
+Salmo
+Marracash
+Sfera Ebbasta
+Ghali
+Rkomi
+Lazza
+Tananai
+Irama
+Ultimo
+Mahmood
+Blanco
+Achille Lauro
+Måneskin
+Diodato
+Francesco Gabbani
+Ermal Meta
+Fabrizio Moro
+Il Volo
+Modà
+Negramaro
+Subsonica
+Elio e le Storie Tese
+Litfiba
+Piero Pelù
+Afterhours
+Verdena
+Marlene Kuntz
+Timoria
+Negrita
+Nomadi
+Pooh
+Equipe 84
+Ricchi e Poveri
+Matia Bazar
+Stadio
+Dik Dik
+New Trolls
+Banco del Mutuo Soccorso
+Premiata Forneria Marconi
+PFM
+Le Vibrazioni
+Lunapop
+Cesare Cremonini
+Nek
+Biagio Antonacci
+Raf
+Umberto Tozzi
+Al Bano
+Romina Power
+Pupo
+Toto Cutugno
+Riccardo Cocciante
+Massimo Ranieri
+Gigi D'Alessio
+Nino D'Angelo
+Neffa
+Daniele Silvestri
+Max Gazzè
+Niccolò Fabi
+Samuele Bersani
+Roberto Vecchioni
+Francesco Guccini
+Ivano Fossati
+Paola Turci
+Irene Grandi
+Enrico Ruggeri
+Eugenio Finardi
+Alberto Fortis
+Rino Gaetano
+Ivan Graziani
+Renato Carosone
+Peppino di Capri
+Fred Buscaglione
+Nilla Pizzi
+Claudio Villa
+Tony Dallara
+Bobby Solo
+Little Tony
+Sergio Endrigo
+Don Backy
+Michele Bravi
+Gianluca Grignani
+Alex Britti
+Tiromancino
+Thegiornalisti
+Coez
+Calcutta
+Gazzelle
+Brunori Sas
+Willie Peyote
+Geolier
+Guè Pequeno
+Sangiovanni
+Aka 7even
+Pinguini Tattici Nucleari
+Lo Stato Sociale
+Boomdabash
+Sud Sound System
+Tazenda
+The Beatles
+The Rolling Stones
+Led Zeppelin
+Pink Floyd
+Queen
+AC/DC
+Metallica
+Nirvana
+Guns N' Roses
+Aerosmith
+Bon Jovi
+Kiss
+The Who
+The Doors
+Fleetwood Mac
+Eagles
+ABBA
+Bee Gees
+Coldplay
+U2
+Oasis
+Radiohead
+Muse
+The Killers
+Arctic Monkeys
+Green Day
+Linkin Park
+Red Hot Chili Peppers
+Foo Fighters
+Pearl Jam
+Maroon 5
+Imagine Dragons
+Backstreet Boys
+Spice Girls
+Take That
+One Direction
+Destiny's Child
+BTS
+Blackpink
+Daft Punk
+Black Eyed Peas
+Beach Boys
+Black Sabbath
+Deep Purple
+Iron Maiden
+Rammstein
+Scorpions
+Roxette
+Depeche Mode
+The Cure
+Duran Duran
+Wham!
+Dire Straits
+Genesis
+Phil Collins
+Sting
+The Police
+Elton John
+David Bowie
+Freddie Mercury
+Mick Jagger
+Paul McCartney
+John Lennon
+Ozzy Osbourne
+Jimi Hendrix
+Eric Clapton
+Bob Dylan
+Bruce Springsteen
+Neil Young
+Simon e Garfunkel
+Johnny Cash
+Elvis Presley
+Chuck Berry
+Ray Charles
+Stevie Wonder
+Marvin Gaye
+Aretha Franklin
+Diana Ross
+James Brown
+Michael Jackson
+Prince
+Madonna
+Whitney Houston
+Mariah Carey
+Celine Dion
+Tina Turner
+Cher
+Cyndi Lauper
+Blondie
+Kate Bush
+Amy Winehouse
+Adele
+Lady Gaga
+Katy Perry
+Taylor Swift
+Beyoncé
+Rihanna
+Shakira
+Jennifer Lopez
+Britney Spears
+Christina Aguilera
+Pink
+Avril Lavigne
+Alanis Morissette
+Dolly Parton
+Miley Cyrus
+Ariana Grande
+Billie Eilish
+Dua Lipa
+Sia
+Lana Del Rey
+Cardi B
+Nicki Minaj
+Gloria Gaynor
+Donna Summer
+Gloria Estefan
+Ricky Martin
+Enrique Iglesias
+Julio Iglesias
+Luis Fonsi
+Bad Bunny
+Daddy Yankee
+Santana
+Bob Marley
+Eminem
+Jay-Z
+Kanye West
+Drake
+Kendrick Lamar
+Snoop Dogg
+Tupac
+Notorious B.I.G.
+50 Cent
+Post Malone
+Justin Bieber
+Justin Timberlake
+Bruno Mars
+The Weeknd
+Ed Sheeran
+Sam Smith
+Harry Styles
+Shawn Mendes
+Lewis Capaldi
+Pharrell Williams
+Lenny Kravitz
+Avicii
+David Guetta
+Calvin Harris
+Skrillex
+Martin Garrix
+Marshmello
+Kygo
+The Chainsmokers
+Swedish House Mafia
+Kraftwerk
+Pet Shop Boys
+Eurythmics
+New Order
+Joy Division
+The Clash
+Sex Pistols
+Ramones
+Iggy Pop
+Lou Reed
+Talking Heads
+R.E.M.
+Blink-182
+Fall Out Boy
+My Chemical Romance
+Evanescence
+Nickelback
+Korn
+Limp Bizkit
+Rage Against the Machine
+Soundgarden
+Alice in Chains
+Smashing Pumpkins
+The Strokes
+Franz Ferdinand
+Snow Patrol
+Robbie Williams
+George Michael
+Rod Stewart
+Tom Jones
+Cliff Richard
+Shirley Bassey
+Dusty Springfield
+Louis Armstrong
+Ella Fitzgerald
+Billie Holiday
+Nina Simone
+Frank Sinatra
+Dean Martin
+Nat King Cole
+Tony Bennett
+Barry White
+Barry Manilow
+Neil Diamond
+Billy Joel
+James Taylor
+Carole King
+Joni Mitchell
+Cat Stevens
+Don McLean
+John Denver
+Kenny Rogers
+Willie Nelson
+Lynyrd Skynyrd
+Creedence Clearwater Revival
+Journey
+Toto
+Foreigner
+Def Leppard
+Whitesnake
+Motley Crue
+Van Halen
+Boney M
+Village People
+Sister Sledge
+Earth Wind and Fire
+Beastie Boys
+Vanilla Ice
+MC Hammer
+Pitbull
+Sean Paul
+Rick Astley
+Westlife
+Boyzone
+The Cranberries
+Hozier
+Mumford and Sons
+Florence and the Machine
+Kylie Minogue
+INXS
+Seal
+Craig David
+Spandau Ballet
+Billy Idol
+Bryan Adams
+Leonard Cohen
+Michael Buble
+Enya
+Bjork
+Jamiroquai
+Olivia Rodrigo
+Sabrina Carpenter

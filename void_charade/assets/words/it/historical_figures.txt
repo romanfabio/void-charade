@@ -1,0 +1,367 @@
+Giulio Cesare
+Cleopatra
+Napoleone Bonaparte
+Alessandro Magno
+Gengis Khan
+Attila
+Annibale
+Augusto
+Nerone
+Caligola
+Marco Aurelio
+Costantino
+Carlo Magno
+Guglielmo il Conquistatore
+Riccardo Cuor di Leone
+Re Artù
+Giovanna d'Arco
+Enrico VIII
+Anna Bolena
+Elisabetta I
+Regina Vittoria
+Maria Stuarda
+Oliver Cromwell
+Luigi XIV
+Re Sole
+Maria Antonietta
+Robespierre
+Caterina la Grande
+Pietro il Grande
+Ivan il Terribile
+Rasputin
+Lenin
+Stalin
+Trotsky
+Karl Marx
+Adolf Hitler
+Winston Churchill
+Franklin Roosevelt
+Abraham Lincoln
+George Washington
+Thomas Jefferson
+Benjamin Franklin
+John Fitzgerald Kennedy
+Martin Luther King
+Malcolm X
+Rosa Parks
+Mahatma Gandhi
+Nelson Mandela
+Che Guevara
+Fidel Castro
+Simón Bolívar
+Mao Tse-tung
+Confucio
+Sun Tzu
+Marco Polo
+Saladino
+Solimano il Magnifico
+Maometto II
+Tutankhamon
+Ramses II
+Nefertiti
+Mosè
+Socrate
+Platone
+Aristotele
+Pitagora
+Archimede
+Euclide
+Ippocrate
+Omero
+Pericle
+Leonida
+Serse
+Ciro il Grande
+Spartaco
+Cicerone
+Bruto
+Marco Antonio
+Pompeo
+Vercingetorige
+Boudicca
+Ponzio Pilato
+Erode
+Gesù
+San Paolo
+San Pietro
+Buddha
+Maometto
+Martin Lutero
+Calvino
+Tommaso Moro
+Galileo Galilei
+Leonardo da Vinci
+Michelangelo
+Raffaello
+Donatello
+Botticelli
+Giotto
+Caravaggio
+Tiziano
+Tintoretto
+Bernini
+Brunelleschi
+Canova
+Johannes Gutenberg
+Niccolò Copernico
+Keplero
+Isaac Newton
+Albert Einstein
+Nikola Tesla
+Thomas Edison
+Alexander Graham Bell
+Marie Curie
+Louis Pasteur
+Charles Darwin
+Gregor Mendel
+Sigmund Freud
+Alan Turing
+Alessandro Volta
+Luigi Galvani
+Antonio Meucci
+Guglielmo Marconi
+Enrico Fermi
+Evangelista Torricelli
+Leonardo Fibonacci
+Fratelli Wright
+Henry Ford
+Amelia Earhart
+Charles Lindbergh
+Neil Armstrong
+Jurij Gagarin
+Cristoforo Colombo
+Vasco da Gama
+Ferdinando Magellano
+Amerigo Vespucci
+Hernán Cortés
+Francisco Pizarro
+Montezuma
+Toro Seduto
+Cavallo Pazzo
+Geronimo
+Pocahontas
+Buffalo Bill
+Billy the Kid
+Jesse James
+Wyatt Earp
+Al Capone
+Bonnie e Clyde
+Pablo Escobar
+Capitano Cook
+Barbanera
+Francis Drake
+Walter Raleigh
+Roald Amundsen
+Umberto Nobile
+Edmund Hillary
+Florence Nightingale
+Anna Frank
+Helen Keller
+Madre Teresa
+Papa Giovanni Paolo II
+Papa Francesco
+Papa Giovanni XXIII
+Desmond Tutu
+Dalai Lama
+Re Salomone
+Nabucodonosor
+Hammurabi
+Giustiniano
+Teodora
+Eleonora d'Aquitania
+Isabella di Castiglia
+Carlo V
+Otto von Bismarck
+Federico il Grande
+Maria Teresa d'Austria
+Francesco Giuseppe
+Sissi
+Francesco Ferdinando
+Napoleone III
+Charles de Gaulle
+Giuseppina Bonaparte
+Duca di Wellington
+Ammiraglio Nelson
+William Shakespeare
+Dante Alighieri
+Francesco Petrarca
+Giovanni Boccaccio
+Miguel de Cervantes
+Voltaire
+Jean-Jacques Rousseau
+Immanuel Kant
+Friedrich Nietzsche
+Cartesio
+John Locke
+Adam Smith
+Niccolò Machiavelli
+Erasmo da Rotterdam
+Wolfgang Amadeus Mozart
+Ludwig van Beethoven
+Johann Sebastian Bach
+Fryderyk Chopin
+Franz Liszt
+Antonio Vivaldi
+Giuseppe Verdi
+Gioachino Rossini
+Giacomo Puccini
+Richard Wagner
+Claude Monet
+Vincent van Gogh
+Pablo Picasso
+Rembrandt
+Salvador Dalí
+Frida Kahlo
+Edgar Allan Poe
+Mark Twain
+Charles Dickens
+Jane Austen
+Lev Tolstoj
+Fëdor Dostoevskij
+Victor Hugo
+Oscar Wilde
+Ernest Hemingway
+Jack lo Squartatore
+Vlad l'Impalatore
+Guy Fawkes
+Robin Hood
+William Wallace
+San Patrizio
+San Francesco d'Assisi
+San Nicola
+San Giorgio
+San Valentino
+Alfredo il Grande
+Jesse Owens
+Houdini
+Mata Hari
+Madame Tussaud
+Coco Chanel
+Eva Perón
+Indira Gandhi
+Golda Meir
+Margaret Thatcher
+Pol Pot
+Saddam Hussein
+Michail Gorbaciov
+Erwin Rommel
+Bernard Montgomery
+Douglas MacArthur
+George Patton
+Scipione l'Africano
+Catone il Censore
+Tiberio
+Vespasiano
+Adriano
+Traiano
+Diocleziano
+Romolo
+Remo
+Crasso
+Catilina
+Lucio Cincinnato
+Ottaviano
+Agrippina
+Livia Drusilla
+Messalina
+Poppea
+Seneca
+Plinio il Vecchio
+Virgilio
+Orazio
+Ovidio
+Catullo
+Federico II di Svevia
+Federico Barbarossa
+Matilde di Canossa
+Lorenzo il Magnifico
+Cosimo de' Medici
+Caterina de' Medici
+Cesare Borgia
+Lucrezia Borgia
+Papa Alessandro VI
+Papa Giulio II
+Girolamo Savonarola
+Ludovico il Moro
+Isabella d'Este
+Francesco Sforza
+Giuseppe Garibaldi
+Giuseppe Mazzini
+Camillo Benso di Cavour
+Vittorio Emanuele II
+Umberto I
+Vittorio Emanuele III
+Carlo Alberto
+Anita Garibaldi
+Goffredo Mameli
+Andrea Doria
+Giovanni dalle Bande Nere
+Bartolomeo Colleoni
+Benito Mussolini
+Gabriele D'Annunzio
+Pietro Badoglio
+Giacomo Matteotti
+Antonio Gramsci
+Palmiro Togliatti
+Alcide De Gasperi
+Aldo Moro
+Enrico Berlinguer
+Sandro Pertini
+Giovanni Falcone
+Paolo Borsellino
+Maria Montessori
+Rita Levi-Montalcini
+Grazia Deledda
+Eleonora Duse
+Giovanni Verga
+Alessandro Manzoni
+Giacomo Leopardi
+Ugo Foscolo
+Giosuè Carducci
+Giovanni Pascoli
+Luigi Pirandello
+Italo Svevo
+Carlo Collodi
+Edmondo De Amicis
+Emilio Salgari
+Cesare Beccaria
+Giovanni da Verrazzano
+Antonio Pigafetta
+Giacomo Casanova
+Cagliostro
+Gaetano Donizetti
+Vincenzo Bellini
+Niccolò Paganini
+Claudio Monteverdi
+Tommaso d'Aquino
+Sant'Agostino
+Sant'Ambrogio
+Santa Caterina da Siena
+San Benedetto
+San Antonio da Padova
+Santa Chiara
+San Gennaro
+Padre Pio
+San Giovanni Bosco
+Santa Rita
+San Giuseppe
+Maria di Nazareth
+Giovanni Battista
+Davide
+Golia
+Abramo
+Noè
+Sansone
+Dalila
+Giuditta
+Salomè
+Giuda Iscariota
+Leif Erikson
+Alexander Hamilton
+Edward Jenner
+Alexander Fleming
+Jonas Salk
+Jane Goodall
+Rachel Carson
+Ipazia
+Saffo

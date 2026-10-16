@@ -1,0 +1,389 @@
+Pizza
+Hamburger
+Cheeseburger
+Hot dog
+French fries
+Fried chicken
+Chicken nuggets
+Chicken wings
+Spaghetti bolognese
+Spaghetti carbonara
+Lasagne
+Macaroni and cheese
+Ravioli
+Gnocchi
+Risotto
+Paella
+Sushi
+Sashimi
+Ramen
+Pad thai
+Fried rice
+Spring rolls
+Dumplings
+Dim sum
+Peking duck
+Sweet and sour pork
+Chicken tikka masala
+Butter chicken
+Naan bread
+Samosa
+Falafel
+Hummus
+Kebab
+Shawarma
+Gyros
+Moussaka
+Greek salad
+Caesar salad
+Caprese salad
+Potato salad
+Coleslaw
+Tuna salad
+Fruit salad
+Burrito
+Taco
+Nachos
+Quesadilla
+Guacamole
+Salsa
+Enchiladas
+Fajitas
+Chili con carne
+Tortilla chips
+Popcorn
+Pretzel
+Bagel
+Croissant
+Baguette
+Sourdough bread
+Garlic bread
+Toast
+Sandwich
+Club sandwich
+Grilled cheese
+BLT
+Peanut butter and jelly
+Sub sandwich
+Panini
+Pancakes
+Waffles
+French toast
+Scrambled eggs
+Fried egg
+Boiled egg
+Poached egg
+Omelette
+Eggs Benedict
+Bacon
+Sausage
+Baked beans
+Hash browns
+Porridge
+Muesli
+Cornflakes
+Yogurt
+Granola
+Cereal bar
+Fish and chips
+Fish fingers
+Shepherd's pie
+Cottage pie
+Sunday roast
+Yorkshire pudding
+Bangers and mash
+Full English breakfast
+Steak
+Ribeye steak
+T-bone steak
+Roast beef
+Roast chicken
+Roast turkey
+Roast potatoes
+Mashed potatoes
+Baked potato
+Potato chips
+Onion rings
+Meatballs
+Meatloaf
+Pot roast
+Pulled pork
+Barbecue ribs
+Pork chop
+Ham
+Salami
+Pepperoni
+Prosciutto
+Meat pie
+Corn dog
+Philly cheesesteak
+Lobster roll
+Clam chowder
+Crab cake
+Shrimp cocktail
+Fried calamari
+Oysters
+Mussels
+Lobster
+Smoked salmon
+Caviar
+Tuna
+Salmon
+Cod
+Sardines
+Anchovies
+Chicken soup
+Tomato soup
+Minestrone
+Miso soup
+French onion soup
+Pumpkin soup
+Gazpacho
+Goulash
+Beef stew
+Curry
+Stir fry
+Tempura
+Teriyaki
+Bibimbap
+Kimchi
+Pho
+Banh mi
+Tandoori chicken
+Biryani
+Dal
+Poutine
+Ceviche
+Empanada
+Tamale
+Churros
+Pasta
+Penne
+Fettuccine
+Tortellini
+Cannelloni
+Pesto
+Marinara sauce
+Alfredo sauce
+Tomato ketchup
+Mustard
+Mayonnaise
+Soy sauce
+Hot sauce
+Barbecue sauce
+Gravy
+Vinegar
+Olive oil
+Butter
+Margarine
+Cheese
+Cheddar
+Mozzarella
+Parmesan
+Feta
+Brie
+Camembert
+Blue cheese
+Cream cheese
+Cottage cheese
+Gouda
+Swiss cheese
+Fondue
+Milk
+Cream
+Ice cream
+Milkshake
+Chocolate
+Dark chocolate
+White chocolate
+Chocolate bar
+Nutella
+Candy
+Lollipop
+Gummy bears
+Jelly beans
+Marshmallow
+Cotton candy
+Candy cane
+Toffee
+Caramel
+Fudge
+Licorice
+Chewing gum
+Cake
+Chocolate cake
+Cheesecake
+Carrot cake
+Birthday cake
+Red velvet cake
+Black Forest cake
+Sponge cake
+Cupcake
+Muffin
+Brownie
+Cookie
+Chocolate chip cookies
+Oatmeal cookies
+Gingerbread man
+Donut
+Apple pie
+Pumpkin pie
+Lemon meringue pie
+Key lime pie
+Pecan pie
+Tiramisu
+Panna cotta
+Crème brûlée
+Chocolate mousse
+Trifle
+Pudding
+Rice pudding
+Custard
+Jelly
+Eclair
+Profiterole
+Macaron
+Scone
+Crumpet
+Apple strudel
+Baklava
+Cannoli
+Fruitcake
+Sundae
+Banana split
+Popsicle
+Sorbet
+Apple
+Banana
+Orange
+Lemon
+Lime
+Grapefruit
+Strawberry
+Raspberry
+Blueberry
+Blackberry
+Cherry
+Grapes
+Watermelon
+Melon
+Pineapple
+Mango
+Papaya
+Kiwi
+Peach
+Pear
+Plum
+Apricot
+Fig
+Pomegranate
+Coconut
+Avocado
+Passion fruit
+Lychee
+Dragon fruit
+Cranberry
+Raisins
+Dates
+Prunes
+Tomato
+Potato
+Sweet potato
+Carrot
+Onion
+Garlic
+Broccoli
+Cauliflower
+Cabbage
+Lettuce
+Spinach
+Cucumber
+Pickles
+Olives
+Bell pepper
+Chili pepper
+Zucchini
+Eggplant
+Pumpkin
+Corn on the cob
+Peas
+Green beans
+Mushrooms
+Asparagus
+Celery
+Artichoke
+Beetroot
+Radish
+Leek
+Brussels sprouts
+Ginger
+Truffle
+Salt
+Pepper
+Sugar
+Honey
+Maple syrup
+Jam
+Marmalade
+Peanut butter
+Peanuts
+Almonds
+Walnuts
+Cashews
+Pistachios
+Hazelnuts
+Sunflower seeds
+Tofu
+Rice
+Noodles
+Couscous
+Quinoa
+Oatmeal
+Flour
+Bread
+Rye bread
+Pita bread
+Tortilla
+Flatbread
+Cornbread
+Brioche
+Cinnamon roll
+Pop-Tarts
+Instant noodles
+Frozen pizza
+TV dinner
+Fish sticks
+Beef jerky
+Spam
+Marmite
+Vegemite
+Cereal
+Coffee
+Espresso
+Cappuccino
+Latte
+Hot chocolate
+Tea
+Iced tea
+Lemonade
+Orange juice
+Apple juice
+Smoothie
+Soda
+Cola
+Sparkling water
+Beer
+Red wine
+White wine
+Champagne
+Cocktail
+Margarita
+Mojito
+Whiskey
+Vodka
+Tequila
+Eggnog
+Mulled wine
+Bubble tea
+Energy drink
+Bloody Mary

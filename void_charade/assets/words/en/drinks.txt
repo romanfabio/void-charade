@@ -1,0 +1,390 @@
+Margarita
+Frozen margarita
+Mojito
+Piña colada
+Daiquiri
+Strawberry daiquiri
+Cosmopolitan
+Martini
+Dirty martini
+Espresso martini
+Vodka martini
+Old Fashioned
+Manhattan
+Negroni
+Aperol Spritz
+Moscow Mule
+Dark 'n' Stormy
+Caipirinha
+Cuba Libre
+Rum and Coke
+Gin and tonic
+Vodka tonic
+Vodka cranberry
+Screwdriver
+Bloody Mary
+Mimosa
+Bellini
+Tequila Sunrise
+Sex on the Beach
+Long Island Iced Tea
+Mai Tai
+Blue Lagoon
+Singapore Sling
+Hurricane
+Zombie
+Tom Collins
+Gimlet
+Sidecar
+Whiskey sour
+Amaretto sour
+Pisco sour
+Paloma
+White Russian
+Mudslide
+Grasshopper
+Brandy Alexander
+Irish coffee
+Hot toddy
+Mulled wine
+Eggnog
+Sangria
+Pimm's cup
+Kir Royale
+French 75
+Sazerac
+Mint julep
+Sea Breeze
+Tequila shot
+Jägermeister
+Jägerbomb
+Fireball
+Sambuca
+Absinthe
+Green fairy
+Tequila
+Mezcal
+Lick salt shot lime
+Vodka
+Gin
+Rum
+Dark rum
+White rum
+Spiced rum
+Whiskey
+Whisky
+Scotch
+Single malt
+Bourbon
+Rye whiskey
+Irish whiskey
+Jack Daniel's
+Jim Beam
+Johnnie Walker
+Jameson
+Glenfiddich
+Macallan
+Smirnoff
+Absolut Vodka
+Grey Goose
+Bacardi
+Captain Morgan
+Havana Club
+Malibu
+Baileys
+Kahlúa
+Cointreau
+Triple sec
+Grand Marnier
+Disaronno
+Amaretto
+Limoncello
+Chartreuse
+Campari
+Aperol
+Vermouth
+Angostura bitters
+Brandy
+Cognac
+Armagnac
+Grappa
+Schnapps
+Sake
+Soju
+Ouzo
+Beer
+Lager
+Pilsner
+IPA
+Stout
+Guinness
+Porter
+Pale ale
+Wheat beer
+Craft beer
+Light beer
+Heineken
+Corona with lime
+Budweiser
+Bud Light
+Stella Artois
+Carlsberg
+Coors
+Miller
+Peroni
+Tiger beer
+Sapporo
+Asahi
+Kronenbourg
+Beck's
+Paulaner
+Hefeweizen
+Radler
+Shandy
+Snakebite
+Black and tan
+Pint of beer
+Half pint
+Pitcher of beer
+Beer bottle
+Beer can
+Beer keg
+Beer tap
+Beer belly
+Beer goggles
+Beer pong
+Flat beer
+Warm beer
+Cold one
+Wine
+Red wine
+White wine
+Rosé
+Sparkling wine
+Champagne
+Prosecco
+Cava
+Merlot
+Cabernet Sauvignon
+Pinot Noir
+Chardonnay
+Sauvignon Blanc
+Pinot Grigio
+Riesling
+Malbec
+Shiraz
+Chianti
+Port
+Sherry
+Madeira
+Wine glass
+Wine bottle
+Wine cork
+Corkscrew
+Wine tasting
+Swirling wine
+Sniffing wine
+Sommelier
+Decanter
+Wine cellar
+Vineyard
+Box of wine
+Cider
+Hard cider
+Hard seltzer
+White Claw
+Smirnoff Ice
+Shot
+Double shot
+Shot glass
+Shot of tequila
+Slammer
+Body shot
+Jelly shot
+Kamikaze
+Lemon drop
+Slippery Nipple
+Flaming Lamborghini
+B-52
+Car bomb
+Irish car bomb
+Shirley Temple
+Virgin Mary
+Mocktail
+Non-alcoholic beer
+Bar
+Dive bar
+Pub
+Irish pub
+Sports bar
+Wine bar
+Cocktail bar
+Tiki bar
+Speakeasy
+Rooftop bar
+Beach bar
+Swim-up bar
+Bar stool
+Bar counter
+Bar tab
+Bartender
+Barmaid
+Barman
+Mixologist
+Flair bartender
+Cocktail shaker
+Shaking a drink
+Stirring a drink
+Muddling mint
+Jigger
+Strainer
+Ice bucket
+Ice cubes
+Crushed ice
+On the rocks
+Neat
+Straight up
+With a twist
+Shaken not stirred
+Splash of soda
+Top shelf
+Well drinks
+House pour
+Free pour
+Pouring a pint
+Pulling a pint
+Cocktail umbrella
+Maraschino cherry
+Lime wedge
+Lemon twist
+Orange slice
+Sugar rim
+Salt rim
+Straw
+Paper straw
+Swizzle stick
+Coaster
+Beer mat
+Tankard
+Stein
+Yard of ale
+Pint glass
+Champagne flute
+Champagne coupe
+Martini glass
+Highball
+Tumbler
+Hip flask
+Flask
+Happy hour
+Two for one
+Free round
+Buying a round
+Last orders
+Last call
+Bar crawl
+Pub crawl
+Brewery tour
+Distillery tour
+Whiskey tasting
+Beer tasting
+Beer festival
+Oktoberfest
+Cheers
+Toasting
+Clinking glasses
+Raising a glass
+Making a toast
+Skål
+Prost
+Salud
+Kampai
+Bottoms up
+Down in one
+Chugging
+Skulling a beer
+Shotgunning a beer
+Keg stand
+Funnelling
+Drink responsibly
+Underage drinking
+Showing ID
+Fake ID
+Getting carded
+Drink driving
+Breathalyser
+Designated driver
+Drunk
+Tipsy
+Merry
+Buzzed
+Wasted
+Hammered
+Smashed
+Plastered
+Sloshed
+Trashed
+Blotto
+Legless
+Pissed
+Three sheets to the wind
+Under the table
+Drinking buddy
+Drinking alone
+Drinking games
+Drunk uncle
+Drunk karaoke
+Liquid courage
+Hair of the dog
+Hangover
+Hangxiety
+Beer before liquor
+Mixing drinks
+Watching your drink
+Covering your glass
+Nursing a drink
+Flaming shot
+Flaming drink
+Lighting a drink
+Green beer
+Shot ski
+Beer cooler
+Six-pack
+Twelve-pack
+Case of beer
+Beer run
+Bottle shop
+Off-licence
+Liquor store
+Duty free
+Moonshine
+Home brew
+Bathtub gin
+Prohibition
+Speakeasy password
+Whiskey barrel
+Oak barrel
+Distillery
+Brewery
+Winery
+Cork popping
+Screw cap
+Bottle opener
+Bottle cap
+Opening beer with lighter
+Opening beer with teeth
+Wine on the carpet
+Spilling a pint
+Cheap booze
+Top-shelf whiskey
+Rum punch
+Planter's punch
+Sangria jug
+Spritz
+Michelada
+Chelada
+Tinto de verano
+Kalimotxo
+Sake bomb
+Red Bull vodka
+Baby Guinness

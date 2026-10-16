@@ -1,0 +1,399 @@
+Airplane
+Helicopter
+Hot air balloon
+Glider
+Jumbo jet
+Private jet
+Seaplane
+Drone
+Rocket
+Space shuttle
+Train
+Bullet train
+Steam locomotive
+Subway
+Tram
+Cable car
+Funicular
+Monorail
+Metro card
+Bus
+Double-decker bus
+School bus
+Minibus
+Coach
+Taxi
+Cab driver
+Uber
+Limousine
+Rickshaw
+Tuk-tuk
+Gondola
+Car
+Convertible
+Sports car
+Pickup truck
+Minivan
+Camper van
+Caravan
+RV
+Truck
+Tractor
+Fire engine
+Ambulance
+Police car
+Tow truck
+Garbage truck
+Bicycle
+Tandem bike
+Scooter
+Electric scooter
+Motorcycle
+Moped
+Skateboard
+Roller skates
+Segway
+Horse and carriage
+Sleigh
+Dog sled
+Camel
+Donkey ride
+Ferry
+Cruise ship
+Sailboat
+Yacht
+Speedboat
+Canoe
+Kayak
+Rowboat
+Raft
+Submarine
+Hovercraft
+Jet ski
+Lifeboat
+Paddle steamer
+Tugboat
+Cargo ship
+Oil tanker
+Icebreaker
+Airport
+Runway
+Control tower
+Departure gate
+Boarding pass
+Passport
+Visa
+Customs
+Passport control
+Security check
+Metal detector
+X-ray scanner
+Baggage claim
+Luggage cart
+Carry-on bag
+Suitcase
+Backpack
+Duffel bag
+Fanny pack
+Neck pillow
+Luggage tag
+Lost luggage
+Overweight baggage
+Check-in desk
+Duty-free shop
+Frequent flyer
+First class
+Business class
+Economy class
+Window seat
+Aisle seat
+Middle seat
+Emergency exit
+Seat belt
+Life jacket
+Oxygen mask
+Flight attendant
+Pilot
+Co-pilot
+Cockpit
+Black box
+Turbulence
+Takeoff
+Landing
+Layover
+Jet lag
+Delayed flight
+Cancelled flight
+Missed connection
+Red-eye flight
+Overbooked flight
+Airline meal
+Airplane food
+In-flight movie
+Airplane window
+Tray table
+Overhead bin
+Air sickness bag
+Hijacking
+Parachute
+Skydiving
+Bungee jumping
+Hang gliding
+Paragliding
+Ticket
+Round-trip ticket
+One-way ticket
+Train ticket
+Bus pass
+Timetable
+Platform
+Train station
+Bus stop
+Bus station
+Ticket machine
+Ticket inspector
+Conductor
+Train driver
+Sleeping car
+Dining car
+Railway tracks
+Level crossing
+Station master
+Express train
+Commuter train
+Orient Express
+Eurostar
+Channel Tunnel
+Panama Canal
+Suez Canal
+Golden Gate Bridge
+Brooklyn Bridge
+Tower Bridge
+Highway
+Freeway
+Motorway
+Toll booth
+Toll road
+Roundabout
+Traffic light
+Zebra crossing
+Stop sign
+Speed limit
+Speed camera
+Speeding ticket
+Parking ticket
+Parking meter
+Parking lot
+Garage
+Gas station
+Petrol pump
+Electric charging station
+Car wash
+Car rental
+Driving license
+Learner driver
+Driving test
+Driving instructor
+Road trip
+Backseat driver
+Traffic jam
+Rush hour
+Detour
+Road closed
+Road works
+Pothole
+Flat tire
+Spare tire
+Jump start
+Breakdown
+Roadside assistance
+Hitchhiking
+Carpooling
+Designated driver
+Drive-through
+Road rage
+Honking horn
+Windshield wipers
+Rearview mirror
+Steering wheel
+Gearshift
+Glove compartment
+Dashboard
+Speedometer
+Odometer
+Fuel gauge
+Hazard lights
+Seat belt buckle
+Airbag
+Trunk
+Car boot
+Roof rack
+License plate
+GPS
+Road map
+Compass
+Atlas
+Globe
+Travel guide
+Guidebook
+Phrasebook
+Travel agent
+Travel insurance
+Travel adapter
+Currency exchange
+Traveller's cheque
+Souvenir
+Souvenir shop
+Postcard
+Snow globe
+Fridge magnet
+Photo album
+Selfie stick
+Tour guide
+Guided tour
+Sightseeing
+City tour
+Open-top bus
+Walking tour
+Package holiday
+Backpacking
+Hostel
+Hotel
+Motel
+Bed and breakfast
+Resort
+Campsite
+Hotel lobby
+Receptionist
+Bellhop
+Concierge
+Room service
+Minibar
+Hotel key card
+Do not disturb sign
+Hotel pool
+Hotel buffet
+Check-in
+Check-out
+Reservation
+Double room
+Penthouse suite
+Honeymoon suite
+Safari
+Jeep safari
+Expedition
+Pilgrimage
+Voyage
+Odyssey
+Journey
+Adventure
+Explorer
+Pirate ship
+Treasure map
+Message in a bottle
+Lighthouse
+Harbor
+Port
+Marina
+Dock
+Anchor
+Ship's wheel
+Captain
+Sailor
+Deckhand
+Porthole
+Gangway
+Lifebuoy
+Crow's nest
+Mast
+Sail
+Paddle
+Oar
+Seasick
+Sea legs
+Bon voyage
+Titanic
+Mayflower
+Santa Maria
+Apollo 11
+Wright brothers
+Amelia Earhart
+Charles Lindbergh
+Concorde
+Boeing 747
+Airbus A380
+Air Force One
+Route 66
+Silk Road
+Trans-Siberian Railway
+Great Wall
+Heathrow
+JFK Airport
+Charles de Gaulle
+Grand Central Station
+London Underground
+Mind the gap
+New York subway
+Yellow cab
+London black cab
+Red bus
+Greyhound bus
+Tube map
+Metro map
+Escalator
+Elevator
+Moving walkway
+Revolving door
+Turnstile
+Lost and found
+Information desk
+Departure board
+Arrivals hall
+Waiting room
+Vending machine
+Luggage locker
+Left luggage
+Porter
+Shuttle bus
+Airport shuttle
+Park and ride
+Bike lane
+Pedestrian crossing
+Sidewalk
+Overpass
+Underpass
+Tunnel
+Bridge
+Drawbridge
+Ferry terminal
+Cruise port
+Shore excursion
+Cabin
+Deck chair
+Captain's table
+Lifeboat drill
+Space station
+Moon landing
+Astronaut
+Mars rover
+Time machine
+Magic carpet
+Flying carpet
+Broomstick
+Sled
+Toboggan
+Ski lift
+Chairlift
+Snowmobile
+Horseback riding
+Stagecoach
+Covered wagon
+Wagon train
+Pony Express
+Chariot
+Palanquin
+Zeppelin
+Blimp
+Parasailing
+Airship
+Wingsuit

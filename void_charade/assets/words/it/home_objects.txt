@@ -1,0 +1,408 @@
+Divano
+Divano letto
+Poltrona
+Poltrona reclinabile
+Pouf
+Sedia
+Sedia a dondolo
+Sgabello
+Tavolo
+Tavolino
+Tavolino da salotto
+Comodino
+Cassettiera
+Armadio
+Guardaroba
+Libreria
+Scaffale
+Mensola
+Credenza
+Mobile della TV
+Scrivania
+Sedia da ufficio
+Letto
+Letto a castello
+Letto matrimoniale
+Culla
+Lettino
+Materasso
+Cuscino
+Piumone
+Coperta
+Plaid
+Lenzuolo
+Federa
+Copriletto
+Trapunta
+Borsa dell'acqua calda
+Peluche
+Sveglia
+Orologio a muro
+Orologio a cucù
+Specchio
+Cornice
+Quadro
+Poster
+Vaso
+Vaso di fiori
+Candela
+Candelabro
+Portacandele
+Candela profumata
+Camino
+Caminetto
+Mensola del camino
+Attizzatoio
+Legna da ardere
+Stufa
+Stufa a pellet
+Termosifone
+Calorifero
+Stufetta elettrica
+Ventilatore
+Condizionatore
+Deumidificatore
+Umidificatore
+Termostato
+Caldaia
+Scaldabagno
+Tappeto
+Zerbino
+Tenda
+Tenda da doccia
+Persiana
+Tapparella
+Veneziana
+Davanzale
+Lampada
+Lampada da tavolo
+Lampada da terra
+Lampadario
+Paralume
+Lampadina
+Interruttore
+Presa elettrica
+Spina
+Prolunga
+Ciabatta elettrica
+Telecomando
+Televisore
+Radio
+Giradischi
+Stereo
+Casse
+Console
+Computer portatile
+Stampante
+Modem
+Telefono
+Telefono fisso
+Citofono
+Campanello
+Battente
+Maniglia
+Chiave di casa
+Portachiavi
+Cassetta della posta
+Porta d'ingresso
+Spioncino
+Catenaccio
+Serratura
+Appendiabiti
+Attaccapanni
+Portaombrelli
+Scarpiera
+Pantofole
+Ciabatte
+Vestaglia
+Accappatoio
+Asciugamano
+Tappetino da bagno
+Vasca da bagno
+Doccia
+Soffione della doccia
+Water
+Carta igienica
+Scopino
+Sturalavandini
+Bidet
+Lavandino
+Rubinetto
+Sapone
+Saponetta
+Shampoo
+Bagnoschiuma
+Spazzolino
+Dentifricio
+Filo interdentale
+Rasoio
+Schiuma da barba
+Asciugacapelli
+Phon
+Spazzola
+Pettine
+Piastra per capelli
+Ferro arricciacapelli
+Pinzette
+Tagliaunghie
+Cotton fioc
+Bilancia pesapersone
+Cesto della biancheria
+Lavatrice
+Asciugatrice
+Stendibiancheria
+Mollette
+Filo per i panni
+Asse da stiro
+Ferro da stiro
+Macchina da cucire
+Ago e filo
+Spillo
+Spilla da balia
+Bottone
+Cerniera
+Forbici
+Metro da sarta
+Aspirapolvere
+Robot aspirapolvere
+Scopa
+Paletta e scopino
+Mocio
+Straccio
+Secchio
+Piumino della polvere
+Spolverino
+Guanti di gomma
+Sacchetto della spazzatura
+Cestino
+Pattumiera
+Ammorbidente
+Detersivo
+Candeggina
+Ammoniaca
+Spray anticalcare
+Deodorante per ambienti
+Spugna
+Cassetta degli attrezzi
+Martello
+Cacciavite
+Pinza
+Chiave inglese
+Trapano
+Sega
+Chiodi
+Viti
+Tasselli
+Nastro adesivo
+Scotch
+Colla
+Colla vinilica
+Attack
+Scala
+Scaletta
+Livella
+Pennello
+Rullo
+Pennello per la vernice
+Vernice
+Zappa
+Pala
+Tubo dell'acqua
+Innaffiatoio
+Tagliaerba
+Carriola
+Rastrello
+Nano da giardino
+Vaso di terracotta
+Barbecue
+Amaca
+Sdraio
+Ombrellone
+Tavolo da giardino
+Capanno degli attrezzi
+Basculante
+Bicicletta
+Monopattino
+Accendino
+Fiammiferi
+Pile
+Torcia
+Calendario
+Blocco note
+Post-it
+Penna
+Matita
+Pennarello
+Pinzatrice
+Graffetta
+Elastico
+Busta
+Francobollo
+Rubrica
+Album di foto
+Puzzle
+Gioco da tavolo
+Mazzo di carte
+Carte napoletane
+Dadi
+Scacchiera
+Dama
+Tombola
+Monopoli
+Libro
+Rivista
+Giornale
+Diario
+Dizionario
+Enciclopedia
+Mappamondo
+Salvadanaio
+Portafoglio
+Borsellino
+Borsa
+Zaino
+Valigia
+Ombrello
+Occhiali da sole
+Occhiali da vista
+Lenti a contatto
+Orologio da polso
+Collana
+Orecchini
+Anello
+Bracciale
+Portagioielli
+Profumo
+Rossetto
+Mascara
+Smalto
+Trousse
+Crema per le mani
+Deodorante
+Dopobarba
+Fazzoletti
+Salviette umidificate
+Cerotto
+Cassetta del pronto soccorso
+Termometro
+Pillole
+Tapis roulant
+Pesi
+Tappetino da yoga
+Cyclette
+Corda per saltare
+Pallone
+Cuccia
+Lettiera
+Ciotola del cane
+Guinzaglio
+Acquario
+Gabbia per uccelli
+Tiragraffi
+Ruota del criceto
+Baby monitor
+Pannolino
+Ciuccio
+Biberon
+Passeggino
+Seggiolone
+Fasciatoio
+Sonaglio
+Scatola dei giochi
+Bambola
+Lego
+Macchinina
+Paperella di gomma
+Pastelli
+Album da colorare
+Pongo
+Das
+Aquilone
+Pistola ad acqua
+Lampada da notte
+Lampada di lava
+Albero di Natale
+Luci di Natale
+Presepe
+Calendario dell'Avvento
+Calza della Befana
+Carta da regalo
+Biglietto d'auguri
+Palloncino
+Cappellino da festa
+Cassaforte
+Webcam
+Mouse
+Tastiera
+Monitor
+Cuffie
+Microfono
+Macchina fotografica
+Cavalletto
+Binocolo
+Telescopio
+Bussola
+Cartina
+Navigatore
+Caricabatterie
+Power bank
+Chiavetta USB
+Hard disk
+Cavo
+Adattatore
+Fermaporta
+Fermalibri
+Fermacarte
+Tagliacarte
+Calamita
+Bacheca di sughero
+Lavagna
+Calzascarpe
+Spazzola per vestiti
+Antitarme
+Acchiappamosche
+Trappola per topi
+Zanzariera
+Spray antizanzare
+Zampirone
+Ragnatela
+Gomitolo di polvere
+Numero civico
+Antenna
+Parabola
+Grondaia
+Tegole
+Scala a chiocciola
+Ringhiera
+Soffitta
+Abbaino
+Lucernario
+Cancello
+Recinzione
+Cassetta delle lettere
+Vaso appeso
+Mangiatoia per uccelli
+Meridiana
+Compostiera
+Radiosveglia
+Orologio
+Cuscino del divano
+Copridivano
+Sacco a pelo
+Tenda da campeggio
+Panca
+Baule
+Cassapanca
+Bauletto
+Cestino del pane
+Portafoto
+Presina
+Quadro con il paesaggio
+Centrino
+Centrotavola
+Statuetta
+Soprammobile
+Pianta in vaso
+Cactus
+Fiori finti
+Orchidea

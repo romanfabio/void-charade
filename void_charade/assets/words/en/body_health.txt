@@ -1,0 +1,384 @@
+Head
+Forehead
+Eyebrow
+Eyelash
+Eyelid
+Eyeball
+Pupil
+Nose
+Nostril
+Cheek
+Dimple
+Freckles
+Mouth
+Lips
+Tongue
+Tooth
+Teeth
+Wisdom tooth
+Gums
+Jaw
+Chin
+Ear
+Earlobe
+Eardrum
+Neck
+Throat
+Adam's apple
+Shoulder
+Collarbone
+Armpit
+Arm
+Elbow
+Forearm
+Wrist
+Hand
+Palm
+Fist
+Finger
+Thumb
+Index finger
+Pinky
+Fingernail
+Fingerprint
+Knuckle
+Chest
+Rib
+Ribcage
+Back
+Spine
+Backbone
+Shoulder blade
+Lower back
+Waist
+Belly
+Belly button
+Hip
+Tailbone
+Thigh
+Knee
+Kneecap
+Calf
+Shin
+Ankle
+Heel
+Foot
+Arch
+Sole
+Toe
+Big toe
+Toenail
+Bald spot
+Mole
+Birthmark
+Scar
+Wrinkle
+Pimple
+Blackhead
+Blister
+Goosebumps
+Sweat
+Tear
+Saliva
+Skull
+Skeleton
+Jawbone
+Pelvis
+Femur
+Muscle
+Biceps
+Triceps
+Abs
+Six-pack
+Hamstring
+Tendon
+Ligament
+Cartilage
+Joint
+Brain
+Heart
+Lungs
+Liver
+Kidney
+Stomach
+Intestines
+Appendix
+Gallbladder
+Pancreas
+Spleen
+Bladder
+Windpipe
+Esophagus
+Diaphragm
+Artery
+Vein
+Capillary
+Nerve
+Spinal cord
+Heartbeat
+Pulse
+Blood pressure
+White blood cells
+Red blood cells
+DNA
+Chromosome
+Hiccups
+Burp
+Yawn
+Sneeze
+Cough
+Sniffle
+Blink
+Wink
+Shiver
+Stretch
+Tickle
+Twitch
+Cramp
+Pins and needles
+Funny bone
+Baby bump
+Newborn baby
+Umbilical cord
+Birth
+Cold
+Flu
+Fever
+Runny nose
+Stuffy nose
+Sore throat
+Headache
+Migraine
+Toothache
+Earache
+Stomachache
+Backache
+Sore muscles
+Whiplash
+Black eye
+Bruise
+Scratch
+Scrape
+Sprain
+Strain
+Fracture
+Broken arm
+Broken leg
+Broken bone
+Paper cut
+Splinter
+Sunburn
+Rash
+Itchy skin
+Insect bite
+Bee sting
+Allergy
+Hay fever
+Asthma
+Food poisoning
+Stomach flu
+Nausea
+Indigestion
+Motion sickness
+Seasickness
+Dizziness
+Fainting
+Ear infection
+Athlete's foot
+Dandruff
+Eczema
+Acne
+Cold sore
+Canker sore
+Cavity
+Diabetes
+Heart attack
+Stroke
+Arthritis
+Osteoporosis
+Appendicitis
+Quarantine
+Prescription
+Hangover
+Yoga
+Pilates
+Stretching
+Jogging
+Jumping rope
+Push-ups
+Sit-ups
+Pull-ups
+Squats
+Lunges
+Plank
+Treadmill
+Personal trainer
+Dumbbells
+Diet
+Calories
+Vitamins
+Doctor
+Nurse
+Surgeon
+Dentist
+Pediatrician
+Midwife
+Paramedic
+Pharmacist
+Optician
+Physiotherapist
+Psychologist
+Chiropractor
+Veterinarian
+Family doctor
+Hospital
+Clinic
+Emergency room
+Operating room
+Waiting room
+Pharmacy
+Ambulance
+Stretcher
+Wheelchair
+Crutches
+Hospital bed
+Check-up
+Appointment
+Vaccination
+Flu shot
+Injection
+Syringe
+Blood test
+Blood donation
+X-ray
+MRI scan
+CT scan
+Ultrasound
+ECG
+Stethoscope
+Thermometer
+Blood pressure cuff
+Glasses
+Contact lenses
+Braces
+Retainer
+Dentures
+Filling
+Root canal
+Tooth extraction
+Dental floss
+Toothbrush
+Toothpaste
+Mouthwash
+Dentist's chair
+Dental drill
+Tooth fairy
+Pills
+Cough drops
+Painkiller
+Aspirin
+Paracetamol
+Ibuprofen
+Antibiotics
+Cough medicine
+Nasal spray
+Eye drops
+Ointment
+Inhaler
+Insulin pen
+First aid kit
+Bandage
+Band-Aid
+Plaster
+Gauze
+Plaster cast
+Sling
+Splint
+Stitches
+Surgical mask
+Face mask
+Rubber gloves
+Hand sanitizer
+Handkerchief
+Ice pack
+Hot water bottle
+Heating pad
+Tweezers
+Get well soon
+Bed rest
+Chicken soup
+Herbal tea
+Honey and lemon
+Surgery
+Scalpel
+CPR
+Massage
+Acupuncture
+Sauna
+Spa
+Facial
+Manicure
+Pedicure
+Botox
+Tattoo
+Piercing
+Chickenpox
+Measles
+Mumps
+Pink eye
+Tonsillitis
+Pneumonia
+Concussion
+Nosebleed
+Dislocated shoulder
+Torn ligament
+Heartburn
+Insomnia
+Snoring
+Sleepwalking
+Pacemaker
+Defibrillator
+Hearing aid
+Eye chart
+Eye test
+Hair transplant
+Warts
+Head lice
+Kidney stones
+Growth spurt
+Puberty
+Heimlich maneuver
+Immune system
+Blood type
+Pill box
+Cotton swab
+Operation
+Anesthesia
+Heart transplant
+Plastic surgery
+Gym
+Meditation
+Hospital gown
+Walking stick
+Sign language
+Guide dog
+Stitch in the side
+Whooping cough
+Strep throat
+Broken nose
+Stubbed toe
+Tongue out
+Thumbs up
+Arm wrestling
+Flexing muscles
+Crossed fingers
+Raised eyebrow
+Eye roll
+Ponytail
+Pigtails
+Braids
+Sideburns
+Mustache
+Beard
+Goatee
+Stubble

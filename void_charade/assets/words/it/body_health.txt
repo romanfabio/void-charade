@@ -1,0 +1,433 @@
+Testa
+Fronte
+Sopracciglio
+Ciglia
+Palpebra
+Bulbo oculare
+Pupilla
+Naso
+Narice
+Guancia
+Fossetta
+Lentiggini
+Bocca
+Labbra
+Lingua
+Dente
+Denti
+Dente del giudizio
+Gengive
+Mascella
+Mento
+Orecchio
+Lobo dell'orecchio
+Timpano
+Collo
+Gola
+Pomo d'Adamo
+Spalla
+Clavicola
+Ascella
+Braccio
+Gomito
+Avambraccio
+Polso
+Mano
+Palmo
+Pugno
+Dito
+Pollice
+Indice
+Medio
+Anulare
+Mignolo
+Unghia
+Impronta digitale
+Nocca
+Petto
+Costola
+Gabbia toracica
+Schiena
+Colonna vertebrale
+Scapola
+Zona lombare
+Vita
+Ombelico
+Fianco
+Anca
+Coccige
+Coscia
+Ginocchio
+Rotula
+Polpaccio
+Stinco
+Caviglia
+Tallone
+Piede
+Pianta del piede
+Dito del piede
+Alluce
+Unghia del piede
+Calvizie
+Neo
+Voglia
+Ruga
+Brufolo
+Punto nero
+Vescica
+Callo
+Pelle d'oca
+Sudore
+Lacrima
+Saliva
+Cranio
+Scheletro
+Bacino
+Femore
+Muscolo
+Bicipite
+Tricipite
+Addominali
+Tartaruga
+Tendine
+Legamento
+Cartilagine
+Articolazione
+Cervello
+Cuore
+Polmoni
+Fegato
+Rene
+Stomaco
+Intestino
+Appendice
+Cistifellea
+Pancreas
+Milza
+Vescica urinaria
+Trachea
+Esofago
+Diaframma
+Arteria
+Vena
+Midollo spinale
+Battito cardiaco
+Pressione sanguigna
+Gruppo sanguigno
+Globuli bianchi
+Globuli rossi
+DNA
+Cromosoma
+Sistema immunitario
+Singhiozzo
+Rutto
+Sbadiglio
+Starnuto
+Tosse
+Ammiccare
+Occhiolino
+Brivido
+Stiracchiarsi
+Solletico
+Tic
+Crampo
+Fitta al fianco
+Formicolio
+Osso del gomito
+Pubertà
+Gravidanza
+Pancione
+Neonato
+Cordone ombelicale
+Parto
+Raffreddore
+Influenza
+Febbre
+Naso che cola
+Naso chiuso
+Mal di gola
+Mal di testa
+Emicrania
+Mal di denti
+Mal d'orecchio
+Mal di pancia
+Mal di schiena
+Dolori muscolari
+Colpo di frusta
+Occhio nero
+Livido
+Graffio
+Escoriazione
+Distorsione
+Strappo muscolare
+Frattura
+Braccio rotto
+Gamba rotta
+Osso rotto
+Spalla lussata
+Lesione al legamento
+Commozione cerebrale
+Sangue dal naso
+Bernoccolo
+Taglietto di carta
+Scheggia
+Scottatura solare
+Eruzione cutanea
+Orticaria
+Prurito
+Puntura di insetto
+Puntura d'ape
+Allergia
+Raffreddore da fieno
+Asma
+Intossicazione alimentare
+Gastroenterite
+Nausea
+Indigestione
+Mal d'auto
+Mal di mare
+Capogiro
+Svenimento
+Insonnia
+Sonnambulismo
+Russare
+Apnee notturne
+Varicella
+Morbillo
+Orecchioni
+Pertosse
+Tonsillite
+Polmonite
+Bronchite
+Mal di gola da streptococco
+Congiuntivite
+Otite
+Cistite
+Piede d'atleta
+Forfora
+Pidocchi
+Verruche
+Eczema
+Acne
+Herpes
+Fuoco di Sant'Antonio
+Afte
+Carie
+Placca
+Gengivite
+Diabete
+Ipertensione
+Colesterolo
+Infarto
+Ictus
+Artrite
+Osteoporosi
+Anemia
+Appendicite
+Calcoli renali
+Ernia
+Ulcera
+Quarantena
+Yoga
+Pilates
+Stretching
+Salto con la corda
+Flessioni
+Trazioni
+Squat
+Affondi
+Plank
+Palestra
+Pesi
+Tapis roulant
+Personal trainer
+Manubri
+Riscaldamento
+Contapassi
+Dieta
+Dieta mediterranea
+Bilancia
+Prova costume
+Medico
+Dottore
+Infermiera
+Chirurgo
+Dentista
+Pediatra
+Ostetrica
+Paramedico
+Farmacista
+Oculista
+Fisioterapista
+Psicologo
+Chiropratico
+Veterinario
+Medico di base
+Guardia medica
+Ospedale
+Ambulatorio
+Pronto soccorso
+Sala operatoria
+Sala d'attesa
+Farmacia
+Ambulanza
+Barella
+Sedia a rotelle
+Stampelle
+Deambulatore
+Letto d'ospedale
+Camice
+Orario di visita
+Terapia intensiva
+Visita di controllo
+Vaccino
+Richiamo del vaccino
+Iniezione
+Ago
+Siringa
+Esame del sangue
+Donazione di sangue
+Analisi delle urine
+Radiografia
+Risonanza magnetica
+TAC
+Ecografia
+Elettrocardiogramma
+Stetoscopio
+Termometro
+Misuratore di pressione
+Martelletto
+Abbassalingua
+Otoscopio
+Test della vista
+Tabella ottotipica
+Test dell'udito
+Apparecchio acustico
+Occhiali
+Lenti a contatto
+Apparecchio per i denti
+Dentiera
+Otturazione
+Devitalizzazione
+Estrazione del dente
+Filo interdentale
+Spazzolino
+Dentifricio
+Collutorio
+Poltrona del dentista
+Trapano del dentista
+Fatina dei denti
+Pillole
+Sciroppo
+Caramelle per la gola
+Antidolorifico
+Aspirina
+Tachipirina
+Antibiotico
+Sciroppo per la tosse
+Spray nasale
+Collirio
+Pomata
+Aerosol
+Penna dell'insulina
+Pastigliere
+Armadietto dei medicinali
+Cassetta del pronto soccorso
+Benda
+Cerotto
+Garza
+Gesso
+Ingessatura
+Tutore
+Fascia al braccio
+Punti di sutura
+Mascherina
+Guanti di gomma
+Gel igienizzante
+Fazzoletto
+Borsa del ghiaccio
+Borsa dell'acqua calda
+Termoforo
+Pinzette
+Cotton fioc
+Disinfettante
+Certificato medico
+Riposo a letto
+Camomilla
+Tisana
+Miele e limone
+Intervento chirurgico
+Bisturi
+Anestesia
+Trapianto
+Trapianto di cuore
+Pacemaker
+Defibrillatore
+Rianimazione
+Massaggio cardiaco
+Manovra di Heimlich
+Respirazione bocca a bocca
+Massaggio
+Agopuntura
+Sauna
+Terme
+Centro estetico
+Manicure
+Pedicure
+Trapianto di capelli
+Chirurgia plastica
+Botox
+Mancino
+Linguaggio dei segni
+Occhiali da vista
+Baffi
+Barba
+Pizzetto
+Barba incolta
+Basette
+Codino
+Treccine
+Trecce
+Parrucca
+Brivido lungo la schiena
+Pelle d'oca dalla paura
+Stomaco in subbuglio
+Nodo alla gola
+Farfalle nello stomaco
+Occhi lucidi
+Occhiaie
+Borse sotto gli occhi
+Labbro spaccato
+Naso rotto
+Orecchie a sventola
+Tallone d'Achille
+Piedi piatti
+Sciatica
+Colpo della strega
+Cervicale
+Ginocchio del saltatore
+Gomito del tennista
+Tunnel carpale
+Ernia del disco
+Scoliosi
+Mal di schiena da scrivania
+Torcicollo
+Tendinite
+Crampi alle gambe
+Slogatura
+Colpo di sole
+Colpo di calore
+Intolleranza al lattosio
+Celiachia
+Occhio
+Pancia
+Pelle
+Sangue
+Capelli
+Tatuaggio
+Piercing
+Cicatrice
+Osso
+Nervo
+Brodo di pollo
+Ricetta medica

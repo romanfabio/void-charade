@@ -1,0 +1,465 @@
+Super Mario Bros.
+Super Mario 64
+Super Mario Odyssey
+Mario Kart
+Mario Party
+Super Smash Bros.
+Luigi's Mansion
+Paper Mario
+Donkey Kong
+Diddy Kong Racing
+Yoshi's Island
+Wario Ware
+The Legend of Zelda
+Breath of the Wild
+Tears of the Kingdom
+Ocarina of Time
+Majora's Mask
+Animal Crossing
+Pokemon
+Pokemon Go
+Pokemon Red and Blue
+Metroid
+Kirby
+Star Fox
+F-Zero
+Pikmin
+Splatoon
+Xenoblade Chronicles
+Fire Emblem
+Wii Sports
+Wii Fit
+Nintendogs
+Brain Training
+Tetris
+Pac-Man
+Ms. Pac-Man
+Space Invaders
+Pong
+Asteroids
+Galaga
+Frogger
+Centipede
+Dig Dug
+Breakout
+Joust
+Defender
+Missile Command
+Donkey Kong Country
+Sonic the Hedgehog
+Sonic Mania
+Sonic Adventure
+Streets of Rage
+Altered Beast
+Golden Axe
+Alex Kidd
+Crash Bandicoot
+Spyro the Dragon
+Rayman
+Banjo-Kazooie
+Conker's Bad Fur Day
+Goldeneye 007
+Perfect Dark
+Mega Man
+Street Fighter
+Street Fighter II
+Mortal Kombat
+Tekken
+Soulcalibur
+Virtua Fighter
+Dead or Alive
+Killer Instinct
+Final Fantasy
+Final Fantasy VII
+Kingdom Hearts
+Chrono Trigger
+Dragon Quest
+Persona 5
+Metal Gear Solid
+Resident Evil
+Silent Hill
+Castlevania
+Contra
+Ninja Gaiden
+Bomberman
+Bubble Bobble
+Double Dragon
+Gradius
+R-Type
+Dark Souls
+Elden Ring
+Bloodborne
+Sekiro
+Demon's Souls
+Hollow Knight
+Celeste
+Cuphead
+Undertale
+Stardew Valley
+Terraria
+Minecraft
+Roblox
+Fortnite
+Among Us
+Fall Guys
+Rocket League
+Overwatch
+Apex Legends
+Valorant
+Counter-Strike
+Call of Duty
+Modern Warfare
+Black Ops
+Warzone
+Battlefield
+Halo
+Halo Infinite
+Gears of War
+Doom
+Quake
+Wolfenstein
+Half-Life
+Portal
+Left 4 Dead
+Team Fortress 2
+Bioshock
+Fallout
+Skyrim
+The Elder Scrolls
+Oblivion
+Morrowind
+The Witcher 3
+Cyberpunk 2077
+Mass Effect
+Dragon Age
+Baldur's Gate 3
+Diablo
+World of Warcraft
+Warcraft
+StarCraft
+Hearthstone
+League of Legends
+Dota 2
+PUBG
+Grand Theft Auto
+GTA V
+Vice City
+San Andreas
+Red Dead Redemption
+Red Dead Redemption 2
+Max Payne
+Assassin's Creed
+Far Cry
+Watch Dogs
+Prince of Persia
+Rainbow Six Siege
+Splinter Cell
+The Division
+Just Dance
+Rock Band
+Guitar Hero
+Dance Dance Revolution
+SingStar
+Rocksmith
+Beat Saber
+FIFA
+EA Sports FC
+Madden NFL
+NBA 2K
+Pro Evolution Soccer
+Football Manager
+Gran Turismo
+Forza Horizon
+Need for Speed
+Burnout
+Mario Kart 8
+Crazy Taxi
+Daytona USA
+OutRun
+Wipeout
+Ridge Racer
+Trackmania
+The Sims
+SimCity
+Cities Skylines
+Civilization
+Age of Empires
+Command and Conquer
+Total War
+Plants vs. Zombies
+Angry Birds
+Candy Crush
+Fruit Ninja
+Flappy Bird
+Temple Run
+Subway Surfers
+Clash of Clans
+Clash Royale
+Cut the Rope
+Words with Friends
+Wordle
+Doodle Jump
+Monument Valley
+Crossy Road
+Cookie Clicker
+Farmville
+Tamagotchi
+Zelda
+Mario
+Luigi
+Princess Peach
+Bowser
+Yoshi
+Wario
+Waluigi
+Diddy Kong
+Samus Aran
+Pikachu
+Charizard
+Ash Ketchum
+Master Chief
+Lara Croft
+Tomb Raider
+Uncharted
+Nathan Drake
+The Last of Us
+God of War
+Kratos
+Spider-Man
+Ratchet and Clank
+Jak and Daxter
+Sly Cooper
+Sackboy
+LittleBigPlanet
+Horizon Zero Dawn
+Ghost of Tsushima
+Death Stranding
+Bayonetta
+Devil May Cry
+Dante
+Cloud Strife
+Sephiroth
+Solid Snake
+Sam Fisher
+Gordon Freeman
+Geralt of Rivia
+Ezio Auditore
+Creeper
+Enderman
+Ender Dragon
+Crafting table
+Redstone
+Pickaxe
+Nether
+Battle Pass
+Loot box
+Respawn
+Spawn
+Noob
+Rage quit
+Speedrun
+Easter egg
+Boss fight
+Final boss
+Cheat code
+Konami Code
+Save point
+Checkpoint
+Game over
+Extra life
+Power-up
+Health bar
+Hit points
+Experience points
+Level up
+Side quest
+Cutscene
+Open world
+Sandbox
+Roguelike
+Platformer
+First-person shooter
+Battle royale
+Multiplayer
+Co-op
+Single player
+Split screen
+Online gaming
+Lag
+Ping
+Headset
+Controller
+Joystick
+Gamepad
+D-pad
+Arcade cabinet
+Arcade
+Pinball
+Claw machine
+Light gun
+Virtual reality
+VR headset
+Oculus Quest
+Augmented reality
+Console
+Handheld
+Game Boy
+Game Boy Advance
+Nintendo DS
+Nintendo 3DS
+Nintendo Switch
+Switch Lite
+Wii
+Wii U
+GameCube
+Nintendo 64
+Super Nintendo
+NES
+Famicom
+Atari 2600
+Sega Genesis
+Sega Dreamcast
+Sega Saturn
+Master System
+Game Gear
+PlayStation
+PlayStation 2
+PlayStation 3
+PlayStation 4
+PlayStation 5
+PSP
+PS Vita
+Xbox
+Xbox 360
+Xbox One
+Xbox Series X
+Kinect
+Steam
+Steam Deck
+Epic Games
+Twitch
+Nintendo
+Sega
+Atari
+Sony
+Microsoft
+Ubisoft
+Rockstar
+Blizzard
+Bethesda
+Capcom
+Konami
+Square Enix
+Bandai Namco
+Valve
+Mojang
+E3
+Gamescom
+Game Awards
+Esports
+Streamer
+Twitch streamer
+Game jam
+Indie game
+AAA game
+Retro gaming
+Pixel art
+8-bit
+Game developer
+Game designer
+Modding
+DLC
+Season pass
+Microtransaction
+Free to play
+Early access
+Remaster
+Mascot
+Pokeball
+Pokedex
+Gym leader
+Team Rocket
+Eevee
+Snorlax
+Gengar
+Jigglypuff
+Meowth
+Psyduck
+Squirtle
+Bulbasaur
+Charmander
+Mewtwo
+Magikarp
+Gyarados
+Lucario
+Greninja
+Koopa Troopa
+Goomba
+Piranha Plant
+Bullet Bill
+Boo
+Shy Guy
+Chain Chomp
+Blooper
+Lakitu
+Banana peel
+Red shell
+Blue shell
+Super Star
+Super Mushroom
+Fire Flower
+Warp pipe
+Question block
+Princess Zelda
+Ganondorf
+Triforce
+Master Sword
+Navi
+Epona
+Korok
+Bokoblin
+Tingle
+Fairy Fountain
+Heart container
+Cucco
+Tom Nook
+K.K. Slider
+Sonic
+Tails
+Knuckles
+Dr. Robotnik
+Dr. Eggman
+Shadow the Hedgehog
+Amy Rose
+Chaos Emerald
+Golden Ring
+Green Hill Zone
+Chun-Li
+Ryu
+Ken
+Guile
+Blanka
+Dhalsim
+E. Honda
+Zangief
+Scorpion
+Sub-Zero
+Raiden
+Liu Kang
+Shao Kahn
+Blinky
+Inky
+Pinky
+Clyde
+Power pellet
+Freddy Fazbear
+Five Nights at Freddy's
+Poppy Playtime
+Huggy Wuggy
+Tilted Towers
+Victory Royale
+V-Bucks
+Adopt Me
+Robux
+Netherite
+Diamond pickaxe

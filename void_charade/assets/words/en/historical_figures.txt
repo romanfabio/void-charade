@@ -1,0 +1,350 @@
+Julius Caesar
+Cleopatra
+Napoleon Bonaparte
+Alexander the Great
+Genghis Khan
+Attila the Hun
+Hannibal
+Augustus
+Nero
+Caligula
+Marcus Aurelius
+Constantine the Great
+Charlemagne
+William the Conqueror
+Richard the Lionheart
+King Arthur
+Joan of Arc
+Henry VIII
+Anne Boleyn
+Elizabeth I
+Queen Victoria
+Mary Queen of Scots
+Bloody Mary
+Oliver Cromwell
+Charles I
+Louis XIV
+Marie Antoinette
+Louis XVI
+Robespierre
+Catherine the Great
+Peter the Great
+Ivan the Terrible
+Rasputin
+Tsar Nicholas II
+Vladimir Lenin
+Joseph Stalin
+Leon Trotsky
+Karl Marx
+Friedrich Engels
+Adolf Hitler
+Winston Churchill
+Franklin D. Roosevelt
+Theodore Roosevelt
+Abraham Lincoln
+George Washington
+Thomas Jefferson
+Benjamin Franklin
+John Adams
+Andrew Jackson
+Ulysses S. Grant
+Robert E. Lee
+John F. Kennedy
+Robert F. Kennedy
+Richard Nixon
+Ronald Reagan
+Harry Truman
+Dwight Eisenhower
+Martin Luther King Jr.
+Malcolm X
+Rosa Parks
+Harriet Tubman
+Frederick Douglass
+Sojourner Truth
+Susan B. Anthony
+Emmeline Pankhurst
+Mahatma Gandhi
+Nelson Mandela
+Che Guevara
+Fidel Castro
+Simon Bolivar
+Mao Zedong
+Sun Yat-sen
+Confucius
+Sun Tzu
+Qin Shi Huang
+Kublai Khan
+Marco Polo
+Zheng He
+Ho Chi Minh
+Emperor Hirohito
+Tokugawa Ieyasu
+Oda Nobunaga
+Miyamoto Musashi
+Saladin
+Suleiman the Magnificent
+Mehmed the Conqueror
+Ataturk
+Tutankhamun
+Ramses II
+Nefertiti
+Akhenaten
+Imhotep
+Moses
+Socrates
+Plato
+Aristotle
+Pythagoras
+Archimedes
+Euclid
+Hippocrates
+Homer
+Pericles
+Leonidas
+Xerxes
+Darius the Great
+Cyrus the Great
+Spartacus
+Cicero
+Brutus
+Mark Antony
+Pompey
+Vercingetorix
+Boudica
+Pontius Pilate
+Herod the Great
+Jesus Christ
+Saint Paul
+Saint Peter
+Buddha
+Muhammad
+Martin Luther
+John Calvin
+Thomas More
+Galileo Galilei
+Leonardo da Vinci
+Michelangelo
+Raphael
+Donatello
+Botticelli
+Johannes Gutenberg
+Nicolaus Copernicus
+Johannes Kepler
+Isaac Newton
+Albert Einstein
+Nikola Tesla
+Thomas Edison
+Alexander Graham Bell
+Marie Curie
+Louis Pasteur
+Charles Darwin
+Gregor Mendel
+Sigmund Freud
+Carl Jung
+Stephen Hawking
+Alan Turing
+Ada Lovelace
+Charles Babbage
+Michael Faraday
+James Watt
+Alfred Nobel
+Guglielmo Marconi
+Wright Brothers
+Henry Ford
+Amelia Earhart
+Charles Lindbergh
+Neil Armstrong
+Buzz Aldrin
+Yuri Gagarin
+Sally Ride
+Christopher Columbus
+Vasco da Gama
+Ferdinand Magellan
+Amerigo Vespucci
+Hernan Cortes
+Francisco Pizarro
+Montezuma
+Atahualpa
+Sitting Bull
+Crazy Horse
+Geronimo
+Pocahontas
+Sacagawea
+Lewis and Clark
+Daniel Boone
+Davy Crockett
+Buffalo Bill
+Billy the Kid
+Jesse James
+Wyatt Earp
+Annie Oakley
+Calamity Jane
+Al Capone
+Bonnie and Clyde
+John Dillinger
+Pablo Escobar
+Captain Cook
+Captain Kidd
+Blackbeard
+Sir Francis Drake
+Sir Walter Raleigh
+Ernest Shackleton
+Roald Amundsen
+Robert Falcon Scott
+Edmund Hillary
+Tenzing Norgay
+Florence Nightingale
+Anne Frank
+Helen Keller
+Mother Teresa
+Pope John Paul II
+Pope Francis
+Desmond Tutu
+Dalai Lama
+Aung San Suu Kyi
+Shaka Zulu
+Haile Selassie
+Queen of Sheba
+King Solomon
+King David
+Nebuchadnezzar
+Hammurabi
+Gilgamesh
+Justinian
+Theodora
+Eleanor of Aquitaine
+Ferdinand and Isabella
+Charles V
+Otto von Bismarck
+Kaiser Wilhelm II
+Frederick the Great
+Maria Theresa
+Franz Joseph
+Archduke Franz Ferdinand
+Napoleon III
+Charles de Gaulle
+Josephine Bonaparte
+Duke of Wellington
+Admiral Nelson
+William Shakespeare
+Geoffrey Chaucer
+Dante Alighieri
+Miguel de Cervantes
+Voltaire
+Jean-Jacques Rousseau
+Immanuel Kant
+Friedrich Nietzsche
+Rene Descartes
+John Locke
+Adam Smith
+Thomas Hobbes
+Machiavelli
+Francis Bacon
+Erasmus
+Wolfgang Amadeus Mozart
+Ludwig van Beethoven
+Johann Sebastian Bach
+Frederic Chopin
+Franz Liszt
+Antonio Vivaldi
+Giuseppe Verdi
+Richard Wagner
+Tchaikovsky
+Claude Monet
+Vincent van Gogh
+Pablo Picasso
+Rembrandt
+Salvador Dali
+Frida Kahlo
+Andy Warhol
+Auguste Rodin
+Edgar Allan Poe
+Mark Twain
+Charles Dickens
+Jane Austen
+Leo Tolstoy
+Fyodor Dostoevsky
+Victor Hugo
+Oscar Wilde
+Ernest Hemingway
+Virginia Woolf
+Jack the Ripper
+Vlad the Impaler
+Elizabeth Bathory
+Guy Fawkes
+Robin Hood
+William Wallace
+Robert the Bruce
+Saint Patrick
+Saint Nicholas
+Saint Francis
+Saint George
+Saint Valentine
+Alfred the Great
+King Canute
+Edward VIII
+Wallis Simpson
+King George III
+George Washington Carver
+Booker T. Washington
+Jackie Robinson
+Jesse Owens
+Babe Ruth
+Muhammad Ali
+Houdini
+Harry Houdini
+Mata Hari
+Marie Tussaud
+Coco Chanel
+Eva Peron
+Indira Gandhi
+Golda Meir
+Margaret Thatcher
+Angela Merkel
+Benito Mussolini
+Francisco Franco
+Pol Pot
+Saddam Hussein
+Mikhail Gorbachev
+Boris Yeltsin
+Kim Il Sung
+General Patton
+Douglas MacArthur
+Erwin Rommel
+Bernard Montgomery
+Cato the Elder
+Scipio Africanus
+Tiberius
+Vespasian
+Hadrian
+Trajan
+Diocletian
+Leif Erikson
+Erik the Red
+Harald Hardrada
+John Smith
+William Penn
+Paul Revere
+Betsy Ross
+Nathan Hale
+Benedict Arnold
+Alexander Hamilton
+Aaron Burr
+James Madison
+Thomas Paine
+Patrick Henry
+John Hancock
+Samuel Adams
+Orville Wright
+Wilbur Wright
+Louis Braille
+Joseph Lister
+Edward Jenner
+Robert Koch
+Alexander Fleming
+Jonas Salk
+Rosalind Franklin
+Jane Goodall
+Rachel Carson
+Hypatia
+Sappho

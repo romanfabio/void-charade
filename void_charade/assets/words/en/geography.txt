@@ -1,0 +1,471 @@
+United States
+Canada
+Mexico
+Brazil
+Argentina
+Chile
+Peru
+Colombia
+Venezuela
+Bolivia
+Ecuador
+Uruguay
+Paraguay
+Cuba
+Jamaica
+Haiti
+Dominican Republic
+Costa Rica
+Panama
+Guatemala
+Honduras
+Nicaragua
+United Kingdom
+England
+Scotland
+Wales
+Northern Ireland
+Ireland
+France
+Spain
+Portugal
+Italy
+Germany
+Switzerland
+Austria
+Belgium
+Netherlands
+Luxembourg
+Denmark
+Norway
+Sweden
+Finland
+Iceland
+Poland
+Czech Republic
+Slovakia
+Hungary
+Romania
+Bulgaria
+Greece
+Turkey
+Croatia
+Serbia
+Slovenia
+Albania
+Ukraine
+Belarus
+Russia
+Lithuania
+Latvia
+Estonia
+Malta
+Cyprus
+Monaco
+Liechtenstein
+Vatican City
+San Marino
+Andorra
+China
+Japan
+South Korea
+North Korea
+Mongolia
+Taiwan
+India
+Pakistan
+Bangladesh
+Nepal
+Bhutan
+Sri Lanka
+Maldives
+Afghanistan
+Iran
+Iraq
+Syria
+Lebanon
+Israel
+Jordan
+Saudi Arabia
+Yemen
+Oman
+Qatar
+Kuwait
+Bahrain
+United Arab Emirates
+Kazakhstan
+Uzbekistan
+Thailand
+Vietnam
+Cambodia
+Laos
+Myanmar
+Malaysia
+Singapore
+Indonesia
+Philippines
+Brunei
+Australia
+New Zealand
+Papua New Guinea
+Fiji
+Samoa
+Tonga
+Egypt
+Libya
+Tunisia
+Algeria
+Morocco
+Sudan
+Ethiopia
+Kenya
+Tanzania
+Uganda
+Rwanda
+Somalia
+Nigeria
+Ghana
+Senegal
+Mali
+Niger
+Chad
+Cameroon
+Ivory Coast
+Angola
+Zambia
+Zimbabwe
+Mozambique
+Namibia
+Botswana
+South Africa
+Madagascar
+Washington D.C.
+Ottawa
+Mexico City
+Havana
+Brasilia
+Buenos Aires
+Santiago
+Lima
+Bogota
+Caracas
+Quito
+Montevideo
+London
+Edinburgh
+Cardiff
+Dublin
+Paris
+Madrid
+Lisbon
+Rome
+Berlin
+Bern
+Vienna
+Brussels
+Amsterdam
+Copenhagen
+Oslo
+Stockholm
+Helsinki
+Reykjavik
+Warsaw
+Prague
+Budapest
+Bucharest
+Sofia
+Athens
+Ankara
+Moscow
+Kyiv
+Beijing
+Tokyo
+Seoul
+New Delhi
+Islamabad
+Kathmandu
+Tehran
+Baghdad
+Jerusalem
+Riyadh
+Cairo
+Nairobi
+Addis Ababa
+Pretoria
+Canberra
+Wellington
+Bangkok
+Hanoi
+Jakarta
+Manila
+Kuala Lumpur
+New York
+Los Angeles
+Chicago
+San Francisco
+Las Vegas
+Miami
+Boston
+Seattle
+Houston
+New Orleans
+Hollywood
+Toronto
+Vancouver
+Montreal
+Rio de Janeiro
+Sao Paulo
+Barcelona
+Seville
+Valencia
+Milan
+Venice
+Florence
+Naples
+Munich
+Hamburg
+Frankfurt
+Zurich
+Geneva
+Salzburg
+Marseille
+Lyon
+Nice
+Cannes
+Istanbul
+Dubai
+Abu Dhabi
+Mecca
+Tel Aviv
+Shanghai
+Hong Kong
+Macau
+Kyoto
+Osaka
+Mumbai
+Calcutta
+Bangalore
+Karachi
+Dhaka
+Sydney
+Melbourne
+Perth
+Brisbane
+Auckland
+Cape Town
+Johannesburg
+Casablanca
+Marrakech
+Lagos
+Timbuktu
+Zanzibar
+Nile
+Amazon River
+Mississippi River
+Missouri River
+Colorado River
+Rio Grande
+Yukon
+Danube
+Rhine
+Seine
+Thames
+Loire
+Tagus
+Po
+Tiber
+Elbe
+Volga
+Dnieper
+Ganges
+Indus
+Brahmaputra
+Yangtze
+Yellow River
+Mekong
+Euphrates
+Tigris
+Jordan River
+Congo River
+Zambezi
+Niger River
+Murray River
+Mount Everest
+K2
+Kilimanjaro
+Mont Blanc
+Matterhorn
+Mount Fuji
+Mount Etna
+Vesuvius
+Mount Olympus
+Mount Sinai
+Mount Ararat
+Mount Kenya
+Mount McKinley
+Denali
+Aconcagua
+Andes
+Rocky Mountains
+Alps
+Pyrenees
+Appalachians
+Himalayas
+Carpathians
+Urals
+Apennines
+Dolomites
+Atlas Mountains
+Sierra Nevada
+Great Dividing Range
+Table Mountain
+Grand Canyon
+Death Valley
+Sahara Desert
+Gobi Desert
+Kalahari Desert
+Atacama Desert
+Mojave Desert
+Arabian Desert
+Outback
+Savannah
+Serengeti
+Amazon rainforest
+Siberia
+Tundra
+Arctic
+Antarctica
+North Pole
+South Pole
+Equator
+Tropic of Cancer
+Tropic of Capricorn
+Pacific Ocean
+Atlantic Ocean
+Indian Ocean
+Arctic Ocean
+Southern Ocean
+Mediterranean Sea
+Caribbean Sea
+Red Sea
+Black Sea
+Dead Sea
+Caspian Sea
+North Sea
+Baltic Sea
+Adriatic Sea
+Aegean Sea
+Arabian Sea
+South China Sea
+Sea of Japan
+Gulf of Mexico
+Persian Gulf
+Bay of Bengal
+Hudson Bay
+English Channel
+Strait of Gibraltar
+Bosphorus
+Suez Canal
+Panama Canal
+Bermuda Triangle
+Great Barrier Reef
+Sargasso Sea
+Lake Victoria
+Lake Superior
+Lake Michigan
+Lake Titicaca
+Lake Geneva
+Lake Como
+Lake Baikal
+Lake Tahoe
+Niagara Falls
+Victoria Falls
+Angel Falls
+Iguazu Falls
+Hawaii
+Alaska
+Texas
+California
+Florida
+Greenland
+Sicily
+Sardinia
+Corsica
+Crete
+Rhodes
+Santorini
+Mallorca
+Ibiza
+Canary Islands
+Madeira
+Azores
+Cape Verde
+Bahamas
+Barbados
+Puerto Rico
+Bermuda
+Galapagos
+Easter Island
+Tahiti
+Bora Bora
+Bali
+Java
+Sumatra
+Borneo
+Phuket
+Honshu
+Hokkaido
+Tasmania
+Seychelles
+Mauritius
+Manhattan
+Long Island
+Staten Island
+Brooklyn
+Bronx
+Queens
+Patagonia
+Tierra del Fuego
+Scandinavia
+Balkans
+Iberian Peninsula
+Middle East
+Far East
+Latin America
+Central America
+South America
+North America
+Europe
+Asia
+Africa
+Oceania
+Caucasus
+Steppe
+Great Plains
+Prairie
+Rainforest
+Delta
+Fjord
+Glacier
+Archipelago
+Peninsula
+Isthmus
+Plateau
+Canyon
+Volcano
+Geyser
+Oasis
+Atoll
+Cape of Good Hope
+Cape Horn
+Gulf Stream
+Prime Meridian
+Greenwich
+International Date Line
+Latitude
+Longitude
+Compass rose
+Atlas
+Globe
+World map
+Time zone

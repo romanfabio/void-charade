@@ -1,0 +1,381 @@
+Snow White
+Pinocchio
+Fantasia
+Dumbo
+Bambi
+Cinderella
+Alice in Wonderland
+Peter Pan
+Lady and the Tramp
+Sleeping Beauty
+One Hundred and One Dalmatians
+The Sword in the Stone
+The Jungle Book
+The Aristocats
+Robin Hood
+The Rescuers
+The Fox and the Hound
+The Black Cauldron
+The Great Mouse Detective
+Oliver and Company
+The Little Mermaid
+Beauty and the Beast
+Aladdin
+The Lion King
+Pocahontas
+The Hunchback of Notre Dame
+Hercules
+Mulan
+Tarzan
+Fantasia 2000
+The Emperor's New Groove
+Atlantis
+Lilo and Stitch
+Treasure Planet
+Brother Bear
+Home on the Range
+Chicken Little
+Meet the Robinsons
+Bolt
+The Princess and the Frog
+Tangled
+Winnie the Pooh
+Wreck-It Ralph
+Frozen
+Big Hero 6
+Zootopia
+Moana
+Ralph Breaks the Internet
+Frozen II
+Raya and the Last Dragon
+Encanto
+Strange World
+Wish
+Moana 2
+Toy Story
+A Bug's Life
+Toy Story 2
+Monsters Inc.
+Finding Nemo
+The Incredibles
+Cars
+Ratatouille
+WALL-E
+Up
+Toy Story 3
+Brave
+Monsters University
+Inside Out
+The Good Dinosaur
+Finding Dory
+Coco
+Incredibles 2
+Toy Story 4
+Onward
+Soul
+Luca
+Turning Red
+Lightyear
+Elemental
+Inside Out 2
+Mickey Mouse
+Minnie Mouse
+Donald Duck
+Daisy Duck
+Goofy
+Pluto
+Chip and Dale
+Huey Dewey and Louie
+Scrooge McDuck
+Oswald the Lucky Rabbit
+Steamboat Willie
+Clarabelle Cow
+Horace Horsecollar
+Figaro
+Jiminy Cricket
+Geppetto
+Monstro
+Stromboli
+Honest John
+Blue Fairy
+Dopey
+Grumpy
+Happy
+Sleepy
+Bashful
+Sneezy
+Evil Queen
+Magic Mirror
+Prince Charming
+Lady Tremaine
+Anastasia and Drizella
+Gus and Jaq
+Fairy Godmother
+Timothy Q. Mouse
+Thumper
+Faline
+Alice
+Mad Hatter
+March Hare
+Cheshire Cat
+Queen of Hearts
+White Rabbit
+Tweedledum and Tweedledee
+Wendy Darling
+Tinker Bell
+Captain Hook
+Mr. Smee
+Tick-Tock the Crocodile
+Tiger Lily
+Lost Boys
+Nana
+Jock
+Trusty
+Peg
+Si and Am
+Aurora
+Prince Phillip
+Flora Fauna and Merryweather
+Pongo and Perdita
+Cruella de Vil
+Jasper and Horace
+Merlin
+Wart
+Madam Mim
+Archimedes
+Mowgli
+Baloo
+Bagheera
+Shere Khan
+King Louie
+Kaa
+Colonel Hathi
+Duchess
+Thomas O'Malley
+Marie
+Toulouse
+Berlioz
+Edgar the Butler
+Little John
+Prince John
+Sir Hiss
+Friar Tuck
+Maid Marian
+Piglet
+Tigger
+Eeyore
+Kanga and Roo
+Christopher Robin
+Bernard and Bianca
+Medusa
+Tod and Copper
+Basil of Baker Street
+Ratigan
+Ariel
+Flounder
+Sebastian
+Ursula
+King Triton
+Prince Eric
+Scuttle
+Flotsam and Jetsam
+Belle
+The Beast
+Gaston
+Lumiere
+Cogsworth
+Mrs. Potts
+LeFou
+Maurice
+Jasmine
+Genie
+Jafar
+Abu
+Iago
+Magic Carpet
+Sultan
+Simba
+Mufasa
+Scar
+Nala
+Timon
+Pumbaa
+Rafiki
+Zazu
+Sarabi
+Shenzi
+Banzai
+John Smith
+Meeko
+Flit
+Percy
+Governor Ratcliffe
+Quasimodo
+Esmeralda
+Frollo
+Phoebus
+Hugo Victor and Laverne
+Megara
+Hades
+Phil
+Pegasus
+Mushu
+Cri-Kee
+Shan Yu
+Li Shang
+Khan
+Jane Porter
+Terk
+Tantor
+Clayton
+Kronk
+Emperor Kuzco
+Yzma
+Pacha
+Milo Thatch
+Kida
+Lilo
+Stitch
+Nani
+Jumba
+Pleakley
+Captain Gantu
+Jim Hawkins
+Long John Silver
+Kenai
+Koda
+Tiana
+Prince Naveen
+Louis the Alligator
+Ray the Firefly
+Dr. Facilier
+Mama Odie
+Rapunzel
+Flynn Rider
+Pascal
+Maximus
+Mother Gothel
+Rhino the Hamster
+Mittens
+Vanellope von Schweetz
+Fix-It Felix
+Sergeant Calhoun
+King Candy
+Anna
+Elsa
+Olaf
+Kristoff
+Sven
+Hans
+Marshmallow
+Oaken
+Baymax
+Hiro Hamada
+Judy Hopps
+Nick Wilde
+Flash the Sloth
+Chief Bogo
+Gazelle
+Maui
+Heihei
+Pua
+Tamatoa
+Te Fiti
+Mirabel
+Bruno Madrigal
+Luisa
+Isabela
+Abuela Alma
+Raya
+Sisu
+Woody
+Buzz Lightyear
+Jessie
+Bullseye
+Rex
+Hamm
+Slinky Dog
+Mr. Potato Head
+Bo Peep
+Lotso
+Forky
+Zurg
+Flik
+Mike Wazowski
+Sulley
+Boo
+Randall
+Celia
+Nemo
+Marlin
+Dory
+Bruce
+Crush
+Mr. Incredible
+Elastigirl
+Dash
+Violet
+Jack-Jack
+Frozone
+Edna Mode
+Syndrome
+Lightning McQueen
+Mater
+Sally Carrera
+Doc Hudson
+Remy
+Linguini
+Anton Ego
+Gusteau
+Colette
+EVE
+Carl Fredricksen
+Russell
+Dug
+Charles Muntz
+Merida
+Joy
+Sadness
+Anger
+Fear
+Disgust
+Arlo
+Miguel
+Hector
+Mama Coco
+Dante
+Ian Lightfoot
+Joe Gardner
+Luca Paguro
+Alberto Scorfano
+Mei Lee
+Red Panda
+Ember Lumen
+Wade Ripple
+Cinderella Castle
+Sleeping Beauty Castle
+Disneyland
+Walt Disney
+Let It Go
+Be Our Guest
+A Whole New World
+Under the Sea
+Circle of Life
+Bare Necessities
+Kiss the Girl
+Part of Your World
+Colors of the Wind
+Bibbidi-Bobbidi-Boo
+Zip-a-Dee-Doo-Dah
+How Far I'll Go
+Mary Poppins
+Bedknobs and Broomsticks
+Pete's Dragon
+The Parent Trap
+Herbie
+Freaky Friday
+Tron
+Enchanted
+It's a Small World
+We Don't Talk About Bruno
+Maleficent

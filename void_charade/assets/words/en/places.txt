@@ -1,0 +1,418 @@
+Kitchen
+Living room
+Bedroom
+Bathroom
+Dining room
+Hallway
+Attic
+Basement
+Cellar
+Garage
+Balcony
+Terrace
+Porch
+Garden
+Backyard
+Laundry room
+Walk-in closet
+Nursery
+Study
+Home office
+Guest room
+Staircase
+Elevator
+Shed
+Greenhouse
+Treehouse
+Swimming pool
+Supermarket
+Grocery store
+Convenience store
+Farmers market
+Flea market
+Shopping mall
+Department store
+Bookshop
+Library
+Pharmacy
+Butcher's shop
+Bakery
+Pastry shop
+Ice cream parlour
+Florist
+Barber shop
+Hair salon
+Beauty salon
+Nail salon
+Tattoo parlour
+Laundrette
+Dry cleaner
+Post office
+Bank
+Cash machine
+Gas station
+Car wash
+Car park
+Mechanic's garage
+Hardware store
+Pet shop
+Toy shop
+Record store
+Jewellery store
+Shoe shop
+Clothes shop
+Thrift shop
+Pawn shop
+Newsagent
+Vending machine
+Restaurant
+Pizzeria
+Fast food restaurant
+Drive-through
+Cafe
+Coffee shop
+Pub
+Bar
+Nightclub
+Karaoke bar
+Wine cellar
+Brewery
+Canteen
+Food court
+Diner
+Food truck
+Buffet
+Hospital
+Emergency room
+Operating theatre
+Waiting room
+Dentist's office
+Doctor's surgery
+Vet clinic
+Maternity ward
+Morgue
+Ambulance
+Police station
+Fire station
+Prison
+Courthouse
+Town hall
+Embassy
+Parliament
+Church
+Cathedral
+Mosque
+Synagogue
+Temple
+Monastery
+Convent
+Cemetery
+Chapel
+School
+Classroom
+Playground
+Nursery school
+University
+Lecture hall
+Gymnasium
+Cafeteria
+Principal's office
+Science lab
+Art studio
+Music room
+Staff room
+Locker room
+Campus
+Dormitory
+Office
+Meeting room
+Reception
+Cubicle
+Open-plan office
+Factory
+Warehouse
+Construction site
+Farm
+Barn
+Stable
+Chicken coop
+Vineyard
+Orchard
+Field
+Meadow
+Forest
+Jungle
+Desert
+Mountain
+Volcano
+Cave
+Valley
+Canyon
+Waterfall
+River
+Lake
+Pond
+Swamp
+Island
+Beach
+Cliff
+Coral reef
+Glacier
+Ski slope
+Hot spring
+Park
+Botanical garden
+Zoo
+Aquarium
+Safari park
+Theme park
+Water park
+Funfair
+Circus
+Roller coaster
+Ferris wheel
+Haunted house
+Cinema
+Theatre
+Opera house
+Concert hall
+Stadium
+Arena
+Football pitch
+Tennis court
+Basketball court
+Golf course
+Bowling alley
+Ice rink
+Skate park
+Gym
+Yoga studio
+Boxing ring
+Race track
+Casino
+Arcade
+Museum
+Art gallery
+Planetarium
+Observatory
+Castle
+Palace
+Fortress
+Lighthouse
+Windmill
+Pyramid
+Colosseum
+Bridge
+Tunnel
+Skyscraper
+Tower
+Statue
+Fountain
+Town square
+Market square
+Old town
+High street
+Crossroads
+Roundabout
+Zebra crossing
+Pavement
+Bus stop
+Train station
+Platform
+Ticket office
+Airport
+Departure lounge
+Customs
+Runway
+Control tower
+Harbour
+Port
+Marina
+Ferry terminal
+Dock
+Shipyard
+Subway station
+Tram stop
+Taxi rank
+Motorway
+Service station
+Toll booth
+Petrol pump
+Parking lot
+Bicycle lane
+Campsite
+Caravan park
+Holiday resort
+Hotel
+Hostel
+Bed and breakfast
+Motel
+Luxury suite
+Spa
+Sauna
+Sunbed
+Beach hut
+Boardwalk
+Pier
+Promenade
+Seaside
+Lido
+Yacht club
+Golf club
+Country club
+Youth club
+Social club
+Town centre
+Suburb
+Village
+Skyline
+Slum
+Ghost town
+Downtown
+Rooftop
+Fire escape
+Cinema foyer
+Backstage
+Dressing room
+Recording studio
+TV studio
+Newsroom
+Film set
+Photo booth
+Laboratory
+Space station
+Moon
+Mars
+Submarine
+Spaceship
+Oil rig
+Mine
+Quarry
+Power station
+Wind farm
+Solar farm
+Dam
+Reservoir
+Water tower
+Sewer
+Landfill
+Recycling centre
+Scrapyard
+Junkyard
+Bus depot
+Hangar
+Heliport
+Military base
+Bunker
+Trench
+Barracks
+Shelter
+Igloo
+Tent
+Log cabin
+Mansion
+Cottage
+Farmhouse
+Bungalow
+Flat
+Penthouse
+Studio apartment
+Council house
+Terraced house
+Semi-detached house
+Tower block
+Mobile home
+Houseboat
+Lighthouse keeper's cottage
+Palace garden
+Maze
+Labyrinth
+Secret passage
+Dungeon
+Throne room
+Drawbridge
+Moat
+Turret
+Ballroom
+Library corner
+Pantry
+Walk-in freezer
+Cold store
+Fish market
+Fishing village
+Fish and chip shop
+Chinese takeaway
+Sushi bar
+Kebab shop
+Burger joint
+Sandwich bar
+Juice bar
+Wine bar
+Cocktail bar
+Rooftop bar
+Beer garden
+Village hall
+Bingo hall
+Betting shop
+Chemist
+Optician
+Orthodontist
+Physiotherapy clinic
+Sports centre
+Leisure centre
+Climbing wall
+Trampoline park
+Paintball arena
+Escape room
+Go-kart track
+Mini golf
+Petting zoo
+Bird sanctuary
+Nature reserve
+National park
+Campfire site
+Picnic area
+Bandstand
+Gazebo
+Pergola
+Allotment
+Hedge maze
+Vegetable patch
+Rose garden
+Duck pond
+Wishing well
+Phone box
+Post box
+Bus shelter
+Underpass
+Overpass
+Footbridge
+Cul-de-sac
+Dead end
+Back alley
+Fire exit
+Emergency exit
+Toilets
+Lost property office
+Information desk
+Cloakroom
+Lift lobby
+Car showroom
+Furniture shop
+Charity shop
+Souvenir shop
+Duty-free shop
+Gift shop
+Stationery shop
+Camera shop
+Electronics store
+Phone shop
+Internet cafe
+Gaming centre
+Comic book store
+Antique shop
+Auction house
+Pottery studio
+Craft fair
+Christmas market
+Santa's grotto

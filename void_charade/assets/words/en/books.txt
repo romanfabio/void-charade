@@ -1,0 +1,507 @@
+Pride and Prejudice
+Jane Eyre
+Wuthering Heights
+Great Expectations
+Oliver Twist
+A Christmas Carol
+David Copperfield
+A Tale of Two Cities
+Hard Times
+Little Dorrit
+Bleak House
+The Pickwick Papers
+Moby Dick
+The Great Gatsby
+To Kill a Mockingbird
+The Catcher in the Rye
+Of Mice and Men
+The Grapes of Wrath
+East of Eden
+Lord of the Flies
+Animal Farm
+Nineteen Eighty-Four
+Brave New World
+Fahrenheit 451
+Catch-22
+Slaughterhouse-Five
+On the Road
+Old Man and the Sea
+A Farewell to Arms
+For Whom the Bell Tolls
+The Sun Also Rises
+Frankenstein
+Dracula
+Dr Jekyll and Mr Hyde
+The Picture of Dorian Gray
+The Time Machine
+The War of the Worlds
+The Invisible Man
+The Island of Doctor Moreau
+Treasure Island
+Kidnapped
+Robinson Crusoe
+Gulliver's Travels
+Don Quixote
+Les Miserables
+The Hunchback of Notre-Dame
+The Count of Monte Cristo
+The Three Musketeers
+Twenty Thousand Leagues
+The Little Prince
+The Stranger
+The Plague
+Crime and Punishment
+The Brothers Karamazov
+War and Peace
+Anna Karenina
+Doctor Zhivago
+The Master and Margarita
+Lolita
+The Trial
+The Metamorphosis
+The Castle
+The Divine Comedy
+The Odyssey
+The Iliad
+The Aeneid
+Beowulf
+Paradise Lost
+Hamlet
+Macbeth
+Romeo and Juliet
+Othello
+King Lear
+A Midsummer Night's Dream
+The Tempest
+Twelfth Night
+Much Ado About Nothing
+The Merchant of Venice
+Julius Caesar
+The Taming of the Shrew
+Richard III
+Henry V
+As You Like It
+The Canterbury Tales
+Alice in Wonderland
+Through the Looking-Glass
+Peter Pan
+The Wind in the Willows
+The Jungle Book
+Just So Stories
+The Secret Garden
+A Little Princess
+Little Women
+Anne of Green Gables
+Heidi
+Black Beauty
+Pollyanna
+The Wonderful Wizard of Oz
+Pinocchio
+The Adventures of Tom Sawyer
+Adventures of Huckleberry Finn
+The Call of the Wild
+White Fang
+Charlotte's Web
+Stuart Little
+Winnie-the-Pooh
+The Hobbit
+The Lord of the Rings
+The Fellowship of the Ring
+The Two Towers
+The Return of the King
+The Silmarillion
+Lion, Witch and the Wardrobe
+Prince Caspian
+Voyage of the Dawn Treader
+The Chronicles of Narnia
+Philosopher's Stone
+Chamber of Secrets
+Goblet of Fire
+Deathly Hallows
+The Hunger Games
+Catching Fire
+Mockingjay
+Divergent
+The Maze Runner
+Twilight
+New Moon
+The Fault in Our Stars
+Percy Jackson
+The Giver
+Holes
+Matilda
+Charlie's Chocolate Factory
+James and the Giant Peach
+The BFG
+The Witches
+Fantastic Mr Fox
+The Twits
+George's Marvellous Medicine
+The Gruffalo
+The Very Hungry Caterpillar
+Where the Wild Things Are
+The Cat in the Hat
+Green Eggs and Ham
+How the Grinch Stole Christmas
+Horton Hears a Who
+Goodnight Moon
+Where the Sidewalk Ends
+The Giving Tree
+Diary of a Wimpy Kid
+Captain Underpants
+Goosebumps
+The Very Busy Spider
+Brown Bear, Brown Bear
+Curious George
+Paddington
+Mr Men
+Tiger Who Came to Tea
+Dune
+Foundation
+Neuromancer
+Ender's Game
+The Hitchhiker's Guide
+Do Androids Dream?
+A Clockwork Orange
+Ready Player One
+The Martian
+Jurassic Park
+The Handmaid's Tale
+The Road
+The Shining
+Carrie
+It
+Misery
+Pet Sematary
+The Stand
+Rebecca
+The Hound of the Baskervilles
+A Study in Scarlet
+Murder on the Orient Express
+And Then There Were None
+Death on the Nile
+The Murder of Roger Ackroyd
+The Maltese Falcon
+The Big Sleep
+The Da Vinci Code
+Angels and Demons
+Inferno
+Girl with the Dragon Tattoo
+Gone Girl
+The Silence of the Lambs
+The Godfather
+Gone with the Wind
+The Color Purple
+Beloved
+Their Eyes Were Watching God
+Native Son
+Roots
+The Kite Runner
+A Thousand Splendid Suns
+Life of Pi
+The Book Thief
+The Curious Incident
+The Help
+Eat Pray Love
+The Alchemist
+One Hundred Years of Solitude
+The House of the Spirits
+Like Water for Chocolate
+The Name of the Rose
+Perfume
+The Tin Drum
+The Neverending Story
+Momo
+Siddhartha
+The Magic Mountain
+Death in Venice
+Steppenwolf
+The Diary of Anne Frank
+Schindler's List
+Night
+Things Fall Apart
+Heart of Darkness
+Lord Jim
+Middlemarch
+Silas Marner
+Vanity Fair
+Tess of the d'Urbervilles
+Far from the Madding Crowd
+Jude the Obscure
+Sense and Sensibility
+Emma
+Mansfield Park
+Northanger Abbey
+Persuasion
+Ulysses
+Dubliners
+Mrs Dalloway
+To the Lighthouse
+Orlando
+Brideshead Revisited
+The Remains of the Day
+Never Let Me Go
+Atonement
+Bridget Jones's Diary
+High Fidelity
+Trainspotting
+Fifty Shades of Grey
+The Notebook
+Me Before You
+The Time Traveler's Wife
+The Lovely Bones
+The Secret History
+The Goldfinch
+Little Fires Everywhere
+Where the Crawdads Sing
+The Midnight Library
+Normal People
+Educated
+Becoming
+Sapiens
+A Brief History of Time
+The Origin of Species
+Walden
+Leaves of Grass
+The Raven
+The Waste Land
+Candide
+Utopia
+The Prince
+The Art of War
+Charles Dickens
+Jane Austen
+William Shakespeare
+Ernest Hemingway
+Mark Twain
+Agatha Christie
+Stephen King
+J. K. Rowling
+J. R. R. Tolkien
+C. S. Lewis
+Roald Dahl
+Dr. Seuss
+Lewis Carroll
+Edgar Allan Poe
+Oscar Wilde
+George Orwell
+Aldous Huxley
+Virginia Woolf
+F. Scott Fitzgerald
+John Steinbeck
+Leo Tolstoy
+Fyodor Dostoevsky
+Franz Kafka
+Victor Hugo
+Alexandre Dumas
+Jules Verne
+H. G. Wells
+Arthur Conan Doyle
+Bram Stoker
+Mary Shelley
+Emily Bronte
+Charlotte Bronte
+Louisa May Alcott
+Beatrix Potter
+Hans Christian Andersen
+The Brothers Grimm
+Dante Alighieri
+Homer
+Miguel de Cervantes
+Gabriel Garcia Marquez
+Paulo Coelho
+Dan Brown
+Stieg Larsson
+George R. R. Martin
+Terry Pratchett
+Douglas Adams
+Isaac Asimov
+Ray Bradbury
+Philip K. Dick
+Margaret Atwood
+Toni Morrison
+Maya Angelou
+Harper Lee
+J. D. Salinger
+Jack Kerouac
+Kurt Vonnegut
+Herman Melville
+Walt Whitman
+Emily Dickinson
+Robert Frost
+Lord Byron
+William Wordsworth
+John Keats
+Geoffrey Chaucer
+John Milton
+Rudyard Kipling
+Daniel Defoe
+Jonathan Swift
+Thomas Hardy
+George Eliot
+Anton Chekhov
+Boris Pasternak
+Vladimir Nabokov
+Milan Kundera
+Haruki Murakami
+Chinua Achebe
+Salman Rushdie
+Khaled Hosseini
+Yann Martel
+Suzanne Collins
+Veronica Roth
+Stephenie Meyer
+John Green
+Rick Riordan
+Jeff Kinney
+Enid Blyton
+A. A. Milne
+Judy Blume
+Eric Carle
+Julia Donaldson
+Maurice Sendak
+Shel Silverstein
+Michael Morpurgo
+Philip Pullman
+Neil Gaiman
+Dean Koontz
+Nora Roberts
+Danielle Steel
+John Grisham
+James Patterson
+Lee Child
+Michael Crichton
+Tom Clancy
+Ian Fleming
+John le Carre
+Raymond Chandler
+Dashiell Hammett
+Sherlock Holmes
+Dr. Watson
+Hercule Poirot
+Miss Marple
+Jay Gatsby
+Holden Caulfield
+Atticus Finch
+Scarlett O'Hara
+Heathcliff
+Mr Darcy
+Elizabeth Bennet
+Ebenezer Scrooge
+Tiny Tim
+Fagin
+Captain Ahab
+Huckleberry Finn
+Long John Silver
+Captain Hook
+Count Dracula
+Captain Nemo
+Phileas Fogg
+Jean Valjean
+Quasimodo
+Edmond Dantes
+Don Quixote and Sancho Panza
+Lemuel Gulliver
+Hester Prynne
+Gandalf
+Bilbo Baggins
+Frodo Baggins
+Gollum
+Aslan
+Hermione Granger
+Albus Dumbledore
+Katniss Everdeen
+Hannibal Lecter
+Lisbeth Salander
+Robert Langdon
+Boo Radley
+Lennie and George
+Winston Smith
+Big Brother
+Newspeak
+Room 101
+Plot twist
+Cliffhanger
+Bestseller
+Paperback
+Hardcover
+Page-turner
+Bookworm
+Bookmark
+Library card
+Bookshop
+Bookstore
+Bookcase
+Audiobook
+E-reader
+Kindle
+Novel
+Novella
+Short story
+Poem
+Sonnet
+Haiku
+Limerick
+Epic poem
+Trilogy
+Sequel
+Prequel
+Memoir
+Biography
+Autobiography
+Diary
+Fable
+Epilogue
+Prologue
+Chapter
+Footnote
+Bibliography
+Glossary
+Dust jacket
+Spine
+Table of contents
+Foreword
+Ghostwriter
+Pen name
+Pulitzer Prize
+Nobel Prize in Literature
+Booker Prize
+Book club
+Book signing
+Book fair
+Library
+Librarian
+Dewey Decimal
+Dictionary
+Thesaurus
+Encyclopedia
+Atlas
+Almanac
+Comic book
+Graphic novel
+Manga
+Cookbook
+Textbook
+Romance novel
+Whodunit
+Thriller
+Detective story
+Science fiction
+Young adult
+Children's story
+Bedtime story
+Storyteller
+Narrator
+Protagonist
+Antagonist
+Villain
+Plot
+Metaphor
+Alliteration
+Rhyme
+Manuscript
+Typewriter
+Quill
+Inkwell
+Fountain pen
+Printing press

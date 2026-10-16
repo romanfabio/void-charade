@@ -1,0 +1,356 @@
+Walkman
+Stereo 8
+Mangiacassette
+Mangiadischi
+Musicassetta
+Cassetta registrata
+Videocassetta
+Videoteca
+Blockbuster
+Videoregistratore
+Telecomando
+Compact disc
+Discman
+Gettone telefonico
+Telefono a gettoni
+Cabina telefonica
+Telefono a disco
+Segreteria telefonica
+Cercapersone
+Nokia 3310
+SMS
+Floppy disk
+Modem a 56k
+Internet con il modem
+Windows 95
+Windows 98
+Clippy
+Commodore 64
+ZX Spectrum
+Amiga
+Game Boy
+Nintendo NES
+Super Nintendo
+Sega Mega Drive
+PlayStation
+Tamagotchi
+Furby
+Cicciobello
+Barbie
+Big Jim
+Mio Mini Pony
+Cubo di Rubik
+Pac-Man
+Donkey Kong
+Tetris
+Street Fighter
+Sonic
+Super Mario
+Pokemon
+Game & Watch
+Simon
+Barbapapà
+Transformers
+He-Man
+Gormiti
+Tartarughe Ninja
+Power Rangers
+Cavalieri dello zodiaco
+Rollerblade
+Skateboard
+Tazos
+Figurine Panini
+Figurine dei calciatori
+Paninaro
+Paninari
+Timberland
+Moncler
+Fiorucci
+Naj-Oleari
+Smemoranda
+Diario Comix
+Eastpak
+Seven
+Fila
+Superga
+Invicta
+Sergio Tacchini
+K-Way
+Levi's 501
+Jeans a vita alta
+Spalline imbottite
+Scaldamuscoli
+Fascia per capelli
+Permanente
+Cotonatura
+Gel per capelli
+Mullet
+Pantaloni a zampa
+Pantaloni alla zuava
+Occhiali Ray-Ban
+Orologio Swatch
+Rotelle ai pattini
+Pattini in linea
+Jukebox
+Sala giochi
+Flipper
+Bar con il biliardino
+Discoteca
+Break dance
+Moonwalk
+Macarena
+Lambada
+Il ballo del qua qua
+Gioca Jouer
+Super Mario Bros.
+Madonna
+Michael Jackson
+Prince
+Whitney Houston
+Cyndi Lauper
+Duran Duran
+Spandau Ballet
+Wham!
+George Michael
+Depeche Mode
+Queen
+Bon Jovi
+Guns N' Roses
+Nirvana
+Pearl Jam
+Oasis
+Take That
+Spice Girls
+Backstreet Boys
+Britney Spears
+Eiffel 65
+Aqua
+Ace of Base
+Vasco Rossi
+Zucchero
+Ligabue
+Jovanotti
+Max Pezzali
+883
+Nek
+Eros Ramazzotti
+Laura Pausini
+Raf
+Tiziano Ferro
+Elisa
+Litfiba
+Pooh
+Righeira
+Alphaville
+Sabrina Salerno
+Raffaella Carrà
+Gianna Nannini
+Lucio Dalla
+Franco Battiato
+Antonello Venditti
+Claudio Baglioni
+Cesare Cremonini
+Articolo 31
+99 Posse
+Subsonica
+Elio e le Storie Tese
+Gigi D'Agostino
+Spagna
+Haddaway
+Festivalbar
+Sanremo
+Disco per l'estate
+Karaoke
+Non è la Rai
+Drive In
+Ok il prezzo è giusto
+Portobello
+Mike Bongiorno
+Pippo Baudo
+Enrico Papi
+Gerry Scotti
+Maria De Filippi
+Fiorello
+Colpo grosso
+Striscia la notizia
+Indietro tutta
+Quelli della notte
+Renzo Arbore
+Fantastico
+Domenica In
+Bim Bum Bam
+Cristina D'Avena
+Uan
+Four Kids
+Albero Azzurro
+Melevisione
+La Piovra
+Don Matteo
+Un medico in famiglia
+Beautiful
+Dallas
+Dynasty
+Happy Days
+Love Boat
+Casa Vianello
+Camera Café
+Zelig
+Mai dire gol
+Gialappa's Band
+Beavis e Butt-Head
+I Simpson
+Il Commissario Rex
+Il commissario Montalbano
+Quark
+Piero Angela
+Carosello
+Calimero
+Fiat Panda
+Fiat Uno
+Fiat 126
+Lancia Delta
+Alfa 33
+Vespa
+Ciao Piaggio
+Sì Piaggio
+Garelli
+Bicicletta Graziella
+Chopper
+Bmx
+Lira
+Mille lire
+Totocalcio
+Schedina
+Gratta e vinci
+Italia 90
+Notti magiche
+Mondiali dell'82
+Paolo Rossi
+Totò Schillaci
+Roberto Baggio
+Diego Maradona
+Marco Van Basten
+Gullit
+Franco Baresi
+Zoff
+Altobelli
+Pertini
+Mani pulite
+Tangentopoli
+Craxi
+Berlusconi
+Muro di Berlino
+Live Aid
+Cornetto Algida
+Magnum
+Calippo
+Winner Taco
+Fiesta
+Girella
+Kinder Pinguì
+Kinder Brioss
+Fonzies
+Pop corn
+Ringo
+Camy
+Dixi
+Brooklyn
+Big Babol
+Chupa Chups
+Golia
+Fruttolo
+Mulino Bianco
+Pan di Stelle
+Kinder Sorpresa
+Estathé
+Lemonsoda
+Oransoda
+Calcio balilla
+Radio Deejay
+Albertino
+Linus
+Radio Italia
+Rtl
+Videomusic
+MTV
+Telemontecarlo
+Italia 1
+Canale 5
+Rete 4
+Rai Uno
+Teletext
+Televideo
+Mediaset
+Maurizio Costanzo Show
+Heidi
+Candy Candy
+Goldrake
+Mazinga
+Lupin III
+Capitan Harlock
+Holly e Benji
+Occhi di gatto
+Ken il guerriero
+Dragon Ball
+Sailor Moon
+Doraemon
+Siamo fatti così
+Slam Dunk
+Lady Oscar
+Georgie
+Conan il ragazzo del futuro
+Il mago Pancione
+Rambo
+Rocky
+Terminator
+Ritorno al futuro
+Ghostbusters
+E.T.
+I Goonies
+Indiana Jones
+Guerre stellari
+Top Gun
+Dirty Dancing
+Footloose
+Flashdance
+Grease
+Fantozzi
+Il Ragioniere Fantozzi
+Il marchese del Grillo
+Un sacco bello
+Borotalco
+Bianco rosso e Verdone
+Ricomincio da tre
+Massimo Troisi
+Nuovo Cinema Paradiso
+La vita è bella
+Il postino
+Johnny Stecchino
+Pretty Woman
+Mamma ho perso l'aereo
+Jurassic Park
+Titanic
+Forrest Gump
+Pulp Fiction
+Matrix
+Il Re Leone
+Aladdin
+La bella e la bestia
+La sirenetta
+Toy Story
+Vacanze di Natale
+Sapore di mare
+Yuppies
+Fantaghirò
+Telefonino
+Mouse a pallina
+CD-ROM
+Encarta
+Napster
+MSN
+Virgilio
+Tiscali
+Fotocamera usa e getta
+Polaroid
+Lampada lava
+Poltrona sacco

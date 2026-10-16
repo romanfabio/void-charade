@@ -1,0 +1,389 @@
+Spritz
+Spritz Aperol
+Hugo
+Negroni
+Negroni sbagliato
+Americano
+Bellini
+Rossini
+Mimosa
+Mojito
+Caipirinha
+Margarita
+Daiquiri
+Piña colada
+Cosmopolitan
+Martini
+Martini dry
+Manhattan
+Old Fashioned
+Moscow Mule
+Cuba Libre
+Gin tonic
+Vodka lemon
+Vodka tonic
+Vodka e Red Bull
+Rum e cola
+Whisky e cola
+Jack e cola
+Long Island
+Sex on the Beach
+Tequila Sunrise
+Bloody Mary
+Mai Tai
+Blue Lagoon
+Gin fizz
+Campari soda
+Campari orange
+Crodino
+Sanbitter
+Aperol
+Campari
+Cynar
+Martini rosso
+Martini bianco
+Vermouth
+Vermut
+Punt e Mes
+Amaro
+Amaro Montenegro
+Amaro Lucano
+Amaro del Capo
+Fernet Branca
+Fernet e coca
+Jägermeister
+Ramazzotti
+Braulio
+Nonino
+Sambuca
+Sambuca con la mosca
+Caffè sambuca
+Caffè corretto
+Ammazzacaffè
+Digestivo
+Grappa
+Grappa barricata
+Grappa al mirto
+Limoncello
+Nocino
+Mirto
+Vin santo
+Marsala
+Amaretto
+Disaronno
+Baileys
+Amarula
+Strega
+Cognac
+Brandy
+Tequila
+Vodka
+Gin
+Rum
+Rum scuro
+Whisky
+Scotch
+Bourbon
+Jack Daniel's
+Glenfiddich
+Havana Club
+Bacardi
+Captain Morgan
+Malibu
+Shot
+Shottino
+Giro di shot
+Cin cin
+Salute
+Alla salute
+Brindisi
+Brindare
+Bere in un sorso
+Tracannare
+Bere a canna
+Bere a garganella
+Alzare il gomito
+Bere come una spugna
+Prendersi una sbornia
+Sbronza
+Sbronzo
+Ubriaco
+Ubriaco fradicio
+Brillo
+Alticcio
+Sbronza triste
+Sbronza allegra
+Doposbornia
+Ciucco
+Bevuta con gli amici
+Bevuta
+Ubriacone
+Astemio
+Vino
+Vino rosso
+Vino bianco
+Vino della casa
+Vino sfuso
+Vino in cartone
+Calice di vino
+Cavatappi
+Stappare una bottiglia
+Spumante
+Prosecco
+Franciacorta
+Lambrusco
+Lambrusco e gnocco fritto
+Barolo
+Barbaresco
+Barbera
+Chianti
+Brunello di Montalcino
+Montepulciano d'Abruzzo
+Nero d'Avola
+Amarone
+Valpolicella
+Soave
+Pinot grigio
+Vermentino
+Degustazione di vini
+Sommelier
+Vendemmia
+Enoteca
+Damigiana
+Roteare il calice
+Birra
+Birra bionda
+Birra rossa
+Birra artigianale
+Birra alla spina
+Boccale di birra
+Peroni
+Nastro Azzurro
+Moretti
+Birra Moretti
+Heineken
+Corona con il limone
+Budweiser
+Guinness
+Weissbier
+Birra e limone
+Birra analcolica
+Birra senza alcol
+Spillare una birra
+Oktoberfest
+Birrificio artigianale
+Bar
+Bar sotto casa
+Bar dello sport
+Bar di paese
+Barista
+Barman
+Sgabello del bar
+Aperitivo
+Aperitivo in piazza
+Aperitivo al tramonto
+Apericena
+Happy hour
+Tagliere di salumi
+Bacaro
+Offrire da bere
+Offrire un giro
+Pagare il conto
+Il solito
+Bicchierino
+Bicchierino di grappa
+Bicchierino di limoncello
+L'ultimo giro
+Ghiaccio
+Liscio
+Cannuccia
+Ombrellino
+Shaker
+Agitare lo shaker
+Mixologist
+Cocktail bar
+Cocktail analcolico
+Brindare a Capodanno
+Vin brulé
+Vino fatto in casa
+Amaro dopo cena
+Chi guida non beve
+Etilometro
+Guida in stato di ebbrezza
+Sangiovese
+Primitivo
+Nebbiolo
+Moscato
+Champagne
+Cannonau
+Frascati
+Chardonnay
+Merlot
+Cabernet
+Lillet
+Select Spritz
+Spritz con il Prosecco
+Garibaldi arancia
+Rosolio
+Vin santo e cantucci
+Passito di Pantelleria
+Cantina
+Vigneto
+Botte di rovere
+Fiasco
+Barrique
+Menabrea
+Ichnusa
+Forst
+Dreher
+Messina
+Poretti
+Birra Peroni
+Birra Ceres
+Tennent's
+Paulaner
+Hoegaarden
+Leffe
+Bock
+Radler
+Birra e coca
+Cassa di birra
+Fusto di birra
+Boccale da litro
+Birrificio
+Birreria
+Pub irlandese
+Osteria
+Taverna
+Bar di quartiere
+Banco del bar
+Sgabello
+Tavolino fuori
+Dehors
+Stuzzichini
+Patatine
+Olive
+Noccioline
+Arachidi
+Pizzette
+Tramezzini
+Salatini
+Taralli
+Cubetti di formaggio
+Tagliere
+Affettati
+Crostini
+Cicchetti
+Ombra de vin
+Spritz veneziano
+Caffè al bar
+Cornetto e cappuccino
+Fare il bis
+Pagare un giro
+Offre la casa
+Segna sul conto
+Alla romana
+Conto salato
+Barista scorbutico
+Barista simpatico
+Un goccio
+Ultimo bicchiere
+Facciamo l'ultimo
+Chiusura del locale
+Con ghiaccio
+Fetta di limone
+Fetta d'arancia
+Ciliegina
+Flair bartender
+Barman acrobatico
+Succo di frutta
+Prosecco e fragole
+Bere da soli
+Bere per dimenticare
+Bere per festeggiare
+Brindare a Natale
+Brindare ai neosposi
+Vino cotto
+Birra e salsiccia
+Grigliata con il vino
+Vino della nonna
+Grappa fatta in casa
+Limoncello fatto in casa
+Nocino fatto in casa
+Amaro della nonna
+Amaro dopo il pranzo
+Grappino
+Punch
+Caffè con il rum
+Rum e pera
+Gin e tonic
+Sambuca flambé
+Fanta e vodka
+Welcome drink
+Open bar
+Drink troppo forte
+Drink annacquato
+Coprire il bicchiere
+Alcol test
+Patente ritirata
+Scroccare da bere
+Ubriachezza molesta
+Cantare da ubriachi
+Zigzagare
+Barcollare
+Reggersi ai muri
+Sbattere contro il palo
+Parlare strascicato
+Vedere doppio
+Singhiozzo
+Rutto
+Fare un rutto
+Brindisi alla sposa
+Spumante di Capodanno
+Spumante dolce
+Mosto d'uva
+Sagra del vino
+Sagra della birra
+Festa dell'uva
+Fiera del vino
+Vinitaly
+Calici di stelle
+Wine bar
+Degustazione di birre
+Degustazione di grappe
+Degustazione di whisky
+Cantina sociale
+Vino sfuso alla spina
+Shot di tequila
+Shot di sambuca
+Shot colorati
+Gelatine alcoliche
+Jelly shot
+Tequila boom
+Slammer
+Kamikaze
+B-52
+Flaming shot
+Absinthe
+Assenzio
+Fata verde
+Pastis
+Ouzo
+Sake
+Soju
+Whisky scozzese
+Whisky irlandese
+Bourbon americano
+Cognac francese
+Rum cubano
+Tequila messicana
+Gin inglese
+Birra tedesca
+Birra belga
+Birra irlandese
+Sangria
+Sangria con la frutta
+Tinto de verano
+Moscow Mule con rame
+Coppa da champagne
+Flûte da spumante

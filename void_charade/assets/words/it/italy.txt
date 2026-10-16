@@ -1,0 +1,522 @@
+Pizza margherita
+Spaghetti alla carbonara
+Lasagne alla bolognese
+Tiramisù
+Gelato
+Caffè espresso
+Cappuccino e cornetto
+Torre di Pisa
+Colosseo
+Canali di Venezia
+Gondola
+Gondoliere
+Città del Vaticano
+Cappella Sistina
+Papa
+Fontana di Trevi
+Scalinata di Trinità dei Monti
+Roma
+Milano
+Firenze
+Napoli
+Venezia
+Torino
+Bologna
+Verona
+Pisa
+Siena
+Genova
+Palermo
+Bari
+Cagliari
+Catania
+Sicilia
+Sardegna
+Toscana
+Lombardia
+Umbria
+Puglia
+Calabria
+Basilicata
+Liguria
+Piemonte
+Veneto
+Emilia-Romagna
+Friuli
+Trentino
+Abruzzo
+Campania
+Costiera amalfitana
+Capri
+Positano
+Cinque Terre
+Lago di Como
+Lago di Garda
+Lago Maggiore
+Dolomiti
+Vesuvio
+Pompei
+Etna
+Stromboli
+Ponte di Rialto
+Piazza San Marco
+Palazzo Ducale
+Ponte Vecchio
+Duomo di Milano
+Galleria degli Uffizi
+Michelangelo
+Leonardo da Vinci
+Raffaello
+Botticelli
+Caravaggio
+Giotto
+Galileo Galilei
+Dante Alighieri
+Petrarca
+Boccaccio
+Manzoni
+Leopardi
+Pirandello
+Umberto Eco
+Marco Polo
+Cristoforo Colombo
+Giulio Cesare
+Augusto
+Nerone
+Caligola
+Impero romano
+Gladiatore
+Legione romana
+Toga
+Pantheon
+Fori Imperiali
+Via Appia
+Acquedotto romano
+Gioconda
+L'ultima cena
+Il David
+La nascita di Venere
+La Divina Commedia
+Romeo e Giulietta
+Balcone di Giulietta
+Pinocchio
+Cuore
+I promessi sposi
+Garibaldi
+Cavour
+Vittorio Emanuele II
+Mille di Garibaldi
+Risorgimento
+Tricolore
+Inno di Mameli
+Mussolini
+Fiat 500
+Vespa
+Lambretta
+Ape Piaggio
+Ferrari
+Lamborghini
+Maserati
+Alfa Romeo
+Ducati
+Pirelli
+Gran Premio di Monza
+Gucci
+Prada
+Versace
+Armani
+Dolce & Gabbana
+Valentino
+Fendi
+Benetton
+Settimana della moda
+La Scala
+Lirica
+Pavarotti
+Verdi
+Puccini
+Vivaldi
+Rossini
+Andrea Bocelli
+Sophia Loren
+Roberto Benigni
+Federico Fellini
+La dolce vita
+Nuovo Cinema Paradiso
+La vita è bella
+Il Padrino
+Sergio Leone
+Spaghetti western
+Ennio Morricone
+Totò
+Alberto Sordi
+Marcello Mastroianni
+Anna Magnani
+Monica Bellucci
+Mafia
+Cosa Nostra
+Cannolo siciliano
+Cassata
+Arancino
+Panettone
+Pandoro
+Panna cotta
+Affogato
+Cantucci
+Amaretti
+Zabaione
+Gianduiotto
+Nutella
+Pesto alla genovese
+Parmigiano Reggiano
+Mozzarella di bufala
+Burrata
+Ricotta
+Gorgonzola
+Pecorino
+Mascarpone
+Prosciutto crudo
+Prosciutto cotto
+Mortadella
+Salame
+Pancetta
+Bresaola
+Spaghetti
+Penne
+Fusilli
+Farfalle
+Rigatoni
+Tortellini
+Ravioli
+Gnocchi
+Fettuccine
+Tagliatelle al ragù
+Penne all'arrabbiata
+Cacio e pepe
+Amatriciana
+Spaghetti alle vongole
+Spaghetti aglio e olio
+Pasta e fagioli
+Orecchiette alle cime di rapa
+Trofie al pesto
+Pizzoccheri
+Casoncelli
+Risotto alla milanese
+Ossobuco
+Cotoletta alla milanese
+Minestrone
+Ribollita
+Bruschetta
+Antipasto
+Insalata caprese
+Focaccia genovese
+Ciabatta
+Grissini
+Calzone
+Pizza napoletana
+Pizza fritta
+Piadina romagnola
+Polenta
+Carpaccio
+Saltimbocca alla romana
+Parmigiana di melanzane
+Vitello tonnato
+Fritto misto
+Bollito misto
+Bistecca alla fiorentina
+Porchetta
+Lampredotto
+Tigelle
+Crescentine
+Aperol spritz
+Limoncello
+Prosecco
+Chianti
+Amaro
+Campari
+Negroni
+Bellini
+Grappa
+Sambuca
+Barolo
+Lambrusco
+Montepulciano d'Abruzzo
+Olio d'oliva
+Aceto balsamico di Modena
+Tartufo
+Basilico
+Origano
+Pomodori San Marzano
+Macchina per la pasta
+Forno a legna
+Moka
+Pizzeria
+Trattoria
+Osteria
+Gelateria
+Bar all'italiana
+Mamma mia
+Ciao bella
+Buongiorno
+Arrivederci
+Grazie mille
+Prego
+Bravo
+Bellissimo
+Nonna
+Piazza
+Vicoli di città
+Tetti di terracotta
+Vigneto
+Uliveto
+Cipressi toscani
+Colline toscane
+Sorrento
+Ravello
+Portofino
+Sanremo
+Rimini
+Riccione
+Lecce
+Matera
+Sassi di Matera
+Alberobello
+Trulli
+Trieste
+Udine
+Padova
+Vicenza
+Parma
+Modena
+Ravenna
+Perugia
+Assisi
+Orvieto
+San Gimignano
+Lucca
+Cortina d'Ampezzo
+Aosta
+Monte Bianco
+Cervino
+Isola Bella
+Burano
+Vetro di Murano
+Maschera veneziana
+Carnevale di Venezia
+Ponte dei Sospiri
+Canal Grande
+Vaporetto
+Medici
+Borgia
+Rinascimento
+Lorenzo il Magnifico
+Duomo di Firenze
+Cupola del Brunelleschi
+Battistero
+Piazza del Campo
+Palio di Siena
+Catacombe
+Campidoglio
+Castel Sant'Angelo
+Circo Massimo
+Villa Borghese
+Trastevere
+Piazza Navona
+Basilica di San Pietro
+Guardia svizzera
+Conclave
+Fumata bianca
+Vacanze romane
+Tre soldi nella fontana
+Cono gelato
+Serie A
+Milan
+Inter
+Juventus
+Lazio
+Gli Azzurri
+Paolo Maldini
+Roberto Baggio
+Andrea Pirlo
+Francesco Totti
+Gianluigi Buffon
+Alessandro Del Piero
+Fabio Cannavaro
+Valentino Rossi
+Marco Pantani
+Maglia rosa
+San Siro
+Stadio Olimpico
+Bocconi
+Olivetti
+Barilla
+Lavazza
+Illy
+Ferrero Rocher
+Kinder
+Mulino Bianco
+Peroni
+Beretta
+Bialetti
+Alessi
+Piaggio
+Lancia
+Pagani
+Pininfarina
+Biennale di Venezia
+Mostra del Cinema di Venezia
+Festival di Sanremo
+Måneskin
+Laura Pausini
+Eros Ramazzotti
+Zucchero
+Il Volo
+Renato Zero
+Vasco Rossi
+Ligabue
+Lucio Battisti
+Fabrizio De André
+Lucio Dalla
+Giorgio Gaber
+Adriano Celentano
+Mina
+Jovanotti
+Gianni Morandi
+Giorgio Armani
+Donatella Versace
+Miuccia Prada
+Salvatore Ferragamo
+Brunello Cucinelli
+Moncler
+Diesel
+Stone Island
+Borsalino
+Fibonacci
+Enrico Fermi
+Alessandro Volta
+Guglielmo Marconi
+Antonio Meucci
+Maria Montessori
+San Francesco d'Assisi
+Padre Pio
+San Pietro
+Ponzio Pilato
+Spartaco
+Annibale
+Romolo e Remo
+Lupa capitolina
+Vestali
+Terme romane
+Numeri romani
+Latino
+Senato
+Pretoriani
+Arena
+Panem et circenses
+Pizza all'ananas
+Pizzaiolo
+Colapasta
+Grattugia per il formaggio
+Polpette
+Salsiccia
+Granita siciliana
+Caffè macchiato
+Caffè corretto
+Caffè al bar
+Cornetto
+Sfogliatella
+Zeppole di San Giuseppe
+Struffoli
+Torrone
+Colomba pasquale
+Gelato al pistacchio
+Stracciatella
+Prosciutto di Parma
+Ragù alla bolognese
+Fritto di paranza
+Linguine allo scoglio
+Ombrelloni
+Motorino
+Traffico di Roma
+Gesticolare
+Mano a borsa
+Rocky Balboa
+Super Mario
+Pasta al forno
+Sagra del paese
+Passeggiata in centro
+Aperitivo
+Pausa pranzo
+Domenica dai nonni
+Pranzo della domenica
+Pasticceria
+Paninoteca
+Tabaccheria
+Edicola
+Autogrill
+Autostrada
+Casello
+Telepass
+Raccordo anulare
+Bar sport
+Pizza al taglio
+Supplì
+Trapizzino
+Carbonara
+Gricia
+Abbacchio
+Coda alla vaccinara
+Carciofi alla giudia
+Pecorino romano
+Mozzarella in carrozza
+Pastiera napoletana
+Babà
+Sartù
+Pulcinella
+Totò e Peppino
+Gomorra
+Maradona
+Spaccanapoli
+Presepe di San Gregorio Armeno
+San Gennaro
+Miracolo di San Gennaro
+Cornetto portafortuna
+Tombola
+Scopa
+Briscola
+Tressette
+Carte napoletane
+Bocce
+Calcio storico fiorentino
+Giostra del Saracino
+Corsa dei Ceri
+Infiorata
+Regata storica
+Processione
+Cappella degli Scrovegni
+Arena di Verona
+Basilica di San Marco
+Torre degli Asinelli
+Due Torri
+Fontana del Nettuno
+Mole Antonelliana
+Museo Egizio
+Reggia di Caserta
+Valle dei Templi
+Scala dei Turchi
+Isole Eolie
+Lampedusa
+Isola d'Elba
+Costa Smeralda
+Gallura
+Isole Tremiti
+Gargano
+Salento
+Gran Sasso
+Parco nazionale d'Abruzzo
+Appennini
+Pianura Padana
+Fiume Po
+Tevere
+Arno
+Adige

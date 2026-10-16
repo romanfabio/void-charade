@@ -1,0 +1,542 @@
+Stati Uniti
+Canada
+Messico
+Brasile
+Argentina
+Cile
+Perù
+Colombia
+Venezuela
+Bolivia
+Ecuador
+Uruguay
+Paraguay
+Cuba
+Giamaica
+Haiti
+Repubblica Dominicana
+Costa Rica
+Panama
+Guatemala
+Honduras
+Nicaragua
+Regno Unito
+Inghilterra
+Scozia
+Galles
+Irlanda del Nord
+Irlanda
+Francia
+Spagna
+Portogallo
+Italia
+Germania
+Svizzera
+Austria
+Belgio
+Paesi Bassi
+Olanda
+Lussemburgo
+Danimarca
+Norvegia
+Svezia
+Finlandia
+Islanda
+Polonia
+Repubblica Ceca
+Slovacchia
+Ungheria
+Romania
+Bulgaria
+Grecia
+Turchia
+Croazia
+Serbia
+Slovenia
+Albania
+Bosnia
+Montenegro
+Macedonia del Nord
+Ucraina
+Bielorussia
+Russia
+Lituania
+Lettonia
+Estonia
+Malta
+Cipro
+Monaco
+Liechtenstein
+Città del Vaticano
+San Marino
+Andorra
+Cina
+Giappone
+Corea del Sud
+Corea del Nord
+Mongolia
+Taiwan
+India
+Pakistan
+Bangladesh
+Nepal
+Buthan
+Sri Lanka
+Maldive
+Afghanistan
+Iran
+Iraq
+Siria
+Libano
+Israele
+Giordania
+Arabia Saudita
+Yemen
+Oman
+Qatar
+Kuwait
+Emirati Arabi Uniti
+Kazakistan
+Uzbekistan
+Thailandia
+Vietnam
+Cambogia
+Laos
+Birmania
+Malesia
+Singapore
+Indonesia
+Filippine
+Australia
+Nuova Zelanda
+Papua Nuova Guinea
+Figi
+Samoa
+Egitto
+Libia
+Tunisia
+Algeria
+Marocco
+Sudan
+Etiopia
+Kenya
+Tanzania
+Uganda
+Ruanda
+Somalia
+Nigeria
+Ghana
+Senegal
+Mali
+Niger
+Ciad
+Camerun
+Costa d'Avorio
+Angola
+Zambia
+Zimbabwe
+Mozambico
+Namibia
+Botswana
+Sudafrica
+Madagascar
+Roma
+Milano
+Torino
+Genova
+Venezia
+Bologna
+Firenze
+Napoli
+Palermo
+Bari
+Cagliari
+Trieste
+Verona
+Padova
+Pisa
+Siena
+Perugia
+Ancona
+Pescara
+Catania
+Messina
+Reggio Calabria
+Taranto
+Brescia
+Bergamo
+Parma
+Modena
+Ravenna
+Rimini
+Trento
+Bolzano
+Aosta
+Potenza
+Matera
+Lecce
+Salerno
+Capri
+Londra
+Edimburgo
+Dublino
+Parigi
+Madrid
+Lisbona
+Berlino
+Berna
+Vienna
+Bruxelles
+Amsterdam
+Copenaghen
+Oslo
+Stoccolma
+Helsinki
+Reykjavik
+Varsavia
+Praga
+Budapest
+Bucarest
+Sofia
+Atene
+Ankara
+Mosca
+Kiev
+Pechino
+Tokyo
+Seul
+Nuova Delhi
+Teheran
+Baghdad
+Gerusalemme
+Riad
+Il Cairo
+Nairobi
+Addis Abeba
+Pretoria
+Canberra
+Wellington
+Bangkok
+Hanoi
+Giacarta
+Manila
+Kuala Lumpur
+Washington
+New York
+Los Angeles
+Chicago
+San Francisco
+Las Vegas
+Miami
+Boston
+Seattle
+Houston
+New Orleans
+Hollywood
+Toronto
+Vancouver
+Montréal
+Città del Messico
+L'Avana
+Brasilia
+Buenos Aires
+Santiago del Cile
+Lima
+Bogotà
+Caracas
+Quito
+Montevideo
+Rio de Janeiro
+San Paolo
+Barcellona
+Siviglia
+Valencia
+Monaco di Baviera
+Amburgo
+Francoforte
+Zurigo
+Ginevra
+Salisburgo
+Marsiglia
+Lione
+Nizza
+Cannes
+Istanbul
+Dubai
+Abu Dhabi
+La Mecca
+Tel Aviv
+Shanghai
+Hong Kong
+Macao
+Kyoto
+Osaka
+Mumbai
+Calcutta
+Bangalore
+Karachi
+Dacca
+Sydney
+Melbourne
+Perth
+Brisbane
+Auckland
+Città del Capo
+Johannesburg
+Casablanca
+Marrakech
+Lagos
+Timbuctù
+Zanzibar
+Nilo
+Rio delle Amazzoni
+Mississippi
+Missouri
+Colorado
+Rio Grande
+Danubio
+Reno
+Senna
+Tamigi
+Loira
+Tago
+Po
+Tevere
+Arno
+Adige
+Piave
+Ticino
+Adda
+Tanaro
+Volga
+Gange
+Indo
+Brahmaputra
+Fiume Azzurro
+Fiume Giallo
+Mekong
+Eufrate
+Tigri
+Giordano
+Congo
+Zambesi
+Murray
+Monte Everest
+K2
+Kilimangiaro
+Monte Bianco
+Cervino
+Monte Rosa
+Gran Paradiso
+Marmolada
+Tre Cime di Lavaredo
+Gran Sasso
+Monte Fuji
+Etna
+Vesuvio
+Stromboli
+Monte Olimpo
+Monte Sinai
+Monte Ararat
+Aconcagua
+Ande
+Montagne Rocciose
+Alpi
+Pirenei
+Appalachi
+Himalaya
+Carpazi
+Urali
+Appennini
+Dolomiti
+Atlante
+Sierra Nevada
+Gran Canyon
+Valle della Morte
+Deserto del Sahara
+Deserto del Gobi
+Deserto del Kalahari
+Deserto di Atacama
+Deserto del Mojave
+Outback
+Savana
+Serengeti
+Foresta amazzonica
+Siberia
+Tundra
+Artico
+Antartide
+Polo Nord
+Polo Sud
+Equatore
+Tropico del Cancro
+Tropico del Capricorno
+Oceano Pacifico
+Oceano Atlantico
+Oceano Indiano
+Oceano Artico
+Mar Mediterraneo
+Mar dei Caraibi
+Mar Rosso
+Mar Nero
+Mar Morto
+Mar Caspio
+Mare del Nord
+Mar Baltico
+Mare Adriatico
+Mar Tirreno
+Mar Ionio
+Mar Ligure
+Mar Egeo
+Mar Arabico
+Mar Cinese Meridionale
+Golfo del Messico
+Golfo Persico
+Golfo di Napoli
+Golfo di Taranto
+Canale della Manica
+Stretto di Gibilterra
+Stretto di Messina
+Bosforo
+Canale di Suez
+Canale di Panama
+Triangolo delle Bermuda
+Grande Barriera Corallina
+Lago Maggiore
+Lago di Garda
+Lago di Como
+Lago Trasimeno
+Lago d'Iseo
+Lago di Bolsena
+Lago Vittoria
+Lago Superiore
+Lago Titicaca
+Lago Lemano
+Lago Bajkal
+Cascate del Niagara
+Cascate Vittoria
+Cascate di Iguazú
+Cascate delle Marmore
+Hawaii
+Alaska
+Texas
+California
+Florida
+Groenlandia
+Sicilia
+Sardegna
+Corsica
+Creta
+Rodi
+Santorini
+Maiorca
+Ibiza
+Isole Canarie
+Madera
+Azzorre
+Capo Verde
+Bahamas
+Barbados
+Porto Rico
+Bermuda
+Galápagos
+Isola di Pasqua
+Tahiti
+Bora Bora
+Bali
+Giava
+Sumatra
+Borneo
+Phuket
+Honshu
+Hokkaido
+Tasmania
+Seychelles
+Mauritius
+Elba
+Ischia
+Procida
+Lampedusa
+Pantelleria
+Lipari
+Isole Eolie
+Isole Tremiti
+Isola del Giglio
+Isola d'Elba
+Ustica
+Favignana
+Manhattan
+Long Island
+Brooklyn
+Bronx
+Patagonia
+Terra del Fuoco
+Scandinavia
+Balcani
+Penisola Iberica
+Medio Oriente
+Estremo Oriente
+America Latina
+America Centrale
+America del Sud
+America del Nord
+Europa
+Asia
+Africa
+Oceania
+Caucaso
+Steppa
+Grandi Pianure
+Prateria
+Foresta pluviale
+Delta
+Fiordo
+Ghiacciaio
+Arcipelago
+Penisola
+Istmo
+Altopiano
+Canyon
+Vulcano
+Geyser
+Oasi
+Atollo
+Capo di Buona Speranza
+Capo Horn
+Corrente del Golfo
+Meridiano di Greenwich
+Linea del cambiamento di data
+Latitudine
+Longitudine
+Rosa dei venti
+Atlante geografico
+Mappamondo
+Planisfero
+Fuso orario
+Lombardia
+Piemonte
+Veneto
+Emilia-Romagna
+Toscana
+Liguria
+Umbria
+Marche
+Lazio
+Abruzzo
+Molise
+Campania
+Puglia
+Basilicata
+Calabria
+Friuli-Venezia Giulia
+Trentino-Alto Adige
+Valle d'Aosta
+Pianura Padana
+Maremma
+Salento
+Gargano
+Cinque Terre
+Costiera Amalfitana
+Costa Smeralda
+Riviera romagnola
+Alto Adige

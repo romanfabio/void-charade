@@ -111,8 +111,14 @@ void main() {
     await s.openApp();
     expect(find.text('Animals'), findsOneWidget);
     expect(find.text('Movies'), findsOneWidget);
+    expect(find.text('Food'), findsOneWidget);
+    // The grid is lazy: the last tile only exists once scrolled into view.
+    await tester.scrollUntilVisible(
+      find.text('Spicy'),
+      400,
+      scrollable: find.byType(Scrollable).first,
+    );
     expect(find.text('Spicy'), findsOneWidget);
-    expect(find.text('Food'), findsNothing); // no word file yet
     await s.shutDown();
   });
 
@@ -120,7 +126,12 @@ void main() {
     final s = _Session(tester);
     await s.openApp(prefs: {'showAdult': false});
     expect(find.text('Animals'), findsOneWidget);
+    // Scroll to the very end of the grid: the last tile is a regular one.
+    await tester.drag(find.byType(Scrollable).first, const Offset(0, -20000));
+    await tester.pump(const Duration(seconds: 1));
+    expect(find.text('Easy Words'), findsOneWidget);
     expect(find.text('Spicy'), findsNothing);
+    expect(find.text('Party & Nightlife'), findsNothing);
     await s.shutDown();
   });
 

@@ -1,0 +1,487 @@
+Gol
+Rigore
+Calci di rigore
+Punizione
+Corner
+Rimessa laterale
+Rimessa dal fondo
+Fuorigioco
+Cartellino rosso
+Cartellino giallo
+Tripletta
+Doppietta
+Autogol
+Colpo di testa
+Rovesciata
+Tiro al volo
+Tacco
+Tunnel
+Dribbling
+Scivolata
+Cross
+Passaggio filtrante
+Contropiede
+Catenaccio
+Zona mista
+Tiki-taka
+Pressing
+Linea difensiva
+Difesa a tre
+Difesa a quattro
+Fallo
+Fallo di mano
+Simulazione
+Ammonizione
+Espulsione
+Squalifica
+Recupero
+Tempi supplementari
+Golden gol
+Intervallo
+Fischio finale
+Arbitro
+Guardalinee
+Quarto uomo
+VAR
+Moviola
+Area di rigore
+Dischetto
+Palo
+Traversa
+Rete
+Bandierina
+Cerchio di centrocampo
+Linea laterale
+Panchina
+Riserva
+Capitano
+Fascia da capitano
+Portiere
+Difensore
+Libero
+Terzino
+Stopper
+Centrocampista
+Regista
+Mezzala
+Mediano
+Trequartista
+Ala
+Attaccante
+Punta
+Bomber
+Fantasista
+Numero dieci
+Allenatore
+Mister
+Presidente
+Direttore sportivo
+Magazziniere
+Massaggiatore
+Tifoso
+Ultras
+Curva Sud
+Curva Nord
+Tribuna
+Abbonamento
+Stadio
+Riflettori
+Tabellone
+Derby
+Derby della Madonnina
+Derby d'Italia
+Derby della Capitale
+Derby della Mole
+Derby di Genova
+Derby del Sole
+Derby della Lanterna
+Retrocessione
+Promozione
+Spareggio
+Playoff
+Calciomercato
+Prestito
+Riscatto
+Clausola rescissoria
+Procuratore
+Osservatore
+Settore giovanile
+Primavera
+Allenamento
+Ritiro
+Scarpini
+Tacchetti
+Parastinchi
+Guanti da portiere
+Maglia
+Pallone
+Fischietto
+Sciarpa
+Bandiera
+Coro
+Striscione
+Fumogeno
+Trofeo
+Scudetto
+Tricolore
+Scarpa d'oro
+Capocannoniere
+Mondiali
+Europei
+Coppa del Mondo
+Coppa America
+Champions League
+Europa League
+Conference League
+Supercoppa
+Coppa Italia
+Coppa Intercontinentale
+Mondiale per club
+Serie A
+Serie B
+Serie C
+Premier League
+Liga
+Bundesliga
+Ligue 1
+Eredivisie
+Nations League
+Juventus
+Milan
+Inter
+Napoli
+Roma
+Lazio
+Fiorentina
+Atalanta
+Torino
+Bologna
+Genoa
+Sampdoria
+Udinese
+Verona
+Cagliari
+Lecce
+Parma
+Empoli
+Sassuolo
+Monza
+Como
+Cremonese
+Spezia
+Salernitana
+Palermo
+Bari
+Catania
+Brescia
+Venezia
+Cesena
+Perugia
+Pescara
+Reggina
+Ascoli
+Avellino
+Foggia
+Pisa
+Padova
+Vicenza
+Modena
+Triestina
+Chievo
+Real Madrid
+Barcellona
+Atletico Madrid
+Siviglia
+Valencia
+Bayern Monaco
+Borussia Dortmund
+Manchester United
+Manchester City
+Liverpool
+Chelsea
+Arsenal
+Tottenham
+Paris Saint-Germain
+Marsiglia
+Lione
+Ajax
+Benfica
+Porto
+Celtic
+Galatasaray
+Boca Juniors
+River Plate
+Flamengo
+Santos
+Italia
+Nazionale
+Azzurri
+Brasile
+Argentina
+Germania
+Francia
+Spagna
+Inghilterra
+Olanda
+Portogallo
+Uruguay
+Croazia
+Belgio
+Svizzera
+Marocco
+Giappone
+Nigeria
+Camerun
+Messico
+Gianluigi Buffon
+Gianluigi Donnarumma
+Dino Zoff
+Walter Zenga
+Francesco Toldo
+Paolo Maldini
+Franco Baresi
+Alessandro Nesta
+Fabio Cannavaro
+Giorgio Chiellini
+Leonardo Bonucci
+Gaetano Scirea
+Claudio Gentile
+Giacinto Facchetti
+Mauro Tassotti
+Alessandro Costacurta
+Andrea Pirlo
+Gennaro Gattuso
+Daniele De Rossi
+Marco Verratti
+Jorginho
+Nicolò Barella
+Gianni Rivera
+Sandro Mazzola
+Giuseppe Meazza
+Silvio Piola
+Roberto Baggio
+Francesco Totti
+Alessandro Del Piero
+Paolo Rossi
+Gigi Riva
+Giorgio Chinaglia
+Roberto Bettega
+Gianluca Vialli
+Roberto Mancini
+Giuseppe Signori
+Christian Vieri
+Filippo Inzaghi
+Alberto Gilardino
+Luca Toni
+Antonio Di Natale
+Vincenzo Montella
+Mario Balotelli
+Ciro Immobile
+Federico Chiesa
+Lorenzo Insigne
+Marco Tardelli
+Bruno Conti
+Antonio Cassano
+Fabrizio Ravanelli
+Salvatore Schillaci
+Totò Schillaci
+Pierluigi Casiraghi
+Demetrio Albertini
+Roberto Donadoni
+Dejan Savicevic
+Zlatan Ibrahimovic
+Marco van Basten
+Ruud Gullit
+Frank Rijkaard
+Kakà
+George Weah
+Andriy Shevchenko
+Ronaldo il Fenomeno
+Ronaldinho
+Zinedine Zidane
+Pavel Nedved
+David Trezeguet
+Diego Armando Maradona
+Maradona
+Pelé
+Lionel Messi
+Cristiano Ronaldo
+Neymar
+Kylian Mbappé
+Erling Haaland
+Johan Cruijff
+Michel Platini
+Franz Beckenbauer
+David Beckham
+Gabriel Batistuta
+Rui Costa
+Hernan Crespo
+Javier Zanetti
+Samuel Eto'o
+Wesley Sneijder
+Diego Milito
+Paulo Dybala
+Romelu Lukaku
+Victor Osimhen
+Khvicha Kvaratskhelia
+Rafael Leão
+Lautaro Martinez
+Dusan Vlahovic
+Federico Dimarco
+Alessandro Bastoni
+Gianluca Scamacca
+Sandro Tonali
+Giacomo Raspadori
+Matteo Politano
+Cristian Chivu
+Arrigo Sacchi
+Fabio Capello
+Marcello Lippi
+Carlo Ancelotti
+Giovanni Trapattoni
+Enzo Bearzot
+Azeglio Vicini
+Cesare Prandelli
+Antonio Conte
+Massimiliano Allegri
+Luciano Spalletti
+Gian Piero Gasperini
+Simone Inzaghi
+Stefano Pioli
+Maurizio Sarri
+Vujadin Boskov
+Nils Liedholm
+Helenio Herrera
+Nereo Rocco
+Carletto Mazzone
+Zdenek Zeman
+Walter Mazzarri
+Claudio Ranieri
+Pep Guardiola
+Alex Ferguson
+Silvio Berlusconi
+Massimo Moratti
+Andrea Agnelli
+Gianni Agnelli
+Aurelio De Laurentiis
+Claudio Lotito
+Rino Gattuso
+Pierluigi Collina
+San Siro
+Stadio Olimpico
+Allianz Stadium
+Stadio Maradona
+Artemio Franchi
+Marassi
+Luigi Ferraris
+Renato Dall'Ara
+Bentegodi
+Stadio delle Alpi
+Stadio San Paolo
+Meazza
+Camp Nou
+Santiago Bernabéu
+Maracanã
+Old Trafford
+Anfield
+Mondiali del 1982
+Mondiali del 2006
+Italia-Germania 4-3
+Italia-Brasile 3-2
+Notti magiche
+Italia 90
+Europei 2021
+Euro 2020
+Berlino 2006
+Testata di Zidane
+Miracolo di Istanbul
+Istanbul 2005
+Calciopoli
+Totonero
+Grande Torino
+Milan di Sacchi
+Juve di Lippi
+Inter del Triplete
+Triplete
+Panenka
+Cucchiaio
+Cucchiaio di Totti
+Rabona
+Elastico
+Sombrero
+Veronica
+Colpo dello scorpione
+Gol in rovesciata
+Gol da centrocampo
+Gran gol
+Gol fantasma
+Gol annullato
+Gol di mano
+Palo e gol
+Gol all'ultimo minuto
+Zona Cesarini
+Cesarini
+Fantacalcio
+Figurine Panini
+Album Panini
+Novantesimo minuto
+Domenica Sportiva
+Processo di Biscardi
+Andata e ritorno
+Girone
+Fase a gironi
+Ottavi di finale
+Quarti di finale
+Semifinale
+Finale
+Classifica
+Capolista
+Zona Champions
+Zona retrocessione
+Zona salvezza
+Lotta scudetto
+Serie positiva
+Imbattibilità
+Cappotto
+Manita
+Goleada
+Sconfitta
+Pareggio
+Vittoria
+Formazione
+Titolare
+Undici titolare
+Modulo
+Quattro-quattro-due
+Tre-cinque-due
+Quattro-tre-tre
+Rosa
+Panchinaro
+Fuoriclasse
+Campione
+Uomo partita
+Assist
+Parata
+Parata sul rigore
+Miracolo del portiere
+Papera
+Muro
+Barriera
+Schema su punizione
+Pallonetto
+Esultanza
+Maglietta
+Ritiro estivo
+Tournée
+Amichevole
+Spogliatoio
+Sottopassaggio
+Raccattapalle
+Invasione di campo
+Daspo
+Tessera del tifoso
+Panino con la salsiccia
+Telecronaca
+Telecronista
+Commentatore
+Pagelle

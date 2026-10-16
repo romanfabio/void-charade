@@ -1,0 +1,381 @@
+Basketball
+Tennis
+Golf
+Swimming
+Boxing
+Volleyball
+Baseball
+Rugby
+Cricket
+Hockey
+Ice hockey
+Field hockey
+Table tennis
+Badminton
+Squash
+Handball
+Water polo
+Archery
+Fencing
+Judo
+Karate
+Taekwondo
+Wrestling
+Sumo wrestling
+Weightlifting
+Gymnastics
+Rhythmic gymnastics
+Trampoline
+Diving
+Synchronized swimming
+Rowing
+Canoeing
+Kayaking
+Sailing
+Windsurfing
+Kitesurfing
+Surfing
+Bodyboarding
+Paddleboarding
+Water skiing
+Wakeboarding
+Scuba diving
+Snorkeling
+Skiing
+Cross-country skiing
+Ski jumping
+Snowboarding
+Slalom
+Downhill skiing
+Biathlon
+Bobsled
+Luge
+Skeleton
+Curling
+Figure skating
+Speed skating
+Ice skating
+Roller skating
+Skateboarding
+Rollerblading
+BMX
+Mountain biking
+Cycling
+Road cycling
+Track cycling
+Cyclocross
+Triathlon
+Marathon
+Sprint
+Hurdles
+High jump
+Long jump
+Triple jump
+Pole vault
+Shot put
+Discus throw
+Javelin throw
+Hammer throw
+Decathlon
+Heptathlon
+Relay race
+Race walking
+Steeplechase
+Cross country running
+Trail running
+Parkour
+Rock climbing
+Bouldering
+Mountaineering
+Abseiling
+Bungee jumping
+Skydiving
+Paragliding
+Hang gliding
+Base jumping
+Zip lining
+White water rafting
+Horse riding
+Show jumping
+Dressage
+Polo
+Rodeo
+Horse racing
+Equestrian
+Motorcycle racing
+Motocross
+Formula One
+Rally driving
+Go-kart racing
+NASCAR
+Drag racing
+Powerboat racing
+Bowling
+Darts
+Billiards
+Pool
+Snooker
+Croquet
+Lawn bowls
+Petanque
+Frisbee
+Ultimate frisbee
+Dodgeball
+Kickball
+Softball
+Netball
+Lacrosse
+Aussie rules football
+American football
+Gaelic football
+Hurling
+Ping pong
+Pickleball
+Padel
+Racquetball
+Beach volleyball
+Beach soccer
+Futsal
+Mixed martial arts
+Kickboxing
+Muay Thai
+Brazilian jiu-jitsu
+Aikido
+Kung fu
+Capoeira
+Krav Maga
+Tai chi
+Yoga
+Pilates
+Aerobics
+Zumba
+Crossfit
+Bodybuilding
+Powerlifting
+Arm wrestling
+Tug of war
+Sack race
+Egg and spoon race
+Three-legged race
+Cheerleading
+Pole dancing
+Ballroom dancing
+Orienteering
+Fishing
+Fly fishing
+Clay pigeon shooting
+Shooting
+Modern pentathlon
+Sled dog racing
+Ice climbing
+Snowshoeing
+Sledding
+Tobogganing
+Snowmobiling
+Freestyle skiing
+Aerial skiing
+Mogul skiing
+Ski cross
+Nordic combined
+Cliff diving
+Free diving
+Spearfishing
+Stand-up paddle
+Gliding
+Hot air ballooning
+Ballooning
+Penalty shootout
+Hat trick
+Slam dunk
+Free throw
+Three-pointer
+Home run
+Strikeout
+Touchdown
+Field goal
+Grand slam
+Match point
+Ace
+Backhand
+Forehand
+Drop shot
+Tiebreak
+Deuce
+Hole in one
+Birdie
+Eagle
+Bogey
+Tee off
+Putt
+Caddie
+Knockout
+Uppercut
+Jab
+Hook
+Headlock
+Takedown
+Tackle
+Scrum
+Try
+Lineout
+Wicket
+Googly
+Bowler
+Batsman
+Pitcher
+Catcher
+Quarterback
+Linebacker
+Goalkeeper
+Referee
+Umpire
+Coach
+Mascot
+Cheerleader
+Podium
+Gold medal
+Silver medal
+Bronze medal
+Trophy
+Finish line
+Starting blocks
+Starting pistol
+Stopwatch
+Photo finish
+World record
+Personal best
+Warm-up
+Cool down
+Stretching
+Push-up
+Sit-up
+Pull-up
+Burpee
+Squat
+Plank
+Lunge
+Jumping jacks
+Treadmill
+Dumbbell
+Barbell
+Kettlebell
+Punching bag
+Boxing gloves
+Boxing ring
+Tennis racket
+Tennis court
+Golf club
+Golf ball
+Golf cart
+Baseball bat
+Baseball glove
+Hockey stick
+Puck
+Shuttlecock
+Basketball hoop
+Backboard
+Volleyball net
+Football helmet
+Shoulder pads
+Mouthguard
+Swimming goggles
+Swimming cap
+Diving board
+Life jacket
+Surfboard
+Skateboard ramp
+Half-pipe
+Snowboard
+Ski poles
+Ski lift
+Ski goggles
+Ice skates
+Roller skates
+Climbing harness
+Climbing rope
+Carabiner
+Bicycle helmet
+Saddle
+Oars
+Paddle
+Javelin
+Discus
+Hurdle
+Parallel bars
+Balance beam
+Pommel horse
+Uneven bars
+Floor exercise
+Rhythmic ribbon
+Olympic Games
+Winter Olympics
+Paralympics
+Tour de France
+Giro d'Italia
+Wimbledon
+US Open
+Roland Garros
+Australian Open
+Super Bowl
+World Series
+NBA Finals
+Stanley Cup
+Ryder Cup
+Masters Tournament
+Indianapolis 500
+Monaco Grand Prix
+Isle of Man TT
+America's Cup
+Boat Race
+Six Nations
+Rugby World Cup
+Cricket World Cup
+Ashes
+Kentucky Derby
+Grand National
+Boston Marathon
+Ironman
+Iditarod
+X Games
+Commonwealth Games
+Usain Bolt
+Michael Phelps
+Serena Williams
+Roger Federer
+Rafael Nadal
+Novak Djokovic
+Michael Jordan
+LeBron James
+Muhammad Ali
+Tiger Woods
+Simone Biles
+Lewis Hamilton
+Michael Schumacher
+Tom Brady
+Babe Ruth
+Mike Tyson
+Carl Lewis
+Nadia Comaneci
+Eddie the Eagle
+Jesse Owens
+Wayne Gretzky
+Kobe Bryant
+Shaquille O'Neal
+Venus Williams
+Andy Murray
+Floyd Mayweather
+Conor McGregor
+Ayrton Senna
+Valentino Rossi
+Mo Farah
+Eliud Kipchoge
+Katie Ledecky
+Lindsey Vonn
+Shaun White
+Tony Hawk
+Greg LeMond
+Chris Froome
+Pele
+Diego Maradona
+Lionel Messi
+Cristiano Ronaldo

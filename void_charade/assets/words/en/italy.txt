@@ -1,0 +1,393 @@
+Pizza Margherita
+Spaghetti carbonara
+Lasagna
+Tiramisu
+Gelato
+Espresso
+Cappuccino
+Leaning Tower of Pisa
+Colosseum
+Venice canals
+Gondola
+Gondolier
+Vatican City
+Sistine Chapel
+Pope
+Trevi Fountain
+Spanish Steps
+Rome
+Milan
+Florence
+Naples
+Venice
+Turin
+Bologna
+Verona
+Pisa
+Siena
+Genoa
+Palermo
+Sicily
+Sardinia
+Tuscany
+Lombardy
+Umbria
+Puglia
+Calabria
+Amalfi Coast
+Capri
+Positano
+Cinque Terre
+Lake Como
+Lake Garda
+Dolomites
+Mount Vesuvius
+Pompeii
+Mount Etna
+Rialto Bridge
+St Mark's Square
+Doge's Palace
+Ponte Vecchio
+Duomo
+Uffizi Gallery
+Michelangelo
+Leonardo da Vinci
+Raphael
+Botticelli
+Caravaggio
+Donatello
+Galileo
+Dante
+Machiavelli
+Marco Polo
+Christopher Columbus
+Julius Caesar
+Augustus
+Nero
+Caligula
+Roman Empire
+Gladiator
+Roman legion
+Roman toga
+Pantheon
+Roman Forum
+Appian Way
+Aqueduct
+Mona Lisa
+The Last Supper
+David statue
+Birth of Venus
+The Divine Comedy
+Romeo and Juliet
+Juliet's balcony
+Pinocchio
+Garibaldi
+Mussolini
+Fiat 500
+Vespa
+Ferrari
+Lamborghini
+Maserati
+Alfa Romeo
+Ducati
+Pirelli
+Formula One at Monza
+Gucci
+Prada
+Versace
+Armani
+Dolce & Gabbana
+Valentino
+Fendi
+Benetton
+Luxottica
+Milan Fashion Week
+La Scala
+Opera
+Pavarotti
+Verdi
+Puccini
+Vivaldi
+Rossini
+Andrea Bocelli
+Sophia Loren
+Roberto Benigni
+Federico Fellini
+La Dolce Vita
+Cinema Paradiso
+Life Is Beautiful
+Godfather
+Sergio Leone
+Spaghetti western
+Ennio Morricone
+Mafia
+Cosa Nostra
+Cannoli
+Cassata
+Arancini
+Panettone
+Pandoro
+Panna cotta
+Affogato
+Biscotti
+Cantucci
+Amaretti
+Zabaglione
+Gianduja
+Nutella
+Pesto
+Parmesan
+Parmigiano Reggiano
+Mozzarella
+Burrata
+Ricotta
+Gorgonzola
+Pecorino
+Mascarpone
+Prosciutto
+Mortadella
+Salami
+Pancetta
+Bresaola
+Pepperoni
+Spaghetti
+Penne
+Fusilli
+Farfalle
+Rigatoni
+Tortellini
+Ravioli
+Gnocchi
+Fettuccine alfredo
+Spaghetti bolognese
+Spaghetti and meatballs
+Penne arrabbiata
+Cacio e pepe
+Risotto
+Osso buco
+Minestrone
+Bruschetta
+Antipasto
+Caprese salad
+Focaccia
+Ciabatta
+Grissini
+Calzone
+Pizza Napoletana
+Stromboli
+Panini
+Piadina
+Polenta
+Carpaccio
+Saltimbocca
+Chicken parmigiana
+Eggplant parmigiana
+Aperol spritz
+Limoncello
+Prosecco
+Chianti
+Amaretto
+Campari
+Negroni
+Bellini
+Grappa
+Sambuca
+Pinot Grigio
+Barolo
+Olive oil
+Balsamic vinegar
+Truffle
+Basil
+Oregano
+Sun-dried tomatoes
+San Marzano tomatoes
+Pasta machine
+Pizza oven
+Moka pot
+Pizzeria
+Trattoria
+Osteria
+Gelateria
+Espresso bar
+Mamma mia
+Ciao bella
+Buongiorno
+Arrivederci
+Grazie
+Prego
+Bravo
+Bellissimo
+Ciao
+Nonna
+Piazza
+Cobblestone streets
+Terracotta roof
+Vineyard
+Olive grove
+Cypress trees
+Tuscan villa
+Sicilian lemons
+Sorrento
+Ravello
+Portofino
+San Remo
+Rimini
+Bari
+Lecce
+Matera
+Trieste
+Udine
+Padua
+Vicenza
+Parma
+Modena
+Ravenna
+Perugia
+Assisi
+Orvieto
+San Gimignano
+Lucca
+Cortina d'Ampezzo
+Aosta
+Matterhorn
+Lake Maggiore
+Isola Bella
+Burano
+Murano glass
+Venetian mask
+Carnival of Venice
+Bridge of Sighs
+Grand Canal
+Vaporetto
+Medici family
+Borgia family
+Renaissance
+Florence Cathedral
+Brunelleschi dome
+Baptistery
+Piazza del Campo
+Palio of Siena
+Catacombs
+Capitoline Hill
+Castel Sant'Angelo
+Circus Maximus
+Villa Borghese
+Trastevere
+Piazza Navona
+St Peter's Basilica
+Swiss Guard
+Papal conclave
+White smoke
+Three coins in the fountain
+Gelato cone
+AC Milan
+Inter Milan
+Juventus
+AS Roma
+Napoli
+Lazio
+Azzurri
+Paolo Maldini
+Roberto Baggio
+Andrea Pirlo
+Francesco Totti
+Gianluigi Buffon
+Alessandro Del Piero
+Fabio Cannavaro
+Giro d'Italia
+Valentino Rossi
+Marco Pantani
+Pink jersey
+Milan Cathedral
+Galleria Vittorio Emanuele
+San Siro
+Bocconi
+Olivetti
+Barilla
+Lavazza
+Illy
+Ferrero Rocher
+Kinder
+Mulino Bianco
+Peroni
+Beretta
+Bialetti
+Alessi
+Smeg
+Piaggio
+Lancia
+Bugatti
+Pagani
+Pininfarina
+Murano
+Venice Biennale
+Venice Film Festival
+Sanremo Festival
+Måneskin
+Laura Pausini
+Eros Ramazzotti
+Zucchero
+Il Volo
+Luciano Pavarotti
+Renato Zero
+Gianni Versace
+Giorgio Armani
+Donatella Versace
+Miuccia Prada
+Salvatore Ferragamo
+Brunello Cucinelli
+Moncler
+Diesel
+Stone Island
+Borsalino
+Fibonacci
+Enrico Fermi
+Alessandro Volta
+Antonio Meucci
+Maria Montessori
+Saint Francis of Assisi
+Padre Pio
+Saint Peter
+Pontius Pilate
+Spartacus
+Hannibal crossing the Alps
+Remus and Romulus
+Capitoline wolf
+Vestal virgins
+Roman baths
+Roman numerals
+Latin
+Senate
+Praetorian Guard
+Gladiator arena
+Panem et circenses
+All roads lead to Rome
+Pineapple on pizza
+Pizza dough tossing
+Pizza chef
+Pasta strainer
+Parmesan grater
+Meatballs
+Macchiato
+Ristretto
+Latte macchiato
+Cornetto
+Sfogliatella
+Zeppole
+Struffoli
+Torrone
+Colomba
+Pistachio gelato
+Stracciatella
+Mozzarella di bufala
+Prosciutto di Parma
+Neapolitan pizza
+Genovese pesto
+Bolognese sauce
+Lasagne al forno
+Spaghetti vongole
+Fritto misto
+Seafood linguine
+Moped in Rome
+Rocky Balboa
+Super Mario

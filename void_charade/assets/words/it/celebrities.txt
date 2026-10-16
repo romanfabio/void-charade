@@ -1,0 +1,475 @@
+Roberto Benigni
+Checco Zalone
+Carlo Verdone
+Alberto Sordi
+Totò
+Vittorio Gassman
+Nino Manfredi
+Ugo Tognazzi
+Marcello Mastroianni
+Sophia Loren
+Gina Lollobrigida
+Claudia Cardinale
+Monica Bellucci
+Ornella Muti
+Anna Magnani
+Giulietta Masina
+Federico Fellini
+Sergio Leone
+Vittorio De Sica
+Luchino Visconti
+Paolo Sorrentino
+Giuseppe Tornatore
+Gabriele Muccino
+Ferzan Özpetek
+Nanni Moretti
+Massimo Troisi
+Pierfrancesco Favino
+Toni Servillo
+Elio Germano
+Luca Argentero
+Riccardo Scamarcio
+Raoul Bova
+Alessandro Gassmann
+Stefano Accorsi
+Kim Rossi Stuart
+Claudio Santamaria
+Marco Giallini
+Valerio Mastandrea
+Edoardo Leo
+Alessandro Siani
+Aldo Giovanni e Giacomo
+Christian De Sica
+Massimo Boldi
+Lino Banfi
+Renato Pozzetto
+Enrico Montesano
+Paolo Villaggio
+Diego Abatantuono
+Antonio Albanese
+Maurizio Crozza
+Fiorello
+Rosario Fiorello
+Pippo Baudo
+Mike Bongiorno
+Raffaella Carrà
+Gerry Scotti
+Paolo Bonolis
+Carlo Conti
+Amadeus
+Maria De Filippi
+Barbara D'Urso
+Simona Ventura
+Michelle Hunziker
+Ilary Blasi
+Antonella Clerici
+Lorella Cuccarini
+Heather Parisi
+Flavio Insinna
+Alberto Angela
+Piero Angela
+Roberto Giacobbo
+Fabio Fazio
+Lilli Gruber
+Enrico Mentana
+Bruno Vespa
+Giovanni Floris
+Paolo Del Debbio
+Vittorio Sgarbi
+Mara Venier
+Fabrizio Frizzi
+Enzo Tortora
+Raimondo Vianello
+Sandra Mondaini
+Gianni Morandi
+Adriano Celentano
+Renato Zero
+Zucchero
+Laura Pausini
+Eros Ramazzotti
+Andrea Bocelli
+Giorgia
+Elisa
+Tiziano Ferro
+Jovanotti
+Vasco Rossi
+Ligabue
+Francesco De Gregori
+Lucio Dalla
+Lucio Battisti
+Fabrizio De André
+Mina
+Ornella Vanoni
+Patty Pravo
+Gianna Nannini
+Max Pezzali
+Emma Marrone
+Alessandra Amoroso
+Marco Mengoni
+Fedez
+Chiara Ferragni
+J-Ax
+Achille Lauro
+Mahmood
+Blanco
+Måneskin
+Francesco Totti
+Alessandro Del Piero
+Gianluigi Buffon
+Roberto Baggio
+Paolo Maldini
+Franco Baresi
+Andrea Pirlo
+Fabio Cannavaro
+Paolo Rossi
+Dino Zoff
+Gigi Riva
+Marco Tardelli
+Alessandro Nesta
+Gennaro Gattuso
+Mario Balotelli
+Gigio Donnarumma
+Federico Chiesa
+Roberto Mancini
+Carlo Ancelotti
+Antonio Conte
+Massimiliano Allegri
+José Mourinho
+Marcello Lippi
+Arrigo Sacchi
+Fabio Capello
+Giovanni Trapattoni
+Valentino Rossi
+Marc Márquez
+Giacomo Agostini
+Max Biaggi
+Francesco Bagnaia
+Enzo Ferrari
+Alex Zanardi
+Jannik Sinner
+Matteo Berrettini
+Adriano Panatta
+Flavia Pennetta
+Marcell Jacobs
+Gianmarco Tamberi
+Federica Pellegrini
+Alberto Tomba
+Deborah Compagnoni
+Sofia Goggia
+Bebe Vio
+Pietro Mennea
+Fiona May
+Gino Bartali
+Fausto Coppi
+Marco Pantani
+Mario Cipollini
+Vincenzo Nibali
+Peter Sagan
+Rossella Brescia
+Diletta Leotta
+Belén Rodríguez
+Elisabetta Canalis
+Elisabetta Gregoraci
+Flavio Briatore
+Silvio Berlusconi
+Giorgio Armani
+Valentino
+Donatella Versace
+Dolce e Gabbana
+Miuccia Prada
+Roberto Cavalli
+Gianfranco Ferré
+Salvatore Ferragamo
+Diego Della Valle
+Leonardo Del Vecchio
+Luciano Benetton
+Oliviero Toscani
+Luciano Pavarotti
+Maria Callas
+Riccardo Muti
+Ennio Morricone
+Giorgio Moroder
+Renzo Piano
+Umberto Eco
+Dario Fo
+Roberto Saviano
+Rita Levi-Montalcini
+Margherita Hack
+Piero Pelù
+Sergio Mattarella
+Giorgia Meloni
+Matteo Renzi
+Giuseppe Conte
+Mario Draghi
+Romano Prodi
+Beppe Grillo
+Giulio Andreotti
+Papa Francesco
+Papa Giovanni Paolo II
+Padre Pio
+Madre Teresa
+Barack Obama
+Donald Trump
+Joe Biden
+Elon Musk
+Bill Gates
+Mark Zuckerberg
+Steve Jobs
+Jeff Bezos
+Regina Elisabetta
+Re Carlo
+Principe William
+Kate Middleton
+Principe Harry
+Meghan Markle
+Lady Diana
+Tom Hanks
+Brad Pitt
+Angelina Jolie
+Leonardo DiCaprio
+Johnny Depp
+Will Smith
+Jennifer Aniston
+Julia Roberts
+Meryl Streep
+Robert De Niro
+Al Pacino
+Morgan Freeman
+Tom Cruise
+Keanu Reeves
+Harrison Ford
+Arnold Schwarzenegger
+Sylvester Stallone
+Bruce Willis
+Jackie Chan
+Bruce Lee
+Dwayne Johnson
+Vin Diesel
+Jason Statham
+Ryan Reynolds
+Hugh Jackman
+Chris Hemsworth
+Robert Downey Jr.
+Scarlett Johansson
+Jennifer Lawrence
+Emma Watson
+Daniel Radcliffe
+Natalie Portman
+Anne Hathaway
+Margot Robbie
+Zendaya
+Timothée Chalamet
+Tom Holland
+Ryan Gosling
+Matt Damon
+George Clooney
+Jim Carrey
+Robin Williams
+Eddie Murphy
+Mr. Bean
+Hugh Grant
+Daniel Craig
+Sean Connery
+Anthony Hopkins
+Kate Winslet
+Marilyn Monroe
+Audrey Hepburn
+Elizabeth Taylor
+Charlie Chaplin
+Marlon Brando
+Clint Eastwood
+John Wayne
+Humphrey Bogart
+Brigitte Bardot
+Penélope Cruz
+Antonio Banderas
+Salma Hayek
+Jennifer Lopez
+Shakira
+Nicole Kidman
+Charlize Theron
+Sandra Bullock
+Whoopi Goldberg
+Oprah Winfrey
+Gordon Ramsay
+Hulk Hogan
+Muhammad Ali
+Mike Tyson
+Conor McGregor
+Michael Jordan
+LeBron James
+Kobe Bryant
+Lionel Messi
+Cristiano Ronaldo
+Neymar
+Kylian Mbappé
+Zlatan Ibrahimović
+David Beckham
+Pelé
+Diego Armando Maradona
+Zinedine Zidane
+Ronaldinho
+Usain Bolt
+Michael Phelps
+Serena Williams
+Roger Federer
+Rafael Nadal
+Novak Djokovic
+Tiger Woods
+Lewis Hamilton
+Michael Schumacher
+Ayrton Senna
+Max Verstappen
+Kim Kardashian
+Paris Hilton
+Britney Spears
+Justin Bieber
+Taylor Swift
+Beyoncé
+Rihanna
+Kanye West
+Lady Gaga
+Madonna
+Elvis Presley
+Michael Jackson
+Greta Thunberg
+Stephen Hawking
+Nelson Mandela
+Dalai Lama
+Steve Irwin
+Bear Grylls
+Jamie Oliver
+MrBeast
+PewDiePie
+Casa Surace
+Khaby Lame
+Charli D'Amelio
+Me contro Te
+Favij
+Cristina D'Avena
+Giorgio Mastrota
+Cristiano Malgioglio
+Platinette
+Drusilla Foer
+Vladimir Luxuria
+Alessandro Borghese
+Antonino Cannavacciuolo
+Carlo Cracco
+Bruno Barbieri
+Joe Bastianich
+Benedetta Parodi
+Cesare Cremonini
+Elio e le Storie Tese
+Giorgio Panariello
+Leonardo Pieraccioni
+Ficarra e Picone
+Teo Teocoli
+Gigi D'Alessio
+Nino D'Angelo
+Massimo Ranieri
+Nek
+Biagio Antonacci
+Raf
+Umberto Tozzi
+Al Bano
+Romina Power
+Al Bano e Romina
+Pupo
+Toto Cutugno
+Ricchi e Poveri
+Riccardo Cocciante
+Claudio Baglioni
+Edoardo Bennato
+Pino Daniele
+Franco Battiato
+Antonello Venditti
+Roberto Vecchioni
+Francesco Guccini
+Paolo Conte
+Gino Paoli
+Mia Martini
+Loredana Bertè
+Alice
+Carmen Consoli
+Malika Ayane
+Arisa
+Noemi
+Elodie
+Annalisa
+Angelina Mango
+Mango
+Sfera Ebbasta
+Ghali
+Gue Pequeno
+Salmo
+Marracash
+Rkomi
+Tananai
+Lazza
+Irama
+Michele Bravi
+Ultimo
+Diodato
+Francesco Gabbani
+Ermal Meta
+Fabrizio Moro
+Il Volo
+Jerry Calà
+Ezio Greggio
+Enzo Iacchetti
+Gene Gnocchi
+Teresa Mannino
+Luciana Littizzetto
+Geppi Cucciari
+Virginia Raffaele
+Paola Cortellesi
+Micaela Ramazzotti
+Valeria Golino
+Margherita Buy
+Jasmine Trinca
+Matilda De Angelis
+Alessandro Preziosi
+Beppe Fiorello
+Gabriel Garko
+Ambra Angiolini
+Alessia Marcuzzi
+Paola Perego
+Federica Panicucci
+Elena Santarelli
+Selvaggia Lucarelli
+Ciro Immobile
+Lorenzo Insigne
+Nicolò Barella
+Christian Vieri
+Alessandro Costacurta
+Gianluca Vialli
+Sandro Mazzola
+Giacinto Facchetti
+Luigi Riva
+Beppe Bergomi
+Walter Zenga
+Salvatore Schillaci
+Totò Schillaci
+Alberto Gilardino
+Gianfranco Zola
+Antonio Cassano
+Daniele De Rossi
+Luca Toni
+Sandro Piccinini
+Fabio Caressa
+Bruno Pizzul
+Gigi Marzullo
+Maurizio Costanzo
+Piero Chiambretti
+Alba Parietti
+Valeria Marini
+Cristina Parodi
+Giuliano Sangiorgi
+Fabio Volo
+Linus
+Albertino
+Mago Silvan
+Mago Forest
+Raul Cremona
+David Copperfield
+Fabio Rovazzi

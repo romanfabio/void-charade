@@ -1,0 +1,473 @@
+I promessi sposi
+La divina commedia
+Il Decameron
+Il Canzoniere
+Orlando furioso
+Gerusalemme liberata
+Il Principe
+Il Gattopardo
+Il nome della rosa
+Il pendolo di Foucault
+Il barone rampante
+Il visconte dimezzato
+Il cavaliere inesistente
+Marcovaldo
+Se una notte d'inverno
+Le città invisibili
+Sentiero dei nidi di ragno
+La coscienza di Zeno
+Il fu Mattia Pascal
+Uno nessuno e centomila
+Sei personaggi in cerca
+Enrico IV
+I Malavoglia
+Mastro-don Gesualdo
+Rosso Malpelo
+La lupa
+Cavalleria rusticana
+Il piacere
+Le novelle della pazzia
+Il giorno della civetta
+Il deserto dei Tartari
+Se questo è un uomo
+La tregua
+Il sistema periodico
+Il giardino dei Finzi-Contini
+Gli indifferenti
+La Storia
+La ciociara
+Ladri di biciclette
+Il partigiano Johnny
+La luna e i falò
+Paesi tuoi
+Conversazione in Sicilia
+Cuore
+Pinocchio
+Le avventure di Pinocchio
+Il giornalino di Gian Burrasca
+Il libro della giungla
+Il piccolo principe
+Piccole donne
+Heidi
+Ventimila leghe sotto i mari
+Viaggio al centro della Terra
+Il conte di Montecristo
+I tre moschettieri
+I miserabili
+Notre-Dame de Paris
+Il rosso e il nero
+Madame Bovary
+Il ritratto di Dorian Gray
+Dracula
+Frankenstein
+Dottor Jekyll e Mister Hyde
+L'isola del tesoro
+Robinson Crusoe
+I viaggi di Gulliver
+Don Chisciotte della Mancia
+Cent'anni di solitudine
+L'amore ai tempi del colera
+Il vecchio e il mare
+Addio alle armi
+Per chi suona la campana
+Il grande Gatsby
+Il giovane Holden
+Il buio oltre la siepe
+Furore
+Uomini e topi
+Il signore delle mosche
+La fattoria degli animali
+Mille novecento ottantaquattro
+Il mondo nuovo
+Fahrenheit 451
+Il processo
+La metamorfosi
+Il castello
+Delitto e castigo
+I fratelli Karamazov
+Guerra e pace
+Anna Karenina
+Il dottor Zivago
+Il maestro e Margherita
+Lolita
+Siddharta
+Il lupo della steppa
+La montagna incantata
+La morte a Venezia
+Niente di nuovo sul fronte
+Il diario di Anna Frank
+Lo straniero
+La peste
+Orgoglio e pregiudizio
+Emma
+Ragione e sentimento
+Jane Eyre
+Cime tempestose
+Grandi speranze
+Oliver Twist
+Canto di Natale
+David Copperfield
+Racconto di due città
+Moby Dick
+Le avventure di Tom Sawyer
+Le avventure di Huck Finn
+Il richiamo della foresta
+Zanna Bianca
+Il giardino segreto
+Il vento tra i salici
+Alice in Wonderland
+Alice attraverso lo specchio
+Peter Pan
+Il mago di Oz
+La storia infinita
+Momo
+Il Signore degli Anelli
+La compagnia dell'Anello
+Le due torri
+Il ritorno del re
+Lo Hobbit
+Il Silmarillion
+Le cronache di Narnia
+Leone, la strega e l'armadio
+La pietra filosofale
+La camera dei segreti
+Il calice di fuoco
+I doni della morte
+Hunger Games
+Divergent
+Twilight
+Colpa delle stelle
+Percy Jackson
+Matilde
+La fabbrica di cioccolato
+Il GGG
+Le streghe
+Il fantastico Signor Volpe
+Il Grinch
+Il gatto con il cappello
+Il bruco Maisazzuro
+Nel paese dei mostri selvaggi
+Il diario di una schiappa
+Dune
+Neuromancer
+Il gioco di Ender
+Guida galattica
+Il Marziano
+Jurassic Park
+Il racconto dell'ancella
+La strada
+Shining
+Carrie
+Misery
+Pet Sematary
+Rebecca la prima moglie
+Il mastino dei Baskerville
+Assassinio sull'Orient Express
+Dieci piccoli indiani
+Morte sul Nilo
+Il codice da Vinci
+Angeli e demoni
+Inferno di Dan Brown
+Uomini che odiano le donne
+Il silenzio degli innocenti
+Il padrino
+Via col vento
+Il colore viola
+Il cacciatore di aquiloni
+Vita di Pi
+La ladra di libri
+Eat Pray Love
+L'alchimista
+La casa degli spiriti
+Come l'acqua per il cioccolato
+Il profumo
+Il tamburo di latta
+La ragazza nella nebbia
+L'amica geniale
+Storia del nuovo cognome
+Storia della bambina perduta
+I ragazzi della via Pal
+Le avventure di Cipollino
+Le tigri di Mompracem
+Il Corsaro Nero
+Sandokan
+Io non ho paura
+Io uccido
+Gomorra
+Tre metri sopra il cielo
+Ho voglia di te
+Io e te
+Caos calmo
+Non ti muovere
+Il Commissario Montalbano
+La forma dell'acqua
+Il ladro di merendine
+Il cane di terracotta
+La gita a Tindari
+Dante Alighieri
+Francesco Petrarca
+Giovanni Boccaccio
+Ludovico Ariosto
+Torquato Tasso
+Niccolò Machiavelli
+Alessandro Manzoni
+Giacomo Leopardi
+Ugo Foscolo
+Giosuè Carducci
+Giovanni Pascoli
+Gabriele D'Annunzio
+Giovanni Verga
+Luigi Pirandello
+Italo Svevo
+Italo Calvino
+Umberto Eco
+Primo Levi
+Alberto Moravia
+Elsa Morante
+Cesare Pavese
+Beppe Fenoglio
+Leonardo Sciascia
+Andrea Camilleri
+Dino Buzzati
+Giovannino Guareschi
+Carlo Collodi
+Edmondo De Amicis
+Emilio Salgari
+Gianni Rodari
+Eugenio Montale
+Giuseppe Ungaretti
+Salvatore Quasimodo
+Pier Paolo Pasolini
+Elena Ferrante
+Susanna Tamaro
+Niccolò Ammaniti
+Alessandro Baricco
+Roberto Saviano
+Federico Moccia
+Paolo Giordano
+Oriana Fallaci
+Natalia Ginzburg
+Grazia Deledda
+Dario Fo
+Carlo Levi
+Carlo Emilio Gadda
+Stefano Benni
+Daniel Pennac
+Luciano De Crescenzo
+Giorgio Faletti
+Margherita Hack
+Charles Dickens
+Jane Austen
+William Shakespeare
+Ernest Hemingway
+Mark Twain
+Agatha Christie
+Stephen King
+J. K. Rowling
+J. R. R. Tolkien
+C. S. Lewis
+Roald Dahl
+Lewis Carroll
+Edgar Allan Poe
+Oscar Wilde
+George Orwell
+Aldous Huxley
+Virginia Woolf
+Francis Scott Fitzgerald
+John Steinbeck
+Lev Tolstoj
+Fëdor Dostoevskij
+Franz Kafka
+Victor Hugo
+Alexandre Dumas
+Jules Verne
+Herbert George Wells
+Arthur Conan Doyle
+Bram Stoker
+Mary Shelley
+Emily Brontë
+Charlotte Brontë
+Louisa May Alcott
+Hans Christian Andersen
+Fratelli Grimm
+Charles Perrault
+Omero
+Virgilio
+Ovidio
+Miguel de Cervantes
+Gabriel García Márquez
+Paulo Coelho
+Dan Brown
+Stieg Larsson
+George R. R. Martin
+Isaac Asimov
+Ray Bradbury
+Philip K. Dick
+Margaret Atwood
+Harper Lee
+Jerome David Salinger
+Jack Kerouac
+Herman Melville
+Walt Whitman
+Rudyard Kipling
+Daniel Defoe
+Jonathan Swift
+Thomas Hardy
+Anton Čechov
+Boris Pasternak
+Vladimir Nabokov
+Milan Kundera
+Haruki Murakami
+Khaled Hosseini
+Suzanne Collins
+Stephenie Meyer
+Rick Riordan
+Jeff Kinney
+Roberto Piumini
+Geronimo Stilton
+Bianca Pitzorno
+Enid Blyton
+Michael Ende
+Antoine de Saint-Exupéry
+Albert Camus
+Jean-Paul Sartre
+Marcel Proust
+Gustave Flaubert
+Honoré de Balzac
+Stendhal
+Molière
+Johann Wolfgang Goethe
+Thomas Mann
+Hermann Hesse
+Sherlock Holmes
+Dottor Watson
+Hercule Poirot
+Miss Marple
+Arsenio Lupin
+Jay Gatsby
+Holden Caulfield
+Atticus Finch
+Rossella O'Hara
+Heathcliff
+Mr Darcy
+Elizabeth Bennet
+Ebenezer Scrooge
+Capitano Achab
+Long John Silver
+Capitan Uncino
+Conte Dracula
+Capitano Nemo
+Phileas Fogg
+Jean Valjean
+Quasimodo
+Edmond Dantès
+Don Chisciotte
+Sancho Panza
+Dulcinea
+Renzo e Lucia
+Don Abbondio
+Don Rodrigo
+L'Innominato
+Fra Cristoforo
+La monaca di Monza
+Griso
+Azzeccagarbugli
+Padron 'Ntoni
+Mattia Pascal
+Zeno Cosini
+Il principe Salina
+Tancredi e Angelica
+Guglielmo da Baskerville
+Adso da Melk
+Bartleby lo scrivano
+Gandalf
+Bilbo Baggins
+Frodo Baggins
+Gollum
+Aslan
+Hermione Granger
+Albus Silente
+Katniss Everdeen
+Hannibal Lecter
+Lisbeth Salander
+Robert Langdon
+Pippi Calzelunghe
+Pollicino
+Gian Burrasca
+Pinocchio e Geppetto
+Mangiafuoco
+Il Gatto e la Volpe
+Lucignolo
+Il Grillo Parlante
+Franti
+Il piccolo scrivano fiorentino
+Dagli Appennini alle Ande
+Colpo di scena
+Finale a sorpresa
+Best seller
+Libro tascabile
+Copertina rigida
+Segnalibro
+Libreria
+Biblioteca
+Bibliotecario
+Libro d'avventura
+Libro giallo
+Romanzo rosa
+Romanzo storico
+Romanzo di formazione
+Fumetto
+Racconto
+Novella
+Poesia
+Sonetto
+Terzina
+Endecasillabo
+Haiku
+Filastrocca
+Trilogia
+Seguito
+Memorie
+Biografia
+Autobiografia
+Diario segreto
+Favola
+Epilogo
+Prologo
+Capitolo
+Nota a piè di pagina
+Indice
+Prefazione
+Dedica
+Sopraccoperta
+Dorso
+Pseudonimo
+Scrittore fantasma
+Premio Strega
+Premio Nobel
+Premio Campiello
+Fiera del libro
+Salone del libro
+Presentazione del libro
+Club del libro
+Vocabolario
+Dizionario
+Enciclopedia
+Atlante
+Giallo
+Thriller
+Fantascienza
+Narratore
+Protagonista
+Antagonista
+Trama
+Metafora
+Rima
+Manoscritto
+Macchina da scrivere
+Calamaio
+Penna stilografica
+Penna d'oca
+Torchio da stampa
+Audiolibro
+Libro elettronico

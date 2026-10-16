@@ -1,0 +1,436 @@
+Cinderella
+Snow White
+Sleeping Beauty
+Little Red Riding Hood
+Hansel and Gretel
+Rapunzel
+Rumpelstiltskin
+The Frog Prince
+Beauty and the Beast
+The Little Mermaid
+The Ugly Duckling
+The Snow Queen
+The Little Match Girl
+The Emperor's New Clothes
+The Princess and the Pea
+Thumbelina
+The Steadfast Tin Soldier
+The Red Shoes
+The Nightingale
+The Three Little Pigs
+Goldilocks and the Three Bears
+The Gingerbread Man
+Jack and the Beanstalk
+Puss in Boots
+Aladdin
+Ali Baba and Forty Thieves
+Sinbad the Sailor
+The Pied Piper of Hamelin
+The Elves and the Shoemaker
+The Bremen Town Musicians
+The Golden Goose
+The Twelve Dancing Princesses
+Tom Thumb
+Bluebeard
+Henny Penny
+The Three Billy Goats Gruff
+The Boy Who Cried Wolf
+The Tortoise and the Hare
+The Ant and the Grasshopper
+The Fox and the Grapes
+The Lion and the Mouse
+Town Mouse and Country Mouse
+Goose That Laid Golden Eggs
+The Wolf in Sheep's Clothing
+The Fox and the Crow
+The Crow and the Pitcher
+North Wind and the Sun
+The Dog and His Reflection
+The Little Red Hen
+The Magic Porridge Pot
+Stone Soup
+The Selfish Giant
+The Happy Prince
+The Wizard of Oz
+Peter Pan
+Pinocchio
+Alice in Wonderland
+Mother Goose
+Aesop
+Hans Christian Andersen
+The Brothers Grimm
+Charles Perrault
+Once upon a time
+Happily ever after
+Fairy godmother
+Wicked stepmother
+Evil queen
+Magic mirror
+Glass slipper
+Poisoned apple
+Magic wand
+Magic carpet
+Genie in a lamp
+Magic beans
+Spinning wheel
+Enchanted forest
+Gingerbread house
+Big bad wolf
+Seven dwarfs
+Prince Charming
+Damsel in distress
+Knight in shining armor
+Dragon slayer
+Talking animals
+Pumpkin carriage
+Midnight curse
+Kiss of true love
+Zeus
+Hera
+Poseidon
+Hades
+Athena
+Apollo
+Artemis
+Ares
+Aphrodite
+Hephaestus
+Hermes
+Dionysus
+Demeter
+Persephone
+Hestia
+Eros
+Pan
+Hecate
+Nike
+Nemesis
+Morpheus
+Hypnos
+Thanatos
+Helios
+Selene
+Eos
+Gaia
+Uranus
+Cronus
+Rhea
+Atlas
+Prometheus
+Epimetheus
+Pandora's box
+Titans
+Olympians
+Mount Olympus
+Underworld
+River Styx
+Charon
+Cerberus
+Elysian Fields
+Tartarus
+Hercules
+Heracles
+The twelve labors
+Perseus
+Medusa
+Theseus
+The Minotaur
+The Labyrinth
+Ariadne
+Daedalus and Icarus
+Jason and the Argonauts
+The Golden Fleece
+Achilles
+Odysseus
+Ulysses
+Penelope
+Helen of Troy
+Paris
+Hector
+Agamemnon
+Menelaus
+Ajax
+Aeneas
+Priam
+Cassandra
+The Trojan Horse
+The Trojan War
+The Odyssey
+The Iliad
+Circe
+Calypso
+The Sirens
+Scylla and Charybdis
+The Cyclops
+Polyphemus
+Lotus-eaters
+Orpheus and Eurydice
+Narcissus
+Echo
+Oedipus
+The Sphinx
+Antigone
+Electra
+Orestes
+Bellerophon
+Pegasus
+Chimera
+Hydra
+Nemean Lion
+Stymphalian Birds
+Augean Stables
+Cretan Bull
+Midas
+Sisyphus
+Tantalus
+Arachne
+Pygmalion
+Adonis
+Psyche
+Leda and the Swan
+Europa
+Io
+Danae
+Andromeda
+Cassiopeia
+Orion
+Callisto
+Daphne
+Hyacinth
+Endymion
+Phaethon
+Actaeon
+Atalanta
+Meleager
+Castor and Pollux
+Centaur
+Satyr
+Nymph
+Naiad
+Dryad
+Harpy
+Gorgon
+Siren
+Griffin
+Phoenix
+Unicorn
+Dragon
+Mermaid
+Fairy
+Elf
+Gnome
+Goblin
+Troll
+Ogre
+Giant
+Dwarf
+Leprechaun
+Pixie
+Sprite
+Banshee
+Kelpie
+Selkie
+Brownie
+Imp
+Will-o'-the-wisp
+Changeling
+Werewolf
+Vampire
+Basilisk
+Kraken
+Leviathan
+Behemoth
+Roc
+Yeti
+Bigfoot
+Loch Ness Monster
+Thor
+Odin
+Loki
+Freya
+Frigg
+Baldur
+Tyr
+Heimdall
+Freyr
+Sif
+Hel
+Fenrir
+Jormungandr
+Sleipnir
+Mjolnir
+Yggdrasil
+Valhalla
+Asgard
+Midgard
+Ragnarok
+Valkyries
+Norns
+Huginn and Muninn
+Ra
+Osiris
+Isis
+Horus
+Set
+Anubis
+Thoth
+Bastet
+Hathor
+Sekhmet
+Ptah
+Sobek
+Amun
+Nut
+Geb
+Maat
+Book of the Dead
+Mummy's curse
+Cleopatra
+King Arthur
+Excalibur
+Camelot
+Merlin
+Lancelot
+Guinevere
+Sir Galahad
+Sir Gawain
+Morgan le Fay
+Lady of the Lake
+Knights of the Round Table
+The Holy Grail
+Robin Hood
+Maid Marian
+Little John
+Friar Tuck
+Sheriff of Nottingham
+Beowulf
+Grendel
+Saint George and the Dragon
+Siegfried
+Brunhilde
+The Nibelungenlied
+The Lorelei
+Baba Yaga
+The Firebird
+Koschei the Deathless
+Vasilisa the Beautiful
+Snegurochka
+Ded Moroz
+Father Christmas
+Santa Claus
+Krampus
+Tooth Fairy
+Easter Bunny
+Sandman
+Jack Frost
+Sinterklaas
+Mother Nature
+Father Time
+Cupid
+Venus
+Mars
+Jupiter
+Juno
+Neptune
+Pluto
+Minerva
+Diana
+Vulcan
+Mercury
+Bacchus
+Ceres
+Vesta
+Janus
+Saturn
+Romulus and Remus
+Aeneid
+Anansi
+Coyote
+Raven
+Thunderbird
+Kokopelli
+Quetzalcoatl
+Huitzilopochtli
+Tezcatlipoca
+Pachamama
+El Dorado
+Atlantis
+Shangri-La
+Avalon
+Eden
+Noah's Ark
+Tower of Babel
+David and Goliath
+Samson and Delilah
+Moses
+Jonah and the whale
+Sun Wukong
+Monkey King
+Jade Emperor
+Chinese dragon
+Nian
+Amaterasu
+Susanoo
+Izanagi
+Kitsune
+Tanuki
+Oni
+Tengu
+Kappa
+Momotaro
+Urashima Taro
+The Bamboo Cutter
+Ganesha
+Shiva
+Vishnu
+Brahma
+Lakshmi
+Kali
+Hanuman
+Rama and Sita
+Krishna
+Ravana
+Garuda
+Durga
+The Ramayana
+The Mahabharata
+Arabian Nights
+Scheherazade
+One Thousand and One Nights
+Genie
+Ifrit
+Flying carpet
+Open sesame
+The Magic Lamp
+Simurgh
+Gilgamesh
+Enkidu
+Ishtar
+Marduk
+Tiamat
+Mermaid's tears
+Wishing well
+Four-leaf clover
+Pot of gold
+Rainbow's end
+Fountain of Youth
+Philosopher's stone
+Elixir of life
+Pandora
+Medea
+Clytemnestra
+Hippolyta
+Amazons
+Achilles' heel
+Midas touch
+Herculean task
+Sword of Damocles
+Gordian knot
+Apple of discord
+Judgment of Paris
+Fates
+Furies
+Muses
+Graces
+Hesperides
+Oracle of Delphi

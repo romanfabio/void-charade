@@ -1,0 +1,434 @@
+Apple
+Samsung
+Google
+Microsoft
+Amazon
+Facebook
+Instagram
+Netflix
+Spotify
+Tesla
+Sony
+Nintendo
+PlayStation
+Xbox
+Intel
+IBM
+HP
+Dell
+Lenovo
+Huawei
+Xiaomi
+LG
+Panasonic
+Philips
+Nokia
+BlackBerry
+Motorola
+Canon
+Nikon
+GoPro
+Kodak
+Polaroid
+Fujifilm
+Bose
+JBL
+Beats
+Garmin
+Fitbit
+Logitech
+Razer
+Adobe
+Oracle
+Uber
+Airbnb
+PayPal
+Visa
+Mastercard
+American Express
+Coca-Cola
+Pepsi
+Sprite
+Fanta
+Dr Pepper
+Mountain Dew
+Red Bull
+Monster Energy
+Gatorade
+Powerade
+Evian
+Perrier
+San Pellegrino
+Nestle
+Nescafe
+Nespresso
+Starbucks
+Costa Coffee
+Dunkin' Donuts
+Tim Hortons
+McDonald's
+Burger King
+KFC
+Subway
+Pizza Hut
+Domino's
+Taco Bell
+Wendy's
+Chipotle
+Five Guys
+Shake Shack
+In-N-Out
+Popeyes
+Nando's
+Chick-fil-A
+Dairy Queen
+Haagen-Dazs
+Ben and Jerry's
+Magnum
+Kellogg's
+Cheerios
+Frosted Flakes
+Pringles
+Lay's
+Doritos
+Cheetos
+Oreo
+Kit Kat
+Snickers
+Twix
+M&M's
+Skittles
+Haribo
+Toblerone
+Cadbury
+Hershey's
+Milka
+Lindt
+Ferrero Rocher
+Nutella
+Kinder
+Tic Tac
+Mentos
+Wrigley's
+Heinz
+Hellmann's
+Tabasco
+Kraft
+Campbell's
+Spam
+Lipton
+Twinings
+Tropicana
+Capri-Sun
+Jack Daniel's
+Jim Beam
+Smirnoff
+Absolut Vodka
+Bacardi
+Jagermeister
+Johnnie Walker
+Baileys
+Heineken
+Budweiser
+Corona
+Guinness
+Stella Artois
+Carlsberg
+Moët
+Dom Perignon
+Nike
+Adidas
+Puma
+Reebok
+Converse
+Vans
+New Balance
+Under Armour
+Skechers
+Timberland
+Dr. Martens
+Crocs
+Birkenstock
+UGG
+Asics
+Fila
+Lacoste
+Levi's
+Wrangler
+Zara
+H&M
+Uniqlo
+Gap
+Primark
+Mango
+Forever 21
+Supreme
+North Face
+Patagonia
+Columbia
+Gucci
+Prada
+Chanel
+Louis Vuitton
+Hermès
+Dior
+Versace
+Armani
+Burberry
+Rolex
+Cartier
+Tiffany
+Swarovski
+Pandora
+Casio
+Swatch
+Seiko
+Ray-Ban
+Oakley
+Victoria's Secret
+Calvin Klein
+Tommy Hilfiger
+Ralph Lauren
+Hugo Boss
+Diesel
+Benetton
+Zippo
+Gillette
+Colgate
+Oral-B
+Listerine
+Dove
+Nivea
+L'Oréal
+Maybelline
+Revlon
+Max Factor
+Garnier
+Axe
+Old Spice
+Head and Shoulders
+Pantene
+Johnson's
+Pampers
+Huggies
+Tampax
+Kleenex
+Band-Aid
+Vaseline
+Chanel No 5
+Ikea
+Walmart
+Target
+Costco
+Tesco
+Lidl
+Aldi
+Carrefour
+Harrods
+Macy's
+Walgreens
+Home Depot
+Best Buy
+Toys R Us
+Hamleys
+Barnes and Noble
+Blockbuster
+eBay
+Alibaba
+Etsy
+Toyota
+Honda
+Ford
+Chevrolet
+BMW
+Mercedes-Benz
+Audi
+Volkswagen
+Porsche
+Ferrari
+Lamborghini
+Maserati
+Fiat
+Alfa Romeo
+Jaguar
+Land Rover
+Rolls-Royce
+Bentley
+Aston Martin
+McLaren
+Volvo
+Bugatti
+Mazda
+Nissan
+Subaru
+Hyundai
+Kia
+Jeep
+Dodge
+Harley-Davidson
+Ducati
+Vespa
+Yamaha
+Kawasaki
+Suzuki
+Boeing
+Airbus
+Emirates
+Ryanair
+easyJet
+Delta
+British Airways
+Lufthansa
+Qatar Airways
+FedEx
+UPS
+DHL
+Shell
+BP
+Exxon
+Michelin
+Goodyear
+Pirelli
+Bridgestone
+Lego
+Barbie
+Hot Wheels
+Playmobil
+Hasbro
+Mattel
+Fisher-Price
+Play-Doh
+Nerf
+Monopoly
+Scrabble
+Rubik's Cube
+Disney
+Pixar
+Marvel
+DC Comics
+Warner Bros
+Universal
+Paramount
+DreamWorks
+HBO
+BBC
+CNN
+MTV
+Nickelodeon
+Cartoon Network
+ESPN
+National Geographic
+Discovery Channel
+Time magazine
+Vogue
+Rolling Stone
+Forbes
+New York Times
+Yelp
+TripAdvisor
+Booking.com
+Expedia
+Hilton
+Marriott
+Hyatt
+Ritz-Carlton
+Sheraton
+Holiday Inn
+Four Seasons
+Club Med
+Carnival
+Royal Caribbean
+Disneyland
+Legoland
+Six Flags
+Madame Tussauds
+Duracell
+Energizer
+Dyson
+Roomba
+Bosch
+Siemens
+Whirlpool
+Samsonite
+Tupperware
+Thermos
+Swiss Army
+Leatherman
+Black and Decker
+DeWalt
+Makita
+Husqvarna
+Crayola
+Bic
+Sharpie
+Post-it
+Scotch
+Pritt
+Staedtler
+Moleskine
+Hello Kitty
+Peppa Pig
+Pokemon
+Diet Coke
+Lucozade
+Irn-Bru
+Vimto
+Ribena
+Marmite
+Vegemite
+Walkers
+Jaffa Cakes
+Quality Street
+Maltesers
+Crunchie
+Smarties
+Ritter Sport
+Pop-Tarts
+Betty Crocker
+Pillsbury
+Quaker
+Uncle Ben's
+Barilla
+Bertolli
+Philadelphia
+Babybel
+Laughing Cow
+Lurpak
+Kerrygold
+Danone
+Activia
+Yoplait
+Evian water
+Volvic
+Fiji water
+Aquafina
+Dasani
+Maxwell House
+Lavazza
+Illy
+PG Tips
+Yorkshire Tea
+7 Up
+Schweppes
+Canada Dry
+Dr. Oetker
+Persil
+Ariel
+Tide
+Bath and Body Works
+The Body Shop
+Lush
+Sephora
+Estee Lauder
+Clinique
+Lancome
+MAC Cosmetics
+Johnson and Johnson
+Pfizer
+Moderna
+Bayer
+Tylenol
+Advil
+Nurofen
+Vicks
+Strepsils

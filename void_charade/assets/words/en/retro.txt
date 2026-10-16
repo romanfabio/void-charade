@@ -1,0 +1,431 @@
+Walkman
+Boombox
+Cassette tape
+Mixtape
+VHS tape
+Betamax
+Blockbuster Video
+Laserdisc
+Compact disc
+Discman
+MiniDisc
+Pager
+Brick phone
+Nokia 3310
+Floppy disk
+Dial-up internet
+AOL
+Windows 95
+Windows 98
+Netscape
+Clippy
+Commodore 64
+ZX Spectrum
+Amstrad
+Apple II
+Macintosh
+Game Boy
+Nintendo NES
+Super Nintendo
+Sega Genesis
+Atari 2600
+PlayStation
+Nintendo 64
+Sega Dreamcast
+Tamagotchi
+Furby
+Tickle Me Elmo
+Pogs
+Beanie Babies
+Cabbage Patch Kids
+Care Bears
+My Little Pony
+Rubik's Cube
+Pac-Man
+Donkey Kong
+Space Invaders
+Tetris
+Street Fighter
+Mortal Kombat
+Sonic the Hedgehog
+Super Mario Bros.
+The Legend of Zelda
+Pokemon
+Oregon Trail
+Pong
+Lite-Brite
+Speak & Spell
+Simon game
+Teddy Ruxpin
+Transformers
+He-Man
+She-Ra
+Thundercats
+G.I. Joe
+Teenage Mutant Ninja Turtles
+Power Rangers
+Garbage Pail Kids
+Polly Pocket
+Slap bracelet
+Friendship bracelets
+Scrunchie
+Jelly shoes
+Jelly bracelets
+Leg warmers
+Shoulder pads
+Parachute pants
+Acid wash jeans
+Neon colors
+Fanny pack
+Mullet
+Big hair
+Hair crimper
+Perm
+Banana clip
+Mood ring
+Tie-dye
+Members Only jacket
+Swatch watch
+Casio calculator watch
+Ray-Ban Wayfarers
+Doc Martens
+Converse
+Air Jordans
+Reebok Pump
+Troll dolls
+Pet rock
+Slinky
+Hacky Sack
+Rollerblades
+Skateboard
+BMX bike
+Razor scooter
+Roller disco
+Jazzercise
+Aerobics video
+Jane Fonda workout
+Richard Simmons
+Break dancing
+Moonwalk
+Macarena
+Vogue
+Hammer pants
+Running Man
+Electric Slide
+Lambada
+Thriller
+Michael Jackson
+Madonna
+Prince
+Whitney Houston
+Cyndi Lauper
+Boy George
+Duran Duran
+A-ha
+Wham!
+George Michael
+Tears for Fears
+Depeche Mode
+The Cure
+Bon Jovi
+Guns N' Roses
+Def Leppard
+Van Halen
+Queen
+Billy Idol
+Bruce Springsteen
+Phil Collins
+Eurythmics
+Pet Shop Boys
+Spandau Ballet
+Culture Club
+Run-DMC
+Beastie Boys
+Public Enemy
+MC Hammer
+Vanilla Ice
+Salt-N-Pepa
+Tupac
+Notorious B.I.G.
+Nirvana
+Pearl Jam
+Soundgarden
+Smashing Pumpkins
+Red Hot Chili Peppers
+Green Day
+Oasis
+Blur
+Spice Girls
+Backstreet Boys
+NSYNC
+Take That
+Boyzone
+New Kids on the Block
+Hanson
+Britney Spears
+Christina Aguilera
+Destiny's Child
+TLC
+Mariah Carey
+Celine Dion
+Alanis Morissette
+Shania Twain
+Savage Garden
+Ace of Base
+Aqua
+Vengaboys
+Eiffel 65
+Bye Bye Bye
+Baby One More Time
+Wannabe
+Smells Like Teen Spirit
+Livin' on a Prayer
+Take On Me
+Like a Virgin
+Billie Jean
+Beat It
+Purple Rain
+Don't Stop Believin'
+Never Gonna Give You Up
+Rick Astley
+Ice Ice Baby
+U Can't Touch This
+Barbie Girl
+MTV
+Top of the Pops
+Total Request Live
+Saturday morning cartoons
+Nickelodeon
+Cartoon Network
+Slime
+Double Dare
+Dragon Ball Z
+Sailor Moon
+Pokemon cards
+Rugrats
+Hey Arnold!
+Ren & Stimpy
+Rocko's Modern Life
+Dexter's Laboratory
+Powerpuff Girls
+Animaniacs
+Pinky and the Brain
+DuckTales
+Chip 'n Dale Rescue Rangers
+Darkwing Duck
+TaleSpin
+Gummi Bears
+The Smurfs
+Inspector Gadget
+Captain Planet
+Garfield
+The Simpsons
+Beavis and Butt-Head
+South Park
+Family Matters
+Full House
+Saved by the Bell
+Fresh Prince of Bel-Air
+Cheers
+The Golden Girls
+Friends
+Seinfeld
+Frasier
+The Cosby Show
+Growing Pains
+Home Improvement
+Roseanne
+Married with Children
+Dallas
+Dynasty
+Miami Vice
+Knight Rider
+The A-Team
+MacGyver
+Magnum P.I.
+Baywatch
+Beverly Hills 90210
+Melrose Place
+The X-Files
+Twin Peaks
+Buffy the Vampire Slayer
+Dawson's Creek
+Sabrina the Teenage Witch
+Boy Meets World
+Clarissa Explains It All
+Goosebumps
+Pee-wee's Playhouse
+Sesame Street
+Mister Rogers
+Reading Rainbow
+Bill Nye the Science Guy
+Wheel of Fortune
+The Price Is Right
+Jeopardy!
+Generation Game
+Neighbours
+Home and Away
+Grange Hill
+Blue Peter
+Doctor Who
+Red Dwarf
+Blackadder
+Only Fools and Horses
+Fawlty Towers
+Mr. Bean
+Spitting Image
+Teletubbies
+Tweenies
+Thomas the Tank Engine
+Postman Pat
+Fireman Sam
+Bob the Builder
+Barney & Friends
+Lamb Chop
+Fraggle Rock
+The Muppet Show
+Labyrinth
+The Neverending Story
+Back to the Future
+E.T.
+Ghostbusters
+Gremlins
+The Goonies
+Indiana Jones
+Star Wars
+Return of the Jedi
+Top Gun
+Dirty Dancing
+Footloose
+Flashdance
+Fame
+The Breakfast Club
+Ferris Bueller's Day Off
+Sixteen Candles
+Pretty in Pink
+Home Alone
+Mrs. Doubtfire
+Jurassic Park
+Titanic
+Forrest Gump
+Pulp Fiction
+Terminator 2
+Die Hard
+Lethal Weapon
+Rambo
+Rocky IV
+Predator
+RoboCop
+Beetlejuice
+Ace Ventura
+The Mask
+Dumb and Dumber
+Wayne's World
+Clueless
+Mean Girls
+Sister Act
+Pretty Woman
+Ghost
+The Lion King
+Aladdin
+Beauty and the Beast
+The Little Mermaid
+Toy Story
+Karate Kid
+Police Academy
+Weekend at Bernie's
+Short Circuit
+Flight of the Navigator
+Honey I Shrunk the Kids
+Teen Wolf
+Arnold Schwarzenegger
+Sylvester Stallone
+Bruce Willis
+Tom Cruise
+Molly Ringwald
+Macaulay Culkin
+Princess Diana
+Margaret Thatcher
+Ronald Reagan
+Berlin Wall
+Gorbachev
+Live Aid
+Cold War
+Y2K
+Millennium bug
+Dolly the sheep
+Pop Rocks
+Fruit Roll-Ups
+Capri Sun
+Surge soda
+Crystal Pepsi
+Lunchables
+Dunkaroos
+Gushers
+Push Pops
+Ring Pop
+Hubba Bubba
+Bubble Tape
+Fun Dip
+Warheads
+Trix cereal
+Cap'n Crunch
+Drive-in movies
+Video arcade
+Roller rink
+Sleepover
+Slumber party
+Answering machine
+Rotary phone
+Fax machine
+Car phone
+Disposable camera
+Polaroid
+Camcorder
+Lava lamp
+Beanbag chair
+Waterbed
+Lisa Frank
+Trapper Keeper
+Mad Libs
+Choose Your Own Adventure
+Babysitters Club
+Sweet Valley High
+Harry Potter
+Where's Waldo
+Magic Eye
+Game Gear
+Virtual Boy
+Power Glove
+Duck Hunt
+Mario Kart
+Goldeneye
+Tomb Raider
+Lara Croft
+Doom
+Prince of Persia
+SimCity
+The Sims
+Myst
+Minesweeper
+Solitaire
+Napster
+Hotmail
+MSN Messenger
+ICQ
+GeoCities
+Ask Jeeves
+CD-ROM
+Encarta
+Dancing baby
+Hamster Dance
+Cool Runnings
+Dream Team
+Michael Jordan
+Air Jordan
+Magic Johnson
+Mike Tyson
+Diego Maradona
+Andre Agassi
+Steffi Graf
+Nadia Comaneci

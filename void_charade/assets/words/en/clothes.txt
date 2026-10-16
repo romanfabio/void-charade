@@ -1,0 +1,445 @@
+T-shirt
+Jeans
+Hoodie
+Sweater
+Cardigan
+Turtleneck
+Polo shirt
+Tank top
+Crop top
+Blouse
+Dress shirt
+Flannel shirt
+Hawaiian shirt
+Sweatshirt
+Tracksuit
+Sweatpants
+Leggings
+Shorts
+Bermuda shorts
+Cargo pants
+Chinos
+Corduroy pants
+Overalls
+Dungarees
+Jumpsuit
+Romper
+Miniskirt
+Pencil skirt
+Pleated skirt
+Evening gown
+Wedding dress
+Cocktail dress
+Sundress
+Little black dress
+Maxi dress
+Prom dress
+Kimono
+Sari
+Kilt
+Poncho
+Cape
+Cloak
+Trench coat
+Raincoat
+Parka
+Puffer jacket
+Down jacket
+Bomber jacket
+Denim jacket
+Leather jacket
+Biker jacket
+Blazer
+Tuxedo
+Three-piece suit
+Waistcoat
+Vest
+Suit jacket
+Windbreaker
+Fleece
+Duffle coat
+Pea coat
+Overcoat
+Fur coat
+Lab coat
+Bathrobe
+Dressing gown
+Pajamas
+Nightgown
+Onesie
+Underwear
+Boxer shorts
+Briefs
+Bra
+Thong
+Socks
+Ankle socks
+Knee socks
+Tights
+Stockings
+Fishnet stockings
+Garter belt
+Corset
+Bodysuit
+Swimsuit
+Bikini
+Swim trunks
+Wetsuit
+Speedo
+Burkini
+Sneakers
+Running shoes
+High heels
+Stilettos
+Platform shoes
+Wedges
+Ballet flats
+Loafers
+Oxford shoes
+Brogues
+Moccasins
+Boat shoes
+Sandals
+Flip-flops
+Slides
+Espadrilles
+Clogs
+Slippers
+Cowboy boots
+Combat boots
+Chelsea boots
+Rain boots
+Wellington boots
+Hiking boots
+Ugg boots
+Snow boots
+Thigh-high boots
+Ankle boots
+Riding boots
+Ski boots
+Cleats
+Roller skates
+Ice skates
+Baseball cap
+Snapback
+Beanie
+Bucket hat
+Fedora
+Top hat
+Bowler hat
+Panama hat
+Cowboy hat
+Sun hat
+Beret
+Flat cap
+Visor
+Trucker hat
+Fez
+Turban
+Sombrero
+Witch hat
+Crown
+Tiara
+Veil
+Headband
+Bandana
+Hijab
+Balaclava
+Earmuffs
+Hard hat
+Helmet
+Scarf
+Shawl
+Gloves
+Mittens
+Oven mitts
+Belt
+Suspenders
+Bow tie
+Necktie
+Cravat
+Cufflinks
+Tie clip
+Pocket square
+Handkerchief
+Sunglasses
+Aviators
+Monocle
+Reading glasses
+Eyeglasses
+Contact lenses
+Earrings
+Necklace
+Pendant
+Choker
+Bracelet
+Charm bracelet
+Anklet
+Ring
+Engagement ring
+Wedding ring
+Brooch
+Pearl necklace
+Diamond ring
+Watch
+Smartwatch
+Hair clip
+Scrunchie
+Hair tie
+Wig
+Toupee
+Handbag
+Clutch
+Tote bag
+Backpack
+Fanny pack
+Messenger bag
+Briefcase
+Suitcase
+Duffel bag
+Satchel
+Purse
+Wallet
+Umbrella
+Parasol
+Walking stick
+Cane
+Fan
+Apron
+Uniform
+School uniform
+Scrubs
+Hospital gown
+Sailor suit
+Safari jacket
+Ski suit
+Snowsuit
+Diving suit
+Space suit
+Spacesuit
+Football jersey
+Basketball jersey
+Jersey
+Leotard
+Unitard
+Cheerleader outfit
+Costume
+Halloween costume
+Superhero cape
+Pirate costume
+Angel wings
+Mascot costume
+Clown costume
+Gorilla suit
+Hazmat suit
+Bulletproof vest
+Life jacket
+High-vis vest
+Chef hat
+Graduation gown
+Mortarboard
+Judge's robe
+Priest's cassock
+Nun's habit
+Toga
+Armor
+Knight's armor
+Viking helmet
+Gladiator sandals
+Ballgown
+Streetwear
+Vintage clothing
+Hand-me-downs
+Second-hand clothes
+Thrift store
+Fashion show
+Runway
+Catwalk
+Fashion week
+Fashion model
+Supermodel
+Fashion designer
+Stylist
+Tailor
+Seamstress
+Sewing machine
+Needle and thread
+Measuring tape
+Mannequin
+Dressing room
+Walk-in closet
+Wardrobe
+Coat hanger
+Clothes rack
+Iron
+Ironing board
+Dry cleaning
+Laundry
+Washing machine
+Lint roller
+Zipper
+Velcro
+Button
+Buttonhole
+Safety pin
+Shoulder pads
+Sleeve
+Collar
+Cuff
+Hem
+Pocket
+Hood
+Drawstring
+Shoelaces
+Sole
+Insole
+Heel
+Denim
+Leather
+Silk
+Wool
+Cashmere
+Cotton
+Linen
+Velvet
+Satin
+Lace
+Sequins
+Tweed
+Tartan
+Plaid
+Polka dots
+Stripes
+Camouflage
+Leopard print
+Tie-dye
+Paisley
+Houndstooth
+Argyle
+Gucci
+Prada
+Chanel
+Versace
+Armani
+Dolce and Gabbana
+Louis Vuitton
+Dior
+Hermès
+Burberry
+Ralph Lauren
+Calvin Klein
+Tommy Hilfiger
+Valentino
+Fendi
+Balenciaga
+Givenchy
+Yves Saint Laurent
+Coco Chanel
+Karl Lagerfeld
+Vivienne Westwood
+Alexander McQueen
+Jean Paul Gaultier
+Giorgio Armani
+Donatella Versace
+Stella McCartney
+Vera Wang
+Tom Ford
+Marc Jacobs
+Michael Kors
+Ugly Christmas sweater
+Birkenstocks
+Crocs
+Converse
+Doc Martens
+Air Jordans
+Levi's
+Louboutin
+Manolo Blahnik
+Rolex
+Ray-Ban
+Lacoste
+Moncler
+North Face
+Patagonia
+Fur hat
+Ushanka
+Lederhosen
+Dirndl
+Cheongsam
+Hanbok
+Kaftan
+Sarong
+Salwar kameez
+Dashiki
+Zoot suit
+Flapper dress
+Poodle skirt
+Bell-bottoms
+Leg warmers
+Sou'wester
+Thermal underwear
+Long johns
+Sports bra
+Jockstrap
+Shin guards
+Pantyhose
+Slip
+Petticoat
+Hoop skirt
+Bustle
+Cummerbund
+Bolero
+Shrug
+Tunic
+Smock
+Gilet
+Anorak
+Mackintosh
+Varsity jacket
+Letterman jacket
+Shirt dress
+Pinafore
+Culottes
+Palazzo pants
+Harem pants
+Joggers
+Skinny jeans
+Ripped jeans
+Mom jeans
+Flared jeans
+Boyfriend jeans
+Denim shorts
+Hot pants
+Skort
+Playsuit
+Peplum top
+Off-the-shoulder top
+Halter top
+Tube top
+Camisole
+Negligee
+Lingerie
+Boxer briefs
+Nightcap
+Sleep mask
+Shower cap
+Swim cap
+Goggles
+Snorkel mask
+Flippers
+Water wings
+Beach sarong
+Rash guard
+Fascinator
+Pillbox hat
+Deerstalker
+Stetson
+Trilby
+Boater hat
+Newsboy cap
+Ski mask
+Neck gaiter
+Snood
+Stole
+Boa
+Feather boa

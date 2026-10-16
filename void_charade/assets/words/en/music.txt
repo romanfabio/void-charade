@@ -1,0 +1,403 @@
+Guitar
+Electric guitar
+Acoustic guitar
+Bass guitar
+Piano
+Grand piano
+Keyboard
+Synthesizer
+Organ
+Accordion
+Harmonica
+Violin
+Viola
+Cello
+Double bass
+Harp
+Flute
+Piccolo
+Clarinet
+Oboe
+Bassoon
+Saxophone
+Trumpet
+Trombone
+Tuba
+French horn
+Bugle
+Cornet
+Drums
+Drum kit
+Snare drum
+Bass drum
+Cymbals
+Hi-hat
+Tambourine
+Triangle
+Xylophone
+Marimba
+Glockenspiel
+Bongos
+Congas
+Maracas
+Castanets
+Cowbell
+Timpani
+Gong
+Bells
+Banjo
+Mandolin
+Ukulele
+Sitar
+Bagpipes
+Harpsichord
+Lute
+Lyre
+Zither
+Didgeridoo
+Pan flute
+Recorder
+Ocarina
+Kazoo
+Steel drum
+Theremin
+Vocoder
+Turntable
+Drum machine
+Sampler
+Metronome
+Tuning fork
+Music box
+Jukebox
+Gramophone
+Record player
+Vinyl record
+Cassette tape
+CD
+Walkman
+iPod
+Boombox
+Headphones
+Earbuds
+Microphone
+Amplifier
+Speaker
+Loudspeaker
+Subwoofer
+Mixing desk
+Karaoke
+Karaoke machine
+Guitar pick
+Guitar string
+Guitar solo
+Drum solo
+Drumsticks
+Sheet music
+Music stand
+Music note
+Treble clef
+Bass clef
+Chord
+Octave
+Melody
+Harmony
+Rhythm
+Beat
+Tempo
+Pitch
+Volume
+Lyrics
+Chorus
+Verse
+Bridge
+Intro
+Outro
+Hook
+Riff
+Refrain
+Lullaby
+Anthem
+National anthem
+Ballad
+Duet
+Trio
+Quartet
+Quintet
+Solo
+Encore
+Soundtrack
+Theme song
+Jingle
+Ringtone
+Remix
+Cover version
+Mixtape
+Playlist
+Album
+Single
+Concept album
+Greatest hits
+Debut album
+Record label
+Record deal
+Hit single
+Chart-topper
+Platinum record
+Gold record
+Grammy Award
+Music video
+Concert
+Gig
+Live music
+Music festival
+Open mic
+Sound check
+Backstage
+Tour bus
+Roadie
+Groupie
+Stage diving
+Crowd surfing
+Mosh pit
+Air guitar
+Headbanging
+Slow dance
+Lip sync
+Sing-along
+Singing in the shower
+Choir
+Orchestra
+Symphony
+Philharmonic
+Conductor
+Baton
+Concertmaster
+Opera
+Opera singer
+Soprano
+Alto
+Tenor
+Baritone
+Falsetto
+Yodeling
+Beatboxing
+Rapping
+Scat singing
+Humming
+Whistling
+A cappella
+Gospel choir
+Barbershop quartet
+Marching band
+Brass band
+Big band
+Boy band
+Girl group
+Tribute band
+Garage band
+Rock band
+Jazz band
+Cover band
+One-man band
+Street musician
+Busker
+Pianist
+Guitarist
+Drummer
+Bassist
+Violinist
+Cellist
+Saxophonist
+Trumpeter
+Lead singer
+Backing singer
+DJ
+Composer
+Songwriter
+Lyricist
+Music producer
+Sound engineer
+Music teacher
+Piano lesson
+Stage fright
+Perfect pitch
+Out of tune
+Off key
+Tone deaf
+Earworm
+One-hit wonder
+Rock and roll
+Rock
+Pop
+Hip hop
+Rap
+Jazz
+Blues
+Country
+Folk
+Classical
+Baroque
+Reggae
+Ska
+Punk
+Heavy metal
+Death metal
+Glam rock
+Grunge
+Indie
+Alternative rock
+Progressive rock
+Psychedelic rock
+Hard rock
+Soft rock
+Disco
+Funk
+Soul
+Motown
+R&B
+Gospel
+Swing
+Bebop
+Ragtime
+Bossa nova
+Samba
+Salsa
+Tango
+Flamenco
+Mariachi
+Reggaeton
+Merengue
+Bachata
+Cumbia
+Calypso
+Dancehall
+Afrobeat
+K-pop
+J-pop
+Celtic music
+Polka
+Waltz
+Bluegrass
+Honky tonk
+Americana
+Techno
+House music
+Trance
+Dubstep
+Drum and bass
+Electronic dance music
+Eurodance
+Synthpop
+New wave
+Trap
+Lo-fi
+Ambient
+New age
+Easy listening
+Elevator music
+Lounge music
+Chillout
+Chamber music
+Requiem
+Concerto
+Sonata
+Overture
+Rhapsody
+Nocturne
+Minuet
+Fugue
+Aria
+Opera house
+Musical
+Broadway musical
+Rock opera
+Operetta
+Cantata
+Oratorio
+Hymn
+Carol
+Chant
+Psalm
+Sea shanty
+Nursery rhyme
+Folk song
+Love song
+Drinking song
+Protest song
+Campfire song
+Marching song
+Fight song
+Theme tune
+Cadenza
+Crescendo
+Staccato
+Legato
+Forte
+Allegro
+Adagio
+Fortissimo
+Vibrato
+Syncopation
+Time signature
+Key signature
+Major key
+Minor key
+Semitone
+Interval
+Arpeggio
+Glissando
+Pizzicato
+Tremolo
+Fermata
+Downbeat
+Backbeat
+Groove
+Jam session
+Improvisation
+Freestyle
+Battle rap
+Sample
+Scratch
+Autotune
+Feedback
+Distortion
+Wah-wah pedal
+Guitar pedal
+Capo
+Fretboard
+Whammy bar
+Guitar case
+Guitar strap
+Amp
+Drum roll
+Rimshot
+Fanfare
+Wedding march
+Funeral march
+Wedding band
+House band
+Studio session
+Recording studio
+Radio station
+Top 40
+Billboard Hot 100
+Eurovision
+American Idol
+The Voice
+Woodstock
+Glastonbury
+Coachella
+Lollapalooza
+Tomorrowland
+Carnegie Hall
+Royal Albert Hall
+Abbey Road
+Madison Square Garden
+Sydney Opera House
+La Scala
+Spotify
+Apple Music
+SoundCloud
+YouTube Music
+MTV
+Napster

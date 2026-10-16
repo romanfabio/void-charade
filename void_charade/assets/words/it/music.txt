@@ -1,0 +1,370 @@
+Chitarra
+Chitarra elettrica
+Chitarra acustica
+Basso elettrico
+Pianoforte
+Pianoforte a coda
+Tastiera
+Sintetizzatore
+Organo
+Fisarmonica
+Armonica a bocca
+Violino
+Viola
+Violoncello
+Contrabbasso
+Arpa
+Flauto
+Flauto traverso
+Ottavino
+Clarinetto
+Oboe
+Fagotto
+Sassofono
+Tromba
+Trombone
+Tuba
+Corno francese
+Cornetta
+Batteria
+Rullante
+Grancassa
+Piatti
+Charleston
+Tamburello
+Triangolo
+Xilofono
+Marimba
+Glockenspiel
+Bongo
+Conga
+Maracas
+Nacchere
+Campanaccio
+Timpani
+Gong
+Campane
+Banjo
+Mandolino
+Ukulele
+Sitar
+Cornamusa
+Clavicembalo
+Liuto
+Lira
+Cetra
+Didgeridoo
+Flauto di Pan
+Flauto dolce
+Ocarina
+Kazoo
+Tamburo
+Tamburo militare
+Organetto
+Zampogna
+Ciaramella
+Pianola
+Theremin
+Vocoder
+Giradischi
+Metronomo
+Diapason
+Carillon
+Jukebox
+Grammofono
+Disco in vinile
+Audiocassetta
+Mangiacassette
+Walkman
+Cuffie
+Auricolari
+Microfono
+Amplificatore
+Altoparlante
+Mixer
+Karaoke
+Plettro
+Assolo di chitarra
+Assolo di batteria
+Bacchette
+Archetto
+Spartito
+Leggio
+Nota musicale
+Chiave di violino
+Chiave di basso
+Pentagramma
+Diesis
+Bemolle
+Accordo
+Ottava
+Melodia
+Armonia
+Ritmo
+Volume
+Ritornello
+Strofa
+Introduzione
+Ninna nanna
+Inno
+Inno nazionale
+Ballata
+Duetto
+Quartetto
+Quintetto
+Assolo
+Bis
+Colonna sonora
+Sigla
+Jingle
+Suoneria
+Remix
+Cover
+Playlist
+Album
+Singolo
+Primo album
+Casa discografica
+Contratto discografico
+Disco d'oro
+Disco di platino
+Hit
+Primo in classifica
+Videoclip
+Concerto
+Festival musicale
+Prova microfono
+Camerino
+Palco
+Tuffo dal palco
+Pogo
+Air guitar
+Ballo lento
+Playback
+Coro
+Orchestra
+Sinfonia
+Filarmonica
+Direttore d'orchestra
+Bacchetta
+Primo violino
+Opera lirica
+Cantante lirico
+Soprano
+Contralto
+Tenore
+Baritono
+Falsetto
+Yodel
+Beatbox
+Rap
+Scat
+Canticchiare
+Fischiettare
+A cappella
+Banda
+Fanfara
+Big band
+Boy band
+Girl group
+Gruppo rock
+Gruppo jazz
+Cover band
+Artista di strada
+Suonatore ambulante
+Pianista
+Chitarrista
+Batterista
+Bassista
+Violinista
+Violoncellista
+Sassofonista
+Trombettista
+Cantante
+Voce solista
+Corista
+Deejay
+Compositore
+Cantautore
+Paroliere
+Produttore musicale
+Fonico
+Maestro di musica
+Lezione di piano
+Solfeggio
+Panico da palcoscenico
+Orecchio assoluto
+Stonato
+Fuori tempo
+Orecchiabile
+Tormentone
+Tormentone estivo
+Rock and roll
+Rock
+Pop
+Hip hop
+Jazz
+Blues
+Country
+Folk
+Musica classica
+Barocco
+Reggae
+Ska
+Punk
+Heavy metal
+Glam rock
+Grunge
+Indie
+Rock progressivo
+Rock psichedelico
+Hard rock
+Disco music
+Funk
+Soul
+Rhythm and blues
+Gospel
+Swing
+Bebop
+Bossa nova
+Samba
+Salsa
+Tango
+Flamenco
+Mariachi
+Reggaeton
+Merengue
+Bachata
+Cumbia
+Calypso
+Dancehall
+Afrobeat
+K-pop
+Polka
+Valzer
+Mazurka
+Tarantella
+Liscio
+Pizzica
+Musica leggera
+Musica da ballo
+Musica lirica
+Cantautorato
+Canzone napoletana
+Canzone d'autore
+Musica popolare
+Rap italiano
+Trap
+Techno
+House
+Trance
+Dubstep
+Dance
+Eurodance
+Synthpop
+New wave
+Lo-fi
+New age
+Musica d'attesa
+Musica da camera
+Messa da requiem
+Concerto per pianoforte
+Sonata
+Ouverture
+Rapsodia
+Notturno
+Minuetto
+Fuga
+Aria
+Teatro d'opera
+Musical
+Operetta
+Cantata sacra
+Oratorio
+Salmo
+Canto gregoriano
+Canto di Natale
+Canzone popolare
+Canzone d'amore
+Canzone da osteria
+Canzone di protesta
+Canto alpino
+Canto di montagna
+Stornello
+Serenata
+Filastrocca
+Cadenza
+Crescendo
+Staccato
+Legato
+Allegro
+Adagio
+Andante
+Presto
+Vibrato
+Sincope
+Tonalità
+Tonalità maggiore
+Tonalità minore
+Semitono
+Arpeggio
+Glissando
+Pizzicato
+Tremolo
+Jam session
+Improvvisazione
+Freestyle
+Sample
+Scratch
+Autotune
+Distorsione
+Pedale wah-wah
+Pedale per chitarra
+Capotasto
+Tastiera della chitarra
+Leva del tremolo
+Custodia della chitarra
+Tracolla
+Amplificatore per chitarra
+Rullo di tamburi
+Fanfara militare
+Marcia nuziale
+Marcia funebre
+Complesso da matrimonio
+Orchestra da ballo
+Sala di registrazione
+Studio di registrazione
+Hit parade
+Festival di Sanremo
+Eurovision
+X Factor
+Amici di Maria De Filippi
+The Voice
+Woodstock
+Glastonbury
+Coachella
+Tomorrowland
+Concerto del Primo Maggio
+Arena di Verona
+Teatro alla Scala
+La Fenice
+San Siro
+Conservatorio
+Spotify
+Apple Music
+YouTube Music
+MTV
+Festivalbar
+Cantagiro
+Un disco per l'estate
+Fisarmonicista
+Dj set
+Rave
+Discoteca
+Serata in discoteca
+Sala prove
+Vocalizzo
+Accordatura
+Accordare
+Strimpellare
+Suonare a orecchio

@@ -1,0 +1,370 @@
+Friends
+Seinfeld
+The Simpsons
+Family Guy
+South Park
+Futurama
+American Dad
+Bob's Burgers
+Rick and Morty
+BoJack Horseman
+Breaking Bad
+Better Call Saul
+The Sopranos
+The Wire
+Game of Thrones
+House of the Dragon
+The Rings of Power
+Stranger Things
+The Walking Dead
+Fear the Walking Dead
+Lost
+Prison Break
+24
+Heroes
+Dexter
+Homeland
+House of Cards
+Narcos
+Money Heist
+Squid Game
+Dark
+Lupin
+Elite
+Emily in Paris
+The Crown
+Bridgerton
+Downton Abbey
+Peaky Blinders
+Sherlock
+Doctor Who
+Black Mirror
+Luther
+Broadchurch
+Line of Duty
+Skins
+Misfits
+The Office
+Parks and Recreation
+Brooklyn Nine-Nine
+Modern Family
+How I Met Your Mother
+The Big Bang Theory
+Young Sheldon
+Two and a Half Men
+Frasier
+Cheers
+Married with Children
+Everybody Loves Raymond
+The King of Queens
+Will and Grace
+Sex and the City
+Gossip Girl
+Desperate Housewives
+Grey's Anatomy
+ER
+House
+Scrubs
+Chicago Hope
+The Good Doctor
+Nurse Jackie
+The Resident
+Private Practice
+Chicago Fire
+CSI
+CSI Miami
+NCIS
+Criminal Minds
+Bones
+Castle
+The Mentalist
+Monk
+Psych
+Columbo
+Murder She Wrote
+Law and Order
+Hawaii Five-0
+Magnum PI
+Miami Vice
+Baywatch
+Knight Rider
+The A-Team
+MacGyver
+Charlie's Angels
+Starsky and Hutch
+The Fall Guy
+Airwolf
+Dallas
+Dynasty
+Beverly Hills 90210
+Melrose Place
+Dawson's Creek
+One Tree Hill
+The O.C.
+Gilmore Girls
+Buffy the Vampire Slayer
+Angel
+Charmed
+Smallville
+Supernatural
+The Vampire Diaries
+True Blood
+Teen Wolf
+Riverdale
+Pretty Little Liars
+Glee
+Ugly Betty
+Fresh Prince of Bel-Air
+Saved by the Bell
+Full House
+Family Matters
+Home Improvement
+Boy Meets World
+Sabrina the Teenage Witch
+Wizards of Waverly Place
+Hannah Montana
+Lizzie McGuire
+Zack and Cody
+iCarly
+Drake and Josh
+Malcolm in the Middle
+That '70s Show
+Arrested Development
+Curb Your Enthusiasm
+Veep
+Succession
+Mad Men
+Boardwalk Empire
+Vikings
+The Last Kingdom
+Spartacus
+Rome
+The Tudors
+Outlander
+The Handmaid's Tale
+Westworld
+Mr. Robot
+Black Sails
+Yellowstone
+Ozark
+Fargo
+True Detective
+Big Little Lies
+The White Lotus
+Chernobyl
+Band of Brothers
+The Pacific
+Mindhunter
+Making a Murderer
+Tiger King
+The Last of Us
+The Mandalorian
+Andor
+Ahsoka
+Loki
+WandaVision
+Moon Knight
+Daredevil
+Jessica Jones
+The Boys
+The Umbrella Academy
+Wednesday
+The Witcher
+Shadow and Bone
+Sweet Tooth
+You
+Ginny and Georgia
+Sex Education
+Never Have I Ever
+13 Reasons Why
+Orange Is the New Black
+Grace and Frankie
+Master of None
+Atlanta
+Insecure
+Euphoria
+Girls
+Fleabag
+Killing Eve
+Ted Lasso
+Schitt's Creek
+The Marvelous Mrs. Maisel
+Shameless
+Weeds
+Entourage
+Californication
+Silicon Valley
+The IT Crowd
+Black Books
+Father Ted
+Fawlty Towers
+Blackadder
+Only Fools and Horses
+Dad's Army
+Monty Python's Flying Circus
+Mr. Bean
+Red Dwarf
+The Vicar of Dibley
+Absolutely Fabulous
+Little Britain
+The Inbetweeners
+Gavin and Stacey
+Benidorm
+Peep Show
+Phoenix Nights
+Keeping Up Appearances
+Open All Hours
+Last of the Summer Wine
+Are You Being Served
+Allo Allo
+Hi-de-Hi
+Upstairs Downstairs
+Call the Midwife
+Poldark
+Poirot
+Miss Marple
+Midsomer Murders
+Inspector Morse
+Endeavour
+Vera
+Happy Valley
+Taggart
+Rebus
+Silent Witness
+Spooks
+Hustle
+Merlin
+Primeval
+Torchwood
+The Tomorrow People
+Blake's 7
+The Prisoner
+Thunderbirds
+Captain Scarlet
+Star Trek
+Star Trek: The Next Generation
+Deep Space Nine
+Voyager
+Battlestar Galactica
+Babylon 5
+Stargate SG-1
+Farscape
+Firefly
+The X-Files
+Twin Peaks
+Fringe
+The Expanse
+Altered Carbon
+Orphan Black
+Lost in Space
+Quantum Leap
+Sliders
+Eureka
+Warehouse 13
+The Twilight Zone
+Tales from the Crypt
+American Horror Story
+Hannibal
+Penny Dreadful
+The Haunting of Hill House
+Midnight Mass
+The Sandman
+Good Omens
+Doom Patrol
+The Flash
+Arrow
+Supergirl
+Gotham
+The Incredible Hulk
+The Six Million Dollar Man
+Bionic Woman
+Lois and Clark
+Pushing Daisies
+Bewitched
+I Dream of Jeannie
+The Munsters
+The Addams Family
+Gilligan's Island
+The Brady Bunch
+The Partridge Family
+Happy Days
+Laverne and Shirley
+Mork and Mindy
+Taxi
+The Golden Girls
+Roseanne
+Murphy Brown
+Three's Company
+The Jeffersons
+All in the Family
+The Cosby Show
+Family Ties
+Who's the Boss
+Growing Pains
+Diff'rent Strokes
+The Facts of Life
+Little House on the Prairie
+The Waltons
+Bonanza
+Gunsmoke
+Rawhide
+Zorro
+The Lone Ranger
+Walker Texas Ranger
+Dr. Quinn Medicine Woman
+Touched by an Angel
+Highway to Heaven
+Roots
+The Apprentice
+Survivor
+Big Brother
+The Bachelor
+Love Island
+Jersey Shore
+The Real Housewives
+Queer Eye
+RuPaul's Drag Race
+Top Gear
+The Grand Tour
+Mythbusters
+Planet Earth
+Blue Planet
+Cosmos
+Sesame Street
+The Muppet Show
+Fraggle Rock
+Barney and Friends
+Teletubbies
+Thomas and Friends
+Peppa Pig
+Bluey
+Blue's Clues
+Dora the Explorer
+Power Rangers
+Friday Night Lights
+The Shield
+Sons of Anarchy
+Justified
+Deadwood
+Six Feet Under
+Reacher
+Jack Ryan
+Tulsa King
+1883
+Slow Horses
+Severance
+Shrinking
+Abbott Elementary
+The Bear
+The Gilded Age
+Only Murders in the Building
+Mare of Easttown
+Hacks
+Barry
+Derry Girls
+After Life
+The Night Manager
+The Capture
+Baby Reindeer
+Adolescence
+The Traitors

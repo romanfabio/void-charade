@@ -1,0 +1,472 @@
+Forza di gravità
+Buco nero
+Big Bang
+Sistema solare
+Via Lattea
+Galassia
+Supernova
+Cometa
+Asteroide
+Meteora
+Meteorite
+Eclissi
+Eclissi solare
+Eclissi lunare
+Aurora boreale
+Telescopio
+Telescopio Hubble
+Stazione spaziale
+Razzo
+Navetta spaziale
+Satellite
+Astronauta
+Cosmonauta
+Allunaggio
+Rover su Marte
+Alieno
+UFO
+Cunicolo spaziotemporale
+Viaggio nel tempo
+Velocità della luce
+Velocità del suono
+Muro del suono
+Atomo
+Molecola
+Elettrone
+Protone
+Neutrone
+Fisica quantistica
+Teoria della relatività
+Tavola periodica
+Reazione chimica
+Piccolo chimico
+Becco Bunsen
+Provetta
+Becher
+Microscopio
+Piastra di Petri
+Camice da laboratorio
+Laboratorio
+Esperimento
+Ipotesi
+Formula
+Equazione
+Calcolatrice
+Pi greco
+Radice quadrata
+Numero primo
+Successione di Fibonacci
+Teorema di Pitagora
+Geometria
+Algebra
+Analisi matematica
+Statistica
+Probabilità
+Infinito
+Zero
+Magnete
+Campo magnetico
+Elettricità
+Fulmine
+Elettricità statica
+Corrente elettrica
+Circuito
+Batteria
+Lampadina
+Pannello solare
+Pala eolica
+Energia nucleare
+Reattore nucleare
+Bomba atomica
+Radiazioni
+Contatore Geiger
+Raggi X
+Ecografia
+Risonanza magnetica
+Laser
+Ologramma
+Fibra ottica
+Onde radio
+Forno a microonde
+Radar
+Sonar
+GPS
+Bussola
+Termometro
+Barometro
+Sismografo
+Terremoto
+Vulcano
+Placche tettoniche
+Deriva dei continenti
+Fossile
+Dinosauro
+Evoluzione
+Selezione naturale
+DNA
+Gene
+Genoma
+Cromosoma
+Cellula
+Batterio
+Virus
+Vaccino
+Antibiotici
+Cellule staminali
+Clonazione
+Pecora Dolly
+Ingegneria genetica
+Fotosintesi
+Catena alimentare
+Ecosistema
+Riscaldamento globale
+Effetto serra
+Cambiamento climatico
+Buco dell'ozono
+Riciclo
+Energie rinnovabili
+Combustibili fossili
+Idrogeno
+Auto elettrica
+Auto a guida autonoma
+Auto ibrida
+Drone
+Robot
+Robot aspirapolvere
+Robot umanoide
+Intelligenza artificiale
+Apprendimento automatico
+Chatbot
+ChatGPT
+Algoritmo
+Codice binario
+Computer
+Portatile
+Computer fisso
+Tablet
+Smartphone
+Touchscreen
+Tastiera
+Mouse
+Monitor
+Stampante
+Stampante 3D
+Scanner
+Webcam
+Microfono
+Cuffie
+Bluetooth
+Wi-Fi
+Router
+Chiavetta USB
+Disco rigido
+Scheda di memoria
+Floppy disk
+CD-ROM
+Cloud
+Server
+Centro dati
+Processore
+Microchip
+Scheda madre
+Scheda grafica
+Memoria RAM
+Sistema operativo
+Software
+Hardware
+Firmware
+App
+Codice sorgente
+Programmazione
+Programmatore
+Hacker
+Sicurezza informatica
+Firewall
+Antivirus
+Password
+Crittografia
+Blockchain
+Bitcoin
+Criptovalute
+Realtà virtuale
+Visore VR
+Realtà aumentata
+Domotica
+Assistente vocale
+Smart TV
+Telecomando
+Codice QR
+Codice a barre
+Pagamento contactless
+Bancomat
+Lettore di impronte digitali
+Riconoscimento facciale
+Telecamera di sicurezza
+Sorveglianza
+Fitness tracker
+Pacemaker
+Protesi
+Apparecchio acustico
+Cuore artificiale
+Chirurgia robotica
+Telemedicina
+Defibrillatore
+Nanotecnologie
+Computer quantistico
+Supercomputer
+Test di Turing
+Legge di Moore
+Internet delle cose
+Big data
+Rete 5G
+Antenna parabolica
+Telefono
+Telegrafo
+Codice Morse
+Radio
+Televisione
+Ricetrasmittente
+Ripetitore
+Telefono fisso
+Telefono a disco
+Segreteria telefonica
+Fax
+Cercapersone
+Videochiamata
+Podcast
+Macchina fotografica
+Fotocamera digitale
+Polaroid
+Videocamera
+Proiettore
+Fotocopiatrice
+Macchina da scrivere
+Chitarra elettrica
+Sintetizzatore
+Amplificatore
+Altoparlante
+Giradischi
+Musicassetta
+Walkman
+Lettore MP3
+iPod
+Console
+Joystick
+Gamepad
+Videogioco da bar
+Flipper
+Ascensore
+Scala mobile
+Gru
+Bulldozer
+Escavatore
+Muletto
+Motore a reazione
+Motore a vapore
+Motore a scoppio
+Motore elettrico
+Generatore
+Trasformatore
+Centrale elettrica
+Diga
+Traliccio
+Parafulmine
+Termostato
+Condizionatore
+Frigorifero
+Congelatore
+Aspirapolvere
+Lavastoviglie
+Lavatrice
+Asciugatrice
+Forno elettrico
+Piano a induzione
+Tostapane
+Frullatore
+Macchina del caffè
+Isaac Newton
+Albert Einstein
+Galileo Galilei
+Marie Curie
+Charles Darwin
+Stephen Hawking
+Nikola Tesla
+Thomas Edison
+Alessandro Volta
+Guglielmo Marconi
+Enrico Fermi
+Antonio Meucci
+Evangelista Torricelli
+Leonardo da Vinci
+Copernico
+Keplero
+Niels Bohr
+Max Planck
+Rita Levi-Montalcini
+Margherita Hack
+Samantha Cristoforetti
+Luca Parmitano
+Piero Angela
+Carlo Rubbia
+Giuseppe Peano
+Fabiola Gianotti
+Federico Faggin
+Alan Turing
+Ada Lovelace
+Tim Berners-Lee
+Bill Gates
+Steve Jobs
+Elon Musk
+Mark Zuckerberg
+Louis Pasteur
+Alexander Fleming
+Gregor Mendel
+Sigmund Freud
+Archimede
+Pitagora
+Euclide
+Aristotele
+Neil Armstrong
+Buzz Aldrin
+Jurij Gagarin
+Laika
+Apollo 11
+Apollo 13
+Sputnik
+Voyager
+SpaceX
+NASA
+Agenzia spaziale europea
+Marte
+Giove
+Saturno
+Anelli di Saturno
+Venere
+Mercurio
+Nettuno
+Urano
+Plutone
+Sole
+Luna
+Luna piena
+Luna nuova
+Fasi lunari
+Marea
+Stella
+Costellazione
+Orsa Maggiore
+Cintura di Orione
+Stella polare
+Stella cadente
+Pianeta
+Pianeta nano
+Esopianeta
+Sonda spaziale
+Passeggiata spaziale
+Assenza di gravità
+Rampa di lancio
+Centro di controllo
+Conto alla rovescia
+Orbita
+Velocità di fuga
+Materia oscura
+Antimateria
+Acceleratore di particelle
+Bosone di Higgs
+Teoria delle stringhe
+Gatto di Schrödinger
+Universo parallelo
+Multiverso
+Ossigeno
+Carbonio
+Elio
+Uranio
+Plutonio
+Azoto liquido
+Ghiaccio secco
+Acido
+Scala del pH
+Cartina al tornasole
+Reazione a catena
+Combustione
+Ossidazione
+Ruggine
+Evaporazione
+Condensazione
+Punto di fusione
+Punto di ebollizione
+Punto di congelamento
+Zero assoluto
+Celsius
+Fahrenheit
+Kelvin
+Volt
+Watt
+Ampere
+Joule
+Anno luce
+Attrito
+Inerzia
+Pendolo
+Leva
+Carrucola
+Piano inclinato
+Ingranaggio
+Molla
+Turbina
+Aerodinamica
+Galleria del vento
+Paracadute
+Mongolfiera
+Aeroscivolante
+Treno a levitazione magnetica
+Treno ad alta velocità
+Aereo supersonico
+Teletrasporto
+Criogenia
+Ibernazione
+Immortalità
+Scienziato pazzo
+Fiera della scienza
+Metodo scientifico
+Premio Nobel
+Eureka
+Esperimento del vulcano
+Elettrocardiogramma
+Termoscanner
+Radiografia
+Lente d'ingrandimento
+Occhiali 3D
+Bilancia
+Cronometro
+Righello
+Compasso
+Squadra
+Goniometro
+Cavo HDMI
+Presa elettrica
+Caricabatterie
+Powerbank
+Auricolari
+Cuffie wireless
+Smartwatch
+Navigatore satellitare
+Telefono cellulare
+Sveglia
+Orologio atomico
+Pila
+Elettromagnete
+Alternatore
+Dinamo
+Pannello fotovoltaico
+Energia geotermica
+Energia idroelettrica
+Biocarburante
+Stampa 3D
+Cavo Ethernet
+Stazione meteo
+Previsioni del tempo
+Radar meteorologico
+Pluviometro
+Anemometro
+Igrometro

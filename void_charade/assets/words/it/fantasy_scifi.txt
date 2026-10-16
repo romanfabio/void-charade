@@ -1,0 +1,484 @@
+Guerre stellari
+Star Trek
+Il Signore degli Anelli
+Lo Hobbit
+Harry Potter
+Il Trono di Spade
+Dune
+Doctor Who
+Matrix
+Avatar
+Blade Runner
+Alien
+Predator
+Terminator
+Ritorno al futuro
+E.T. l'extra-terrestre
+Incontri ravvicinati
+Jurassic Park
+Independence Day
+Men in Black
+Guardiani della Galassia
+Gli Avengers
+Interstellar
+Inception
+Gravity
+Il Marziano
+Stargate
+Battlestar Galactica
+Guida galattica
+Stranger Things
+The Mandalorian
+Westworld
+Black Mirror
+Le cronache di Narnia
+Percy Jackson
+Queste oscure materie
+La ruota del tempo
+The Witcher
+Pirati dei Caraibi
+La storia fantastica
+Willow
+Conan il barbaro
+Dungeons and Dragons
+Pokémon
+Luke Skywalker
+Darth Vader
+Principessa Leia
+Han Solo
+Chewbacca
+Yoda
+Obi-Wan Kenobi
+Anakin Skywalker
+Imperatore Palpatine
+Boba Fett
+R2-D2
+C-3PO
+BB-8
+Jabba the Hutt
+Lando Calrissian
+Kylo Ren
+Rey
+Baby Yoda
+Jar Jar Binks
+Stormtrooper
+Ewok
+Wookiee
+Jedi
+Sith
+La Forza
+Spada laser
+Morte Nera
+Millennium Falcon
+Caccia X-wing
+Tatooine
+Hoth
+Endor
+Coruscant
+Naboo
+Alderaan
+Capitano Kirk
+Signor Spock
+Dottor McCoy
+Scotty
+Tenente Uhura
+Capitano Picard
+Comandante Riker
+Data
+Worf
+Klingon
+Vulcaniano
+Romulano
+Borg
+Ferengi
+USS Enterprise
+Velocità di curvatura
+Teletrasporto
+Phaser
+Tricorder
+Ologrammi
+Lunga vita e prosperità
+Il Dottore
+TARDIS
+Dalek
+Cyberman
+Cacciavite sonico
+Gandalf
+Frodo
+Sam Gamgee
+Aragorn
+Legolas
+Gimli
+Boromir
+Gollum
+Sauron
+Saruman
+Galadriel
+Elrond
+Bilbo
+Smaug
+Balrog
+Orco
+Uruk-hai
+Nazgûl
+Ent
+Terra di Mezzo
+La Contea
+Mordor
+Gran Burrone
+Gondor
+Rohan
+Monte Fato
+Anello del Potere
+Fosso di Helm
+Minas Tirith
+Hermione Granger
+Ron Weasley
+Albus Silente
+Severus Piton
+Voldemort
+Hagrid
+Draco Malfoy
+Sirius Black
+Dobby
+Edvige
+Hogwarts
+Quidditch
+Boccino d'oro
+Hogsmeade
+Diagon Alley
+Binario nove e tre quarti
+Cappello Parlante
+Burrobirra
+Patronus
+Horcrux
+Mantello dell'invisibilità
+Babbano
+Dissennatore
+Ippogrifo
+Basilisco
+Mappa del Malandrino
+Giratempo
+Torneo Tremaghi
+Daenerys Targaryen
+Jon Snow
+Tyrion Lannister
+Cersei Lannister
+Arya Stark
+Sansa Stark
+Ned Stark
+Re della Notte
+Estranei
+Metalupo
+Grande Inverno
+Approdo del Re
+La Barriera
+Westeros
+Winter is coming
+Neo
+Morpheus
+Trinity
+Agente Smith
+Pillola rossa
+Pillola blu
+Ripley
+Xenomorfo
+Nostromo
+Marines coloniali
+Skynet
+Sarah Connor
+John Connor
+Marty McFly
+Doc Brown
+DeLorean
+Condensatore di flusso
+Hill Valley
+Gizmo
+Gremlins
+Ghostbusters
+Acchiappafantasmi
+Slimer
+Omino Marshmallow
+Optimus Prime
+Megatron
+Bumblebee
+Transformers
+Godzilla
+King Kong
+Mothra
+Gamera
+Voltron
+Power Rangers
+Ultraman
+Goldrake
+Mazinga Z
+Jeeg Robot
+Gundam
+Evangelion
+Dragon Ball
+Goku
+Vegeta
+Super Saiyan
+Sailor Moon
+Il mio vicino Totoro
+La città incantata
+Il castello errante di Howl
+Principessa Mononoke
+Nausicaä della Valle del vento
+Capitan Harlock
+Lupin III
+Candy Candy
+Ken il guerriero
+Cavalieri dello zodiaco
+Iron Man
+Captain America
+Thor
+Hulk
+Vedova Nera
+Occhio di Falco
+Spider-Man
+Doctor Strange
+Pantera Nera
+Capitan Marvel
+Ant-Man
+Scarlet Witch
+Visione
+Thanos
+Loki
+Groot
+Rocket Raccoon
+Star-Lord
+Gamora
+Drax
+Gemme dell'Infinito
+Guanto dell'Infinito
+Wakanda
+Asgard
+Vibranio
+Superman
+Batman
+Wonder Woman
+Aquaman
+Flash
+Lanterna Verde
+Joker
+Lex Luthor
+Kryptonite
+Krypton
+Gotham City
+Metropolis
+Batmobile
+Bat-Segnale
+Justice League
+X-Men
+Wolverine
+Professor X
+Magneto
+Tempesta
+Ciclope
+Mystica
+Deadpool
+I Fantastici Quattro
+Silver Surfer
+Galactus
+Hellboy
+Darth Maul
+Mad Max
+Tron
+Robocop
+Atto di forza
+Starship Troopers
+Il quinto elemento
+Flash Gordon
+Barbarella
+Buck Rogers
+Giudice Dredd
+Ender Wiggin
+Paul Atreides
+Verme della sabbia
+Spezia
+Arrakis
+Fremen
+Bene Gesserit
+Harkonnen
+Hunger Games
+Maze Runner
+Ready Player One
+Marvin l'androide paranoico
+Zaphod Beeblebrox
+Arthur Dent
+Vogon
+Pesce Babele
+Asciugamano
+Niente panico
+La risposta è 42
+Mondo Disco
+Rincewind
+Aslan
+Lucy Pevensie
+Edmund Pevensie
+Strega Bianca
+Signor Tumnus
+Lyra Belacqua
+Daimon
+La bussola d'oro
+Eragon
+Saphira
+Il mago di Oz
+L'Isola che non c'è
+Peter Pan
+Campanellino
+Capitan Uncino
+Willy Wonka
+Umpa Lumpa
+Mary Poppins
+Shrek
+Fiona
+Ciuchino
+Lord Farquaad
+Drago
+Merlino
+Excalibur
+Camelot
+Mago
+Strega
+Stregone
+Negromante
+Druido
+Elfo
+Nano
+Troll
+Goblin
+Gigante
+Cavaliere del drago
+Unicorno
+Grifone
+Pegaso
+Centauro
+Minotauro
+Sirena
+Fata
+Folletto
+Gnomo
+Vampiro
+Lupo mannaro
+Zombie
+Fantasma
+Genio della lampada
+Golem
+Gargoyle
+Fenice
+Kraken
+Idra
+Cerbero
+Macchina del tempo
+Viaggio nel tempo
+Universo parallelo
+Tunnel spaziotemporale
+Buco nero
+Iperspazio
+Criosonno
+Clonazione
+Invisibilità
+Telepatia
+Telecinesi
+Controllo mentale
+Mutaforma
+Superpotere
+Mutante
+Cyborg
+Androide
+Robot
+Droide
+Intelligenza artificiale
+HAL 9000
+Wall-E
+Corto Circuito
+Bender
+Cylon
+Replicante
+Astronave
+Stazione spaziale
+Colonia spaziale
+Disco volante
+UFO
+Invasione aliena
+Omini verdi
+Area 51
+Roswell
+Base lunare
+Colonia su Marte
+Razzo spaziale
+Pistola laser
+Campo di forza
+Raggio traente
+Jetpack
+Auto volante
+Pistola dei portali
+Realtà virtuale
+Distopia
+Utopia
+Post-apocalittico
+Terra desolata
+Fallout
+Halo
+Master Chief
+Mass Effect
+Comandante Shepard
+Zelda
+Link
+Ganon
+The Legend of Zelda
+Skyrim
+World of Warcraft
+Final Fantasy
+Cloud Strife
+Sephiroth
+Chocobo
+Kingdom Hearts
+Sora
+Sfera di cristallo
+Pozione magica
+Libro degli incantesimi
+Calderone
+Scopa volante
+Bacchetta magica
+Cristallo
+Runa
+Amuleto
+Spada incantata
+Sacro Graal
+Pietra filosofale
+Mantello elfico
+Uovo di drago
+Missione
+Profezia
+Il prescelto
+Signore Oscuro
+Impero del male
+Alleanza Ribelle
+Impero Galattico
+Federazione
+Flotta Stellare
+Consiglio Jedi
+Grifondoro
+Serpeverde
+Tassorosso
+Corvonero
+Nathan Never
+Martin Mystère
+Il Pianeta delle Scimmie
+La storia infinita
+Atreyu
+Fùchur
+Capitan Futuro
+Spazio 1999
+Ai confini della realtà
+Visitors
+Alf
+Mork e Mindy
+Galaxy Quest
+Balle spaziali
+Eternals
+Shazam
+Black Adam

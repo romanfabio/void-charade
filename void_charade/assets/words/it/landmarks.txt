@@ -1,0 +1,377 @@
+Colosseo
+Torre di Pisa
+Fontana di Trevi
+Piazza di Spagna
+Pantheon
+Foro Romano
+Basilica di San Pietro
+Cappella Sistina
+Piazza San Pietro
+Castel Sant'Angelo
+Altare della Patria
+Bocca della Verità
+Terme di Caracalla
+Circo Massimo
+Via Appia Antica
+Catacombe di Roma
+Campidoglio
+Fontana dei Quattro Fiumi
+Piazza Navona
+Ponte di Rialto
+Ponte dei Sospiri
+Piazza San Marco
+Basilica di San Marco
+Palazzo Ducale
+Canal Grande
+Campanile di San Marco
+Isola di Burano
+Teatro La Fenice
+Duomo di Firenze
+Cupola del Brunelleschi
+Campanile di Giotto
+Battistero di San Giovanni
+Ponte Vecchio
+Galleria degli Uffizi
+Piazza della Signoria
+Palazzo Vecchio
+Palazzo Pitti
+Giardino di Boboli
+Galleria dell'Accademia
+Piazzale Michelangelo
+Piazza del Campo
+Duomo di Siena
+Piazza dei Miracoli
+Torre pendente
+Torre degli Asinelli
+Duomo di Milano
+Galleria Vittorio Emanuele II
+Teatro alla Scala
+Castello Sforzesco
+Cenacolo Vinciano
+Ultima Cena
+Navigli
+Arco della Pace
+Stadio San Siro
+Pirellone
+Bosco Verticale
+Mole Antonelliana
+Museo Egizio
+Palazzo Reale di Torino
+Basilica di Superga
+Reggia di Venaria
+Lanterna di Genova
+Acquario di Genova
+Portofino
+Cinque Terre
+Riomaggiore
+Vernazza
+Arena di Verona
+Casa di Giulietta
+Ponte Pietra
+Basilica di San Francesco
+Duomo di Orvieto
+Cascata delle Marmore
+Palazzo Ducale di Urbino
+Santa Casa di Loreto
+Mausolei di Ravenna
+Basilica di San Vitale
+Piazza Maggiore
+Fontana del Nettuno
+Castello Estense
+Torre dell'Orologio
+Reggia di Caserta
+Pompei
+Ercolano
+Vesuvio
+Certosa di San Martino
+Maschio Angioino
+Castel dell'Ovo
+Piazza del Plebiscito
+Teatro San Carlo
+Spaccanapoli
+Costiera Amalfitana
+Faraglioni di Capri
+Grotta Azzurra
+Cattedrale di Amalfi
+Templi di Paestum
+Trulli di Alberobello
+Castel del Monte
+Sassi di Matera
+Duomo di Lecce
+Grotte di Castellana
+Scilla
+Bronzi di Riace
+Valle dei Templi
+Teatro greco di Taormina
+Etna
+Duomo di Monreale
+Cappella Palatina
+Teatro Massimo
+Isola di Ortigia
+Nuraghe
+Costa Smeralda
+Grotta di Nettuno
+Isola di Stromboli
+Lago di Braies
+Tre Cime di Lavaredo
+Alpe di Siusi
+Cervino
+Monte Bianco
+Castel Gandolfo
+Villa d'Este
+Villa Adriana
+Villa Borghese
+Piazza del Popolo
+Torre Eiffel
+Statua della Libertà
+Big Ben
+Tower Bridge
+London Eye
+Buckingham Palace
+Abbazia di Westminster
+Torre di Londra
+Stonehenge
+Castello di Edimburgo
+Scogliere di Moher
+Sagrada Familia
+Parc Güell
+Alhambra
+Museo del Prado
+Palazzo Reale di Madrid
+Plaza Mayor
+Cammino di Santiago
+Louvre
+Piramide del Louvre
+Arco di Trionfo
+Notre-Dame
+Sacro Cuore di Parigi
+Moulin Rouge
+Champs-Élysées
+Reggia di Versailles
+Mont Saint-Michel
+Porta di Brandeburgo
+Muro di Berlino
+Reichstag
+Castello di Neuschwanstein
+Duomo di Colonia
+Checkpoint Charlie
+Castello di Heidelberg
+Castello di Chillon
+Castello di Schönbrunn
+Ponte Carlo
+Castello di Praga
+Orologio astronomico
+Bastione dei Pescatori
+Atomium
+Manneken Pis
+Grand-Place
+Casa di Anna Frank
+Mulini a vento
+Sirenetta di Copenaghen
+Giardini di Tivoli
+Aurora boreale
+Laguna Blu
+Piazza Rossa
+Cattedrale di San Basilio
+Cremlino
+Ermitage
+Palazzo d'Inverno
+Acropoli
+Partenone
+Delfi
+Meteore
+Santa Sofia
+Moschea Blu
+Palazzo Topkapi
+Torre di Galata
+Gran Bazar
+Cappadocia
+Pamukkale
+Efeso
+Troia
+Piramide di Cheope
+Grande Sfinge
+Valle dei Re
+Abu Simbel
+Karnak
+Tempio di Luxor
+Petra
+Mar Morto
+Muro del Pianto
+Cupola della Roccia
+Santo Sepolcro
+Masada
+Kaaba
+Burj Khalifa
+Burj Al Arab
+Palm Jumeirah
+Taj Mahal
+Forte Rosso
+Porta dell'India
+Tempio d'Oro
+Forte di Amber
+Hawa Mahal
+Tempio del Loto
+Campo base dell'Everest
+Grande Muraglia cinese
+Città Proibita
+Piazza Tienanmen
+Esercito di terracotta
+Tempio del Cielo
+Palazzo d'Estate
+Palazzo del Potala
+Torre della Perla d'Oriente
+Skyline di Hong Kong
+Monte Fuji
+Tokyo Tower
+Tokyo Skytree
+Incrocio di Shibuya
+Senso-ji
+Fushimi Inari
+Padiglione d'Oro
+Castello di Himeji
+Fiori di ciliegio
+Palazzo Gyeongbokgung
+Angkor Wat
+Baia di Ha Long
+Torri Petronas
+Marina Bay Sands
+Merlion
+Gran Palazzo di Bangkok
+Wat Arun
+Borobudur
+Isola di Komodo
+Teatro dell'Opera di Sydney
+Ponte del porto di Sydney
+Uluru
+Grande Barriera Corallina
+Bondi Beach
+Dodici Apostoli
+Sky Tower di Auckland
+Hobbiton
+Milford Sound
+Moai dell'Isola di Pasqua
+Cristo Redentore
+Pan di Zucchero
+Copacabana
+Stadio Maracanã
+Cascate di Iguazú
+Machu Picchu
+Linee di Nazca
+Cusco
+Salar de Uyuni
+Torres del Paine
+Ghiacciaio Perito Moreno
+Isole Galápagos
+Chichén Itzá
+Teotihuacán
+Tulum
+Tikal
+Canale di Panama
+Golden Gate
+Alcatraz
+Scritta di Hollywood
+Walk of Fame
+Disneyland
+Strip di Las Vegas
+Diga di Hoover
+Gran Canyon
+Monument Valley
+Antelope Canyon
+Yosemite
+Old Faithful
+Yellowstone
+Monte Rushmore
+Space Needle
+Gateway Arch
+Empire State Building
+Chrysler Building
+One World Trade Center
+Ponte di Brooklyn
+Times Square
+Central Park
+Rockefeller Center
+Grand Central Terminal
+Flatiron Building
+Madison Square Garden
+Wall Street
+Ellis Island
+Coney Island
+Broadway
+Memoriale di Lincoln
+Monumento a Washington
+Casa Bianca
+Campidoglio di Washington
+Pentagono
+Campana della Libertà
+Alamo
+Graceland
+Kennedy Space Center
+Walt Disney World
+Everglades
+Cascate del Niagara
+CN Tower
+Lake Louise
+Kilimangiaro
+Table Mountain
+Robben Island
+Parco Kruger
+Cascate Vittoria
+Serengeti
+Cratere di Ngorongoro
+Moschea Hassan II
+Piazza Jemaa el-Fnaa
+Medina di Fez
+Chefchaouen
+Lalibela
+Sette meraviglie del mondo
+Colosso di Rodi
+Giardini pensili di Babilonia
+Faro di Alessandria
+Mausoleo di Alicarnasso
+Tempio di Artemide
+Statua di Zeus
+Faro
+Mulino a vento
+Grattacielo
+Ponte sospeso
+Cattedrale
+Castello
+Palazzo
+Piramide
+Tempio
+Moschea
+Pagoda
+Fortezza
+Acquedotto
+Anfiteatro
+Obelisco
+Fontana
+Monumento
+Memoriale
+Mausoleo
+Sfinge
+Totem
+Torre
+Osservatorio
+Teatro dell'Opera
+Stadio
+Cimitero
+Catacombe
+Scogliere bianche di Dover
+Loch Ness
+Isola di Skye
+Terme romane di Bath
+Università di Oxford
+Harrods
+Piccadilly Circus
+Trafalgar Square
+Colonna di Nelson
+Hyde Park
+Abbey Road
+Stadio di Wembley
+Royal Albert Hall
+The Shard
+Hampton Court
+Area 51
+Triangolo delle Bermuda

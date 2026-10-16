@@ -1,0 +1,352 @@
+Arcobaleno
+Temporale
+Fulmine
+Tuono
+Tornado
+Uragano
+Tifone
+Bufera di neve
+Tormenta
+Valanga
+Grandinata
+Grandine
+Nevischio
+Pioggerella
+Acquazzone
+Monsone
+Alluvione
+Siccità
+Ondata di caldo
+Gelata
+Ghiaccio nero
+Ghiacciolo
+Fiocco di neve
+Mucchio di neve
+Palla di neve
+Pupazzo di neve
+Nebbia
+Foschia
+Smog
+Rugiada
+Pozzanghera
+Nuvola di pioggia
+Nuvolone
+Cumulo
+Raffica di vento
+Brezza
+Turbine
+Tempesta di sabbia
+Ciclone
+Tsunami
+Maremoto
+Terremoto
+Scossa di assestamento
+Vulcano
+Eruzione vulcanica
+Lava
+Magma
+Geyser
+Sorgente termale
+Voragine
+Frana
+Smottamento
+Incendio boschivo
+Aurora boreale
+Eclissi solare
+Eclissi lunare
+Luna piena
+Luna crescente
+Luna nuova
+Luna di sangue
+Stella cadente
+Pioggia di stelle
+Cometa
+Via Lattea
+Costellazione
+Orsa Maggiore
+Stella Polare
+Alba
+Tramonto
+Crepuscolo
+Sole di mezzanotte
+Equinozio
+Solstizio
+Le quattro stagioni
+Primavera
+Autunno
+Foglie d'autunno
+Foglie cadute
+Mucchio di foglie
+Pigna
+Ghianda
+Castagna
+Riccio di castagna
+Tronco
+Anelli del tronco
+Casa sull'albero
+Corteccia
+Muschio
+Lichene
+Felce
+Fungo
+Porcino
+Tartufo
+Alga
+Rampicante
+Edera
+Cactus
+Bambù
+Palma
+Quercia
+Pino marittimo
+Sequoia
+Baobab
+Salice piangente
+Acero
+Betulla
+Faggio
+Castagno
+Cipresso
+Ulivo
+Fiore di ciliegio
+Fiore di melo
+Mangrovie
+Foresta pluviale
+Giungla
+Savana
+Tundra
+Taiga
+Prateria
+Steppa
+Deserto
+Oasi
+Duna
+Canyon
+Gola
+Scogliera
+Falesia
+Grotta
+Stalattite
+Stalagmite
+Montagna
+Vetta
+Catena montuosa
+Ghiacciaio
+Iceberg
+Calotta glaciale
+Fiordo
+Prato
+Pascolo
+Palude
+Acquitrino
+Torbiera
+Sabbie mobili
+Fiume
+Ruscello
+Torrente
+Cascata
+Rapide
+Lago
+Stagno
+Laguna
+Oceano
+Spiaggia
+Barriera corallina
+Corallo
+Arcipelago
+Penisola
+Atollo
+Marea
+Alta marea
+Bassa marea
+Onde
+Mareggiata
+Risacca
+Ciottolo
+Fossile
+Cristallo
+Ambra
+Granito
+Marmo
+Pietra pomice
+Pepita d'oro
+Diamante
+Smeraldo
+Rubino
+Zaffiro
+Perla
+Conchiglia
+Fiore
+Rosa
+Tulipano
+Margherita
+Girasole
+Tarassaco
+Soffione
+Giglio
+Orchidea
+Lavanda
+Papavero
+Narciso
+Loto
+Ninfea
+Calendula
+Garofano
+Iris
+Ibisco
+Gelsomino
+Peonia
+Ranuncolo
+Campanula
+Non ti scordar di me
+Bucaneve
+Primula
+Stella alpina
+Fiori di campo
+Petalo
+Spina
+Polline
+Nettare
+Ortica
+Cardo
+Trifoglio
+Quadrifoglio
+Erba alta
+Risaia
+Serra
+Frutteto
+Vigna
+Uliveto
+Radura
+Sentiero
+Falò
+Legna da ardere
+Alveare
+Favo
+Ape
+Farfalla
+Bruco
+Crisalide
+Coccinella
+Libellula
+Lucciola
+Formicaio
+Ragnatela
+Nido
+Mangiatoia per uccelli
+Spaventapasseri
+Canto degli uccelli
+Migrazione
+Letargo
+Catena alimentare
+Ecosistema
+Specie in via di estinzione
+Estinzione
+Evoluzione
+Fotosintesi
+Impollinazione
+Erosione
+Ciclo dell'acqua
+Evaporazione
+Condensazione
+Precipitazioni
+Effetto serra
+Riscaldamento globale
+Cambiamento climatico
+Buco dell'ozono
+Parco nazionale
+Riserva naturale
+Gran Paradiso
+Parco dello Stelvio
+Yellowstone
+Grand Canyon
+Cascate del Niagara
+Monte Everest
+Monte Fuji
+Kilimangiaro
+Uluru
+Grande Barriera Corallina
+Foresta amazzonica
+Deserto del Sahara
+Mar Morto
+Loch Ness
+Isole Galapagos
+Antartide
+Polo Nord
+Polo Sud
+Artico
+Previsioni del tempo
+Banderuola
+Barometro
+Termometro
+Ombrello
+Impermeabile
+Stivali di gomma
+Giornata di pioggia
+Giornata ventosa
+Giornata di neve
+Afa
+Colonnello Bernacca
+Fronte freddo
+Fronte caldo
+El Niño
+Occhio del ciclone
+Parafulmine
+Rombo di tuono
+Nubifragio
+Danza della pioggia
+Pluviometro
+Goccia di pioggia
+Nevicata
+Angelo nella neve
+Racchette da neve
+Slittino
+Lago ghiacciato
+Pesca sul ghiaccio
+Brina
+Ghiaccio sui vetri
+Scirocco
+Tramontana
+Maestrale
+Libeccio
+Bora
+Grecale
+Gelo
+Caldo africano
+Lapilli
+Fumarole
+Solfatara
+Campi Flegrei
+Monte Bianco
+Monte Rosa
+Cervino
+Gran Sasso
+Dolomiti
+Tre Cime di Lavaredo
+Lago di Braies
+Lago di Garda
+Lago di Como
+Lago Maggiore
+Lago Trasimeno
+Delta del Po
+Cascata delle Marmore
+Grotte di Frasassi
+Grotte di Castellana
+Grotta Azzurra
+Faraglioni
+Scala dei Turchi
+Pianura Padana
+Appennini
+Alpi
+Vesuvio
+Stromboli
+Pineta
+Macchia mediterranea
+Fico d'India
+Agave
+Bouganville
+Oleandro
+Castagneto
+Faggeta
+Rododendro
+Genziana

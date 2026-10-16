@@ -1,0 +1,465 @@
+La ruota
+Il fuoco
+La stampa
+La lampadina
+Il telefono
+Il telegrafo
+La radio
+La televisione
+L'aeroplano
+L'automobile
+La macchina a vapore
+La locomotiva a vapore
+Il battello a vapore
+La bicicletta
+La motocicletta
+La mongolfiera
+Il paracadute
+L'elicottero
+Il sottomarino
+Il motore a reazione
+Il razzo
+La navetta spaziale
+La penicillina
+Il vaccino
+L'anestesia
+Lo stetoscopio
+La radiografia
+Il termometro
+Il microscopio
+Il telescopio
+Le lenti a contatto
+Gli occhiali
+L'apparecchio acustico
+Il pacemaker
+Il cerotto
+Lo spazzolino
+Il dentifricio
+Il sapone
+Il water
+Lo sciacquone
+L'idraulica
+La macchina da cucire
+Il filatoio
+Il telaio
+La cerniera
+Il velcro
+La spilla da balia
+Il bottone
+L'ago
+La bussola
+L'orologio
+L'orologio a pendolo
+L'orologio da polso
+La clessidra
+La meridiana
+Il calendario
+La carta
+La matita
+La penna
+La penna a sfera
+La gomma da cancellare
+La spillatrice
+La graffetta
+Il post-it
+Lo scotch
+La macchina da scrivere
+La fotocopiatrice
+La calcolatrice
+L'abaco
+Il computer
+Il portatile
+Internet
+Il World Wide Web
+La posta elettronica
+Il telefono cellulare
+Lo smartphone
+La fotocamera digitale
+La macchina fotografica
+La fotografia
+La cinepresa
+Il fonografo
+Il giradischi
+La musicassetta
+Il lettore CD
+Il Walkman
+Il microfono
+L'altoparlante
+La chitarra elettrica
+Il pianoforte
+Il sassofono
+Il forno a microonde
+Il frigorifero
+Il congelatore
+Il condizionatore
+Il ventilatore
+L'aspirapolvere
+La lavatrice
+La lavastoviglie
+Il tostapane
+Il bollitore elettrico
+Il fornello a gas
+La pentola a pressione
+L'apriscatole
+La scatola di latta
+Il cibo in scatola
+La pastorizzazione
+Il cibo surgelato
+Il pane in cassetta
+Lo zucchero filato
+Il cono gelato
+Il ghiacciolo
+Le patatine fritte
+La Coca-Cola
+Il panino
+La forchetta
+Il cucchiaio
+Le bacchette
+Il coltello
+Il piatto
+La tazza
+Il bicchiere
+Il thermos
+I fiammiferi
+L'accendino
+La candela
+La lampada a olio
+Il lampione a gas
+L'insegna al neon
+La luce fluorescente
+Il LED
+La pila
+Il motore elettrico
+Il generatore
+Il trasformatore
+La centrale elettrica
+Il parafulmine
+L'elettrocalamita
+La calamita
+La dinamite
+La polvere da sparo
+Il cannone
+La pistola
+La mitragliatrice
+La bomba atomica
+Il radar
+Il sonar
+Il GPS
+Il laser
+Il codice a barre
+Il codice QR
+La carta di credito
+Il Bancomat
+La banconota
+La moneta
+La banca
+L'ascensore
+La scala mobile
+Il grattacielo
+La gru
+La ruspa
+Il trattore
+L'aratro
+La carriola
+La carrucola
+La leva
+La vite
+Il cuneo
+La rampa
+Il ponte
+La strada
+La galleria
+Il canale
+Il faro
+Il mulino a vento
+Il mulino ad acqua
+La vela
+Il timone
+L'ancora
+La nave
+La barca
+La canoa
+La zattera
+Il treno
+La metropolitana
+Il tram
+La funivia
+Le montagne russe
+La ruota panoramica
+La giostra
+Il trampolino
+Lo skateboard
+I pattini a rotelle
+I pattini da ghiaccio
+Gli sci
+Lo snowboard
+La tavola da surf
+L'attrezzatura da sub
+Il giubbotto di salvataggio
+La cintura di sicurezza
+L'airbag
+Il semaforo
+Il tergicristallo
+Lo specchietto retrovisore
+Lo pneumatico
+La gomma
+La plastica
+Il nylon
+Il teflon
+Il kevlar
+Il vetro
+Lo specchio
+Il cemento armato
+Il cemento
+Il mattone
+L'acciaio
+La carta stagnola
+Il cartone
+Il sacchetto di carta
+Il sacchetto di plastica
+La bottiglia
+Il tappo a corona
+Il sughero
+Il cavatappi
+Il filo spinato
+La serratura
+La chiave
+Il lucchetto
+La cassaforte
+Le manette
+L'estintore
+Il rilevatore di fumo
+Lo sprinkler
+L'antifurto
+Il campanello
+La sveglia
+La trappola per topi
+La canna da pesca
+La rete da pesca
+L'arco e le frecce
+Il boomerang
+La lancia
+L'ascia
+Il martello
+La sega
+Il trapano
+Il cacciavite
+La chiave inglese
+Il chiodo
+La motosega
+Il cannello
+Il tagliaerba
+L'ombrello
+L'impermeabile
+I jeans
+Il reggiseno
+Le calze di nylon
+I tacchi alti
+Gli occhiali da sole
+La parrucca
+Il rossetto
+Il profumo
+Il deodorante
+Il rasoio
+L'asciugacapelli
+Lo shampoo
+Il pannolino
+Il biberon
+Il ciuccio
+La culla
+Il passeggino
+L'orsacchiotto
+La Barbie
+Il Lego
+Il cubo di Rubik
+Il Monopoli
+Gli scacchi
+Le carte da gioco
+I dadi
+Il puzzle
+Lo yo-yo
+Il frisbee
+L'hula hoop
+Il flipper
+Il videogioco
+La console
+Il joystick
+Il visore VR
+La stampante 3D
+Il robot
+Il drone
+L'auto a guida autonoma
+L'auto elettrica
+Il pannello solare
+La pala eolica
+Il reattore nucleare
+L'intelligenza artificiale
+La clonazione
+L'insulina
+Gli antibiotici
+La trasfusione di sangue
+Il defibrillatore
+L'ecografo
+La risonanza magnetica
+La protesi
+La sedia a rotelle
+Le stampelle
+Il Braille
+La lingua dei segni
+L'alfabeto
+La scrittura
+I geroglifici
+La biblioteca
+L'enciclopedia
+Il giornale
+La rivista
+Il fumetto
+Il libro
+Il rotolo di papiro
+Il papiro
+L'inchiostro
+La penna d'oca
+La stilografica
+Il pennarello
+Il pastello a cera
+L'evidenziatore
+La lavagna
+Il gesso
+Il proiettore
+La lavagna luminosa
+Il grammofono
+Il jukebox
+La palla da discoteca
+Il karaoke
+Il sintetizzatore
+La drum machine
+Il metronomo
+La siringa
+Il bisturi
+Thomas Edison
+Alexander Graham Bell
+Nikola Tesla
+Guglielmo Marconi
+Johannes Gutenberg
+I fratelli Wright
+Henry Ford
+Karl Benz
+Samuel Morse
+Benjamin Franklin
+Leonardo da Vinci
+Archimede
+Galileo Galilei
+Isaac Newton
+Alfred Nobel
+Louis Pasteur
+Alexander Fleming
+Marie Curie
+James Watt
+Charles Babbage
+Alan Turing
+Tim Berners-Lee
+Steve Jobs
+Bill Gates
+Louis Braille
+I fratelli Lumière
+George Eastman
+Alessandro Volta
+Antonio Meucci
+Evangelista Torricelli
+Galileo Ferraris
+Enrico Piaggio
+Corradino D'Ascanio
+Federico Faggin
+Bartolomeo Cristofori
+Adriano Olivetti
+Luigi Galvani
+Eureka
+Brevetto
+Prototipo
+Progetto
+L'inventore
+La macchina del tempo
+Il moto perpetuo
+La macchina volante
+Il jetpack
+L'hoverboard
+Il Segway
+Lo smartwatch
+L'e-reader
+Il tablet
+Lo schermo touch
+Il mouse
+La tastiera
+La chiavetta USB
+Il floppy disk
+L'hard disk
+Il Wi-Fi
+Il Bluetooth
+Il motore di ricerca
+Il social network
+La webcam
+La videochiamata
+Lo streaming
+Il podcast
+Il Blu-ray
+Il DVD
+La videocassetta
+Il distributore automatico
+Il carrello della spesa
+La porta girevole
+La scala a chiocciola
+Il ponte levatoio
+La catapulta
+Il trabucco
+L'ariete
+La biga
+La slitta
+La palla di neve
+Il salvadanaio
+La lanterna magica
+Il caleidoscopio
+Il periscopio
+Il binocolo
+La lente d'ingrandimento
+La livella
+Il metro
+Il righello
+La bilancia
+Il sestante
+L'astrolabio
+La banderuola
+Il barometro
+Il termostato
+Il riscaldamento centralizzato
+Il caminetto
+Il camino
+Il forno
+La macchina del pane
+Il frullatore
+Il robot da cucina
+La macchina del caffè
+La moka
+La macchina per l'espresso
+La bustina di tè
+La bibita gassata
+La cannuccia
+Il bicchiere di carta
+Il nastro adesivo
+La colla
+La colla istantanea
+L'elastico
+La Vespa
+La Lambretta
+La stampa a caratteri mobili
+La carta moneta
+La televisione a colori
+La radio a transistor
+Il codice Morse
+La pila voltaica
+La stufa a legna
+L'aereo a reazione
+Il dirigibile
+Il deltaplano
+Il parapendio
+L'aliante
+Il cannocchiale

@@ -1,0 +1,462 @@
+The wheel
+Fire
+Printing press
+Light bulb
+Telephone
+Telegraph
+Radio
+Television
+Airplane
+Automobile
+Steam engine
+Steam locomotive
+Steamboat
+Bicycle
+Motorcycle
+Hot air balloon
+Parachute
+Helicopter
+Submarine
+Jet engine
+Rocket
+Space shuttle
+Penicillin
+Vaccine
+Anesthesia
+Stethoscope
+X-ray machine
+Thermometer
+Microscope
+Telescope
+Contact lenses
+Eyeglasses
+Hearing aid
+Pacemaker
+Band-Aid
+Toothbrush
+Toothpaste
+Soap
+Toilet
+Flush toilet
+Plumbing
+Sewing machine
+Spinning wheel
+Loom
+Cotton gin
+Zipper
+Velcro
+Safety pin
+Button
+Needle
+Compass
+Clock
+Pendulum clock
+Wristwatch
+Hourglass
+Sundial
+Calendar
+Paper
+Pencil
+Pen
+Ballpoint pen
+Eraser
+Stapler
+Paper clip
+Post-it note
+Scotch tape
+Typewriter
+Photocopier
+Calculator
+Abacus
+Computer
+Laptop
+Internet
+World Wide Web
+Email
+Mobile phone
+Smartphone
+Digital camera
+Camera
+Photograph
+Movie camera
+Phonograph
+Record player
+Cassette tape
+CD player
+Walkman
+Microphone
+Loudspeaker
+Electric guitar
+Piano
+Saxophone
+Microwave oven
+Refrigerator
+Freezer
+Air conditioner
+Electric fan
+Vacuum cleaner
+Washing machine
+Dishwasher
+Toaster
+Electric kettle
+Gas stove
+Pressure cooker
+Can opener
+Tin can
+Canned food
+Pasteurization
+Frozen food
+Sliced bread
+Cotton candy
+Ice cream cone
+Popsicle
+Potato chips
+Chocolate chip cookie
+Coca-Cola
+Sandwich
+Fork
+Spoon
+Chopsticks
+Knife
+Glass
+Thermos
+Matches
+Lighter
+Candle
+Oil lamp
+Gas lamp
+Neon sign
+Fluorescent light
+LED
+Battery
+Electric motor
+Generator
+Transformer
+Power plant
+Lightning rod
+Electromagnet
+Magnet
+Dynamite
+Gunpowder
+Cannon
+Gun
+Machine gun
+Atomic bomb
+Radar
+Sonar
+GPS
+Laser
+Barcode
+QR code
+Credit card
+ATM
+Paper money
+Coin
+Elevator
+Escalator
+Skyscraper
+Crane
+Bulldozer
+Tractor
+Plow
+Wheelbarrow
+Pulley
+Lever
+Bridge
+Tunnel
+Canal
+Lighthouse
+Windmill
+Water wheel
+Sail
+Rudder
+Anchor
+Ship
+Boat
+Canoe
+Raft
+Train
+Subway
+Tram
+Cable car
+Roller coaster
+Ferris wheel
+Carousel
+Trampoline
+Skateboard
+Roller skates
+Ice skates
+Skis
+Snowboard
+Surfboard
+Scuba gear
+Life jacket
+Seat belt
+Airbag
+Traffic light
+Windshield wiper
+Rearview mirror
+Pneumatic tire
+Rubber
+Plastic
+Nylon
+Teflon
+Kevlar
+Mirror
+Concrete
+Cement
+Brick
+Steel
+Aluminum foil
+Cardboard
+Paper bag
+Plastic bag
+Bottle
+Bottle cap
+Cork
+Corkscrew
+Barbed wire
+Lock
+Key
+Padlock
+Safe
+Handcuffs
+Fire extinguisher
+Smoke detector
+Sprinkler
+Burglar alarm
+Doorbell
+Alarm clock
+Mousetrap
+Fishing rod
+Fishing net
+Bow and arrow
+Boomerang
+Spear
+Axe
+Hammer
+Saw
+Drill
+Screwdriver
+Wrench
+Nail
+Chainsaw
+Welding torch
+Blowtorch
+Lawn mower
+Umbrella
+Raincoat
+Jeans
+Bra
+Nylon stockings
+High heels
+Sunglasses
+Wig
+Lipstick
+Perfume
+Deodorant
+Razor
+Hair dryer
+Shampoo
+Diaper
+Baby bottle
+Pacifier
+Crib
+Stroller
+Teddy bear
+Barbie doll
+Lego
+Rubik's Cube
+Monopoly
+Chess
+Playing cards
+Dice
+Jigsaw puzzle
+Yo-yo
+Frisbee
+Hula hoop
+Slinky
+Pinball
+Arcade game
+Pong
+Video game
+Game console
+Joystick
+Virtual reality headset
+3D printer
+Robot
+Drone
+Self-driving car
+Electric car
+Hybrid car
+Solar panel
+Wind turbine
+Nuclear reactor
+Artificial intelligence
+Cloning
+Genetic engineering
+Insulin
+Antibiotics
+Blood transfusion
+Defibrillator
+Ultrasound machine
+MRI machine
+Prosthetic limb
+Wheelchair
+Crutches
+Braille
+Sign language
+Alphabet
+Writing
+Hieroglyphs
+Library
+Encyclopedia
+Newspaper
+Magazine
+Comic book
+Book
+Scroll
+Papyrus
+Ink
+Quill
+Fountain pen
+Marker
+Crayon
+Highlighter
+Whiteboard
+Blackboard
+Chalk
+Projector
+Overhead projector
+Gramophone
+Jukebox
+Disco ball
+Karaoke machine
+Synthesizer
+Drum machine
+Metronome
+Syringe
+Scalpel
+Forceps
+Splint
+Thomas Edison
+Alexander Graham Bell
+Nikola Tesla
+Guglielmo Marconi
+Johannes Gutenberg
+Wright Brothers
+Henry Ford
+Karl Benz
+Samuel Morse
+Benjamin Franklin
+Leonardo da Vinci
+Archimedes
+Galileo Galilei
+Isaac Newton
+Alfred Nobel
+Louis Pasteur
+Alexander Fleming
+Marie Curie
+James Watt
+Robert Fulton
+Eli Whitney
+George Stephenson
+Charles Babbage
+Alan Turing
+Tim Berners-Lee
+Steve Jobs
+Bill Gates
+Elon Musk
+Louis Braille
+John Logie Baird
+Lumiere Brothers
+George Eastman
+Alessandro Volta
+James Dyson
+Ada Lovelace
+Hedy Lamarr
+Grace Hopper
+Levi Strauss
+King Camp Gillette
+Gustave Eiffel
+Eureka moment
+Patent
+Prototype
+Blueprint
+Inventor
+Time machine
+Perpetual motion machine
+Flying machine
+Rube Goldberg machine
+Jetpack
+Hoverboard
+Segway
+Smartwatch
+Fitness tracker
+E-reader
+Kindle
+Tablet
+Touchscreen
+Computer mouse
+Keyboard
+USB stick
+Floppy disk
+Hard drive
+Wi-Fi
+Bluetooth
+Search engine
+Social network
+Webcam
+Video call
+Streaming
+Podcast
+Digital music
+Blu-ray
+DVD
+VHS tape
+Vending machine
+Shopping cart
+Revolving door
+Spiral staircase
+Drawbridge
+Catapult
+Trebuchet
+Battering ram
+Chariot
+Sleigh
+Snow globe
+Piggy bank
+Magic lantern
+Kaleidoscope
+Periscope
+Binoculars
+Magnifying glass
+Spirit level
+Tape measure
+Ruler
+Scale
+Sextant
+Astrolabe
+Weather vane
+Barometer
+Lightning conductor
+Thermostat
+Central heating
+Fireplace
+Chimney
+Oven
+Bread maker
+Blender
+Food processor
+Coffee machine
+Espresso machine
+Teabag
+Instant coffee
+Soda
+Bottled water
+Straw
+Paper cup
+Glue
+Duct tape
+Super glue
+Rubber band

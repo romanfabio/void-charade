@@ -1,0 +1,408 @@
+Sherlock Holmes
+Dr. Watson
+Professor Moriarty
+Hercule Poirot
+Miss Marple
+James Bond
+Indiana Jones
+Harry Potter
+Hermione Granger
+Ron Weasley
+Albus Dumbledore
+Severus Snape
+Lord Voldemort
+Hagrid
+Draco Malfoy
+Sirius Black
+Luna Lovegood
+Neville Longbottom
+Dobby
+Gandalf
+Frodo Baggins
+Samwise Gamgee
+Aragorn
+Legolas
+Gimli
+Gollum
+Bilbo Baggins
+Saruman
+Sauron
+Boromir
+Galadriel
+Smaug
+Luke Skywalker
+Darth Vader
+Princess Leia
+Han Solo
+Chewbacca
+Yoda
+Obi-Wan Kenobi
+R2-D2
+C-3PO
+Emperor Palpatine
+Boba Fett
+Jabba the Hutt
+Jar Jar Binks
+Anakin Skywalker
+Kylo Ren
+Captain Kirk
+Spock
+Dr. McCoy
+Jean-Luc Picard
+Captain Janeway
+Superman
+Clark Kent
+Lois Lane
+Lex Luthor
+Batman
+Bruce Wayne
+Robin
+Joker
+Harley Quinn
+Catwoman
+Penguin
+Riddler
+Two-Face
+Bane
+Alfred Pennyworth
+Commissioner Gordon
+Wonder Woman
+Aquaman
+The Flash
+Green Lantern
+Supergirl
+Spider-Man
+Peter Parker
+Mary Jane Watson
+Green Goblin
+Doctor Octopus
+Venom
+Iron Man
+Tony Stark
+Captain America
+Thor
+Loki
+Hulk
+Black Widow
+Black Panther
+Doctor Strange
+Ant-Man
+Captain Marvel
+Scarlet Witch
+Star-Lord
+Gamora
+Drax
+Groot
+Nebula
+Thanos
+Ultron
+Nick Fury
+Deadpool
+Wolverine
+Professor X
+Magneto
+Cyclops
+Jean Grey
+Mystique
+Nightcrawler
+Daredevil
+Punisher
+Silver Surfer
+Galactus
+Mr. Fantastic
+Human Torch
+The Thing
+Invisible Woman
+Dr. Doom
+Hellboy
+Blade
+Ghost Rider
+Judge Dredd
+Captain Haddock
+Dorothy Gale
+Scarecrow
+Tin Man
+Wicked Witch of the West
+Wizard of Oz
+Glinda
+Robin Hood
+Little John
+Maid Marian
+Sheriff of Nottingham
+King Arthur
+Lancelot
+Merlin
+Guinevere
+Morgan le Fay
+Zorro
+Don Quixote
+Sancho Panza
+Robinson Crusoe
+Gulliver
+Captain Nemo
+Phileas Fogg
+Passepartout
+Captain Ahab
+Ishmael
+Long John Silver
+Jim Hawkins
+Tom Sawyer
+Huckleberry Finn
+Oliver Twist
+Fagin
+Artful Dodger
+Ebenezer Scrooge
+Tiny Tim
+Jacob Marley
+David Copperfield
+Miss Havisham
+Jane Eyre
+Mr. Rochester
+Heathcliff
+Cathy Earnshaw
+Elizabeth Bennet
+Mr. Darcy
+Emma Woodhouse
+Anna Karenina
+Count Vronsky
+Raskolnikov
+Natasha Rostova
+Prince Andrei
+Pierre Bezukhov
+Jean Valjean
+Javert
+Cosette
+Fantine
+Count of Monte Cristo
+Edmond Dantes
+The Three Musketeers
+D'Artagnan
+Athos
+Porthos
+Aramis
+Cyrano de Bergerac
+Phantom of the Opera
+Christine Daae
+Dracula
+Van Helsing
+Jonathan Harker
+Frankenstein
+Frankenstein's Monster
+Victor Frankenstein
+Dr. Jekyll
+Mr. Hyde
+Invisible Man
+The Wolf Man
+The Mummy
+Creature from the Black Lagoon
+Norman Bates
+Hannibal Lecter
+Clarice Starling
+Freddy Krueger
+Jason Voorhees
+Michael Myers
+Leatherface
+Chucky
+Pennywise
+Jack Torrance
+Carrie White
+Annie Wilkes
+Pinhead
+Ghostface
+Jigsaw
+Regan MacNeil
+Damien Thorn
+Samara Morgan
+Xenomorph
+Ellen Ripley
+The Terminator
+John McClane
+Rocky Balboa
+Rambo
+Ace Ventura
+Forrest Gump
+Jenny Curran
+Scarface
+Tony Montana
+Don Vito Corleone
+Michael Corleone
+Travis Bickle
+Vincent Vega
+Jules Winnfield
+Mia Wallace
+The Dude
+Walter White
+Jesse Pinkman
+Saul Goodman
+Tony Soprano
+Homelander
+Neo
+Morpheus
+Trinity
+Agent Smith
+Marty McFly
+Doc Brown
+Biff Tannen
+Ferris Bueller
+Bridget Jones
+Mary Poppins
+Willy Wonka
+Charlie Bucket
+Matilda
+Miss Trunchbull
+Augustus Gloop
+Oompa Loompa
+James and the Giant Peach
+Fantastic Mr. Fox
+The BFG
+Paddington Bear
+Peter Rabbit
+Mr. Tumnus
+Aslan
+Lucy Pevensie
+Edmund Pevensie
+White Witch
+Reepicheep
+Katniss Everdeen
+Peeta Mellark
+President Snow
+Bella Swan
+Edward Cullen
+Jacob Black
+Percy Jackson
+Artemis Fowl
+Eragon
+Geralt of Rivia
+Yennefer
+Jon Snow
+Daenerys Targaryen
+Tyrion Lannister
+Cersei Lannister
+Arya Stark
+Sansa Stark
+Ned Stark
+Jaime Lannister
+Joffrey Baratheon
+The Hound
+Bran Stark
+Lara Croft
+Mario
+Luigi
+Princess Peach
+Bowser
+Yoshi
+Donkey Kong
+Link
+Zelda
+Ganondorf
+Samus Aran
+Sonic the Hedgehog
+Dr. Eggman
+Knuckles
+Pac-Man
+Mega Man
+Kratos
+Master Chief
+Solid Snake
+Cloud Strife
+Sephiroth
+Crash Bandicoot
+Spyro
+Rayman
+Ezio Auditore
+Nathan Drake
+Gordon Freeman
+Duke Nukem
+Kirby
+Ryu
+Chun-Li
+Scorpion
+Sub-Zero
+Carmen Sandiego
+Waldo
+Nancy Drew
+Hardy Boys
+Mr. Bean
+Austin Powers
+Jack Sparrow
+Davy Jones
+Captain Barbossa
+Elizabeth Swann
+Will Turner
+Peter Venkman
+Slimer
+Stay Puft Marshmallow Man
+Beetlejuice
+Edward Scissorhands
+Ron Burgundy
+Napoleon Dynamite
+Borat
+Ali G
+Optimus Prime
+Godzilla
+King Kong
+Mothra
+Gamera
+Bumblebee
+Megatron
+Alf
+E.T.
+HAL 9000
+Johnny 5
+Robby the Robot
+Marvin the Paranoid Android
+Arthur Dent
+Ford Prefect
+Zaphod Beeblebrox
+Paul Atreides
+Baron Harkonnen
+Jack Reacher
+Jason Bourne
+Ethan Hunt
+Lisbeth Salander
+Robert Langdon
+Dirk Gently
+Jeeves
+Bertie Wooster
+Inspector Morse
+Inspector Lestrade
+Mrs. Hudson
+Irene Adler
+Miss Moneypenny
+Goldfinger
+Blofeld
+Oddjob
+Dr. No
+Auric Goldfinger
+Jaws
+Tarzan
+Conan the Barbarian
+Red Sonja
+Tank Girl
+The Shadow
+The Phantom
+The Lone Ranger
+Rooster Cogburn
+Atticus Finch
+Scout Finch
+Boo Radley
+Holden Caulfield
+Jay Gatsby
+Daisy Buchanan
+Nick Carraway
+Humbert Humbert
+Lolita
+Winston Smith
+Big Brother
+Gregor Samsa
+Dorian Gray
+Sydney Carton
+Jo March
+Anne of Green Gables
+Pollyanna
+Heidi
+Pippi Longstocking
+Rick Deckard
+Robocop
+Max Rockatansky
+Furiosa

@@ -1,0 +1,434 @@
+Medico
+Dottore
+Infermiere
+Chirurgo
+Dentista
+Igienista dentale
+Farmacista
+Paramedico
+Ostetrica
+Veterinario
+Oculista
+Psicologo
+Psichiatra
+Fisioterapista
+Radiologo
+Anestesista
+Pediatra
+Cardiologo
+Dermatologo
+Ginecologo
+Maestro
+Maestra
+Professore
+Preside
+Maestra d'asilo
+Bibliotecario
+Bidello
+Autista dello scuolabus
+Vigile
+Nonno vigile
+Poliziotto
+Carabiniere
+Finanziere
+Commissario
+Detective
+Investigatore privato
+Pompiere
+Vigile del fuoco
+Soldato
+Alpino
+Bersagliere
+Pilota
+Hostess
+Assistente di volo
+Steward
+Controllore di volo
+Astronauta
+Marinaio
+Capitano
+Bagnino
+Guardia costiera
+Guardia giurata
+Guardia del corpo
+Buttafuori
+Giudice
+Avvocato
+Pubblico ministero
+Notaio
+Cancelliere
+Politico
+Sindaco
+Presidente del Consiglio
+Presidente della Repubblica
+Ministro
+Onorevole
+Senatore
+Diplomatico
+Spia
+Doganiere
+Agente penitenziario
+Cuoco
+Chef
+Pasticcere
+Panettiere
+Fornaio
+Pizzaiolo
+Macellaio
+Pescivendolo
+Fruttivendolo
+Salumiere
+Gelataio
+Cameriere
+Cameriera
+Barista
+Barman
+Sommelier
+Lavapiatti
+Oste
+Pastaio
+Casaro
+Commesso
+Commessa
+Cassiere
+Cassiera
+Negoziante
+Ambulante
+Edicolante
+Tabaccaio
+Lavavetri
+Postino
+Corriere
+Fattorino
+Rider
+Tassista
+Autista
+Autista di autobus
+Macchinista
+Camionista
+Conducente del tram
+Pilota di Formula 1
+Ciclista
+Meccanico
+Gommista
+Carrozziere
+Elettricista
+Idraulico
+Falegname
+Muratore
+Imbianchino
+Carpentiere
+Piastrellista
+Vetraio
+Fabbro
+Saldatore
+Scalpellino
+Architetto
+Ingegnere
+Geometra
+Gruista
+Operaio
+Caposquadra
+Giardiniere
+Contadino
+Agricoltore
+Pastore
+Allevatore
+Pescatore
+Boscaiolo
+Minatore
+Apicoltore
+Casaro di montagna
+Guardiacaccia
+Addestratore di cani
+Toelettatore
+Fantino
+Domatore
+Dog sitter
+Pet sitter
+Donna delle pulizie
+Bidello della scuola
+Custode
+Portinaio
+Netturbino
+Spazzacamino
+Disinfestatore
+Tuttofare
+Governante
+Cameriera ai piani
+Maggiordomo
+Tata
+Baby sitter
+Badante
+Segretaria
+Receptionist
+Assistente personale
+Ragioniere
+Commercialista
+Impiegato di banca
+Direttore di banca
+Agente di borsa
+Consulente finanziario
+Assicuratore
+Agente immobiliare
+Banditore
+Venditore
+Rappresentante
+Venditore porta a porta
+Operatore di call center
+Direttore
+Capo
+Capufficio
+Amministratore delegato
+Imprenditore
+Consulente
+Stagista
+Impiegato
+Giornalista
+Cronista
+Conduttore del telegiornale
+Meteorologo
+Direttore del giornale
+Fotografo
+Cameraman
+Speaker radiofonico
+Telecronista
+Regista
+Produttore
+Attore
+Attrice
+Controfigura
+Comparsa
+Doppiatore
+Clown
+Mago
+Giocoliere
+Acrobata
+Funambulo
+Presentatore
+Comico
+Cabarettista
+Mimo
+Artista di strada
+Cantante
+Musicista
+Direttore d'orchestra
+Pianista
+Batterista
+Chitarrista
+Violinista
+Cantante lirico
+Compositore
+Paroliere
+Produttore musicale
+Fonico
+Ballerino
+Ballerina
+Coreografo
+Pittore
+Scultore
+Illustratore
+Fumettista
+Grafico
+Stilista
+Arredatore
+Sarto
+Sarta
+Parrucchiere
+Barbiere
+Truccatore
+Estetista
+Manicure
+Tatuatore
+Massaggiatore
+Personal trainer
+Istruttore di yoga
+Allenatore
+Arbitro
+Calciatore
+Tennista
+Golfista
+Pugile
+Nuotatore
+Ginnasta
+Maestro di sci
+Istruttore di guida
+Insegnante di danza
+Istruttore di nuoto
+Scienziato
+Chimico
+Fisico
+Biologo
+Archeologo
+Geologo
+Astronomo
+Climatologo
+Botanico
+Inventore
+Ricercatore
+Tecnico di laboratorio
+Informatico
+Programmatore
+Sviluppatore
+Web designer
+Hacker
+Tecnico informatico
+Analista
+Influencer
+Youtuber
+Blogger
+Streamer
+Scrittore
+Poeta
+Romanziere
+Drammaturgo
+Sceneggiatore
+Traduttore
+Interprete
+Correttore di bozze
+Editore
+Libraio
+Prete
+Parroco
+Suora
+Frate
+Monaco
+Vescovo
+Papa
+Sacrestano
+Becchino
+Impresario di pompe funebri
+Fioraio
+Gioielliere
+Orologiaio
+Ceramista
+Vasaio
+Soffiatore di vetro
+Tessitore
+Calzolaio
+Ciabattino
+Tappezziere
+Ebanista
+Tipografo
+Rilegatore
+Incisore
+Liutaio
+Birraio
+Viticoltore
+Enologo
+Distillatore
+Guida turistica
+Agente di viaggio
+Direttore d'albergo
+Facchino
+Portiere d'albergo
+Concierge
+Animatore del villaggio
+Gondoliere
+Pirata
+Cavaliere
+Gladiatore
+Moschettiere
+Mago Merlino
+Babbo Natale
+Befana
+Supereroe
+Sirena
+Fachiro
+Veggente
+Cartomante
+Astrologo
+Esorcista
+Lattaio
+Strillone
+Lampionaio
+Spaventapasseri
+Cacciatore di taglie
+Cacciatore di tesori
+Palombaro
+Istruttore di paracadutismo
+Guida alpina
+Guardia forestale
+Guida del safari
+Bagnino della spiaggia
+Giostraio
+Croupier
+Giocatore d'azzardo
+Borseggiatore
+Ladro
+Falsario
+Contrabbandiere
+Apprendista
+Tirocinante
+Volontario
+Assistente sociale
+Educatore
+Life coach
+Wedding planner
+Organizzatore di eventi
+Disc jockey
+Animatore
+Valletta
+Mascotte
+Cheerleader
+Raccattapalle
+Guardalinee
+Custode dello stadio
+Custode del campo da golf
+Caddie
+Scaricatore di porto
+Portabagagli
+Controllore
+Capostazione
+Casellante
+Spazzino
+Benzinaio
+Venditore di auto
+Collaudatore
+Meccanico della Ferrari
+Pilota di rally
+Corriere in moto
+Stuntman
+Suggeritore
+Maschera del cinema
+Proiezionista
+Biglietteraio
+Scenografo
+Costumista
+Elettricista di scena
+Roadie
+Talent scout
+Agente
+Addetto stampa
+Paparazzo
+Modella
+Modello
+Indossatrice
+Postina
+Ortolano
+Droghiere
+Carbonaio
+Arrotino
+Stagnino
+Materassaio
+Impagliatore di sedie
+Ombrellaio
+Maniscalco
+Mugnaio
+Lattoniere
+Cantoniere
+Magistrato
+Cancelliere del tribunale
+Ufficiale giudiziario
+Questore
+Prefetto
+Generale
+Colonnello
+Maresciallo
+Marò
+Sommozzatore
+Carabiniere a cavallo
+Gelataio ambulante
+Venditore di caldarroste
+Cantastorie
+Cuoco stellato

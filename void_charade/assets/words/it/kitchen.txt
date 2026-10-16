@@ -1,0 +1,358 @@
+Padella
+Padella antiaderente
+Pentola
+Pentola a pressione
+Pentola per la pasta
+Pentolino
+Casseruola
+Tegame
+Teglia
+Teglia da forno
+Wok
+Griglia
+Piastra
+Bistecchiera
+Friggitrice ad aria
+Friggitrice
+Slow cooker
+Robot multifunzione
+Planetaria
+Frullatore
+Frullatore a immersione
+Mixer
+Sbattitore elettrico
+Centrifuga
+Spremiagrumi
+Macchina del pane
+Macchina per la pasta
+Gelatiera
+Forno
+Forno a microonde
+Forno a legna
+Forno elettrico
+Fornello
+Piano cottura
+Piano a induzione
+Fuoco a gas
+Cappa aspirante
+Frigorifero
+Congelatore
+Lavastoviglie
+Tostapane
+Bollitore
+Caffettiera
+Moka
+Macchina del caffè
+Macchinetta del caffè
+Caffettiera napoletana
+Teiera
+Bricco
+Piastra per i waffle
+Tostiera
+Griglia per il barbecue
+Barbecue
+Spiedo
+Spiedino
+Affettatrice
+Coltello
+Coltello da chef
+Coltello del pane
+Coltello da bistecca
+Coltello da formaggio
+Mezzaluna
+Mannaia
+Affilacoltelli
+Tagliere
+Pelapatate
+Grattugia
+Grattugia per il formaggio
+Schiacciaaglio
+Schiacciapatate
+Passaverdure
+Passapomodoro
+Mandolina
+Taglia pizza
+Taglia uova
+Apriscatole
+Apribottiglie
+Cavatappi
+Schiaccianoci
+Mortaio e pestello
+Macinapepe
+Saliera
+Oliera
+Porta spezie
+Bilancia digitale
+Misurino
+Cucchiai dosatori
+Ciotola
+Terrina
+Scolapasta
+Colino
+Colapasta
+Imbuto
+Centrifuga per l'insalata
+Frusta
+Cucchiaio di legno
+Mestolo
+Schiumarola
+Paletta
+Spatola
+Pinza per alimenti
+Forchettone
+Mattarello
+Pennello in silicone
+Sac à poche
+Tagliapasta
+Formine per biscotti
+Griglia per dolci
+Carta forno
+Carta stagnola
+Pellicola trasparente
+Presina
+Guanto da forno
+Grembiule
+Cappello da chef
+Strofinaccio
+Canovaccio
+Scolapiatti
+Detersivo per i piatti
+Spugna
+Paglietta
+Lavello
+Rubinetto
+Piano di lavoro
+Isola centrale
+Pensile
+Credenza
+Dispensa
+Cassetto delle posate
+Lavandino
+Pattumiera
+Raccolta differenziata
+Portapranzo
+Thermos
+Ricettario
+Ricetta
+Timer
+Termometro per arrosti
+Servizio di piatti
+Piatto fondo
+Piatto piano
+Piatto da portata
+Vassoio
+Ciotola per la zuppa
+Zuppiera
+Tazza
+Tazzina
+Bicchiere
+Calice
+Bicchiere di plastica
+Caraffa
+Brocca
+Sottobicchiere
+Tovaglia
+Tovagliolo
+Runner da tavola
+Sottopentola
+Forchetta
+Cucchiaio
+Cucchiaino
+Bacchette
+Stuzzicadenti
+Cannuccia
+Alzata per dolci
+Portaburro
+Zuccheriera
+Burriera
+Cestino del pane
+Contenitore ermetico
+Barattolo
+Barattolo di vetro
+Vasetto
+Sacchetto per il freezer
+Carta assorbente
+Scottex
+Guanti di gomma
+Spray sgrassatore
+Sgrassatore
+Tagliare
+Affettare
+Tritare
+Sminuzzare
+Sbucciare
+Pelare
+Grattugiare
+Mescolare
+Girare il sugo
+Frullare
+Montare gli albumi
+Montare la panna
+Sbattere le uova
+Rompere un uovo
+Separare il tuorlo
+Impastare
+Stendere la sfoglia
+Tirare la pasta
+Setacciare la farina
+Versare
+Spremere
+Condire
+Insaporire
+Marinare
+Bollire
+Far bollire l'acqua
+Lessare
+Scolare la pasta
+Buttare la pasta
+Sobbollire
+Cuocere a vapore
+Friggere
+Soffriggere
+Rosolare
+Saltare in padella
+Arrostire
+Infornare
+Sfornare
+Grigliare
+Fare il barbecue
+Tostare il pane
+Abbrustolire
+Stufare
+Brasare
+Flambare
+Caramellare
+Sciogliere il burro
+Sciogliere il cioccolato
+Girare la frittata
+Fare le crêpes
+Tagliare la cipolla
+Piangere tagliando la cipolla
+Pelare le patate
+Tritare il prezzemolo
+Preriscaldare il forno
+Scongelare
+Scaldare nel microonde
+Assaggiare il sugo
+Spalmare il burro
+Spalmare la Nutella
+Aprire un barattolo
+Aprire una scatoletta
+Stappare una bottiglia
+Stappare lo spumante
+Preparare la cena
+Cucinare
+Cucinare la pasta
+Fare il caffè
+Fare il tè
+Fare i pop corn
+Fare il ragù
+Fare la pizza
+Fare la pasta fresca
+Fare i tortellini
+Fare il tiramisù
+Infarinare
+Panare le cotolette
+Farcire
+Spennellare
+Decorare una torta
+Mettere il sale
+Salare l'acqua
+Spegnere il fuoco
+Accendere il gas
+Bruciare l'arrosto
+Far scuocere la pasta
+Pasta al dente
+Pasta scotta
+Sugo che sbrodola
+Pentola che trabocca
+Latte che trabocca
+Apparecchiare la tavola
+Sparecchiare la tavola
+Lavare i piatti
+Asciugare i piatti
+Caricare la lavastoviglie
+Svuotare la lavastoviglie
+Pulire il piano cottura
+Buttare la spazzatura
+Imbandire la tavola
+Chef
+Cuoco
+Sous chef
+Pasticcere
+Pizzaiolo
+Nonna ai fornelli
+Masterchef
+Antonino Cannavacciuolo
+Bruno Barbieri
+Carlo Cracco
+Benedetta Rossi
+Corso di pasticceria
+Talent show culinario
+Cucinare in diretta
+Lievito
+Lievito di birra
+Impasto
+Pasta frolla
+Pasta sfoglia
+Pastella
+Glassa
+Codette colorate
+Vaniglia
+Farina
+Zucchero a velo
+Olio di semi
+Strutto
+Mattarello della nonna
+Tagliere di legno
+Pentola di coccio
+Pignatta
+Pentola di rame
+Coperchio
+Manico
+Beccuccio
+Fischio della pentola
+Bollitore elettrico
+Tostapane a fette
+Scolapiatti a muro
+Portarotolo
+Portacoltelli
+Portaposate
+Rack per le spezie
+Cestello per la frutta
+Fruttiera
+Insalatiera
+Pirofila
+Pirofila di vetro
+Stampo per torte
+Stampo per muffin
+Stampo per ciambella
+Tortiera
+Tortiera apribile
+Stampino
+Sbattiuova
+Girarrosto
+Cavatappi a leva
+Decanter
+Secchiello del ghiaccio
+Vaschetta per il ghiaccio
+Shaker
+Frullino
+Schiumino per il latte
+Cannello per caramellare
+Coltello da pane
+Cucchiaio da minestra
+Cucchiaio da dessert
+Cucchiaino da caffè
+Forchetta da dolce
+Piatto da dessert
+Fondina
+Scodella
+Tazza da colazione
+Tazza da tè
+Bollitore del tè
+Colino del tè
+Filtro del caffè
+Filtro
+Cucchiaio forato
+Imbuto per l'olio

@@ -1,0 +1,409 @@
+Pizza margherita
+Pizza napoletana
+Pizza quattro formaggi
+Pizza quattro stagioni
+Pizza diavola
+Pizza capricciosa
+Pizza marinara
+Calzone
+Focaccia
+Focaccia genovese
+Piadina
+Crescentina
+Tigella
+Panzerotto
+Arancini
+Supplì
+Olive all'ascolana
+Crocchette di patate
+Fritto misto
+Spaghetti alla carbonara
+Spaghetti all'amatriciana
+Spaghetti alle vongole
+Aglio olio e peperoncino
+Spaghetti al pomodoro
+Spaghetti alla puttanesca
+Spaghetti cacio e pepe
+Spaghetti alla bolognese
+Tagliatelle al ragù
+Lasagne
+Lasagne alla bolognese
+Cannelloni
+Tortellini in brodo
+Tortelli di zucca
+Ravioli
+Agnolotti
+Gnocchi
+Gnocchi alla sorrentina
+Penne all'arrabbiata
+Penne alla vodka
+Rigatoni
+Fusilli
+Farfalle
+Orecchiette
+Orecchiette alle cime di rapa
+Trofie al pesto
+Pesto alla genovese
+Pasta alla norma
+Pasta e fagioli
+Pasta e ceci
+Pasta al forno
+Pasta alla gricia
+Bucatini
+Paccheri
+Pappardelle al cinghiale
+Pizzoccheri
+Strozzapreti
+Risotto alla milanese
+Risotto ai funghi
+Risotto allo zafferano
+Risotto alla pescatora
+Polenta
+Polenta e funghi
+Minestrone
+Ribollita
+Pappa al pomodoro
+Zuppa di cipolle
+Zuppa di legumi
+Passato di verdure
+Brodo
+Stracciatella
+Cotoletta alla milanese
+Ossobuco
+Saltimbocca alla romana
+Bistecca alla fiorentina
+Tagliata di manzo
+Carpaccio
+Vitello tonnato
+Bollito misto
+Brasato al Barolo
+Polpette
+Polpettone
+Spezzatino
+Trippa alla romana
+Coda alla vaccinara
+Porchetta
+Arrosto di maiale
+Pollo arrosto
+Pollo alla cacciatora
+Pollo alla diavola
+Involtini
+Scaloppine al limone
+Salsiccia
+Salsiccia e friarielli
+Wurstel
+Prosciutto crudo
+Prosciutto cotto
+Mortadella
+Bresaola
+Speck
+Salame
+Salame piccante
+Coppa
+Pancetta
+Guanciale
+Nduja
+Culatello
+Cotechino
+Zampone
+Lenticchie
+Baccalà mantecato
+Baccalà alla vicentina
+Frittura di paranza
+Fritto di calamari
+Sarde a beccafico
+Pesce spada
+Orata al forno
+Branzino
+Tonno
+Salmone
+Acciughe
+Cozze
+Vongole
+Gamberi
+Scampi
+Polpo
+Seppie
+Calamari ripieni
+Insalata di mare
+Insalata caprese
+Insalata russa
+Insalata mista
+Insalata di riso
+Panzanella
+Caponata
+Parmigiana di melanzane
+Peperonata
+Verdure grigliate
+Bruschetta
+Crostini
+Tramezzino
+Panino con la porchetta
+Panino con la mortadella
+Toast
+Schiacciata
+Grissini
+Taralli
+Pane casereccio
+Pane carasau
+Ciabatta
+Michetta
+Rosetta
+Pane e Nutella
+Pane e salame
+Antipasto misto
+Tagliere di salumi
+Mozzarella
+Mozzarella di bufala
+Burrata
+Stracciatella di burrata
+Parmigiano Reggiano
+Grana Padano
+Pecorino romano
+Pecorino toscano
+Gorgonzola
+Provolone
+Caciocavallo
+Asiago
+Fontina
+Taleggio
+Scamorza
+Ricotta
+Mascarpone
+Stracchino
+Caprino
+Fiordilatte
+Burro
+Olio d'oliva
+Aceto balsamico
+Sale grosso
+Pepe nero
+Peperoncino
+Origano
+Basilico
+Prezzemolo
+Rosmarino
+Salvia
+Aglio
+Cipolla
+Pomodoro
+Pomodori secchi
+Pomodorini
+Passata di pomodoro
+Melanzana
+Zucchina
+Peperone
+Carciofo
+Asparagi
+Spinaci
+Cavolfiore
+Broccoli
+Cavolo nero
+Radicchio
+Rucola
+Lattuga
+Finocchio
+Sedano
+Carota
+Patata
+Patate fritte
+Patate al forno
+Purè di patate
+Fagioli
+Ceci
+Piselli
+Fave
+Funghi porcini
+Tartufo
+Zucca
+Cetriolo
+Ravanello
+Mais
+Olive
+Capperi
+Cipolla di Tropea
+Mela
+Pera
+Pesca
+Albicocca
+Ciliegia
+Fragola
+Lampone
+Mirtillo
+Uva
+Fico
+Melone
+Anguria
+Arancia
+Mandarino
+Limone
+Pompelmo
+Banana
+Ananas
+Kiwi
+Mango
+Cocco
+Avocado
+Melograno
+Prugna
+Castagna
+Noce
+Nocciola
+Mandorla
+Pistacchio
+Arachidi
+Pinoli
+Uvetta
+Datteri
+Cachi
+Gelato
+Gelato alla nocciola
+Gelato al pistacchio
+Gelato alla stracciatella
+Cono gelato
+Coppa gelato
+Cornetto algida
+Magnum
+Ghiacciolo
+Granita siciliana
+Brioche con la granita
+Sorbetto al limone
+Affogato al caffè
+Semifreddo
+Tiramisù
+Panna cotta
+Cannolo siciliano
+Cassata siciliana
+Sfogliatella
+Babà
+Pastiera napoletana
+Zeppole
+Bignè
+Profiterole
+Maritozzo
+Cornetto
+Cornetto alla crema
+Krapfen
+Bomboloni
+Ciambellone
+Crostata
+Torta della nonna
+Torta di mele
+Torta caprese
+Torta paradiso
+Torta Sacher
+Millefoglie
+Mimosa
+Panettone
+Pandoro
+Colomba pasquale
+Torrone
+Panforte
+Cantucci
+Amaretti
+Baci di dama
+Biscotti
+Biscotti al burro
+Savoiardi
+Pavesini
+Wafer
+Cioccolato
+Cioccolato fondente
+Cioccolato al latte
+Cioccolatini
+Baci Perugina
+Gianduiotto
+Nutella
+Marmellata
+Miele
+Zucchero
+Zucchero filato
+Caramelle
+Mou
+Liquirizia
+Gomma da masticare
+Castagnaccio
+Frittelle
+Chiacchiere
+Castagnole
+Struffoli
+Zabaione
+Budino
+Latte
+Panna
+Yogurt
+Cereali
+Fette biscottate
+Biscotti da inzuppo
+Merendina
+Brioches
+Pane e burro
+Uova
+Uova al tegamino
+Uova strapazzate
+Frittata
+Uova sode
+Spaghettata di mezzanotte
+Pancake
+Waffle
+Hamburger
+Cheeseburger
+Hot dog
+Patatine
+Patatine fritte
+Kebab
+Pollo fritto
+Nuggets di pollo
+Sushi
+Ramen
+Involtini primavera
+Riso alla cantonese
+Paella
+Cous cous
+Falafel
+Hummus
+Tacos
+Burrito
+Nachos
+Cacio e uova
+Pane cunzato
+Pizza fritta
+Caffè
+Espresso
+Caffè macchiato
+Cappuccino
+Caffè corretto
+Caffè latte
+Marocchino
+Cioccolata calda
+Tè freddo
+Tè caldo
+Camomilla
+Spremuta d'arancia
+Succo di frutta
+Frullato
+Limonata
+Aranciata
+Chinotto
+Gazzosa
+Acqua frizzante
+Coca Cola
+Birra
+Vino rosso
+Vino bianco
+Prosecco
+Spumante
+Lambrusco
+Chianti
+Barolo
+Aperol Spritz
+Negroni
+Campari
+Limoncello
+Grappa
+Amaro
+Sambuca
+Vin santo
+Bellini
+Mojito
+Cocktail
