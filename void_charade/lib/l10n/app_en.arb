@@ -24,6 +24,8 @@
   "languageSameAsApp": "Auto",
   "languageItalian": "Italiano",
   "languageEnglish": "English",
+  "languageNameItalian": "Italian",
+  "languageNameEnglish": "English",
   "roundDuration": "Round duration",
   "countdownDuration": "Countdown",
   "secondsValue": "{seconds} s",
@@ -67,6 +69,7 @@
   "resultsGuessed": "Guessed",
   "resultsSkipped": "Skipped",
   "resultsNotPlayed": "Not played",
+  "aboutLegalese": "Fonts: Lilita One and Nunito (SIL Open Font License 1.1). Sound effects were generated for this app. Works fully offline: no ads, no tracking.",
   "playAgain": "Play again",
   "backToCategories": "Categories"
 }

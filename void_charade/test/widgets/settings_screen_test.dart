@@ -105,6 +105,15 @@ void main() {
     expect(haptics.patterns, [HapticPatterns.correct]);
   });
 
+  testWidgets('the about tile opens the credits', (tester) async {
+    await _pump(tester);
+    await tester.tap(find.text('Version 1.0.0'));
+    await tester.pumpAndSettle();
+    expect(find.textContaining('SIL Open Font License'), findsOneWidget);
+    expect(find.textContaining('no ads, no tracking'), findsOneWidget);
+    expect(find.text('View licenses'), findsOneWidget);
+  });
+
   testWidgets('tick toggle is disabled while sounds are off', (tester) async {
     await _pump(tester);
 

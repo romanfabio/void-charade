@@ -66,6 +66,12 @@ class AppLocalizationsIt extends AppLocalizations {
   String get languageEnglish => 'English';
 
   @override
+  String get languageNameItalian => 'italiano';
+
+  @override
+  String get languageNameEnglish => 'inglese';
+
+  @override
   String get roundDuration => 'Durata del round';
 
   @override
@@ -162,6 +168,10 @@ class AppLocalizationsIt extends AppLocalizations {
 
   @override
   String get resultsNotPlayed => 'Non giocata';
+
+  @override
+  String get aboutLegalese =>
+      'Font: Lilita One e Nunito (SIL Open Font License 1.1). Gli effetti sonori sono stati generati per questa app. Funziona completamente offline: niente pubblicità, niente tracciamento.';
 
   @override
   String get playAgain => 'Gioca ancora';

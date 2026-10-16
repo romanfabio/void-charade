@@ -1,3 +1,6 @@
+import 'dart:async';
+import 'dart:math' as math;
+
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
@@ -22,8 +25,9 @@ class CategoriesScreen extends ConsumerWidget {
     final roundSeconds = ref.watch(
       settingsProvider.select((s) => s.roundSeconds),
     );
-    final wordLanguageName =
-        wordLanguage == 'it' ? l10n.languageItalian : l10n.languageEnglish;
+    final wordLanguageName = wordLanguage == 'it'
+        ? l10n.languageNameItalian
+        : l10n.languageNameEnglish;
 
     return Scaffold(
       body: SafeArea(
@@ -34,6 +38,14 @@ class CategoriesScreen extends ConsumerWidget {
                 padding: const EdgeInsets.fromLTRB(20, 12, 8, 8),
                 child: Row(
                   children: [
+                    Image.asset(
+                      'assets/branding/logo.png',
+                      width: 56,
+                      height: 56,
+                      // The logo is decoration: never let it break the screen.
+                      errorBuilder: (_, _, _) => const SizedBox(width: 56),
+                    ),
+                    const SizedBox(width: 10),
                     Expanded(
                       child: Column(
                         crossAxisAlignment: CrossAxisAlignment.start,
@@ -71,27 +83,33 @@ class CategoriesScreen extends ConsumerWidget {
                     crossAxisAlignment: CrossAxisAlignment.stretch,
                     children: [
                       Expanded(
-                        child: _SpecialTile(
-                          emoji: '🎲',
-                          label: l10n.randomCategory,
-                          gradient: AppColors.partyGradient,
-                          onTap: () => startRound(
-                            context,
-                            ref,
-                            const RandomCategorySelection(),
+                        child: _PopIn(
+                          index: 0,
+                          child: _SpecialTile(
+                            emoji: '🎲',
+                            label: l10n.randomCategory,
+                            gradient: AppColors.partyGradient,
+                            onTap: () => startRound(
+                              context,
+                              ref,
+                              const RandomCategorySelection(),
+                            ),
                           ),
                         ),
                       ),
                       const SizedBox(width: 12),
                       Expanded(
-                        child: _SpecialTile(
-                          emoji: '🌀',
-                          label: l10n.mixAll,
-                          gradient: AppColors.coolGradient,
-                          onTap: () => startRound(
-                            context,
-                            ref,
-                            const MixAllSelection(),
+                        child: _PopIn(
+                          index: 1,
+                          child: _SpecialTile(
+                            emoji: '🌀',
+                            label: l10n.mixAll,
+                            gradient: AppColors.coolGradient,
+                            onTap: () => startRound(
+                              context,
+                              ref,
+                              const MixAllSelection(),
+                            ),
                           ),
                         ),
                       ),
@@ -125,14 +143,17 @@ class CategoriesScreen extends ConsumerWidget {
                           childAspectRatio: 1.25,
                         ),
                         itemCount: list.length,
-                        itemBuilder: (context, i) => _CategoryTile(
-                          category: list[i],
-                          languageCode: Localizations.localeOf(context)
-                              .languageCode,
-                          onTap: () => startRound(
-                            context,
-                            ref,
-                            CategorySelection(list[i]),
+                        itemBuilder: (context, i) => _PopIn(
+                          index: i + 2,
+                          child: _CategoryTile(
+                            category: list[i],
+                            languageCode: Localizations.localeOf(context)
+                                .languageCode,
+                            onTap: () => startRound(
+                              context,
+                              ref,
+                              CategorySelection(list[i]),
+                            ),
                           ),
                         ),
                       ),
@@ -141,6 +162,66 @@ class CategoriesScreen extends ConsumerWidget {
           ],
         ),
       ),
+    );
+  }
+}
+
+/// Fades and scales its child in, [index] steps after the screen appears, so
+/// the tiles pop in one after another.
+class _PopIn extends StatefulWidget {
+  const _PopIn({required this.index, required this.child});
+
+  final int index;
+  final Widget child;
+
+  @override
+  State<_PopIn> createState() => _PopInState();
+}
+
+class _PopInState extends State<_PopIn> with SingleTickerProviderStateMixin {
+  late final AnimationController _controller = AnimationController(
+    vsync: this,
+    duration: const Duration(milliseconds: 420),
+  );
+  Timer? _delay;
+
+  @override
+  void didChangeDependencies() {
+    super.didChangeDependencies();
+    if (_controller.isAnimating || _controller.isCompleted || _delay != null) {
+      return;
+    }
+    if (MediaQuery.disableAnimationsOf(context)) {
+      _controller.value = 1;
+      return;
+    }
+    _delay = Timer(
+      Duration(milliseconds: 45 * math.min(widget.index, 10)),
+      () {
+        if (mounted) _controller.forward();
+      },
+    );
+  }
+
+  @override
+  void dispose() {
+    _delay?.cancel();
+    _controller.dispose();
+    super.dispose();
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return AnimatedBuilder(
+      animation: _controller,
+      child: widget.child,
+      builder: (context, child) {
+        final t = Curves.easeOutBack.transform(_controller.value);
+        return Opacity(
+          opacity: _controller.value.clamp(0.0, 1.0),
+          child: Transform.scale(scale: 0.85 + 0.15 * t, child: child),
+        );
+      },
     );
   }
 }

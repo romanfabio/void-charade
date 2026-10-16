@@ -1,3 +1,5 @@
+import 'dart:math' as math;
+
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
@@ -8,20 +10,64 @@ import '../../core/theme/app_colors.dart';
 import '../../core/theme/app_theme.dart';
 import '../../l10n/app_localizations.dart';
 import '../game/round_launcher.dart';
+import 'confetti.dart';
 import 'round_result.dart';
 
-class ResultsScreen extends ConsumerWidget {
+/// Score needed for the confetti.
+const confettiScore = 10;
+
+class ResultsScreen extends ConsumerStatefulWidget {
   const ResultsScreen({super.key, required this.args});
 
   final ResultsArgs args;
 
   @override
-  Widget build(BuildContext context, WidgetRef ref) {
+  ConsumerState<ResultsScreen> createState() => _ResultsScreenState();
+}
+
+class _ResultsScreenState extends ConsumerState<ResultsScreen>
+    with SingleTickerProviderStateMixin {
+  late final AnimationController _intro = AnimationController(
+    vsync: this,
+    duration: const Duration(milliseconds: 1700),
+  );
+
+  bool _started = false;
+
+  @override
+  void didChangeDependencies() {
+    super.didChangeDependencies();
+    // Respect the system "remove animations" setting: show the final state.
+    if (!_started) {
+      _started = true;
+      if (MediaQuery.disableAnimationsOf(context)) {
+        _intro.value = 1;
+      } else {
+        _intro.forward();
+      }
+    }
+  }
+
+  @override
+  void dispose() {
+    _intro.dispose();
+    super.dispose();
+  }
+
+  /// Progress (0..1) of the part of the intro between [start] and [end].
+  double _phase(double start, double end, [Curve curve = Curves.easeOutCubic]) =>
+      curve.transform(Interval(start, end).transform(_intro.value));
+
+  @override
+  Widget build(BuildContext context) {
     final l10n = AppLocalizations.of(context);
+    final args = widget.args;
     final result = args.result;
     final languageCode = Localizations.localeOf(context).languageCode;
     final title = args.category?.nameFor(languageCode) ?? l10n.mixAll;
     final emoji = args.category?.emoji ?? '🌀';
+    final celebrate = result.score >= confettiScore &&
+        !MediaQuery.disableAnimationsOf(context);
 
     return PopScope(
       canPop: false,
@@ -29,116 +75,172 @@ class ResultsScreen extends ConsumerWidget {
         if (!didPop) context.go(AppRoutes.home);
       },
       child: Scaffold(
-        body: SafeArea(
-          child: Column(
-            children: [
-              Padding(
-                padding: const EdgeInsets.fromLTRB(20, 20, 20, 0),
-                child: Column(
+        body: Stack(
+          children: [
+            SafeArea(
+              child: AnimatedBuilder(
+                animation: _intro,
+                builder: (context, _) => Column(
                   children: [
-                    Text(
-                      '$emoji  $title',
-                      style: Theme.of(context).textTheme.titleLarge,
-                    ),
-                    const SizedBox(height: 4),
-                    Text(
-                      l10n.resultsTitle,
-                      style: Theme.of(context)
-                          .textTheme
-                          .bodyMedium
-                          ?.copyWith(color: AppColors.onSurfaceMuted),
+                    Padding(
+                      padding: const EdgeInsets.fromLTRB(20, 20, 20, 0),
+                      child: Column(
+                        children: [
+                          Opacity(
+                            opacity: _phase(0, 0.2),
+                            child: Text(
+                              '$emoji  $title',
+                              style: Theme.of(context).textTheme.titleLarge,
+                            ),
+                          ),
+                          const SizedBox(height: 4),
+                          Opacity(
+                            opacity: _phase(0, 0.2),
+                            child: Text(
+                              l10n.resultsTitle,
+                              style: Theme.of(context)
+                                  .textTheme
+                                  .bodyMedium
+                                  ?.copyWith(color: AppColors.onSurfaceMuted),
+                            ),
+                          ),
+                          const SizedBox(height: 12),
+                          _buildScore(l10n, result.score),
+                          const SizedBox(height: 16),
+                          Opacity(
+                            opacity: _phase(0.45, 0.7),
+                            child: Wrap(
+                              spacing: 8,
+                              runSpacing: 8,
+                              alignment: WrapAlignment.center,
+                              children: [
+                                _CountChip(
+                                  icon: Icons.check_circle_rounded,
+                                  color: AppColors.success,
+                                  label:
+                                      '${l10n.resultsGuessed} ${result.guessed}',
+                                ),
+                                _CountChip(
+                                  icon: Icons.skip_next_rounded,
+                                  color: AppColors.skip,
+                                  label:
+                                      '${l10n.resultsSkipped} ${result.skipped}',
+                                ),
+                                if (result.notPlayed > 0)
+                                  _CountChip(
+                                    icon: Icons.pause_circle_rounded,
+                                    color: AppColors.onSurfaceMuted,
+                                    label:
+                                        '${l10n.resultsNotPlayed} ${result.notPlayed}',
+                                  ),
+                              ],
+                            ),
+                          ),
+                        ],
+                      ),
                     ),
                     const SizedBox(height: 12),
-                    ShaderMask(
-                      shaderCallback: (bounds) =>
-                          AppColors.partyGradient.createShader(bounds),
-                      child: Text(
-                        '${result.score}',
-                        style: const TextStyle(
-                          fontFamily: AppFonts.display,
-                          fontSize: 120,
-                          height: 1,
-                          color: Colors.white,
-                        ),
+                    Expanded(
+                      child: ListView.separated(
+                        padding: const EdgeInsets.symmetric(horizontal: 20),
+                        itemCount: result.words.length,
+                        separatorBuilder: (_, _) => const Divider(height: 1),
+                        itemBuilder: (context, i) => _buildRow(i, l10n),
                       ),
                     ),
-                    Text(
-                      l10n.resultsScore(result.score),
-                      style: Theme.of(context).textTheme.titleMedium,
-                    ),
-                    const SizedBox(height: 16),
-                    Wrap(
-                      spacing: 8,
-                      runSpacing: 8,
-                      alignment: WrapAlignment.center,
-                      children: [
-                        _CountChip(
-                          icon: Icons.check_circle_rounded,
-                          color: AppColors.success,
-                          label: '${l10n.resultsGuessed} ${result.guessed}',
+                    Opacity(
+                      opacity: _phase(0.6, 0.85),
+                      child: Padding(
+                        padding: const EdgeInsets.all(20),
+                        child: Row(
+                          children: [
+                            Expanded(
+                              child: OutlinedButton(
+                                style: OutlinedButton.styleFrom(
+                                  minimumSize: const Size.fromHeight(56),
+                                ),
+                                onPressed: () => context.go(AppRoutes.home),
+                                child: Text(l10n.backToCategories),
+                              ),
+                            ),
+                            const SizedBox(width: 12),
+                            Expanded(
+                              child: FilledButton(
+                                style: FilledButton.styleFrom(
+                                  minimumSize: const Size.fromHeight(56),
+                                  backgroundColor: AppColors.magenta,
+                                ),
+                                onPressed: () => startRound(
+                                  context,
+                                  ref,
+                                  args.selection,
+                                  replace: true,
+                                ),
+                                child: Text(l10n.playAgain),
+                              ),
+                            ),
+                          ],
                         ),
-                        _CountChip(
-                          icon: Icons.skip_next_rounded,
-                          color: AppColors.skip,
-                          label: '${l10n.resultsSkipped} ${result.skipped}',
-                        ),
-                        if (result.notPlayed > 0)
-                          _CountChip(
-                            icon: Icons.pause_circle_rounded,
-                            color: AppColors.onSurfaceMuted,
-                            label:
-                                '${l10n.resultsNotPlayed} ${result.notPlayed}',
-                          ),
-                      ],
-                    ),
-                  ],
-                ),
-              ),
-              const SizedBox(height: 12),
-              Expanded(
-                child: ListView.separated(
-                  padding: const EdgeInsets.symmetric(horizontal: 20),
-                  itemCount: result.words.length,
-                  separatorBuilder: (_, _) => const Divider(height: 1),
-                  itemBuilder: (context, i) =>
-                      _WordRow(word: result.words[i], l10n: l10n),
-                ),
-              ),
-              Padding(
-                padding: const EdgeInsets.all(20),
-                child: Row(
-                  children: [
-                    Expanded(
-                      child: OutlinedButton(
-                        style: OutlinedButton.styleFrom(
-                          minimumSize: const Size.fromHeight(56),
-                        ),
-                        onPressed: () => context.go(AppRoutes.home),
-                        child: Text(l10n.backToCategories),
-                      ),
-                    ),
-                    const SizedBox(width: 12),
-                    Expanded(
-                      child: FilledButton(
-                        style: FilledButton.styleFrom(
-                          minimumSize: const Size.fromHeight(56),
-                          backgroundColor: AppColors.magenta,
-                        ),
-                        onPressed: () => startRound(
-                          context,
-                          ref,
-                          args.selection,
-                          replace: true,
-                        ),
-                        child: Text(l10n.playAgain),
                       ),
                     ),
                   ],
                 ),
               ),
-            ],
+            ),
+            if (celebrate) const Positioned.fill(child: ConfettiBurst()),
+          ],
+        ),
+      ),
+    );
+  }
+
+  /// The big number counts up from 0 and pops in; the label below is final
+  /// straight away so screen readers and tests see the real score.
+  Widget _buildScore(AppLocalizations l10n, int score) {
+    final counted = (score * _phase(0.05, 0.6)).round();
+    final pop = Curves.elasticOut
+        .transform(const Interval(0, 0.5).transform(_intro.value));
+
+    return Column(
+      children: [
+        Semantics(
+          label: l10n.resultsScore(score),
+          excludeSemantics: true,
+          child: Transform.scale(
+            scale: 0.5 + 0.5 * pop,
+            child: ShaderMask(
+              shaderCallback: (bounds) =>
+                  AppColors.partyGradient.createShader(bounds),
+              child: Text(
+                '$counted',
+                style: const TextStyle(
+                  fontFamily: AppFonts.display,
+                  fontSize: 120,
+                  height: 1,
+                  color: Colors.white,
+                ),
+              ),
+            ),
           ),
         ),
+        Text(
+          l10n.resultsScore(score),
+          style: Theme.of(context).textTheme.titleMedium,
+        ),
+      ],
+    );
+  }
+
+  Widget _buildRow(int index, AppLocalizations l10n) {
+    // Rows slide in one after another; past the first screenful they all share
+    // the same timing so a long list is not slow to appear.
+    final start = 0.3 + math.min(index, 12) * 0.035;
+    final t = _phase(start, math.min(1, start + 0.25));
+    return Opacity(
+      opacity: t,
+      child: Transform.translate(
+        offset: Offset(0, 18 * (1 - t)),
+        child: _WordRow(word: widget.args.result.words[index], l10n: l10n),
       ),
     );
   }

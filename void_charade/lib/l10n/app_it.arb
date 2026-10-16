@@ -18,6 +18,8 @@
   "languageSameAsApp": "Auto",
   "languageItalian": "Italiano",
   "languageEnglish": "English",
+  "languageNameItalian": "italiano",
+  "languageNameEnglish": "inglese",
   "roundDuration": "Durata del round",
   "countdownDuration": "Conto alla rovescia",
   "secondsValue": "{seconds} s",
@@ -46,6 +48,7 @@
   "resultsGuessed": "Indovinate",
   "resultsSkipped": "Saltate",
   "resultsNotPlayed": "Non giocata",
+  "aboutLegalese": "Font: Lilita One e Nunito (SIL Open Font License 1.1). Gli effetti sonori sono stati generati per questa app. Funziona completamente offline: niente pubblicità, niente tracciamento.",
   "playAgain": "Gioca ancora",
   "backToCategories": "Categorie"
 }

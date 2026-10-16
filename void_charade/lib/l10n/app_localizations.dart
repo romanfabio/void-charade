@@ -206,6 +206,18 @@ abstract class AppLocalizations {
   /// **'English'**
   String get languageEnglish;
 
+  /// No description provided for @languageNameItalian.
+  ///
+  /// In en, this message translates to:
+  /// **'Italian'**
+  String get languageNameItalian;
+
+  /// No description provided for @languageNameEnglish.
+  ///
+  /// In en, this message translates to:
+  /// **'English'**
+  String get languageNameEnglish;
+
   /// No description provided for @roundDuration.
   ///
   /// In en, this message translates to:
@@ -373,6 +385,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Not played'**
   String get resultsNotPlayed;
+
+  /// No description provided for @aboutLegalese.
+  ///
+  /// In en, this message translates to:
+  /// **'Fonts: Lilita One and Nunito (SIL Open Font License 1.1). Sound effects were generated for this app. Works fully offline: no ads, no tracking.'**
+  String get aboutLegalese;
 
   /// No description provided for @playAgain.
   ///

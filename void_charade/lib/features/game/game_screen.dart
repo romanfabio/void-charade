@@ -177,7 +177,7 @@ class _PhaseView extends StatelessWidget {
               textAlign: TextAlign.center,
               style: _bigStyle(36),
             ),
-            Text('${state.countdownValue}', style: _bigStyle(180)),
+            _CountdownNumber(value: state.countdownValue),
           ],
         );
       case GamePhase.waitingUpright:
@@ -230,6 +230,31 @@ class _PhaseView extends StatelessWidget {
           ],
         );
     }
+  }
+}
+
+/// A countdown digit that zooms in and fades in each time the value changes.
+class _CountdownNumber extends StatelessWidget {
+  const _CountdownNumber({required this.value});
+
+  final int value;
+
+  @override
+  Widget build(BuildContext context) {
+    final animate = !MediaQuery.disableAnimationsOf(context);
+    return TweenAnimationBuilder<double>(
+      key: ValueKey(value),
+      tween: Tween(begin: animate ? 0 : 1, end: 1),
+      duration: const Duration(milliseconds: 450),
+      curve: Curves.easeOutBack,
+      builder: (context, t, _) => Opacity(
+        opacity: (t * 2).clamp(0.0, 1.0),
+        child: Transform.scale(
+          scale: 1.6 - 0.6 * t,
+          child: Text('$value', style: _bigStyle(180)),
+        ),
+      ),
+    );
   }
 }
 

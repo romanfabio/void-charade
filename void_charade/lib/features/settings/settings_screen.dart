@@ -146,8 +146,27 @@ class SettingsScreen extends ConsumerWidget {
               title: l10n.settingsAboutSection,
               children: [
                 ListTile(
+                  leading: Image.asset(
+                    'assets/branding/logo.png',
+                    width: 40,
+                    height: 40,
+                    errorBuilder: (_, _, _) => const SizedBox(width: 40),
+                  ),
                   title: Text(l10n.appTitle),
                   subtitle: Text(l10n.version(_appVersion)),
+                  trailing: const Icon(Icons.chevron_right_rounded),
+                  onTap: () => showAboutDialog(
+                    context: context,
+                    applicationName: l10n.appTitle,
+                    applicationVersion: _appVersion,
+                    applicationIcon: Image.asset(
+                      'assets/branding/logo.png',
+                      width: 48,
+                      height: 48,
+                      errorBuilder: (_, _, _) => const SizedBox(width: 48),
+                    ),
+                    applicationLegalese: l10n.aboutLegalese,
+                  ),
                 ),
               ],
             ),
