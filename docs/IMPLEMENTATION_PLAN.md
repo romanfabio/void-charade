@@ -1,6 +1,6 @@
 # Void Charade — Implementation Plan
 
-A cross-platform (Android + iOS), fully offline "heads-up" charade game built with Flutter.
+A cross-platform (Android + iOS), fully offline forehead charades game built with Flutter.
 
 ---
 
@@ -24,7 +24,7 @@ A cross-platform (Android + iOS), fully offline "heads-up" charade game built wi
 | 14 | Custom categories | Not in v1. |
 | 15 | Timer / countdown | Timer 30–180 s, step 15, default 60. Countdown 3–10 s, default 5. |
 | 16 | Feedback | Sounds, vibration, final-seconds ticking — each with its own toggle. |
-| 17 | Sounds | Free CC0 sound effects. |
+| 17 | Sounds | Generated for the app (synthesised by `tool/generate_sounds.dart`), no third-party samples. |
 | 18 | Default UI language | Device locale if Italian, otherwise English. |
 | 19 | Look & name | Bold, colourful party style. Name: **Void Charade**. |
 | 20 | Distribution | Personal install only (no store release for now). |
@@ -384,7 +384,7 @@ The code is iOS-ready from day one (orientations, audio session, Info.plist). On
 | **M1** | Scaffold & foundations | `flutter create`, packages, lints, folder structure, theme, fonts, router, l10n wiring, settings model + repository + screen | App launches, settings persist, language switches live |
 | **M2** | Content format & loader | `categories.json` (all 50 entries), validator script + test, `CategoryRepository` / `WordRepository`, **3 sample categories** fully written (IT + EN), categories screen with Random / Mix all / 18+ | Validator passes, the categories grid shows and loads words |
 | **M3** | Game core | `TiltDetector`, `GameController` (state machine, Stopwatch timer, scoring), game screen (countdown, waitingUpright, word, feedback, time-up), landscape + immersive + wakelock, quit dialog, background freeze, debug tap controls + angle overlay. **Done in M3, beyond the original scope:** a functional results screen (score, counts, word list, play again) so a round has an ending, and a `GameEngine` split out of the controller so every timing rule is unit-tested | A full round is playable on the phone with tilts; unit tests are green |
-| **M4** | Sounds & haptics | Sound files (CC0), `SoundService` with pools, `HapticsService`, ticking, all toggles wired | Feedback is instant and every toggle works |
+| **M4** | Sounds & haptics | Synthesised sound files, `SoundService` with pools, `HapticsService`, ticking, all toggles wired | Feedback is instant and every toggle works |
 | **M5** | Results (polish) | The functional screen already exists from M3; add the count-up score animation, confetti for 10+, entry animations | The results screen feels like a finished party app |
 | **M6** | Branding & polish | Logo, app icon, native splash, animations, confetti, credits in About. **Done:** logo/icon/splash are drawn by `tool/generate_branding_test.dart` (run with `flutter test tool/generate_branding_test.dart`, then `dart run flutter_launcher_icons` and `dart run flutter_native_splash:create`); tiles pop in, countdown digits zoom, About shows the credits and the font licences; animations respect the system "remove animations" setting | Looks like a finished party app |
 | **M7** | Content generation | Remaining 47 categories × 2 languages, written in batches of ~5 categories. Validator run after each batch, spot-check files for you | All 100 files pass the validator, and you've spot-checked them. **Status: all 100 files written and pass `--strict` (317-558 entries each, ~0.75 MB total); awaiting your spot-check (`build/spot_check_*.md`).** |
@@ -407,4 +407,4 @@ The code is iOS-ready from day one (orientations, audio session, Info.plist). On
 | iOS signing without a Mac | Decide between the options in §11; Android is fully usable meanwhile |
 
 ## 15. Out of scope for v1 (possible v2)
-Teams & multi-round scoreboard · custom categories / user words · difficulty levels · manual result correction · more languages · store release (privacy policy, store listings) · video recording of the player (a Heads Up classic).
+Teams & multi-round scoreboard · custom categories / user words · difficulty levels · manual result correction · more languages · store release (privacy policy, store listings) · video recording of the player.
