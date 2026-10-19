@@ -1,4 +1,4 @@
-package com.voidcharade.void_charade
+package io.github.romanfabio.voidcharade
 
 import io.flutter.embedding.android.FlutterActivity
 

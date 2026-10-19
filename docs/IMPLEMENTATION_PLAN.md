@@ -139,7 +139,7 @@ charade/                         ← repo root (git init in M0)
       └─ widgets/ results_screen_test.dart, quit_dialog_test.dart, settings_screen_test.dart
 ```
 
-Bundle / application id: `com.voidcharade.app` (placeholder; change before any store release).
+Bundle / application id: `io.github.romanfabio.voidcharade` (reverse-DNS of the author's GitHub namespace; forks should pick their own).
 
 ---
 

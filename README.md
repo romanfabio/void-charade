@@ -240,8 +240,8 @@ The iOS project is generated (icons and splash configured, deployment target iOS
 nothing has been built for iPhone yet. Building needs a Mac with Xcode, or a cloud macOS
 build service. Options for personal use: a free Apple ID (apps expire after 7 days), or a
 paid Apple Developer account (TestFlight / ad-hoc, longer validity). Set your own bundle
-identifier and signing team in Xcode before building; the placeholder is
-`com.voidcharade.voidCharade`.
+identifier and signing team in Xcode before building; the project ships with
+`io.github.romanfabio.voidcharade`, which is only valid for the original author's team.
 
 ## Privacy
 
