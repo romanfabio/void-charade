@@ -1,8 +1,7 @@
 import 'dart:math' as math;
 
 /// One accelerometer reading in m/s², gravity included. Phone flat with the
-/// screen up reads roughly (0, 0, +9.8) on both Android and iOS (sensors_plus
-/// normalises iOS to the Android convention).
+/// screen up reads roughly (0, 0, +9.8) (the Android convention).
 class TiltSample {
   const TiltSample(this.x, this.y, this.z);
   final double x;

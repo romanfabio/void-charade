@@ -47,12 +47,6 @@ class AudioPlayersSoundPlayer implements SoundPlayer {
             // Do not interrupt (or get interrupted by) the user's music app.
             audioFocus: AndroidAudioFocus.none,
           ),
-          // "playback" keeps playing with the iPhone silent switch on, and
-          // mixWithOthers leaves the user's music running.
-          iOS: AudioContextIOS(
-            category: AVAudioSessionCategory.playback,
-            options: const {AVAudioSessionOptions.mixWithOthers},
-          ),
         ),
       );
       for (final effect in SoundEffect.values) {

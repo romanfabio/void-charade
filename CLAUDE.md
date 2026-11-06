@@ -4,7 +4,7 @@ Guidance for Claude Code (and humans) working in this repository.
 
 ## What this is
 
-Void Charade: an offline forehead-charades party game (Android + iPhone) in Flutter.
+Void Charade: an offline forehead-charades party game (Android) in Flutter.
 The app lives in `void_charade/`; run every Flutter/Dart command from that folder.
 Design decisions are in `docs/IMPLEMENTATION_PLAN.md`; user-facing docs in `README.md`.
 
@@ -83,8 +83,8 @@ pitch overlay and a bug button that fakes the sensor (tap left = skip, right = c
   keystore outside the repo. Never commit keystores, passwords or `key.properties`.
   Without it, release builds fall back to the debug key; a debug-signed app must be
   uninstalled before installing a release-signed one.
-- Sensors: `sensors_plus` reports the Android convention on both platforms (flat, screen up
-  = z +9.8). Pitch is positive when the screen faces the ceiling.
+- Sensors: `sensors_plus` gives the Android convention (flat, screen up = z +9.8). Pitch
+  is positive when the screen faces the ceiling.
 - Generated: `lib/l10n/app_localizations*.dart` (committed), launcher icons and splash
   resources (`dart run flutter_launcher_icons`, `dart run flutter_native_splash:create`),
   `assets/sounds` and `assets/branding` (scripts in `tool/`). Regenerate with the scripts,

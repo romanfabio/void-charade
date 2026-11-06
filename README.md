@@ -1,6 +1,6 @@
 # Void Charade
 
-An offline charades party game for Android and iPhone, built with Flutter.
+An offline charades party game for Android, built with Flutter.
 
 One player holds the phone against their forehead (landscape) so the group can see
 the word. The group acts it out; the player guesses. Tilt the screen **down** when
@@ -31,15 +31,14 @@ You can read the code, build it yourself, change it and share it.
 - "Random category" and "Mix all" modes, words never repeat within a round
 - Dark, colourful party look with animations and confetti
 
-> Status: v1.0.0. Single-round mode (no teams or scoreboard yet). Android builds are
-> tested on a real phone. The iOS project is set up but has not been built yet.
+> Status: v1.0.0. Single-round mode (no teams or scoreboard yet). Tested on a real
+> Android phone.
 
 ## Compatibility
 
-| Platform | Supported versions |
-| --- | --- |
-| Android | **Android 7.0 (API 24) and newer**, up to Android 16 (API 36, the target version). Builds include ARM (64 and 32-bit) and x86-64. Tested on a real phone only. Needs an accelerometer for tilt play; without one, use *Touch controls*. |
-| iOS | iOS 15 or newer is configured, but the iOS app has **not been built or tested yet**. |
+**Android 7.0 (API 24) and newer**, up to Android 16 (API 36, the target version).
+Builds include ARM (64 and 32-bit) and x86-64. Tested on a real phone only. Tilt play
+needs an accelerometer; without one, use *Touch controls*.
 
 The app is locked to portrait on the menus and switches to landscape during a round.
 The only permission it asks for on Android is `VIBRATE`.
@@ -90,7 +89,7 @@ The English and Italian lists are written separately for each culture, not trans
 ## Getting started (development)
 
 Requirements: Flutter 3.47 (Dart 3.13), Android Studio with the Android SDK and
-command-line tools, and a phone with USB debugging. iOS builds need a Mac (see below).
+command-line tools, and a phone with USB debugging.
 
 ```bash
 git clone <this repository>
@@ -193,12 +192,10 @@ To add a language, see `contentLanguages` in `tool/content_validator.dart`,
 | --- | --- |
 | Sound effects (`assets/sounds/*.wav`) | `dart run tool/generate_sounds.dart` |
 | Logo, icon, splash images (`assets/branding/`) | `flutter test tool/generate_branding_test.dart` |
-| Android and iOS launcher icons | `dart run flutter_launcher_icons` |
+| Android launcher icons | `dart run flutter_launcher_icons` |
 | Native splash screens | `dart run flutter_native_splash:create` |
 
 ## Building a release
-
-### Android
 
 1. Release signing uses `void_charade/android/key.properties`, which is git-ignored and
    points to a keystore kept outside the repository:
@@ -233,15 +230,6 @@ To add a language, see `contentLanguages` in `tool/content_validator.dart`,
    Raise `version:` in `pubspec.yaml` (for example `1.0.1+2`) for every new release; the
    number after `+` must increase for Android to accept an update. An APK signed with a
    different key can only be installed after uninstalling the old one.
-
-### iOS
-
-The iOS project is generated (icons and splash configured, deployment target iOS 15) but
-nothing has been built for iPhone yet. Building needs a Mac with Xcode, or a cloud macOS
-build service. Options for personal use: a free Apple ID (apps expire after 7 days), or a
-paid Apple Developer account (TestFlight / ad-hoc, longer validity). Set your own bundle
-identifier and signing team in Xcode before building; the project ships with
-`io.github.romanfabio.voidcharade`, which is only valid for the original author's team.
 
 ## Privacy
 

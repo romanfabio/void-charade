@@ -45,13 +45,12 @@ Direct dependencies:
 | wakelock_plus | BSD-3-Clause |
 | audioplayers | MIT |
 | vibration | BSD-2-Clause |
-| cupertino_icons | MIT |
 | *dev:* flutter_test, flutter_lints, mocktail, flutter_launcher_icons, flutter_native_splash | BSD-3-Clause / MIT |
 
-Transitive packages (checked against `pubspec.lock`, 112 packages in total): 76
-BSD-3-Clause, 24 MIT, 6 Apache-2.0, 2 BSD-2-Clause, 3 Flutter SDK packages
+Transitive packages (checked against `pubspec.lock`, 111 packages in total): 76
+BSD-3-Clause, 23 MIT, 6 Apache-2.0, 2 BSD-2-Clause, 3 Flutter SDK packages
 (BSD-3-Clause) and 1 MPL-2.0 (`dbus`, only used by Linux desktop builds, never
-shipped in the Android or iOS app). No GPL/AGPL/LGPL or non-commercial licences are
+shipped in the Android app). No GPL/AGPL/LGPL or non-commercial licences are
 involved.
 
 ## Flutter engine and platform libraries

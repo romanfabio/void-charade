@@ -38,7 +38,6 @@ void main() {
       'android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png',
       'android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml',
       'android/app/src/main/res/values-v31/styles.xml',
-      'ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json',
     ]) {
       expect(File(path).existsSync(), isTrue, reason: '$path is missing');
     }

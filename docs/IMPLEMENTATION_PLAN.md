@@ -1,6 +1,6 @@
 # Void Charade — Implementation Plan
 
-A cross-platform (Android + iOS), fully offline forehead charades game built with Flutter.
+A fully offline forehead charades game for Android, built with Flutter.
 
 ---
 
@@ -37,7 +37,7 @@ A cross-platform (Android + iOS), fully offline forehead charades game built wit
 - **18+ categories** are visible by default with an "18+" badge. A settings toggle hides them, and "Random" and "Mix all" respect that toggle.
 - **The next word appears only after the phone returns upright.** After a tilt, a full-screen green/orange flash shows for at least 0.6 s. This prevents double triggers.
 - **Debug-only tap controls** (tap left = skip, tap right = correct) and an angle overlay, to test on an emulator. They are not in release builds.
-- **Android first.** iOS install path is in §11.
+- **Android only.**
 
 ---
 
@@ -48,13 +48,13 @@ A cross-platform (Android + iOS), fully offline forehead charades game built wit
 | Framework | **Flutter (latest stable)**, Dart 3 | One codebase, great for full-screen animated UIs. |
 | State management | `flutter_riverpod` | Testable controllers, no boilerplate explosion. |
 | Navigation | `go_router` | Declarative routes, easy redirect/back handling. |
-| Tilt detection | `sensors_plus` (accelerometer) | Standard, same axis convention on Android & iOS. |
-| Sound | `audioplayers` (pre-loaded `AudioPool`) | Low-latency short effects, mature on both platforms. |
+| Tilt detection | `sensors_plus` (accelerometer) | Standard accelerometer access. |
+| Sound | `audioplayers` (pre-loaded `AudioPool`) | Low-latency short effects, mature. |
 | Vibration | `vibration` | Strong, duration-controlled buzz (built-in haptics are too weak on a forehead). |
 | Keep screen on | `wakelock_plus` | Screen must not sleep during a round. |
 | Settings storage | `shared_preferences` | A handful of key/values. |
 | Localization | `flutter_localizations` + `intl` + **gen-l10n** (ARB files) | Official, compile-time-checked strings. |
-| Splash | `flutter_native_splash` | Native splash on both platforms incl. Android 12+ splash API. |
+| Splash | `flutter_native_splash` | Native splash incl. the Android 12+ splash API. |
 | App icon | `flutter_launcher_icons` | Generates all icon sizes from one PNG. |
 | Word fitting | `auto_size_text` | Long words/phrases shrink to fit the landscape screen. |
 | Tests | `flutter_test`, `mocktail` | Unit + widget tests. |
@@ -63,10 +63,10 @@ Exact versions are pinned to the latest stable at implementation time.
 
 **Fonts** are bundled as assets, never downloaded at runtime: *Lilita One* for titles and the word on screen, *Nunito* for body text. Both are SIL Open Font License.
 
-**Minimum OS**: Android 6.0 (API 23), iOS 13.
+**Minimum OS**: Android 7.0 (API 24).
 
 ### Content storage: plain text, no compression
-- About 50 categories × 2 languages × about 350 words ≈ 35k entries ≈ **400–500 KB** of text. APK and IPA files are already zip-compressed, so extra compression saves almost nothing and makes the lists harder to review.
+- About 50 categories × 2 languages × about 350 words ≈ 35k entries ≈ **400–500 KB** of text. APK files are already zip-compressed, so extra compression saves almost nothing and makes the lists harder to review.
 - **One UTF-8 `.txt` file per category per language, one word per line.** This is the easiest format to generate, diff, review and spot-check. The app loads it directly with `rootBundle.loadString`, so there's no build/convert step.
 - Category metadata (id, names in both languages, emoji, colour, 18+ flag) lives in one `assets/categories.json`.
 - Word files are loaded **lazily** when a category is chosen. "Mix all" loads all visible categories of the word language, which takes a few ms.
@@ -202,7 +202,7 @@ countdown ──► waitingUpright ──► showingWord ◄──► feedback �
 At round start, `WordRepository` returns the list for (category, word language). For "Mix all", it merges all visible categories and de-duplicates. The list is **shuffled once** with `Random()` and consumed in order. This guarantees randomness and **no repeats within a round**. "Random category" picks a random visible category first, then does the same.
 
 ### 5.3 Tilt detection (`TiltDetector`)
-- Source: `accelerometerEventStream(samplingPeriod: SensorInterval.gameInterval)` (~50 Hz, gravity included). With `sensors_plus`, a phone lying flat with the screen up reads z ≈ +9.8 on both platforms.
+- Source: `accelerometerEventStream(samplingPeriod: SensorInterval.gameInterval)` (~50 Hz, gravity included). With `sensors_plus`, a phone lying flat with the screen up reads z ≈ +9.8.
 - **Low-pass filter** each axis (α ≈ 0.2) to remove jitter.
 - **Pitch angle** θ = atan2(z, √(x² + y²)) in degrees. θ ≈ 0° when the phone stands upright on the forehead (any landscape direction, because the x/y split doesn't matter).
   - θ > **+50°** → screen tilted toward the ceiling → **SKIP**
@@ -334,9 +334,8 @@ Run with `dart run tool/validate_words.dart` (add `--strict` to make missing wor
 
 ## 9. Sounds & haptics
 - **Sounds:** synthesised by `tool/generate_sounds.dart` (original, so no licence issue; nothing downloaded). To use other sounds, e.g. CC0 packs from Kenney.nl, drop WAV files with the same names into `assets/sounds/`. One low-latency `audioplayers` player per effect (not an `AudioPool`: its players never return to the pool in low-latency mode).
-- Files: `correct`, `skip`, `tick`, `countdown_beep`, `go`, `time_up`. They are short **WAV** files (lowest latency; OGG isn't supported on iOS).
+- Files: `correct`, `skip`, `tick`, `countdown_beep`, `go`, `time_up`. They are short **WAV** files (lowest latency).
 - All sounds are pre-loaded into `AudioPool`s at app start, so playback is instant.
-- iOS audio session uses category *playback* + *mixWithOthers*: sounds play **even when the silent switch is on** (a party game where players don't hear feedback is useless) and don't stop the user's music.
 - **Vibration**: correct = 1 short strong pulse (150 ms), skip = 2 short pulses, time-up = 1 long pulse (600 ms). Android needs the `VIBRATE` permission (added to the manifest).
 - `SoundService` and `HapticsService` read the settings toggles, so callers don't need to.
 
@@ -349,18 +348,11 @@ Run with `dart run tool/validate_words.dart` (add `--strict` to make missing wor
 
 ---
 
-## 11. Platforms, building & installing on your phones
+## 11. Building & installing on your phone
 
-**Android (primary, easy, works from Windows)**
 - Debug run: `flutter run` with the phone connected via USB (Developer options → USB debugging).
 - Personal install: `flutter build apk --release`. Sign it with a locally generated keystore (kept **outside** the repo, referenced via `key.properties`, git-ignored). Install the APK via USB (`flutter install`) or copy the file to the phone.
 
-**iOS — needs a decision when we get there.** iOS apps can only be *built and signed* on macOS. Options:
-1. **Borrow/use a Mac** with Xcode + a free Apple ID → `flutter run` installs on your iPhone. The app expires after **7 days** (re-install to refresh).
-2. **Codemagic** (cloud Mac, free tier) builds the IPA + **paid Apple Developer account** (€99/year) → install via TestFlight/ad-hoc. No expiry issues.
-3. Codemagic unsigned IPA + **Sideloadly** on Windows with a free Apple ID → works without a Mac, but re-sign every 7 days.
-
-The code is iOS-ready from day one (orientations, audio session, Info.plist). Only the build/sign step depends on the option you choose.
 
 ---
 
@@ -372,7 +364,7 @@ The code is iOS-ready from day one (orientations, audio session, Info.plist). On
 | Content | Validator as a test (all 100 files). |
 | L10n | ARB key parity. |
 | Widget | Results screen (counts, icons, negative score), quit confirmation dialog, settings screen interactions. |
-| Manual on device | Checklist: tilt feel in both landscape directions, sitting vs standing, sound latency, vibration strength, silent switch (iOS), screen never sleeps, back button = quit dialog, incoming call during a round, language switch, all settings applied. **Tune thresholds here.** |
+| Manual on device | Checklist: tilt feel in both landscape directions, sitting vs standing, sound latency, vibration strength, screen never sleeps, back button = quit dialog, incoming call during a round, language switch, all settings applied. **Tune thresholds here.** |
 
 ---
 
@@ -389,7 +381,6 @@ The code is iOS-ready from day one (orientations, audio session, Info.plist). On
 | **M6** | Branding & polish | Logo, app icon, native splash, animations, confetti, credits in About. **Done:** logo/icon/splash are drawn by `tool/generate_branding_test.dart` (run with `flutter test tool/generate_branding_test.dart`, then `dart run flutter_launcher_icons` and `dart run flutter_native_splash:create`); tiles pop in, countdown digits zoom, About shows the credits and the font licences; animations respect the system "remove animations" setting | Looks like a finished party app |
 | **M7** | Content generation | Remaining 47 categories × 2 languages, written in batches of ~5 categories. Validator run after each batch, spot-check files for you | All 100 files pass the validator, and you've spot-checked them. **Status: all 100 files written and pass `--strict` (317-558 entries each, ~0.75 MB total); awaiting your spot-check (`build/spot_check_*.md`).** |
 | **M8** | Device QA & release build | Manual checklist, threshold tuning, release-signed APK installed on your phones, README with build/install steps | You've played real rounds with friends 🎉 |
-| **M9** | iOS (when you choose an option in §11) | Signed build installed on your iPhone | Same checklist passes on iOS |
 
 **M7 can run in parallel with M3–M6** (a separate session): it only depends on the file format and validator from M2.
 
@@ -401,10 +392,8 @@ The code is iOS-ready from day one (orientations, audio session, Info.plist). On
 |---|---|
 | False/missed tilts (nodding, laughing, different head angles) | Low-pass filter, hysteresis + "must return upright", 600 ms lockout, thresholds tuned on a device with the debug overlay |
 | Sound latency on Android | Pre-loaded `AudioPool`, short WAV files |
-| No sound on iOS when muted | `playback` audio session category |
 | Content quality / cultural fit | Writing guidelines, validator, spot-check files, per-category minimum with merge/replace rule |
 | Emoji look different across platforms | Acceptable for v1; could be replaced with custom icons later |
-| iOS signing without a Mac | Decide between the options in §11; Android is fully usable meanwhile |
 
 ## 15. Out of scope for v1 (possible v2)
 Teams & multi-round scoreboard · custom categories / user words · difficulty levels · manual result correction · more languages · store release (privacy policy, store listings) · video recording of the player.
