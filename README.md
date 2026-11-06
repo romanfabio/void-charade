@@ -34,6 +34,22 @@ You can read the code, build it yourself, change it and share it.
 > Status: v1.0.0. Single-round mode (no teams or scoreboard yet). Tested on a real
 > Android phone.
 
+## Screenshots
+
+<p align="center">
+  <img src="docs/screenshots/home.png" width="230" alt="Home screen with the colourful category grid">
+  <img src="docs/screenshots/results.png" width="230" alt="Results screen with score and the guessed, skipped and not-played words">
+  <img src="docs/screenshots/settings.png" width="230" alt="Settings screen with touch controls, tilt sensitivity and sound options">
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/word.png" width="310" alt="A word on screen during a round, with the timer">
+  <img src="docs/screenshots/correct.png" width="310" alt="Green flash after a correct answer">
+  <img src="docs/screenshots/skip.png" width="310" alt="Orange flash after a skipped word">
+</p>
+
+<p align="center"><sub>Home, results and settings (top row); a word, a correct answer and a skip during a round (bottom row, with touch controls turned on).</sub></p>
+
 ## Compatibility
 
 **Android 7.0 (API 24) and newer**, up to Android 16 (API 36, the target version).
