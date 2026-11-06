@@ -76,6 +76,7 @@
   "resultsGuessed": "Guessed",
   "resultsSkipped": "Skipped",
   "resultsNotPlayed": "Not played",
+  "aboutSourceCode": "Free and open source (MIT licence). Source code:",
   "aboutLegalese": "Fonts: Lilita One and Nunito (SIL Open Font License 1.1). Sound effects were generated for this app. Works fully offline: no ads, no tracking.",
   "playAgain": "Play again",
   "backToCategories": "Categories"

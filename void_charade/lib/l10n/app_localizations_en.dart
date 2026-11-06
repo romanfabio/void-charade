@@ -190,6 +190,10 @@ class AppLocalizationsEn extends AppLocalizations {
   String get resultsNotPlayed => 'Not played';
 
   @override
+  String get aboutSourceCode =>
+      'Free and open source (MIT licence). Source code:';
+
+  @override
   String get aboutLegalese =>
       'Fonts: Lilita One and Nunito (SIL Open Font License 1.1). Sound effects were generated for this app. Works fully offline: no ads, no tracking.';
 

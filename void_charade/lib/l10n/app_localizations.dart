@@ -428,6 +428,12 @@ abstract class AppLocalizations {
   /// **'Not played'**
   String get resultsNotPlayed;
 
+  /// No description provided for @aboutSourceCode.
+  ///
+  /// In en, this message translates to:
+  /// **'Free and open source (MIT licence). Source code:'**
+  String get aboutSourceCode;
+
   /// No description provided for @aboutLegalese.
   ///
   /// In en, this message translates to:

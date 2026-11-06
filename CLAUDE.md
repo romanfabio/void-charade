@@ -90,5 +90,8 @@ pitch overlay and a bug button that fakes the sensor (tap left = skip, right = c
   `assets/sounds` and `assets/branding` (scripts in `tool/`). Regenerate with the scripts,
   do not hand-edit.
 - Licences: code and content are MIT; fonts stay OFL (`assets/fonts/OFL-*.txt` must remain
-  bundled and registered in `lib/main.dart`). Update `THIRD_PARTY_NOTICES.md` when adding
-  a dependency or asset.
+  bundled and registered in `lib/main.dart`). The app's own licence is bundled as
+  `void_charade/assets/LICENSE.txt` (a copy of the root `LICENSE`; a test fails if they
+  differ). Update `THIRD_PARTY_NOTICES.md` when adding a dependency or asset.
+- Version: `pubspec.yaml` `version:` and `_appVersion` in `settings_screen.dart` must match
+  (a test enforces it).

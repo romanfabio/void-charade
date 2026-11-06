@@ -272,8 +272,9 @@ real private individuals, and keep real public figures to well-known, non-defama
 
 - Code, tests, tools, word lists, generated sounds and images: [MIT](LICENSE).
 - Fonts: Lilita One and Nunito, SIL Open Font License 1.1 (kept under their own licence).
-- Flutter and pub packages: BSD / MIT / Apache-2.0 (licences shown in the app under
-  Settings > About > View licenses).
+- Flutter and pub packages: BSD / MIT / Apache-2.0.
+- All licences, including the app's own, are shown inside the app under
+  Settings > About > View licenses.
 
 Details and the origin of every asset are in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
 Word lists were written with the help of an AI assistant (Claude) and reviewed with a script.

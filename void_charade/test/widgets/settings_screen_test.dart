@@ -107,11 +107,16 @@ void main() {
 
   testWidgets('the about tile opens the credits', (tester) async {
     await _pump(tester);
-    await tester.tap(find.text('Version 1.0.0'));
+    await tester.tap(find.text('Version 1.0.1'));
     await tester.pumpAndSettle();
     expect(find.textContaining('SIL Open Font License'), findsOneWidget);
     expect(find.textContaining('no ads, no tracking'), findsOneWidget);
     expect(find.text('View licenses'), findsOneWidget);
+    expect(find.textContaining('MIT licence'), findsOneWidget);
+    expect(
+      find.text('https://github.com/romanfabio/void-charade'),
+      findsOneWidget,
+    );
   });
 
   testWidgets('touch controls are off by default and turn tilt swap off',

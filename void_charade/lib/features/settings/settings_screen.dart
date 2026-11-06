@@ -10,7 +10,8 @@ import '../../services/sound_service.dart';
 import 'settings.dart';
 import 'settings_controller.dart';
 
-const _appVersion = '1.0.0';
+const _appVersion = '1.0.1';
+const _sourceUrl = 'https://github.com/romanfabio/void-charade';
 
 class SettingsScreen extends ConsumerWidget {
   const SettingsScreen({super.key});
@@ -189,6 +190,11 @@ class SettingsScreen extends ConsumerWidget {
                       errorBuilder: (_, _, _) => const SizedBox(width: 48),
                     ),
                     applicationLegalese: l10n.aboutLegalese,
+                    children: [
+                      const SizedBox(height: 16),
+                      Text(l10n.aboutSourceCode),
+                      const SelectableText(_sourceUrl),
+                    ],
                   ),
                 ),
               ],

@@ -12,9 +12,14 @@ import 'core/system_ui.dart';
 import 'features/settings/settings_controller.dart';
 import 'services/sound_service.dart';
 
-/// Makes the bundled fonts' licences show up on the app's licences page.
-void _registerFontLicenses() {
+/// Makes the app's own licence and the bundled fonts' licences show up on the
+/// app's licences page (the packages' licences are added by Flutter itself).
+void _registerBundledLicenses() {
   LicenseRegistry.addLicense(() async* {
+    yield LicenseEntryWithLineBreaks(
+      ['Void Charade'],
+      await rootBundle.loadString('assets/LICENSE.txt'),
+    );
     yield LicenseEntryWithLineBreaks(
       ['Lilita One'],
       await rootBundle.loadString('assets/fonts/OFL-LilitaOne.txt'),
@@ -28,7 +33,7 @@ void _registerFontLicenses() {
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  _registerFontLicenses();
+  _registerBundledLicenses();
   await const AppSystemUi().applyMenuMode();
   final prefs = await SharedPreferences.getInstance();
 
